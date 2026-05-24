@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 2.27.0
+version: 2.28.0
 author: Hermes Agent
 license: MIT
 metadata:
@@ -5186,3 +5186,20 @@ Month 2-3：复制
 老法师买AI是"竞品用了，我不能落后"——80%购买力来自焦虑。卖安全不卖技术。4触发器：竞品用/员工倒逼/政策/标杆。4渠道：行业协会/微信群/咨询/同行。林总AI质检省370万、王总AI选品增800万、刘总AI设计520万。
 
 → 5案例+ROI：[references/industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)
+
+---
+
+## 三十五、信息差套利：AI 市场之间的结构性鸿沟
+
+> Run 10 研究新增。中国→东南亚 AI 产品出海、企业 AI 认知差套利、监管信息差、跨行业方法论复制——5 条已被验证的路径。完整内容见 references/ai-info-arbitrage-deep.md。
+
+**核心判断：** 信息差的本质是"发展阶段差"——在 A 市场过气的东西，在 B 市场可能价值连城。2025 最大机会：中国 AI 工具→东南亚（暴利期还剩 12-18 个月）、中国下沉市场 AI（还剩 24-36 个月）。
+
+→ 完整案例+决策树：[references/ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)
+
+### 验证清单
+
+- [ ] 记住了 5 条已被验证的信息差套利路径
+- [ ] 理解了信息差生命周期（暴利期→红海期→淘汰期）
+- [ ] 记住了 2025 年信息差地图（哪些还有机会）
+- [ ] 制定了 30 天找信息差行动计划
