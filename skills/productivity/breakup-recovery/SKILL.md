@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.3.0
+version: 4.4.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -36,7 +36,6 @@ The specific combinations that cut deepest:
 
 Each one lands differently. Each one has to be processed differently.
 
-### The Three Layers of the Comparison Spiral
 ### The Three Layers of the Comparison Spiral
 
 **Layer 1: The Raw Envy**
@@ -1043,120 +1042,22 @@ The cruelest battles after a breakup are not with your ex — they are with your
 
 ---
 
----
 
 ## Rebuilding Identity After a Breakup
 
 > *"You don't lose yourself in a relationship — you stop paying attention to yourself. Recovery is the practice of meeting yourself again."*
 
-When you're in a relationship, the "we" slowly starts to replace the "I." Your routines, decisions, social calendar, and future plans all get shaped around someone else. When the relationship ends, the "we" disappears — but the habits and shape it created remain. What you're left with is not a void — it's a self-shaped hole that needs to be refilled, but this time with you as the architect.
+When you're in a relationship, the "we" slowly starts to replace the "I." When it ends, you're left with a self-shaped hole — not a void, but an unbuilt architecture. Rebuild it deliberately.
 
-### Why Breakups Feel Like Losing Yourself
+**Three mechanisms of identity dissolution:** role fusion (partner becomes your identity anchor), shared self-concept (you internalize their view of you), and future collapse (the life you planned together is gone).
 
-The psychology of identity dissolution after a breakup operates through three mechanisms:
+**Phase 1: Excavation (Weeks 1–4)** — Retrieve the pre-relationship you. What did you stop doing? What opinions did you suppress? What values did you compromise? Write without judgment.
 
-**1. Role fusion.** When you were "someone's partner," that role became part of how you defined yourself. The role is gone; the identity habits it created remain. You may still instinctively think in couples terms — what to eat, how to spend weekends, how to plan — without a partner to plan with.
+**Phase 2: Disentangling (Weeks 4–12)** — Notice where your ex's preferences, language, and social habits entered your life. Which were performance? Which do you actually want? Deliberate choice, not reaction.
 
-**2. Shared self-concept.** In long relationships, your self-knowledge becomes intertwined with your partner's perception of you. You internalize their view of you — especially if it was a defining relationship. When they're gone, you're left without that external mirror, and the internal voice that evaluated you may be partly their voice.
+**Phase 3: Reconstruction (Months 3–9)** — Develop your own preferences, take one new identity experiment (something the relationship didn't have space for), and build a self that doesn't depend on a partner.
 
-**3. Future collapse.** When you planned a life with someone, that life had an identity attached to it. The breakup collapses that future — and with it, the version of you that was supposed to live it. You're not just grieving the person; you're grieving the identity you were building toward.
-
-### The Identity Reconstruction Framework
-
-Recovery isn't about "finding yourself" — that's a cliché that doesn't survive contact with the actual difficulty. It's about deliberately constructing a self that belongs to you, after a period where large parts of your self were built around someone else's existence.
-
-**Phase 1: Excavation (Weeks 1–4)**
-
-Before you can rebuild, you need to know what was there before. The excavation phase is about recovering the "pre-relationship you" — not to become that person again (you can't and shouldn't), but to have a baseline to work from.
-
-Ask yourself:
-- What did I enjoy doing before the relationship that I stopped doing?
-- What opinions did I have that I stopped expressing because they created conflict?
-- What friends did I drift from, and why?
-- What values did I compromise on to keep the peace?
-
-Write down whatever comes up. Don't edit it. Don't judge it. Just retrieve it.
-
-**Phase 2: Disentangling (Weeks 4–12)**
-
-This phase is about noticing where your identity ended and your ex's began — and making choices that reclaim your own shape.
-
-Common entanglements:
-- **Language:** You started using their phrases, references, or ways of speaking. Notice when you're performing their linguistic habits. This doesn't mean you have to change — but can you identify which ones are actually yours?
-- **Taste:** They had preferences about food, music, movies, restaurants. Some of your current preferences are theirs. Which ones do you actually want to keep? Which ones were you performing?
-- **Social identity:** You may have changed how you presented yourself in social settings to fit their comfort level. Where did you shrink to accommodate?
-
-Disentangling is not about rebellion (doing the opposite of what they would have wanted is still being shaped by them). It's about deliberate choice: *I am choosing this because it is mine.*
-
-**Phase 3: Reconstruction (Months 3–9)**
-
-This is where you get to actually build. The reconstruction phase is about developing a self that you chose — not one that was inherited from a role, defined by a relationship, or reacting to pain.
-
-Key practices:
-1. **Develop a relationship with your own preferences.** Not what you should want, not what feels comfortable because it's familiar, not what would make a partner happy — what do you actually want? Start small: what to watch, what to eat, how to spend a Saturday. Notice when you're defaulting and pause.
-2. **Take on one new identity experiment.** Pick something you've always wanted to try but never did — a sport, a creative practice, a way of thinking, a social scene. Not to become someone else — to discover aspects of yourself that the relationship didn't have space for.
-3. **Reframe the relationship timeline as data.** The fact that you chose this person tells you something about what you valued, what you needed, what you were willing to tolerate. These are not failures — they're information. Use them.
-4. **Build a self-concept that doesn't depend on a partner.** The goal is not to be someone who doesn't need a relationship. The goal is to be someone who enters a relationship from a position of wholeness, not desperation.
-
-### The "Identity Hole" Problem — Why It Feels Like You Have No Self
-
-The most common and most frightening experience post-breakup: the sense that there is no self there — that the relationship consumed everything and you're left empty.
-
-This is almost never true. What's happening is one of three things:
-
-1. **Grief exhaustion masks the self.** When you're in acute grief, your cognitive and emotional resources are consumed by the loss. There's nothing left for self-observation. The self isn't gone — it's hidden under the weight of grief.
-
-2. **The self was shaped around the relationship and needs reshaping.** This is the most common case. You genuinely did build a life around the relationship, and now that structure is gone. The self isn't missing — it's unbuilt. You need to rebuild it, which is different from discovering it.
-
-3. **Early identity formation was incomplete.** If the relationship started in adolescence or early adulthood, you may have been still building a self when you merged with someone else's. The "I" that existed before the relationship may not have been fully formed yet. This is not a deficit — it's an opportunity. You get to build it now, with more self-awareness than you had the first time.
-
-### Rebuilding Self-Concept After Long-Term Relationships
-
-Longer relationships produce deeper identity entanglement. The further along you were — living together, engaged, married — the more identity reconstruction requires deliberate effort.
-
-Key areas that require explicit reconstruction:
-
-**Financial identity.** Joint finances create shared financial habits and identities. Who are you as a spender, a saver, an earner — separate from the financial culture of your partnership? Reclaim your relationship with money.
-
-**Social identity.** Your social circle was likely shaped by the relationship — shared friends, joint couple friendships, social roles you played in their world. Rebuilding social identity means re-establishing friendships and social patterns that exist independent of the former partnership.
-
-**Future identity.** You had a future you were building together. That future is gone. Rebuilding the future identity means allowing yourself to imagine new futures — not as recovery from loss, but as genuine construction. What do you actually want your life to look like?
-
-### The Self-Concept Inventory (Practical Tool)
-
-A concrete exercise for rebuilding identity. Write the answers to these questions honestly. No one sees this but you. Take 30 minutes and write without editing:
-
-1. What did I used to care about that I stopped caring about — or stopped acting as if I cared about it?
-2. If my ex wasn't in the picture, who would I be different as?
-3. What parts of myself did I express more freely before this relationship?
-4. What parts of myself did I hide, suppress, or minimize during this relationship?
-5. What would I do differently if I knew no one would judge me?
-6. What kind of life am I actually drawn to — not the one I was building with them, but the one that feels like mine?
-7. What do I now know about relationships that I didn't know before — and who do I want to be in light of that knowledge?
-
-This is not about becoming someone new. It's about reclaiming the self that existed alongside the relationship — and then deciding, deliberately, what to keep and what to change.
-
-### Why the Relationship Became Your Identity (And How to Untangle It)
-
-The way relationships become identity-consuming is a combination of:
-- **Time:** long relationships fill more of your daily experience
-- **Interdependence:** you build routines, rituals, and shared worlds that are efficient and comfortable
-- **Evolutionary pressure:** it's easier to coordinate with a partner than to maintain a separate self
-- **Love:** genuine intimacy makes merging feel like the right thing
-
-The problem is not that you loved someone. The problem is when love becomes a substitute for self rather than an expression of it.
-
-The untangling is not a rejection of love. It's a requirement for it. A self that has been fully merged cannot bring anything real to a relationship — because there's no independent self to contribute. The work of rebuilding your identity is the work of becoming someone capable of a real relationship — one where you bring a whole self, not a half-empty one.
-
-### Identity and the Comparison Spiral — Rebuilding When Everyone Else Seems Ahead
-
-The comparison spiral has a specific identity dimension: when you watch exes progress — married, pregnant, achieving milestones — you are watching them build the future you thought was yours. The identity threat here is not just "I'm behind" — it's "I don't know who I'm building toward."
-
-The identity crisis in the comparison spiral is this: everyone else seems to know who they're becoming. You feel like you don't.
-
-Reframe: The people who seem to have it figured out may simply have started their chapter earlier — or they may be performing certainty they don't feel. What matters is not their timeline. What matters is that you are making deliberate choices about who you're becoming — not from anxiety, but from genuine self-knowledge.
-
-The goal is not to catch up. It's to build a self you actually want to inhabit.
+→ Full content: [references/identity-reconstruction.md](references/identity-reconstruction.md) — excavation framework, long-term relationship disentangling, PTG-identity bridge, and the self-concept inventory exercise.
 
 ## Helping a Friend Through a Breakup
 
