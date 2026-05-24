@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.24.0
+version: 1.27.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -219,17 +219,27 @@ Musk makes big decisions quickly and commits fully. His motto for X/Twitter: "Mu
 
 ### Specific Musk Frameworks
 
-**1. The 10x Thinking:**
-Musk doesn't try to improve something by 10% — he tries to make it 10x better. This forces you to question constraints rather than optimize within them. Applied to income: don't try to negotiate a 5% raise. Figure out how to 10x the value you create.
+**1. 10x Thinking:** Don't improve something 10% — make it 10x better. Question constraints rather than optimize within them. Applied to income: how do you 10x the value you create, not just negotiate a 5% raise?
 
-**2. The "Bet the Company" Decision:**
-Musk makes infrequent but massive bets (Tesla, SpaceX, Twitter). These are not reckless — they are calculated risks on things he deeply understands. For your wealth: identify one decision per year that could meaningfully move your trajectory, and make it deliberately rather than coasting.
+**2. "Bet the Company" Decisions:** Make infrequent but massive calculated bets on things you deeply understand. For your wealth: one decision per year that meaningfully moves your trajectory beats coasting.
 
-**3. The "Reduce the Cost of the Solution" Focus:**
-Musk's primary question in any project is: "What is the actual physics-based minimum cost at scale?" He doesn't accept "that's just how expensive it is." The same lens applied to your finances: What is the minimum cost to achieve financial independence? Spend to that number, not to whatever you earn.
+**3. Reduce the Cost of the Solution:** Musk asks: "What is the physics-based minimum cost at scale?" Applied: what is the minimum to achieve financial independence? Spend to that number, not your earnings.
 
-**4. The "Iterate Fast, Break Things" Approach:**
-Musk ships, sees what breaks, fixes it, ships again. He is comfortable with visible failure as long as it produces learning. For wealth: take small, reversible financial risks early (a side project, a skill investment, a small investment) while your downside is limited. The experience of managing money is what prepares you to manage more of it.
+**4. Iterate Fast on Small Stakes:** Ship, see what breaks, fix, ship again. Take small, reversible financial risks early while downside is limited. Managing money prepares you to manage more.
+
+### Musk's Crisis Decision-Making
+
+During Tesla's 2008 production hell and SpaceX's early rocket failures — when most entrepreneurs quit — Musk doubled down. He took personal loans, slept on factory floors, and kept going.
+
+> *"When something is important enough, you do it even if the odds are against you."*
+
+**The wealth-building applications:**
+
+- **The "almost gave up" moment is often the real inflection point.** Most people quit just before their biggest breakthrough. Grit through the valley of despair is the actual competitive advantage.
+- **The 1% test:** Before major financial decisions, ask: "Am I doing this because it's correct, or because it's comfortable?" Comfortable decisions rarely build extraordinary wealth.
+- **No off-switch:** Musk doesn't partially commit. For your wealth: 100% vs 90% commitment over 10 years isn't 10% more result — compound returns make it 10x more.
+
+The pattern: Musk treats every major decision as a bet on a future most people can't see yet. This requires tolerance for social rejection, financial risk, and sustained isolation in conviction. These are learnable — 练 them on small stakes first.
 
 ### Musk on Money (Direct Quotes)
 
@@ -528,6 +538,33 @@ The patient investor — the one who holds a diversified portfolio, reinvests di
 - [ ] I've demanded a margin of safety in my own compensation (I ask for more than I think I'm worth)
 - [ ] I've built or identified a moat in my own earning ability
 - [ ] I'm saying no to most opportunities so I can say yes to the few that matter
+
+### Why Buffett Never Sells: The Compounding Discipline
+
+The most underappreciated part of Buffett's system: **he almost never sells.** Berkshire Hathaway holds the same core positions — Coca-Cola since 1988, American Express since 1969, See's Candy since 1972 — for decades. He has publicly held Apple since 2016. This is not passive. It is deliberate.
+
+The reason is compounding arithmetic. When you sell a compounding asset:
+
+1. **Tax drag:** Long-term capital gains tax reduces every dollar you extract. In the US, that is a minimum 15–20% haircut on every transaction.
+2. **Transaction costs:** Even with zero-commission trading, bid-ask spreads and market impact cost you on every trade.
+3. **Opportunity cost:** The moment you sell, you hold cash. Cash does not compound.
+4. **The re-entry problem:** After selling a position that compounds at 19% annually, you must find a new investment that beats the one you exited. You rarely do.
+
+Buffett's most important lesson on this is from his 1993 shareholder letter: *\"The stock market is a device for transferring money from the active to the patient.\"* He was writing about other investors. But the same applies to his own relationship with his best holdings.
+
+**What drives Berkshire's compounding that most analysts miss:**
+
+The real engine is not stock picking — it is **float.** Berkshire's insurance subsidiaries (GEICO, National Indemnity, Reinsurance Group) collect premiums today and pay claims years later. That float is invested in the market. Every year the float grows, the investment base grows, and the compounding accelerates without Buffett having to sell anything.
+
+As of 2024, Berkshire had $168 billion in insurance float that compounds in the background of the stock portfolio. That is a compounding machine built into the structure of the company. The shares in Apple, Coca-Cola, and the other core holdings are not just investments — they are the vehicle by which the float is deployed into assets that appreciate at rates that exceed the cost of holding them.
+
+**The practical rule for personal wealth:**
+
+The index fund investor who buys and never sells — who treats their portfolio like a deed to productive businesses — captures the same compounding discipline Buffett uses at Berkshire. The moment you treat your portfolio like a trading account, you introduce the fees, taxes, and opportunity cost that erode the very advantage you were trying to create.
+
+*The investor who holds the index fund for 40 years is doing Buffett's strategy better than he does it — because he has no float, no management fees, and no tax event until he sells.*
+
+→ Full content: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, Lollapalooza effect, Two-List System, Insurance Float deep-dive.
 
 ---
 
@@ -1200,116 +1237,11 @@ Suggest seeing a financial advisor or planner when:
 
 ---
 
-## Dalio-Style Wealth Building: The Machine Behind the Money
 
-Ray Dalio, founder of Bridgewater Associates (~$150B AUM at peak), applies systems-level thinking to wealth. Where Buffett asks "what's the business worth?", Dalio asks "how does the entire system work?" His $20B comes from understanding economic mechanics, writing explicit principles, and executing with radical discipline across decades.
 
-### The Three Big Forces
-
-Dalio's framework starts with three forces that drive economies: **productivity growth** (the long-term driver), **short-term debt cycles (5–8 years)** (expansion/contraction), and **long-term debt cycles (75–100 years)** (the rare system-level reset when debt and monetary printing reach limits).
-
-> *"The economy works like a machine. Most people don't understand how it works or where they are in the cycle — so they make decisions that are exactly backwards. They buy assets at the top of a debt cycle and sell at the bottom."*
-
-**Wealth application:** The person who understands the debt cycle doesn't panic when markets crash mid-cycle. Don't be over-leveraged when a long-term debt cycle peaks. Hold gold, real assets, and foreign diversification. Those who preserve capital ahead of the reset are positioned to buy cheap when others are distressed.
-
-### Radical Truth and the Decision Journal
-
-Dalio's core principle: *"Radical truth + radical transparency = better decisions."* Write down your investment decisions and reasoning BEFORE you see the outcome. Compare later. The gap between your honest reasoning and the actual result is where your education happens.
-
-**The script:** At the end of each week: *"What did I decide? Why? What happened? How close was my reasoning?"* This compounds financial judgment over decades.
-
-### The All Weather Portfolio: Survive Every Scenario
-
-Dalio's most practical tool: a portfolio built for all economic scenarios (inflation, deflation, growth, recession) since you can't predict which is coming:
-
-- 30% stocks (growth engine)
-- 40% long-term bonds (anchor — performs in recessions)
-- 15% intermediate bonds
-- 7.5% gold (monetary stress hedge)
-- 7.5% commodities (inflation performer)
-
-**The principle:** True diversification means assets that behave differently across scenarios, not different-sounding names. A 60/40 portfolio has most of its risk in stocks — when stocks crash, it crashes. All Weather spreads risk so no single regime destroys everything.
-
-### The Shallow Puddle: Why Depth Beats Breadth
-
-Dalio: most people's financial knowledge is like a puddle on concrete — looks full after the first rain, but no depth. Go deep in your circle of competence: understand how your investments make money in one sentence. If you can't, you have a shallow puddle. Index funds are a perfectly rational choice for shallow puddle investors — just be honest and buy the index. The danger is operating with a shallow puddle in domains where you're making large financial commitments.
-
-### Failure Is the Only Honest Feedback
-
-> *"Every mistake you make is a result of not understanding something. Figure out what went wrong and write it down so it doesn't happen again."*
-
-Dalio's early 1980s near-destruction from a bad interest rate call became Bridgewater's risk management system. The failure was the education. For personal wealth: track financial mistakes in a journal. The person who writes down "I sold because I panicked — fundamentals hadn't changed" builds genuine wisdom. The person who moves on repeats the mistake.
-
-### Dalio's Wealth Framework
-
-1. **Understand the machine** — the economy has mechanics; learn them honestly
-2. **Know your cycle position** — where you are in short and long-term debt cycles shapes what works
-3. **Build for all weather** — don't bet everything on one economic scenario
-4. **Practice radical truth** — your mistakes are data, not verdicts
-5. **Write explicit principles** — rules written before panic do what willpower can't
-6. **Go deep in your circle** — shallow knowledge everywhere; genuine depth in one place
-7. **Expect regime changes** — long-term cycles do turn; diversify assets and time horizons
-
-→ Full content: [references/dalio-frameworks.md](references/dalio-frameworks.md)
-## The Psychology of Money: How Behavior Beats Technical Skill
-
-Morgan Housel's 2020 bestseller argues that the biggest determinant of financial success is not technical knowledge — it's behavior, patience, and the ability to stay rational when emotions push you in the wrong direction. This makes it the perfect complement to all the other frameworks in this skill: you can have the best investment strategy in the world and still fail if your behavior undoes it.
-
-**Core Housel lessons:** Getting money requires luck; keeping it requires discipline. The person who looks the richest is usually the poorest. The highest arithmetic return is the result of the highest behavioral tolerance. Wealth is freedom — the ability to do what you want, when you want. Freedom is the best framework for thinking about money. The hardest financial skill is getting the goal correct. "Room to be wrong" applies to life, not just investing. Every dollar you save is a worker that earns more dollars. The person who wins at investing is usually the one who stays in the game longest. The biggest wealth destroyer is short-term thinking in a long-term game. The gap between rich and wealthy. The "never enough" trap. Financial freedom comes at a specific number. The compounding curve is almost impossible to believe in until you've seen it.
-
-→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
+→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md) — Dalio's economic machine (productivity, debt cycles, long/short portfolio), Morgan Housel's 20 behavior lessons (from Psychology of Money), and Rockefeller/Carnegie's industrial empire frameworks — condensed from three full sections into one reference.
 
 ---
-
-
-
-## Classic Industrial Wealth Builders: Rockefeller and Carnegie
-
-The pre-20th-century wealth builders offer a different lesson set: vertical integration, industry control, and the deliberate transfer of wealth across generations. Rockefeller and Carnegie built fortunes that persist — in foundations, institutions, and companies — well beyond their deaths.
-
-### John D. Rockefeller: Control the Infrastructure
-
-Rockefeller's insight was not to produce more oil than anyone else, but to control the *distribution infrastructure* of oil. When everyone else competed on production, he competed on logistics and bargaining power.
-
-**The Standard Oil framework:**
-- Rockefeller asked: *"What if I don't try to produce more than everyone else — what if I try to control how the whole market moves?"*
-- He negotiated railcar deals that gave him volume discounts competitors couldn't match
-- He invested in byproducts (petroleum derivatives) that others wasted
-- He built a trust structure that let him coordinate competitors without owning them directly — until the Supreme Court said no
-
-**The wealth lesson:** The person who controls the pipeline earns more than the person who digs the oil. Ask: *"What part of this market am I uniquely positioned to own the flow of, not just the production of?"*
-
-**Rockefeller's specific advantage:** He started with a transparent cost structure. He knew exactly where kerosene was expensive to produce and moved to reduce those costs systematically — not by cutting corners, but by investing in infrastructure that others hadn't built.
-
-**Rockefeller on money:**
-- *"The growth of a large business is merely a survival of the fittest."*
-- *"Competition is a sin."* (He meant it literally in the context of monopolies — and he built one.)
-- *"I have a great respect for money."* — He treated it as a tool for scale, not a scoreboard.
-
-### Andrew Carnegie: Convert Wealth to Lasting Capital
-
-Carnegie's approach was different: he accumulated enormous wealth through steel, then systematically gave it away. His "Gospel of Wealth" doctrine — that the rich have an obligation to circulate their money back into society — defined modern philanthropy and the foundations that transmit wealth institutionally rather than individually.
-
-**The Carnegie framework:**
-- Accumulate ruthlessly through industrial excellence
-- Give it away strategically before death (to foundations, libraries, universities)
-- The goal was not to pass wealth to heirs but to institutionalize its impact
-
-**The wealth transfer lesson:** The most durable wealth is not held — it's directed. Rockefeller and Carnegie both chose to convert personal fortunes into institutions that outlast them. Carnegie Mellon University, the Carnegie Corporation, the Peace Palace — these generate value indefinitely.
-
-**The personal application for modern wealth building:**
-- A business that institutionalizes its value (becomes an institution) is more durable than a business that depends on your continued involvement
-- Investing in assets that transmit value across generations (real estate, dividends, intellectual property) follows the same Carnegie logic
-- The person who builds a business and sells it to a larger company converts their wealth into capital they can redirect
-
-**Carnegie's rules for wealth:**
-1. *"The man who dies rich dies disgraced."* — Wealth kept is wealth wasted in Carnegie's view
-2. *"Put all your eggs in one basket, and then watch that basket."* — Concentration, not diversification, for builders
-3. *"There is no success like habit."* — Daily improvement compounds in ways that seem impossible until they aren't
-
-**The common thread:** Both Rockefeller and Carnegie were relentless about costs and infrastructure — not just about working harder. They built systems that multiplied their effort, then converted those systems into institutions that multiplied value long after they stopped working.
-
-
 
 ## Verification Checklist
 
