@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 2.39.0
+version: 2.40.0
 author: Hermes Agent
 license: MIT
 metadata:
@@ -4448,4 +4448,43 @@ AI在B站内容的定位：
 - [ ] 理解了抖音AI变现的稳定方向（本地生活/电商带货/AI短剧）
 - [ ] 记住了视频号是当前最大机会（补贴持续/监管宽松/私域转化）
 - [ ] 避免了各平台已死的AI方向
+## 四十二、AI Agent 商业化：自主智能体引爆 B2B 变现浪潮
 
+> Run 19 (v2.40.0) 新增。AI Agent（自主智能体）商业化是 2025 年最新、最被低估的高价值赛道。
+
+**核心认知：** AI Agent 与传统 Chatbot 的本质区别——Chatbot 是问答工具（人问 AI 答），Agent 是自主工作流（人给目标，AI 自己完成）。客户为"完成工作"付钱，不为"回答问题"付钱。平均订单：Chatbot $100-1k/月，Agent $1k-50k/月。
+
+**5类真正赚钱的 Agent：**
+
+| 类型 | 代表产品 | 定价 | 关键数字 |
+|------|---------|------|---------|
+| 垂直行业 Agent | Claygent（招聘）、税务 Agent | $99-5k/月 | ARR $5M+ |
+| B2B 工作流 Agent | Sierra AI（客服）、Klarna | $1k-50k/月 | 节省 $40M/年 |
+| 开发者工具 Agent | Cursor、Replit Agent | $10-100/月 | ARR $40M+ |
+| 内容创作 Agent | 视频运营 Agent | $99-499/月 | 月入 $3k-20k |
+| 研究/情报 Agent | AlphaSense | $30k-100k/年 | 估值 $1.7B |
+
+**3条从0建立 Agent 业务的路径：**
+1. **垂直行业 Agent**（有行业背景）：选具体任务→最小可行 Agent→先收费再扩展。护城河：数据+工作流+客户关系。
+2. **B2B 工作流 Agent**（有销售能力）：找到重复性高的工作流→效果定价（节省成本×0.2~0.3）→标准化复制。
+3. **开发者工具 Agent**（有技术背景）：找具体任务切入点（代码审查/测试生成）→按订阅收费。
+
+**5个反直觉发现：**
+- 客户为"不要操心"付的钱比"准确答案"多 10 倍——卖省心，不卖准确
+- 垂直 Agent 比通用 Agent 贵 20 倍——Claygent $99-299/月 vs ChatGPT $20/月
+- 第一个 Agent 客户价值超过后面 100 个——case study 是护城河
+- Agent 的护城河不在技术，在数据和工作流——技术可复制，数据需要时间
+- **按效果定价 > 按订阅定价 > 按用量定价**
+
+**定价优先级：** 效果定价（节省成本×0.2~0.3）> 固定月费订阅 > 按用量收费。效果定价客户信任度最高，因为你的利益和客户一致。
+
+→ Full content（5类Agent详细案例+3条路径+5个反直觉发现）：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
+
+### 验证清单
+
+- [ ] 记住了 AI Agent vs 传统 Chatbot 的 5 个商业本质区别（自主执行 vs 问答、省心 vs 准确等）
+- [ ] 记住了 5 类真正赚钱的 AI Agent 产品及其代表案例
+- [ ] 记住了 3 条从 0 开始建立 AI Agent 业务的路径（垂直/B2B工作流/开发者工具）
+- [ ] 记住了 5 个反直觉发现（省心比准确重要、垂直比通用贵20倍等）
+- [ ] 理解了 AI Agent 的护城河不在技术，在数据和工作流
+- [ ] 记住了按效果定价 > 按订阅定价 > 按用量定价的定价优先级
