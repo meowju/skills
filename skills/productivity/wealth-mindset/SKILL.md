@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.22.0
+version: 1.23.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -509,8 +509,6 @@ Buffett had been saying this for years. His 2008 shareholders letter: *"When tri
 The bet resolved it empirically. A low-cost S&P 500 index fund beats most professionals after fees. That's the lesson.
 
 ---
-
-→ Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, why Buffett never sells, Lollapalooza effect, Two-List System, Insurance Float.
 
 → Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, why Buffett never sells, Lollapalooza effect, Two-List System, Insurance Float.
 
