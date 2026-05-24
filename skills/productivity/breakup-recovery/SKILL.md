@@ -1,13 +1,13 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.2.0
+version: 4.3.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [breakup, heartbreak, romantic-grief, emotional-recovery, self-worth, relationships, healing, ex-progressed, comparison-spiral, social-comparison]
+    tags: [breakup, heartbreak, romantic-grief, emotional-recovery, self-worth, relationships, healing, ex-progressed, comparison-spiral, social-comparison, darvo, coercive-control, love-bombing, gaslighting, trauma-bond, should-stay-or-go]
     related_skills: [purpose-finder, wealth-mindset]
 ---
 
@@ -894,6 +894,100 @@ Abusive or deeply unhealthy relationships work on the same principle. The cycle 
 **This is not love. This is conditioning. The hope is the trap.**
 
 **The exit:** Intermittent reinforcement can only be broken by not responding to the rewarding stimulus. If the reward (apology, attention, warmth) stops being reliable, the behavior that chased it eventually extinguishes. This is why no-contact works — but only if maintained completely. One return to the pattern resets the conditioning.
+
+---
+
+### DARVO — When They Reverse the Script
+
+DARVO stands for **Deny, Attack, Reverse Victim and Offender**. It is a specific manipulation pattern most commonly associated with people who are accused of harmful behavior — rather than addressing the accusation, they flip the script so that *they* become the victim and the person who raised the concern becomes the offender.
+
+This is distinct from (and often used alongside) gaslighting.
+
+**The sequence:**
+1. **Deny** — "That never happened." "You're making it up."
+2. **Attack** — Turn the accusation around: "I can't believe you're saying this about me after everything I've done."
+3. **Reverse Victim and Offender** — "The fact that you would accuse me of this shows exactly what's wrong with this relationship. I can't believe you would treat me this way."
+
+**Why it's so disorienting:** The person performing DARVO sounds genuinely upset. The upset is real — they are experiencing something (usually shame or threatened control), which makes the performance convincing. You end up feeling guilty for having raised a legitimate concern.
+
+**How to verify:** Ask a trusted friend — who was in the wrong here, based on what actually happened? If your friend's answer is different from the story you came away with, that is a signal.
+
+**The indicator question:** After a conversation where you raised a concern, did you end up apologizing? That is the most common DARVO outcome. You raised something valid and walked away feeling like the problem.
+
+---
+
+### Coercive Control — When the Relationship Has a Structure of Domination
+
+Coercive control (recognized as a criminal offense in the UK, Australia, and many US states) is a pattern where one partner systematically restricts the other's autonomy, access, and freedom in ways that serve the controlling person's needs. Physical violence is not required for this to be present.
+
+**What it looks like:**
+- Making rules about how you spend money, where you go, who you see, what you wear
+- Isolating you from friends, family, or support networks through guilt, rules, or direct interference
+- Constant monitoring of your location, communications, or activity
+- Degrading comments disguised as jokes ("you're so stupid for — ")
+- The rules are applied inconsistently — when the controlling partner is challenged, the rules suddenly disappear and the accuser becomes the victim
+
+**The distinguishing feature:** Coercive control is *structured*. It is not random anger — it is a system. The goal is to make you feel that your world is only safe when you comply with their preferences.
+
+**What makes this different from a difficult relationship:** In a difficult relationship, both people have autonomy that gets constrained by conflict. In a coercively controlling relationship, one person's autonomy is systematically subordinated to the other's. You may feel like you are "walking on eggshells" not because of your own anxiety, but because of a real, ongoing cost if you get it wrong.
+
+**If you recognize this:** This is not something to navigate alone. You do not need to have a conversation with them about it. You need a safety plan. If you're in a shared living situation, the goal is to get to a safe, independent living situation — quietly, without raising the alarm until you're ready. If you're not in immediate danger but want to understand what's happening, a trauma-informed therapist can help you see the structure clearly.
+
+---
+
+### Love Bombing — When Intensity Is Used as a Tool
+
+Love bombing is a pattern where someone overwhelms you with attention, affection, and grand gestures early in a relationship — then uses that intensity as a baseline against which your compliance is measured.
+
+**What it actually is:** Love bombing is not love. It is a demonstration of resources — emotional, financial, social — designed to make you feel that this person is uniquely valuable, so that their demands later feel like a reasonable trade.
+
+**The sequence:**
+1. They are extraordinary in the beginning — constant contact, intense declarations, you are their priority
+2. As you become attached, the intensity becomes the expected baseline
+3. When you do something that threatens their sense of control, they withdraw the intensity (the punishment)
+4. When you comply, the intensity returns (the reward)
+5. You spend the relationship chasing the beginning, trying to get back to the version of them that existed in week two
+
+**The key distinction:** The early intensity is real — it happened. That's what makes it confusing. But it was a demonstration, not a baseline. The goal of the demonstration was to establish a relationship where their needs are primary and your role is to manage their emotional state.
+
+**The question to ask yourself:** If you removed the grand gestures from the beginning, and looked only at the structure of the relationship as it exists now — who has more power? Whose needs are being met? Whose preferences set the tone?
+
+---
+
+### The Should You Stay or Go Decision Framework
+
+This is a decision tool, not a diagnostic. Work through it honestly.
+
+**Step 1: The Pattern Question**
+Ask yourself — over the last 6 months, has the relationship moved toward safety and mutual expansion, or toward restriction and contraction?
+
+- Toward safety: both people can have opinions, make requests, make mistakes, and still be treated as worthy of respect
+- Toward restriction: one person's preferences increasingly set the tone for both lives, the other person's autonomy is treated as secondary
+
+**Step 2: The Pressure Question**
+When you consider doing something that might displease them — going somewhere, seeing someone, having an opinion — how much do you calculate the cost before acting?
+
+- Healthy: you consider their feelings as part of normal relationship consideration
+- Unhealthy: the calculation is dominant, and you regularly override your own preferences to avoid consequences
+
+**Step 3: The Reality Test**
+Tell a trusted friend (not someone who will tell you what you want to hear) the pattern of what happens in the relationship. Not the summary — the specific sequence. "When I do X, typically Y happens."
+
+Ask them: "Does this feel okay to you?"
+
+Their reaction is data. If they are visibly uncomfortable or say "that's not right," that matters.
+
+**Step 4: The Reversibility Question**
+If the relationship ended, would you feel relieved within 24 hours? If yes — that relief is telling you something. You already know the answer.
+
+**Step 5: The Exit Question**
+The question "should I stay or go?" is sometimes the wrong question. The better question is: "Is this relationship making me smaller?"
+
+Not: "Is this relationship hard sometimes?" — all real relationships have hard stretches.
+Not: "Do I love them?" — love is not sufficient.
+The question is: "Am I smaller in this relationship than I am outside of it?"
+
+If yes, the answer is: go.
 
 ---
 
