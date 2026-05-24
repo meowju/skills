@@ -1,13 +1,13 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.4.0
+version: 4.5.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [breakup, heartbreak, romantic-grief, emotional-recovery, self-worth, relationships, healing, ex-progressed, comparison-spiral, social-comparison, darvo, coercive-control, love-bombing, gaslighting, trauma-bond, should-stay-or-go]
+    tags: [breakup, heartbreak, romantic-grief, emotional-recovery, self-worth, relationships, healing, ex-progressed, comparison-spiral, social-comparison, darvo, coercive-control, love-bombing, gaslighting, trauma-bond, should-stay-or-go, earned-secure-attachment, internal-working-model, window-of-tolerance, polyvagal, attachment-injury]
     related_skills: [purpose-finder, wealth-mindset]
 ---
 
@@ -171,6 +171,56 @@ Your brain edits memories of relationships the same way a film editor edits a do
 **What actually happens:** Brain amplifies positive memories, suppresses negative ones. You forget the specific难受 of fighting about the same thing for the 20th time. You remember the trip to Paris, forget the 3 days of silence that preceded it. The more you ruminate, the stronger the distortion gets.
 
 **The antidote:** Write down 10 specific, real things that were wrong — not vague generalizations, specific events. Read that list every time you feel the urge to reach out.
+
+### Earned Secure Attachment — The Most Hopeful Finding in Attachment Research
+
+People are not fixed into their attachment style for life. Longitudinal studies — the Berkeley Adult Development Study and related attachment cohorts — show that adults can *change* their attachment classification over time, particularly through sustained corrective emotional experiences: a relationship with a secure partner, focused therapeutic work, or a sustained meaningful friendship (Waters, Merrick, Treboux, Crowell & Albersheim, 2000; Davila & Cobb, 2003).
+
+**The mechanism:** A consistent experience of safety updates your **internal working model** — the brain's invisible map of how attachment works. If your childhood map said *"people leave when you need them"*, a new corrective experience can add a new layer: *"but sometimes they don't."* This does not erase the old map. It adds to it.
+
+**What this means for breakup recovery:**
+- Anxious attachers: every time you sit with the urge to reach out and *don't act*, you are practicing a new neural pathway that challenges the hyperactivation strategy. This is the work. It compounds.
+- Avoidant attachers: every time you let yourself feel the grief instead of suppressing it, you are building a capacity for intimacy that your childhood taught you wasn't safe.
+- The breakup itself can be a corrective experience — surviving a loss without being destroyed builds earned security more reliably than anything else.
+
+### The Internal Working Model — Your Brain's Invisible Map
+
+Bowlby's central concept — the **internal working model** — is the mental representation of how attachment works that forms in early childhood and persists into adulthood. It has two components:
+
+1. **Model of self:** *Am I worth loving? Will people come when I call?*
+2. **Model of others:** *Are people reliable? Will they be there when I need them?*
+
+These models shape everything about how you relate: how much reassurance you need, how you interpret silence, whether closeness feels safe or threatening, how quickly you give up on connection. They operate *below conscious awareness* — you don't decide to apply them, they just run.
+
+The important thing: internal working models are **updated by experience**, not just by insight. Understanding your anxious attachment in therapy helps — but only if the understanding comes alongside a new *relational experience* that contradicts the old model. For breakup recovery, the experience is: *I survived this and I am still okay.*
+
+### The BRAVE Framework — What Anxious Attachers Can Actually Do
+
+For people with anxious attached, the urge to reach out after a breakup is not a character flaw — it is an adaptive response to an attachment system that has been activated and not resolved. Here is a practical framework for working with it:
+
+**B — Breathe and name the urge.** When the pull to text arrives, pause. Label it: *"This is my attachment system activating. This is not love — this is withdrawal."* Naming gives your prefrontal cortex something to do.
+
+**R — Remember the rule.** No-contact is not punishment — it is the only condition under which your nervous system can complete the attachment cycle. Every time you break it, you restart.
+
+**A — Allow the feeling without acting.** The urge will pass. It always passes — usually within 20-30 minutes if you don't feed it. The feeling is not an emergency. Your nervous system *thinks* it is, but the relationship ended. The vigilance is no longer useful.
+
+**V — Verify your reality.** The story your attachment system is telling you (*"they're the one"*, *"no one else will understand me"*, *"I can't survive without them"*) is a distortion produced by the attachment chemistry. Write it down. Read it back. Would you tell a friend this was true?
+
+**E — Exit the loop deliberately.** The way out is through — not by reaching out, but by reaching *away* from the compulsion and toward one concrete thing in your actual life. One walk. One call. One thing that exists outside the loop.
+
+### The Window of Tolerance — Why Everything Feels Extreme
+
+Polyvagal theory (Porges, 2001) describes the **window of tolerance** as the optimal zone of nervous system arousal where you can feel emotions, tolerate distress, and stay present without flipping into hyperarousal (panic, rage, hypervigilance) or hypoarousal (numbness, dissociation, flatness).
+
+Breakup grief reliably narrows this window. Everyday stressors feel enormous. Small triggers produce disproportionate reactions. Baseline emotional regulation becomes harder to access.
+
+**Why this matters for recovery:** Grief work requires a regulated nervous system to be productive. If you are operating outside the window, the processing loops rather than resolves — you are not healing, you are just spinning in the same circle. This is not an excuse to avoid feeling. It is a guide to sequencing: **regulate first, process second.**
+
+**What widens the window:**
+- **Coherent breathing** (4 seconds in, 6-8 seconds out): activates the parasympathetic nervous system via the vagus nerve. Within 5 minutes, measurable increases in heart rate variability and parasympathetic tone.
+- **5-4-3-2-1 grounding** (for hyperarousal): name 5 things you see, 4 you hear, 3 you can touch, 2 you can smell, 1 you can taste. Activates present-moment sensory cortex, competes with threat circuitry.
+- **Gentle physical movement** (for hypoarousal): walk briskly, jumping jacks, stretching — raises arousal gently without flooding.
+- **Bilateral tapping** (for stuck rumination): alternate tapping left-right sides of your body while naming what you're feeling. Engages the same neural mechanisms used in REM sleep for memory processing.
 
 ---
 
