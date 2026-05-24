@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.19.0
+version: 1.20.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -659,6 +659,74 @@ The Naval model is the intellectual framework for people who want to build wealt
 
 → Full content: [references/naval-framework.md](references/naval-framework.md)
 
+## Naval's Decision Framework: How to Choose
+
+Naval is unusually specific about HOW to make decisions — not just what to decide. This is often the missing link between frameworks and outcomes.
+
+### The Three-Step Decision Process
+
+**Step 1: Define the problem precisely.**
+
+Most people argue about solutions before agreeing on the problem. Naval's rule: until you can state the problem in one sentence, you are not ready to make a decision about it.
+
+**Script:** *"The problem I'm trying to solve is ___"*
+
+**Step 2: Identify what's actually optional vs. permanent.**
+
+> *"Most decisions don't require 100% certainty. They require 70%. The other 30% is revealed by taking action."*
+
+Naval's filter: Is this decision reversible? If yes, decide at 70% and adjust. If no, take more time. Most financial decisions (switching funds, changing careers, a side business) are reversible. The irreversible ones are usually: marriage, major debt, giving up a skill permanently.
+
+**Step 3: Choose people over schemes.**
+
+> *"The most important decision of your life is who you spend your time with."*
+
+This applies to co-founders, employers, investment advisors, and partners. Naval's test: would you trade places with this person for 10 years? If not, don't enter a long-term arrangement with them.
+
+### The Naval Happiness Checklist (Applied to Wealth Building)
+
+Naval's personal happiness practice combines ancient philosophy (Stoicism, Vedanta) with modern decision theory. Applied to financial life:
+
+| Practice | Wealth Application |
+|---|---|
+| **Premeditatio malorum:** Visualize what could go wrong | Review your financial plan for single points of failure |
+| **Negative visualization:** Imagine losing what you have | Reduces desperation, increases patience |
+| **Voluntary discomfort:** Skip comfort that isn't serving you | Frugality that isn't deprivation |
+| **Acceptance of impermanence:** Markets go up and down | Reduces panic-selling and lifestyle inflation |
+| **Specific desires:** Vague wanting produces vague results | "Retire by 55 with $X" vs. "I want to be comfortable" |
+
+### Naval's Wealth Script Library
+
+**When deciding whether to switch jobs or careers:**
+> *"What would the version of you who stayed 5 years say? What would the version who left say? Which one are you more likely to regret not being?"*
+
+**When deciding whether to start a business:**
+> *"Can you get one paying customer before you invest more? If yes, you have a business. If no, you have a hobby. Ship it and see."*
+
+**When deciding whether to invest in something you don't understand:**
+> *"If you can't explain it in one sentence, you don't understand it well enough. Own your circle of competence or buy the index."*
+
+**When comparing two paths with different risk profiles:**
+> Naval: *"The decision with the best probability-weighted outcome is not always the highest expected value — sometimes the downside of a high-variance option has asymmetric emotional cost. Account for that honestly."*
+
+### Naval's Wealth Script: The "Wealth Is a Game" Mental Model
+
+Naval explicitly frames wealth-building as a game — not life-and-death, not status — a game played for challenge and freedom:
+
+> *"I don't think about my net worth. I think about the game. The score takes care of itself if you play well."*
+
+This reframes the emotional relationship with money: you're not chasing a number, you're developing skill at a game with real stakes and rewards. The person who treats it as a game makes better decisions than the person who treats it as a matter of life and death — or worse, as something shameful.
+
+**The game has three levels:**
+1. **Survival** — eliminate debt, build emergency fund, basic security
+2. **Independence** — assets produce enough to cover basics without working
+3. **Freedom** — assets produce enough to live exactly as you want without any time obligation
+
+Most people quit at Level 1 because it feels like enough. Naval's view: Level 2 and 3 are where the real game begins.
+
+→ Full Naval content: [references/naval-framework.md](references/naval-framework.md)
+
+
 ---
 
 ## Tax Optimization and Asset Protection
@@ -991,15 +1059,9 @@ The solution: **automate before you rely on willpower.**
 
 Jocko: *"The goal is to make the right thing the easy thing."*
 
-### Identity-Based Habits: James Clear
+### Identity-Based Habits
 
-**Your habits are votes for the identity you want.** Every action is a vote. Ten votes and you start believing it. A thousand and it's who you are.
-
-- Don't say "I want to invest more" — say *"I'm an investor."*
-- Don't say "I want to save money" — say *"I'm the kind of person who saves."*
-- Don't say "I want to build a business" — say *"I'm an entrepreneur."*
-
-The person who identifies as an investor makes different automatic choices than someone "trying to invest more."
+**Your habits are votes for the identity you want.** Every action is a vote. Say *"I'm an investor"* not *"I'm trying to invest more."* Identity drives automatic behavior — the person who identifies as an investor makes different choices without deliberating.
 
 ### Decision Velocity: The Cost of Indecision
 
@@ -1056,6 +1118,47 @@ The unglamorous truth about people who build real wealth:
 5. **"I need to be an expert to invest."** — You need a basic understanding. You do not need to beat the market. A total market index fund held for 20 years by someone who does nothing else has historically performed better than most professionally managed portfolios.
 
 6. **"I can't earn enough to save anything."** — Track your spending for 30 days. Almost everyone who says this discovers money is going to places they didn't realize. Small changes compound. $200/month extra investment from age 25 is roughly $500K by age 65. That is not small.
+
+### The Habit Stacking Formula
+
+> "After I **[CURRENT HABIT]**, I will **[NEW HABIT]**."
+
+Examples:
+- "After I pour my morning coffee, I will spend 10 minutes reviewing my financial goals."
+- "After I get home from work, I will move $50 to my investment account."
+- "After I finish my Sunday morning coffee, I will read one chapter of a financial book."
+
+### The 1% Better Math
+
+If you improve by 1% every day for one year, you end up 37x better by year end. The power of compound improvement applies to skills, habits, and financial knowledge. The person who reads and applies one chapter per day builds expertise that compounds invisibly for years.
+
+**Applied to wealth:** 1% better savings rate, 1% more skill development, 1% more deliberate in negotiations. None feel significant in isolation. Over 30 years, they are everything.
+
+### High-Value Wealth Streaks
+
+Pick one wealth-building habit and do it every single day for 90 days. The streak itself becomes a source of identity and motivation. Breaking the streak costs more than starting it, so you protect it.
+
+**High-value streaks:**
+- Review your finances every Sunday for 30 minutes (even if nothing changes)
+- Invest on payday before anything else
+- Read one chapter of a financial book per day
+- Write one sentence per day about a business idea
+
+### Environment Design (Clear)
+
+**Make the right habit the easy habit and the wrong habit the hard habit.**
+
+Want to invest more?
+- Automate so you never see the money (remove friction from investing)
+- Move savings to a different bank so it's harder to access (add friction to spending)
+
+Want to negotiate your salary?
+- Write the script in advance and practice it (remove friction from the uncomfortable thing)
+- Schedule the negotiation meeting before you've talked yourself out of it
+
+Want to build a skill?
+- Put the book or course in front of you, not buried in a folder
+- Keep your investment app on your phone's home screen
 
 ---
 
@@ -1274,89 +1377,11 @@ The other frameworks in this skill give you the tools. Housel's framework gives 
 → Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
 
 ---
-
-
-## 1. The OODA Loop: Making Decisions Faster Than Your Fear
-
-John Boyd (1927–1997), USAF fighter pilot, created the **OODA Loop** — Observe, Orient, Decide, Act — to describe how entities make faster decisions than competitors. The key insight: the person who cycles through OODA faster gets "inside" the opponent's loop, causing them to react while you act.
-
-**The loop:**
-1. **Observe** — What is actually happening?
-2. **Orient** — What do I already know that applies here? (mental models, experience, context)
-3. **Decide** — What is the best action given what I know?
-4. **Act** — Execute, then observe results
-
-**Wealth application:** In market crashes, most people's OODA loops freeze — they observe fear, orient with panic, and sell at the bottom. The disciplined investor observes the same market, orients on fundamentals, decides to hold, and acts on the plan. Same event, faster loop, better outcome.
-
-**Scripts:**
-
-**When markets crash:**
-> Observe: "The market dropped 20%." → Orient: "Are the underlying businesses worse? Or is this Mr. Market panicking?" → Decide: "Fundamentals unchanged — hold." → Act: Do nothing.
-
-**When an investment opportunity appears:**
-> Observe: "This asset dropped 40%." → Orient: "Do I understand why it dropped? Can I explain it in one sentence?" → If no, pass. If yes: decide and act without months of deliberation.
-
-Bezos's "make reversible decisions at 70% confidence" is OODA in shorthand: once you've oriented, don't wait for 100% — decide, act, adjust.
-
 ---
-
-## 2. Deep Work: The Compound Investment in Rare and Valuable Skills
-
-Cal Newport's **Deep Work** concept — focused, undistracted work on cognitively demanding tasks — maps directly to the premium skill development in the Income Acceleration section. Deep work is the mechanism through which specific knowledge compounds.
-
-> "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time."
-
-**The compound effect:** 1 hour of deep work daily on a single skill for 2 years produces genuine expertise. 30 minutes of scattered shallow work on the same skill for 10 years produces nothing.
-
-**The shallow work trap:** Most people spend their days in email, meetings, and administrative tasks that feel productive but don't compound. Newport's rule: "If you don't schedule deep work, it won't happen — shallow work expands to fill the available time."
-
-**How to build deep work:**
-1. **Block time on your calendar** — protect 60–90 minute blocks, same time every day
-2. **Kill distractions** — phone off, notifications gone, browser closed
-3. **Start immediately** — don't wait for motivation
-4. **Track hours per week** — make the number visible
-
-The income from genuine expertise compounds for decades. Deep work on a single high-value skill for 3–5 years produces specific knowledge that commands premium pay.
-
-**Script for protecting deep work:**
-> "I have [X] hours per week of deep work blocked for [specific skill]. Everything else has to fit around it or wait."
-
----
-
-## 3. Atomic Habits: The Physics of Small Gains Compounding
-
-James Clear's *Atomic Habits* distills the science of tiny improvements compounding into extraordinary results. Core insight: **you do not rise to the level of your goals — you fall to the level of your systems.**
-
-**The 1% better math:**
-1% better every day → 37x better by year end. 1% worse every day → nearly zero by year end. Small habits maintained consistently over decades produce results that look impossible from the starting line.
-
-**Applied to wealth:**
-- 1% better savings rate this month vs. last month
-- 1% more time on skill development this week vs. last week
-- 1% more deliberate in negotiations this quarter vs. last quarter
-
-None feel significant in isolation. Over 30 years, they are everything.
-
-**The identity reframe:** Your habits are votes for the identity you want.
-- Don't say "I want to invest more" — say "I'm an investor."
-- Don't say "I want to build a business" — say "I'm an entrepreneur."
-- Don't say "I want to negotiate better" — say "I'm a negotiator."
-
-Ten actions and you start believing it. A thousand and it's who you are.
-
-**The habit framework:**
-1. **Tiny to start** — Make the habit so small it's impossible to fail ($10/month investing works)
-2. **Stack it** — "After I [CURRENT HABIT], I will [NEW HABIT]"
-3. **Make it visible** — Track the streak where you'll see it daily
-4. **Environment first** — Make the right habit the easy habit, the wrong habit the hard one
-
-**Script for building a wealth habit:**
-> "I will do one financial action (review budget, read one investing concept, make one investment decision) for 10 minutes at [same time each day]. After [EXISTING HABIT]."
-
----
-
 
 ## Verification Checklist
+
+
 
 - [ ] Normalize the scarcity mindset as learned behavior, not truth
 - [ ] Get honest numbers on the table first
