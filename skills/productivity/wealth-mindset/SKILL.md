@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.17.0
+version: 1.19.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1089,92 +1089,115 @@ Suggest seeing a financial advisor or planner when:
 
 ---
 
-## Dalio-Style Wealth Building: Principles, Radical Clarity, and the Big Debt Cycle
+## Dalio-Style Wealth Building: The Machine Behind the Money
 
-Ray Dalio, founder of Bridgewater Associates (the world's largest hedge fund), built his wealth through a distinctive approach: systematic decision-making, radical transparency, and understanding economic machines at scale. With a net worth of ~$20 billion in 2026, his principles offer a different but complementary wealth framework to Buffett and Musk — one centered on understanding how economic systems actually work, and using that understanding to make consistently rational decisions.
+Ray Dalio, founder of Bridgewater Associates (~$150B AUM at peak), is the analytical complement to Buffett's folksy wisdom and Musk's first-principles physics. Where Buffett asks "what's the business worth?", Dalio asks "how does the entire system work?" His $20B wealth comes from applying systems-level understanding to make consistently rational decisions across economic cycles most people don't see coming.
 
-### The Principles Framework: Making Better Decisions Systematically
+### The Three Big Forces That Drive Everything
 
-Dalio published *Principles: Life & Work* in 2017 — a distillation of 200+ "principles" he developed over decades for making decisions. Unlike Buffett's folksy wisdom or Naval's aphorisms, Dalio's approach is algorithmic: make explicit rules, test them, refine them, and apply them consistently.
+Dalio's framework for understanding economies starts with three forces:
 
-**The core principle:**
-> *"Most importantly, I learned that the only way I can succeed is by discovering how I am being deceived by my own thinking — and how others are being deceived by theirs. The biggest threat to my success is not events I don't see coming, but my own errors in reasoning about what to do when they arrive."*
+1. **Productivity growth** — the long-term driver. The single thing that actually makes societies richer over decades.
+2. **Short-term debt cycles (5–8 years)** — the expansion/contraction cycle that creates booms and busts.
+3. **Long-term debt cycles (75–100 years)** — the rare extreme cycle when debt and monetary printing reach system-level limits.
 
-**The decision-making system (simplified):**
-1. **Write down your principles explicitly** — not vague intentions, but rules you can test
-2. **Distinguish between principle and application** — principles are transferable, tactics are situation-specific
-3. **Build feedback loops** — track outcomes and refine principles based on results
-4. **Apply radical honesty** — be transparent with yourself about what's working and what isn't
+> *"The economy works like a machine. Most people don't understand how it works or where they are in the cycle — so they make decisions that are exactly backwards. They buy assets at the top of a debt cycle and sell at the bottom."*
 
-**Wealth application:** Write your own financial principles — not a budget, but a code of decision-making. *"When a market drops 20%, I do not sell. I assess whether the underlying value has changed."* Having this written before panic sets in is how you avoid acting on emotion. Review and update annually.
+**Wealth application:** The person who understands the debt cycle doesn't panic when markets crash mid-cycle correction — this is normal. The person who doesn't understand the cycle sells at the bottom and buys at the top. Know which cycle you're in.
 
-### The Economic Machine: Understanding What Actually Creates Wealth
+### The Big Debt Cycle: When the System Resets
 
-Dalio's 2017 essay and video "How the Economic Machine Works" explains economies as a straightforward mechanical system. His framework for understanding wealth creation at the macroeconomic level:
+Dalio's most sobering framework: every generation inherits the results of the previous generation's debt buildup. When debt expands beyond sustainable levels, the long-term debt cycle reaches its end and the system resets through depressions, debt restructuring, and monetary overhauls.
 
-**The three big forces driving everything:**
-1. **Productivity growth** — the long-term driver of rising living standards
-2. **Short-term debt cycles** — the 5–8 year cycle of expansion and contraction
-3. **Long-term debt cycles** — the 75–100 year cycle when debt and printing money reach extremes
+**Historical pattern:** The US in the 1930s, Japan in the 1990s, and others all followed this arc. When creditor nations become debtor nations, when debt grows faster than income, when monetary policy loses effectiveness — the cycle turns.
 
-**The key insight for personal wealth:**
-- During debt expansions, asset prices inflate and everyone feels richer
-- During debt contractions, assets deflate and wealth is destroyed
-- The person who understands where they are in the cycle can position accordingly
-- The person who doesn't understand the cycle buys assets at peak prices during debt expansions and sells at the bottom during contractions
+**For personal wealth:** Don't be over-leveraged when a long-term debt cycle peaks. Hold some assets that perform well during monetary disorder (gold, real assets, foreign diversification). Those with preserved capital ahead of the reset are in position to buy assets cheap when others are distressed.
 
-**Wealth application:** In a long-term debt cycle context:
-- Be cautious when everyone is leveraged and optimistic (near the peak of a long-term debt cycle)
-- Be willing to be greedy when credit is tight and assets are cheap (near the trough)
-- The goal is not to predict the cycle — it's to not be caught over-leveraged when it turns
+### Radical Truth: Seeing Reality Clearly
 
-### Risk Parity: Building Portfolios That Don't Require Prediction
+Dalio's most quoted principle:
 
-Dalio pioneered "risk parity" — allocating risk equally across asset classes, not just capital. A traditional 60/40 stock/bond portfolio has most of its risk in stocks. Risk parity equalizes risk contribution across each asset class so no single economic scenario can destroy your portfolio.
+> *"Radical truth + radical transparency = better decisions."*
 
-**The core principle:** True diversification means assets that perform differently in inflation vs. deflation, growth vs. recession, and credit expansion vs. contraction. Most people diversify by putting money in different buckets — Dalio diversifies by ensuring different economic outcomes can't simultaneously hurt you.
+In practice: write down your investment decisions and reasoning BEFORE you see the outcome. Then compare. The gap between your honest reasoning and the actual result is where your real education happens.
 
-**The All Weather simplified allocation:**
+**The weekly reflection habit:** At end of each week, write: *What did I decide this week? Why did I decide it? What actually happened? How close was my reasoning?* This is how Dalio built Bridgewater's decision-making system — and it's how you build genuine financial judgment.
+
+**The wealth application:** Most people never examine their financial decisions. They panic and react, or they outsource decisions to advisors without understanding the reasoning. The person who writes down their financial logic and reviews it quarterly has a feedback loop that compounds their judgment over time.
+
+### The All Weather Portfolio: Preparing for the Unpredictable
+
+Dalio's most practical wealth tool: the All Weather portfolio — built on the principle that most people can't predict which economic scenario is coming (inflation? deflation? growth? recession?), so their portfolio should be constructed to survive all of them.
+
+**The simplified allocation:**
 - 30% stocks (growth engine)
-- 40% long-term bonds (stability anchor)
+- 40% long-term bonds (the anchor — performs well in recessions)
 - 15% intermediate bonds
-- 7.5% gold (inflation hedge)
-- 7.5% commodities (inflation protection)
+- 7.5% gold (holds value in monetary stress)
+- 7.5% commodities (performs well in inflation)
 
-→ Full content: [references/dalio-frameworks.md](references/dalio-frameworks.md)
+**The principle:** True diversification means assets that behave differently across economic scenarios, not just different-sounding asset classes. A portfolio of 60% stocks and 40% bonds has most of its risk in stocks — when stocks crash, the portfolio crashes. All Weather spreads risk so no single economic regime destroys everything.
 
-### The "Shallow Puddle" Analogy: Knowing Your Edge
+### Principles in Practice: The Decision Framework
 
-Dalio uses the metaphor of a puddle of water sitting on the ground — the first rain fills it easily. But to go deeper, you need to understand the structure of the ground beneath.
+Dalio's 200+ principles all stem from one core process:
 
-**Applied to wealth:** Most people skim the surface of financial knowledge — they read a few articles, follow some tips, make a few investments. The people who build lasting wealth go deep. They understand how taxes actually work, how their specific business makes money, how their investments compound, what risks they're actually taking.
+1. **Have clear goals** — specific, time-bound outcomes, not vague intentions
+2. **Identify problems** — without a clear-eyed view of what's not working, no improvement happens
+3. **Diagnose root causes** — not symptoms; fix the actual cause, not just the surface issue
+4. **Design a plan** — specific steps that address the root cause
+5. **Execute** — with milestones and review points
 
-**The principle:** Shallow knowledge produces shallow results. Deep knowledge in a specific area produces the "circle of competence" advantage that Buffett and Munger talk about.
+**Wealth application:** Your financial life is a business. Apply the same process: What is my specific financial goal? What's preventing me from reaching it faster? What's the actual root cause? What specific action closes that gap? Execute. Review. Adjust.
 
-**The script:** Ask yourself — *"In what specific area do I genuinely understand the mechanics of how this works? Where do I have unfair knowledge because of my actual experience?"* Build your wealth strategy in that circle, and buy index funds everywhere else.
+**The script for writing financial principles:**
+- *"When a market drops 20%, I do not sell. I assess whether the underlying value has changed."*
+- *"I do not invest in things I cannot explain in one sentence."*
+- *"I review my financial decisions quarterly and write down what I state got right and wrong."*
+- *"I stay diversified across economic scenarios — I don't bet everything on one outcome."*
+
+### The Shallow Puddle: Why Surface Knowledge Produces Surface Results
+
+Dalio's analogy: most people's financial knowledge is like a puddle on concrete — it looks full after the first rain, but there's no depth. To find deep water, you need to understand the ground beneath.
+
+**The wealth parallel:** The person who reads three finance articles and makes investments they don't understand has shallow water. The person who goes deep — reads annual reports, understands how their investments make money, grasps the actual mechanics of their business or career — has found the aquifer.
+
+**The exercise:** Can you explain how each of your investments makes money in one sentence? If not, you have a shallow puddle. Index funds are a perfectly rational choice for shallow puddle investors — just be honest and buy the index. The danger is operating with a shallow puddle in domains where you're making large financial commitments.
+
+### Dalio on Failure and Learning
+
+Dalio's most underappreciated wealth lesson: **failure is the only honest feedback.**
+
+> *"Every mistake you make is a result of not understanding something. The most important thing you can do is figure out what went wrong and write it down so it doesn't happen again."*
+
+His actual track record: early 1980s, he made a bad call on interest rates and nearly destroyed Bridgewater. His response: documented exactly why he was wrong, turned that failure into a principle, and built a risk management system that became Bridgewater's core competitive advantage. The failure was the education.
+
+**For personal wealth:** Track your financial mistakes in a journal. Not to beat yourself up — to see the patterns. Most people have recurring mistakes (emotional selling, chasing performance, under-saving in bull markets). The person who writes down "I sold because I panicked — the fundamentals hadn't changed" builds genuine financial wisdom. The person who just moves on repeats the same mistake.
 
 ### Dalio on Wealth (Direct Quotes)
 
 - *"The most important thing I learned is that the world is full of MBAs who are the equivalent of the engineers who thought they could fly because they studied aerodynamics. They never get their hands dirty, never test their principles, and never ask why they crashed."*
 - *"I believe that the only way to find your own path to success is to understand how the economic machine works, and to understand your own decision-making system — what your principles are and how well you execute them."*
-- *"The biggest mistake people make in investing is not about market timing or asset allocation — it's about not understanding what they're doing and why."*
 - *"Don't confuse investing with trading. Investing is about making rational decisions based on expected value over long time horizons. Trading is about trying to outguess short-term price movements."*
 - *"If you're not willing to be wrong, you won't be able to generate returns. But if you're wrong and you don't have a margin of safety, it destroys you."*
+- *"The biggest mistake people make in investing is not about market timing or asset allocation — it's about not understanding what they're doing and why."*
+- *"Most importantly, I learned that the only way I can succeed is by discovering how I am being deceived by my own thinking — and how others are being deceived by theirs. The biggest threat to my success is not events I don't see coming, but my own errors in reasoning."*
 
 ### The Takeaway: Dalio's Wealth Framework
 
-Dalio's approach is the systems-thinking approach to wealth:
+Dalio's approach is fundamentally the systems-thinking wealth approach:
 
-1. **Write explicit principles** — make your decision rules testable and reviewable
-2. **Understand the economic machine** — how debt, productivity, and money supply interact to create or destroy wealth
-3. **Build All Weather portfolios** — don't require prediction; build resilience across all economic scenarios
-4. **Practice radical transparency** — surface your own financial errors before they compound
-5. **Go deep, not wide** — shallow knowledge everywhere, deep knowledge in one circle
-6. **Prepare for regime changes** — long-term cycles do turn; diversify across time periods and conditions
+1. **Understand the machine** — the economy has mechanics; learn them honestly
+2. **Know your cycle position** — where you are in the short and long-term debt cycles shapes what works
+3. **Build for all weather** — don't bet everything on one economic scenario
+4. **Practice radical truth** — your mistakes are data, not verdicts
+5. **Write explicit principles** — rules written before panic do the work that willpower can't
+6. **Go deep in your circle** — shallow knowledge everywhere, genuine depth in one place
+7. **Expect regime changes** — long-term cycles do turn; diversify assets and time horizons
 
-The Dalio framework is particularly powerful for people who want a systematic, analytical approach to wealth-building — not relying on intuition or market timing, but on understanding how systems work and building your decisions on top of that understanding.
+The Dalio framework is for the analytically-minded wealth builder who wants to understand the system, write down their rules, and execute with systematic discipline across decades.
 
----
+→ Full content: [references/dalio-frameworks.md](references/dalio-frameworks.md)
 
 ## The Psychology of Money: How Behavior Beats Technical Skill
 
@@ -1251,6 +1274,87 @@ The other frameworks in this skill give you the tools. Housel's framework gives 
 → Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
 
 ---
+
+
+## 1. The OODA Loop: Making Decisions Faster Than Your Fear
+
+John Boyd (1927–1997), USAF fighter pilot, created the **OODA Loop** — Observe, Orient, Decide, Act — to describe how entities make faster decisions than competitors. The key insight: the person who cycles through OODA faster gets "inside" the opponent's loop, causing them to react while you act.
+
+**The loop:**
+1. **Observe** — What is actually happening?
+2. **Orient** — What do I already know that applies here? (mental models, experience, context)
+3. **Decide** — What is the best action given what I know?
+4. **Act** — Execute, then observe results
+
+**Wealth application:** In market crashes, most people's OODA loops freeze — they observe fear, orient with panic, and sell at the bottom. The disciplined investor observes the same market, orients on fundamentals, decides to hold, and acts on the plan. Same event, faster loop, better outcome.
+
+**Scripts:**
+
+**When markets crash:**
+> Observe: "The market dropped 20%." → Orient: "Are the underlying businesses worse? Or is this Mr. Market panicking?" → Decide: "Fundamentals unchanged — hold." → Act: Do nothing.
+
+**When an investment opportunity appears:**
+> Observe: "This asset dropped 40%." → Orient: "Do I understand why it dropped? Can I explain it in one sentence?" → If no, pass. If yes: decide and act without months of deliberation.
+
+Bezos's "make reversible decisions at 70% confidence" is OODA in shorthand: once you've oriented, don't wait for 100% — decide, act, adjust.
+
+---
+
+## 2. Deep Work: The Compound Investment in Rare and Valuable Skills
+
+Cal Newport's **Deep Work** concept — focused, undistracted work on cognitively demanding tasks — maps directly to the premium skill development in the Income Acceleration section. Deep work is the mechanism through which specific knowledge compounds.
+
+> "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time."
+
+**The compound effect:** 1 hour of deep work daily on a single skill for 2 years produces genuine expertise. 30 minutes of scattered shallow work on the same skill for 10 years produces nothing.
+
+**The shallow work trap:** Most people spend their days in email, meetings, and administrative tasks that feel productive but don't compound. Newport's rule: "If you don't schedule deep work, it won't happen — shallow work expands to fill the available time."
+
+**How to build deep work:**
+1. **Block time on your calendar** — protect 60–90 minute blocks, same time every day
+2. **Kill distractions** — phone off, notifications gone, browser closed
+3. **Start immediately** — don't wait for motivation
+4. **Track hours per week** — make the number visible
+
+The income from genuine expertise compounds for decades. Deep work on a single high-value skill for 3–5 years produces specific knowledge that commands premium pay.
+
+**Script for protecting deep work:**
+> "I have [X] hours per week of deep work blocked for [specific skill]. Everything else has to fit around it or wait."
+
+---
+
+## 3. Atomic Habits: The Physics of Small Gains Compounding
+
+James Clear's *Atomic Habits* distills the science of tiny improvements compounding into extraordinary results. Core insight: **you do not rise to the level of your goals — you fall to the level of your systems.**
+
+**The 1% better math:**
+1% better every day → 37x better by year end. 1% worse every day → nearly zero by year end. Small habits maintained consistently over decades produce results that look impossible from the starting line.
+
+**Applied to wealth:**
+- 1% better savings rate this month vs. last month
+- 1% more time on skill development this week vs. last week
+- 1% more deliberate in negotiations this quarter vs. last quarter
+
+None feel significant in isolation. Over 30 years, they are everything.
+
+**The identity reframe:** Your habits are votes for the identity you want.
+- Don't say "I want to invest more" — say "I'm an investor."
+- Don't say "I want to build a business" — say "I'm an entrepreneur."
+- Don't say "I want to negotiate better" — say "I'm a negotiator."
+
+Ten actions and you start believing it. A thousand and it's who you are.
+
+**The habit framework:**
+1. **Tiny to start** — Make the habit so small it's impossible to fail ($10/month investing works)
+2. **Stack it** — "After I [CURRENT HABIT], I will [NEW HABIT]"
+3. **Make it visible** — Track the streak where you'll see it daily
+4. **Environment first** — Make the right habit the easy habit, the wrong habit the hard one
+
+**Script for building a wealth habit:**
+> "I will do one financial action (review budget, read one investing concept, make one investment decision) for 10 minutes at [same time each day]. After [EXISTING HABIT]."
+
+---
+
 
 ## Verification Checklist
 
