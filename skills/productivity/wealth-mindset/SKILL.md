@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.14.0
+version: 1.16.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -766,26 +766,30 @@ The wealthiest individuals legally minimize their tax burden every year. This is
 
 ---
 
-## Income Acceleration: The Fastest Path to Compound Wealth
+## Real Estate: Leverage, Cash Flow, Tax Benefits, Appreciation
 
-While saving and investing are essential, the highest-leverage variable in wealth-building is your **income** — specifically, how fast your earning capacity compounds over time. Someone who triples their income in 5 years will build more wealth than someone who perfectly optimizes a modest salary for the same period. This section covers the specific frameworks that accelerate income growth.
+Real estate combines four mechanisms — **leverage** (borrow 70-80% at 5-7% over 15-30 yrs), **cash flow** (rent minus all expenses, with your tenant paying down your mortgage each month), **tax benefits** (depreciation, deductions, 1031 Exchange to defer capital gains by reinvesting within 180 days), and **appreciation** (3-5%/yr growth in most US markets). Wealth is built over 10-20 years through all four working at once.
+
+**The Filters:**
+- **1% Rule:** Monthly rent ≥ 1% of purchase price. $200K property needs $2,000+/month minimum. **Cap Rate:** NOI ÷ Purchase Price. Target 6-8%. Below 5% means you're betting on appreciation with negative cash flow. **50% Rule:** ~50% of rent goes to non-mortgage expenses. On $2,000 rent, expect $1,000. If mortgage is $1,400, you're underwater.
+
+**Starter Strategies:**
+- **House Hacking:** Buy a 2-4 unit, live in one, rent the others. 4-unit at $400K, 3.5% FHA ($14K down), three units at $800/month = $2,400 income vs ~$2,200 mortgage. Move out after 2 years, repeat.
+- **BRRRR:** Buy at 60-70% ARV, renovate, rent, refi out capital, repeat. Best markets: Texas, Georgia, Tennessee, Florida (strong landlord laws, growing populations — not coastal cities where cash flow is usually negative).
+
+**Five pitfalls:** (1) Emotion instead of math. (2) Underestimating repairs — budget 1-1.5%/yr of property value. (3) Not screening tenants — costs $3K-10K. (4) Over-leveraging — keep 6 months expenses per property as buffer. (5) Ignoring the 1031 Exchange — leaves 15-20% of profit with the IRS.
+
+→ Full content: [references/realestate-wealth-building.md](references/realestate-wealth-building.md)
+
+---
+
+## Income Acceleration: The Fastest Path to Compound Wealth
 
 ### The Income Ceiling Problem
 
 Most people's income grows linearly because they accept the default path: get a degree, get a job, get periodic raises of 2-5% per year. This path has a ceiling that is deliberately managed by employers to be just above inflation. The people who break through this ceiling do so by design, not by luck.
 
-**The default path ceiling:**
-- Annual raises: ~3% (usually below inflation + productivity gains)
-- Promotion cycles: 2-4 years per level
-- Lifetime earnings trajectory: modest linear growth
-- Maximum income: determined by your employer's compensation philosophy
-
-**The accelerated path:**
-- Negotiates intentionally, not just at review time
-- Develops specific knowledge that commands premium pricing
-- Creates leverage through products, businesses, or investments
-- Switches employers strategically to capture value created
-- Builds assets alongside earned income
+**The default path ceiling:** ~3%/yr raises (usually below inflation), 2-4 yr promotion cycles, income ceiling managed by employer. **The accelerated path:** negotiates intentionally, builds specific knowledge, creates leverage via products/business/investments, switches employers strategically, builds assets alongside earned income.
 
 ### The Salary Negotiation Framework
 
@@ -1040,51 +1044,51 @@ Frameworks and mindset mean nothing without the capacity to execute consistently
 
 ### The Execution Gap: Why Knowledge ≠ Wealth
 
-There is a persistent myth that wealth-builders have superior intelligence or special information. The data says otherwise. Morgan Housel's observation from *The Psychology of Money* is precise: "Doing well with money has a lot less to do with how smart you are and a lot more to do with how you behave." Both the person who reads this skill and implements it, and the one who reads it and continues as before, have the same information. One executes. The other doesn't. Over 20 years, the difference is everything.
+Morgan Housel's observation from *The Psychology of Money*: "Doing well with money has a lot less to do with how smart you are and a lot more to do with how you behave." Both the person who reads this skill and implements it, and the one who reads it and continues as before, have the same information. One executes. The other doesn't. Over 20 years, the difference is everything.
 
-### 1. Grit: The Most Underrated Wealth Variable
+### Grit: The Most Underrated Wealth Variable
 
-Angela Duckworth, University of Pennsylvania psychologist and MacArthur Fellow, defines **grit** as passion and perseverance for long-term goals. Her landmark studies found that grit predicted graduation rates better than IQ scores, parental income, and standardized test scores.
+Angela Duckworth defines **grit** as passion and perseverance for long-term goals. Her studies found grit predicted graduation rates better than IQ scores, parental income, and standardized test scores.
 
-Grit matters in wealth-building because:
-- Markets crash every 5-7 years. The gritty investor stays the course; the fearful one sells at the bottom
-- Business-building requires years of invisible progress before traction appears
-- Salary negotiation involves rejection. Most people stop after one no; gritty people negotiate anyway
+Grit matters because: markets crash every 5-7 years (the gritty investor stays; the fearful one sells), business-building requires years of invisible progress before traction, salary negotiation involves rejection (most stop after one no; gritty people negotiate anyway).
 
-> *"Grit is sticking with your future, day in and day out, not just for the project, but for the decades."* -- Angela Duckworth, *Grit: The Power of Passion and Perseverance*
+> *"Grit is sticking with your future, day in and day out, not just for the project, but for the decades."* -- Angela Duckworth, *Grit*
 
-Naval Ravikant echoes this: *"The most important quality for building wealth is perseverance."*
+Naval echoes: *"The most important quality for building wealth is perseverance."*
 
-### 2. Extreme Ownership: Taking Responsibility for Everything
-
-Jocko Willink -- retired Navy SEAL commander, Silver Star recipient, author of *Extreme Ownership* -- developed one of the clearest frameworks for personal agency:
+### Extreme Ownership: Jocko Willink's Framework
 
 > *"There are no bad teams, only bad leaders. You are responsible for everything in your life -- every result, every outcome, every failure."*
 
-Willink's military background is instructive. As commander of SEAL Team 3's Task Unit Bruiser in Ramadi, Iraq, he learned that leaders who took absolute responsibility for outcomes -- even when external factors were clearly at play -- produced better results. This transfers directly to financial life.
+The wealth application: The person who says *"I own my financial situation"* has power to change it. The person who says *"my finances are a product of circumstances"* has given that power away. Blaming the market, your employer, or the economy removes your agency.
 
-**The wealth application:**
-- The person who says *"I own my financial situation"* has power to change it
-- The person who says *"My finances are a product of circumstances"* has given that power away
-- Blaming the market, your employer, or the economy removes your agency
+**The script:** When you catch yourself blaming an external factor, ask: *"What is the one thing I could have done differently that would have changed this outcome?"*
 
-**The script:** When you catch yourself blaming an external factor, ask: *"What is the one thing I could have done differently that would have changed this outcome?"* Your response to circumstances is still yours to own.
+### Systems Beat Willpower
 
-### 3. Systems Beat Willpower: Engineering Right Action
+Roy Baumeister's research on **ego depletion** demonstrates that self-control is a finite resource. You cannot rely on willpower alone for wealth-building.
 
-Roy Baumeister's research on **ego depletion** demonstrates that self-control is a finite resource. His studies showed that people who exerted self-control on one task performed significantly worse on subsequent unrelated tasks. You cannot rely on willpower alone for wealth-building -- you will lose daily decision battles with yourself.
-
-**The solution is not more discipline -- it's better systems:**
-- Automate savings so money leaves your account before you can spend it
+The solution: **automate before you rely on willpower.**
+- Automate savings so money leaves before you can spend it
 - Set investment transfers to execute automatically on payday
 - Put bills on autopay so you never incur late fees
 - Build habits so right financial action doesn't require a daily decision
 
-Jocko Willink: *"The goal is to make the right thing the easy thing."*
+Jocko: *"The goal is to make the right thing the easy thing."*
 
-### 4. Decision Velocity: The Cost of Indecision
+### Identity-Based Habits: James Clear
 
-Jocko Willink's military background produced deep intolerance for paralysis-by-analysis. In warfare, hesitation kills. In wealth-building, it costs. The person who invests $200/month consistently for 20 years beats the person who waits 5 years for the "perfect" time to start.
+**Your habits are votes for the identity you want.** Every action is a vote. Ten votes and you start believing it. A thousand and it's who you are.
+
+- Don't say "I want to invest more" — say *"I'm an investor."*
+- Don't say "I want to save money" — say *"I'm the kind of person who saves."*
+- Don't say "I want to build a business" — say *"I'm an entrepreneur."*
+
+The person who identifies as an investor makes different automatic choices than someone "trying to invest more."
+
+### Decision Velocity: The Cost of Indecision
+
+The person who invests $200/month consistently for 20 years beats the person who waits 5 years for the "perfect" time to start.
 
 **The decision velocity framework:**
 1. Set a deadline for the decision (not the action)
@@ -1095,24 +1099,11 @@ Jocko Willink's military background produced deep intolerance for paralysis-by-a
 
 *"Waiting for perfect information is its own form of recklessness."*
 
-### 5. Identity-Based Habits: Vote for Who You Want to Become
+### Frankl's Meaning in the Struggle
 
-James Clear's *Atomic Habits* framework: **your habits are votes for the identity you want.** Every action is a vote. Ten votes and you start believing it. A thousand and it's who you are.
+Viktor Frankl observed: *"The will to meaning overcomes the will to pleasure or power."* Humans can endure almost any suffering if they understand its meaning. Frame short-term sacrifice as investment in progress. The person who understands *why* they're doing it endures what the person who only knows *what* they're doing cannot.
 
-**The identity-first approach:**
-- Don't say "I want to invest more." Say *"I'm an investor."*
-- Don't say "I want to save money." Say *"I'm the kind of person who saves."*
-- Don't say "I want to build a business." Say *"I'm an entrepreneur."*
-
-The person who identifies as an investor makes different automatic choices than someone "trying to invest more." Identity shapes decisions, which shapes outcomes, which reinforces identity.
-
-### 6. Frankl's Meaning in the Struggle
-
-Viktor Frankl, Holocaust survivor and founder of logotherapy, observed: *"The will to meaning overcomes the will to pleasure or power."* His finding -- that humans can endure almost any suffering if they understand its meaning -- applies directly to wealth-building.
-
-Frame short-term sacrifice as investment in progress. The person who understands *why* they're doing it endures what the person who only knows *what* they're doing cannot.
-
-### 7. The 5-Point Unstoppable Execution Framework
+### The 5-Point Unstoppable Execution Framework
 
 1. **Automate before you rely on willpower.** Set up automatic savings and investments on payday. Engineer your environment so right action is the path of least resistance.
 2. **Own everything.** When something goes wrong financially, own it completely before looking for external causes. Internal locus of control is the foundation of change.
@@ -1120,7 +1111,7 @@ Frame short-term sacrifice as investment in progress. The person who understands
 4. **Build grit intentionally.** Choose one long-term project and commit for at least two years regardless of interim results.
 5. **Vote for your identity daily.** Every day, make at least one action that votes for the identity of someone who builds wealth.
 
-> *Full details: see `references/power-execution.md` -- extended resilience frameworks, the early riser advantage, Frankl's meaning in the struggle, and the complete unstoppable execution framework.*
+→ Full content: [references/power-execution.md](references/power-execution.md) -- extended resilience frameworks, the early riser advantage, Frankl's meaning in the struggle, and the complete unstoppable execution framework.
 
 ---
 
