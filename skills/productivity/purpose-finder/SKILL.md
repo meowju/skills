@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 3.0.0
+version: 3.3.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -658,6 +658,58 @@ The finder identity puts purpose in the future — it is always being searched f
 
 ---
 
+## Framework: Family-of-Origin Patterns and Purpose Formation
+
+For a significant subset of purpose-seekers, the problem is not "what should I do?" — it is "I cannot tell what I want separate from what others need me to want." Standard purpose frameworks (try things, follow energy, find your flow) fail when the underlying issue is identity formation itself: the person has been so shaped by their family system that their own wants are invisible to them. This framework covers the family patterns most directly relevant to chronic purpose blockage.
+
+### The Differentiation Problem
+
+**Differentiation** — the capacity to be your own person while remaining connected to others — is the foundational developmental task that underlies purpose. From family systems theorist Murray Bowen: the person with high differentiation can think independently, maintain their own center under pressure, and be in intimate relationship without losing themselves. The person with low differentiation cannot tell where their own wants end and others' begin — their internal compass always reads someone else's north.
+
+The practical implication: **for some purpose-seekers, the question "what should I do with my life?" cannot be answered until the prior question is addressed: do I have enough of a self yet to want anything?** This is not defeatism — it is the correct ordering of the problem.
+
+### The "Good Child" Pattern
+
+The most common family-of-origin pattern in chronic purpose-seekers: the child who learned that love was conditional on being easy, helpful, and unthreatening. They optimized for others' comfort and never learned to locate their own needs.
+
+The diagnostic question: **when you help others, do you feel more alive or less?** If helping leaves you empty, it is likely the caretaking pattern — a family adaptation you've turned into a lifestyle, not a purpose. Genuine vocation energizes even when it's difficult. The good child pattern depletes regardless of the activity.
+
+### Parentification: When the Child Raised the Parent
+
+Parentification is the role reversal where the child took on parental functions — emotional caretaking, problem-solving, managing a parent's moods. The parentified adult has highly developed skills in noticing others' needs but a poorly developed sense of their own. Their attention is always outward. They may enter "helping professions" and still feel empty — because the helping is a role, not a self-identified direction.
+
+The cruelest irony: the skills that made you valuable in your family (attunement, crisis management, emotional intelligence) are the skills you deploy to find purpose — but always outward, never inward. The reframe: **you can use your sensitivity in service of your own goals, not just others'.**
+
+### The Imposter Identity
+
+Across all these patterns, the person's current identity is largely an adaptation to their family system, not an expression of their own direction. They are playing a role — the good child, the caretaker, the family stabilizer — and have never built a separate self underneath it.
+
+You cannot find purpose until you have a self that can want things. The fix:
+
+1. **Name the pattern.** The caretaking orientation is a family adaptation, not a vocation.
+2. **Practice small differentiations.** Find one thing you want that has nothing to do with managing others' emotional states. Choose it. Tolerate the guilt.
+3. **Separation is not rejection.** You can love your family and still be your own person.
+4. **Find the anger underneath.** Many people with these patterns have anger they learned not to feel. The anger is information — it is the part of you that knows you deserved better.
+
+### When to Refer for Deeper Work
+
+If someone has gone through all the purpose frameworks and still says "I can't figure out what I want" — not from lack of trying, but because they genuinely cannot locate a self separate from their family adaptation — the appropriate referral is family systems therapy, Codependents Anonymous, AlAnon (if addiction is present), or individual therapy focused on differentiation. Purpose frameworks can resume once the person has developed enough of a separate self to want things.
+
+→ Full content: [references/family-purpose-formation.md](references/family-purpose-formation.md) — the full differentiation spectrum, the two types of parentification, codependency structure, the good child vs. genuine vocation distinction, and the "un.enmeshment as part of the purpose process" protocol.
+
+### Using This Framework in Conversation
+
+**"I know what I should do but I can't seem to want it":**
+> The "should" is a signal. What you should do is often what someone else needed you to do. The question is: what do YOU want, separate from what would make your family proud or keep the peace? If that question doesn't produce any answer, the problem may not be purpose — it may be that your sense of self is too fused with your family's to have your own wants yet. That is fixable, but it requires differentiation work first.
+
+**"I feel selfish when I pursue my own direction":**
+> Selfish is the feeling that was installed when you first tried to have your own needs. It is not a valid signal — it is a defense response from a family system that needed you to stay small. Practice being a little selfish. Notice what happens. Usually nothing catastrophic, and the guilt gradually decreases.
+
+**"I help people but I feel empty afterward":**
+> That is a caretaking pattern, not a purpose. Genuine helping leaves you energized even when it's hard. Caretaking leaves you depleted. The question is not "find a purpose that fills me" — it is "why am I using helping as a way to avoid developing my own self?"
+
+---
+
 ## Framework: Monetizing Your Purpose
 
 There is a widespread belief that converting purpose into income is either impossible or a betrayal of the purity of the calling itself. Both beliefs are wrong. Money is a tool for sustainability — a way to keep doing what matters without being forced out of it. The real question is not whether to monetize, but how to do it without distorting what you're actually trying to do.
@@ -823,76 +875,25 @@ Most purpose stories told in retrospect look clean. The actual lived experience 
 > You are going to fail at some things regardless of whether you start. The question is whether your failures are failures at things you chose (which teach you something and move you forward) or failures at things other people chose for you (which teach you nothing and cost you more). Fail at your own thing. That's the only path that leads somewhere.
 
 ---
-
 ## Framework: Founder Mode — How Builders Find Direction
 
-Brian Chesky's 2024 essay on "founder mode" described how some founders scale companies by staying close to the work — the product, the customers, the frontline decisions — rather than delegating upward into textbook management. The deeper insight most people missed: the *process* of founder mode is a **purpose discovery mechanism**. Founders rarely know what they're building at the start. They stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement, not planning. The founder discovers, through iteration, what the company — and by extension, what they themselves — actually care about.
+Brian Chesky's 2024 essay described how founders who stay close to the work — the product, customers, frontline decisions — find direction through iteration rather than planning. The deeper insight: the process of building is a purpose discovery mechanism. Founders rarely know what they're building at the start. They stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement.
 
-### The Three Founder Mode Principles for Purpose
+### Three Principles
 
-**1. Stay Close to the Work (Not the Title)**
+1. **Stay close to the work.** The closer you stay to the actual problem — not the org chart, not the title — the more you learn about what you genuinely care about. Direction is found in depth, not elevation.
+2. **Iterate toward what resonates.** Build something, watch what happens, adjust. The adjustment is not failure — it is information. Stop asking "what should I build?" Ask "what have I built that people responded to?"
+3. **Unfinished is not wrong direction.** Most people in the middle of building interpret uncertainty as proof they should stop. MVP of Self: audit existing skills, test one feature at the edge of your ability, measure whether it makes you feel capable and whether others find it valuable.
 
-Most career advice tells you to climb the ladder — get promoted, delegate, manage. This produces competent but purposeless mid-career professionals. Founder mode inverts this: the closer you stay to the actual work — the product, the customer, the problem — the more you learn about what you genuinely care about. Direction is found in depth, not elevation.
+### Tactics
 
-> Before optimizing for a title, ask: where is the work I cannot stop thinking about? That recurring draw is a signal about direction.
+- Write your job description from scratch — what you actually do when engaged, not what your employer says
+- Identify what you can't stop thinking about — that recurring obsession is closer to your direction than any career objective
+- Give yourself a 90-day check-in, not a daily evaluation — the daily evaluation produces paralysis
+- Track the pattern across what you built, not what you planned — your history contains the signal
 
-**2. Iterate Toward What Resonates**
+→ Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
 
-The founder builds a version, observes what customers respond to, adjusts. The standard career approach is: figure out what you want, build a plan, execute. Founder mode says: build something, watch what happens, adjust. The adjustment is not failure — it is information.
-
-> Stop asking "what should I build?" Ask "what have I built that people responded to?" Your past successes contain signal about what will sustain you.
-
-**3. The Unfinished Founder Problem**
-
-People in the middle of building something interpret their uncertainty as proof they should stop. They haven't "found" their purpose because they haven't hit the iteration that resonates. *Unfinished* is not the same as *wrong direction*. The founder who quits before the signal is the founder who never finds out what they would have discovered.
-
-### The "MVP of Self" Framework
-
-Apply the minimum viable product principle to purpose discovery: you are already an MVP (audit existing skills, relationships, patterns). Quick experiments: add a feature, not a whole product. Measure: did this make me feel capable? Did others find it valuable? Did this give me something to return to tomorrow? The cycle is build → observe → adjust. The iteration is the point.
-
-### Founder Mode in Purpose Discovery: Examples
-
-**Stewart Butterfield (Slack, Flickr):** Built a video game. The game failed. The real-time communication technology it needed became Flickr, then Slack. The purpose signal was not in the original plan — it was in the response to what he built.
-
-**Brian Chesky:** Couldn't afford rent. Put an air mattress in the living room, made a website. The original purpose was survival. The real purpose — changing how communities form, what hospitality means — emerged through iteration.
-
-**Coming back from failure:** The founder who has failed once or twice knows more about their actual direction than the person who never tried. Failure removes options by elimination. What the person still wants to keep building toward is closer to real direction than anything they planned in advance.
-
-### Tactics: Applying Founder Mode to Your Career
-
-1. **Write your job description from scratch.** Not the one your employer gave you. The one that describes what you actually do when you're engaged. Compare the two — the gap is information.
-
-2. **Identify what you can't stop thinking about.** Not what you think you should think about. That recurring obsession is closer to your direction than any career objective.
-
-3. **Test one thing at the edge of your current ability.** Build the smallest possible version of something and show it to one person who will give you honest feedback. The feedback tells you whether you're pointed at something real.
-
-4. **Track the pattern across what you built, not what you planned.** Most people who feel lost have a history of experiments. Read your history back: what type of challenge shows up repeatedly?
-
-5. **Give yourself a 90-day check-in, not a daily evaluation.** Founders evaluate every quarter, not every day. The daily evaluation produces the paralysis that prevents real iteration from completing.
-
-6. **Find one person who will give you honest signal.** Not validation. Honest signal about whether what you're building is landing.
-
-### Founder Mode and Career Capital: The Synthesis
-
-Cal Newport's career capital framework and founder mode are the same insight from different angles. Together they produce a coherent model: build rare and valuable skills (career capital) → apply them to problems you genuinely care about (founder mode engagement) → observe what resonates → iterate toward what produces both meaning and value → use accumulated capital to claim autonomy when you've built something real.
-
-> The person who follows this sequence is not searching for purpose. They are building conditions under which purpose can emerge. The building is the practice. The purpose is what survives contact with reality.
-
-### Using Founder Mode in Conversation
-
-**"I don't know what to build":** Founders don't usually know. They start with a problem they can't stop thinking about. What problem can't you stop thinking about?
-
-**"What if I build the wrong thing and waste time":** The founder who builds the wrong thing learns something. The person who plans the right thing and never builds learns nothing.
-
-**"I tried something and it failed":** The failed experiment is data, not verdict. You have more information now than you did before. Use it.
-
-**"Everyone else seems to have a clearer direction":** You're watching their highlights. The clarity you see in other people's careers is usually a story constructed in retrospect, not a state they were actually in.
-
-**"I'm afraid to start something new because I've failed before":** Fear and significance are correlated. Take the fear seriously rather than interpreting it as a stop sign.
-
-→ Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md) — detailed case studies (Butterfield, Chesky, late-blooming founders), the MVP of Self exercise, the iteration log template, and the 90-day founder check-in protocol.
-
----
 
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
@@ -985,94 +986,36 @@ SDT threads through the other frameworks in this skill:
 > **The frameworks are not separate theories. They are different lenses on the same underlying needs. SDT is the scaffold; the other frameworks fill in the practice.**
 
 ---
-
 ## Framework: Range and the Generalist Path (David Epstein)
 
-The dominant advice for purpose-seekers has a hidden assumption: that early specialization is the fast track to meaning. David Epstein's *Range: Why Generalists Triumph in a Specialized World* systematically dismantles this assumption with evidence from sports, science, business, and education. The finding that matters most for the purpose-finder: **the most fulfilled, creative, and resilient people are disproportionately late-blooming generalists**, not early specialists.
-
-Epstein's core argument: in a world that rewards specialization, the generalist advantage is increasing. The ability to synthesize knowledge across domains — to connect ideas that specialists in any single field cannot see — is becoming more valuable, not less. This has direct implications for purpose discovery.
+David Epstein's *Range* dismantles the early-specialization assumption: the most fulfilled, creative, resilient people are disproportionately late-blooming generalists. In a world rewarding cross-domain synthesis, the generalist advantage is increasing.
 
 ### The Sampling Hypothesis
 
-Epstein's most important insight for purpose-seekers is the **sampling hypothesis**: people who try many different things before committing to a direction consistently end up with better-fit purpose than people who specialize early.
+People who try many different things before committing consistently end up with better-fit purpose than early specializers. Early specializers optimize for the least information they'll ever have about themselves. Late bloomers accumulate evidence through experience: what engaged me? What did I come back to? What felt like me?
 
-The mechanism is counterintuitive. Early specializers optimize for the information available at the time of choice — which is the least information you will ever have about yourself. Late bloomers accumulate evidence through experience: what engaged me? What did I come back to? What felt like me versus what felt like performance? This accumulated evidence is what later enables confident direction.
+> The person who dabbled in ten things before committing to one is better positioned for purpose than the person who committed at 18 and has been second-guessing it ever since.
 
-> **The person who dabbled in ten things before committing to one is better positioned for purpose than the person who committed at 18 and has been second-guessing it ever since.**
+### The Flashlight Model
 
-### Early Specialization vs. Delayed Specialization
+Most purpose frameworks assume a **wedge model**: narrow in fast, build career capital in one thing, extract meaning from depth. Epstein's data suggests a **flashlight model** for most people: start with broad illumination, then focus where the light catches something interesting. The focused beam comes after you've seen enough to know where you want to shine it.
 
-Epstein documents two distinct pathways:
-
-**Early specialization** (Tiger Woods, Mozart): works when:
-- The domain has early peak demands (elite sports, mathematics, chess)
-- Clear feedback loops exist that make early talent visible
-- The person and their environment correctly identified a genuine fit at a young age
-
-**Delayed specialization** (David Brooks, Charles Darwin, Hideo Kojima): works when:
-- The domain rewards cross-domain synthesis (writing, science, design, strategy)
-- The person needs accumulated experience to understand what they care about
-- Personality and values take longer to form and clarify
-
-Most knowledge work rewards delayed specialization. Yet the social pressure to "figure it out" by your mid-20s creates enormous unnecessary suffering for people who would bloom later — and who are not less capable, just less ready.
-
-### The Wedge Model vs. the Flashlight Model
-
-Most purpose frameworks implicitly assume a **wedge model**: narrow in as fast as possible, build career capital in one thing, and extract meaning from depth. The wedge gets sharper with time.
-
-Epstein's data suggests a **flashlight model** for most people: start with broad illumination (sampling many domains, developing wide reference), then focus where the light catches something interesting. The focused beam comes later — after you've seen enough to know where you want to shine it.
-
-> **The flashlight model is not a consolation for people who couldn't specialize early. It is a better strategy for most people in most domains that reward creative synthesis.**
-
-### What Sampling Actually Looks Like
-
-The practical question: how do you sample without being paralyzed by the options?
-
-Epstein's research on the most successful scientists found that the "good" ones had the widest early sampling before committing to a research area. They had been in multiple labs, worked on multiple problems, and had genuine exposure to different types of work before choosing their direction.
-
-The practical equivalent in non-academic life:
-- **Deliberate exploration, not passive dabbling.** Not "trying everything" by half-hearted sampling. Genuine engagement with enough depth in each area to know whether the challenge pulls you in.
-- **Shorter cycles for lower-stakes decisions.** Sampling doesn't require switching careers every year. It can be a side project, a conversation with someone in a field, a book that goes deep, or a short-term experiment. The key is not duration — it is honesty about what you felt.
-- **Looking for the pattern across experiments.** Your scattered sampling history is not a sign of weakness. The thread connecting your experiments — the type of challenge, the type of contribution, the type of thinking — is the signal about direction that specialization would have obscured.
+> The flashlight model is not a consolation for people who couldn't specialize early. It is a better strategy for most people in most domains that reward creative synthesis.
 
 ### The "Too Late to Sample" Distortion
 
-The most common objection: "I'm 35. I can't just try a bunch of new things." This is false.
-
-Sampling is not only for 22-year-olds. The relevant question is not "how old am I" but "how much have I actually sampled?" Most people who feel lost at 35 have actually only tried 2-3 things — not because they couldn't sample, but because each thing they tried was treated as a life sentence rather than an experiment.
-
-The adult equivalent of sampling:
-- **Job shadowing** (one full day with someone in a domain you're curious about)
-- **Side projects** (1-3 month experiments, not career pivots)
-- **Community involvement** (trying different communities and finding where you feel like yourself)
-- **Skill-adjacent exploration** (if you like writing, try journalism, fiction, technical writing, screenwriting — all different expressions of the same underlying interest)
-
-### The Generalist's Competitive Advantage in Purpose
-
-In a world that increasingly rewards the ability to connect across domains, the generalist who has genuinely sampled has a structural advantage: they can see connections that specialists cannot.
-
-The most influential thinkers and practitioners in complex fields (medicine, economics, design, AI research, policy) are disproportionately people with wide sampling histories. Their range is not a weakness — it is the source of their insight.
-
-For the purpose-finder: if your path so far looks like a series of partial experiments rather than a clean arc, stop treating that as a liability. The mess may be the raw material of your eventual direction.
+Most people who feel lost at 35 have only tried 2-3 things — not because they couldn't sample, but because each thing was treated as a life sentence rather than an experiment. Adult sampling: job shadowing (one full day), side projects (1-3 months, not career pivots), skill-adjacent exploration (if you like writing, try journalism, fiction, technical writing — different expressions of the same underlying interest).
 
 ### Using Range in Conversation
 
-**When someone says "I've tried a lot of things and never stuck with any of them":**
-> That's not failure — that's sampling. The question is: what did the things you returned to have in common, regardless of whether you stuck with them? The pattern across your experiments is the signal. Most people who feel lost have actually collected a lot of data about themselves. They just haven't read back what they already know.
+**"I've tried a lot of things and never stuck with any of them":** That's not failure — that's sampling. What did the things you returned to have in common? The pattern across experiments is the signal.
 
-**When someone says "I should have specialized by now":**
-> The research doesn't support that. For most fields — especially the ones that pay off in meaning, creativity, and impact — the generalist advantage is growing, not shrinking. What's one domain you've been curious about but never seriously tried?
+**"I should have specialized by now":** For most fields — especially the ones that pay off in meaning and impact — the generalist advantage is growing, not shrinking.
 
-**When someone is afraid of "wasting" their earlier specialization:**
-> Your specialization is not wasted if you can apply it somewhere else. The generalist path doesn't mean abandoning what you know — it means adding to it. The combination of your specific expertise plus a new domain is usually what makes someone genuinely valuable.
+**"I feel behind my peers":** You're comparing your range phase to their specialization phase. The comparison is invalid.
 
-**When someone feels behind their peers:**
-> You're comparing your range phase to their specialization phase. The comparison is invalid. Your path makes sense if you are genuinely sampling, learning, and narrowing based on real evidence. The person who specialized early and is now locked into something they chose at 22 may be the one who should be nervous.
+→ Full content: [references/range-generalist.md](references/range-generalist.md)
 
-**When someone says "I don't know what I'm good at":**
-> Good at what, specifically? The answer depends entirely on the domain. Generalists often feel "not good at anything" because they haven't had enough depth in any one thing to feel genuine competence. The question is not "am I talented?" — it's "have I given this specific thing enough time to find out?"
-
----
 
 ## Framework: The Philosophy of Enough
 
@@ -1197,6 +1140,84 @@ Mortality is the clearest lens for purpose decisions. Holding your own death in 
 
 ---
 
+
+## Framework: Loneliness, Belonging, and Purpose
+
+Loneliness and purposelessness are deeply interconnected. Isolated people lack the social feedback that helps direction clarify — they cannot see themselves reflected in others' responses, cannot test ideas, cannot discover what they care about through the friction of actual relationships. And purposelessness makes loneliness worse: without a direction to invest in, attention turns inward, amplifying disconnection.
+
+**Belonging is not the same as being known.** You can be surrounded by people and still be lonely. Loneliness is about the quality of connection, not the quantity of it.
+
+### Three Dimensions of Belonging
+
+1. **Intimate** — at least one person who knows the real you, including the parts you hide. Not many friends — just one person with whom vulnerability is safe. This is the most direct antidote to the "no one understands me" experience.
+2. **Collective** — being part of a group that shares your values or identity. Workplace, faith community, hobby group, volunteer organization. The key is experiencing yourself as part of something larger than your individual existence.
+3. **Place** — connection to a physical location. Often the most neglected and most destabilized by modern mobile life. Having at least one place you return to regularly stabilizes identity.
+
+When all three are present, loneliness is rare and purpose is more accessible. When one or more are absent, the absence creates a gravitational pull toward isolation that most people interpret as "I don't know what I want" — when the actual issue is "I don't have enough felt connection to find out."
+
+### The Competence Trap
+
+A specific pattern common among high achievers: competent in every domain except connection. They can produce excellent work but have not built the skills for intimate relating. Intimacy requires vulnerability, which feels dangerous when your identity is built on competence. For this person, the purpose problem and the loneliness problem are the same problem. The fix is not to become less competent — it is to add vulnerability as a parallel skill.
+
+### Building Belonging as a Purpose Strategy
+
+Purpose does not emerge from isolation. It emerges from the friction between your engagement and the world's response — friction that requires other people.
+
+- **Identify your intimate gap.** Do you have at least one person who knows the real you? A therapist, a close friend, a sponsor. Someone you can be honest with without performing.
+- **Find your collective.** Join something. Show up consistently. Many people who feel purposeless have never seriously tried joining a group that shares their values.
+- **Tend your place.** A café, a park, a library — one place that becomes yours.
+
+### Using Loneliness in Conversation
+
+**"I feel alone even when I'm around people":** That's a belonging problem. What would it take to feel genuinely known? Usually the answer is vulnerability — which is terrifying, which is why most people avoid it.
+
+**"I don't have time for deep relationships":** You have time for work, for scrolling, for consuming content. Connection is not a luxury — it's the medium through which purpose becomes visible.
+
+**"I'm isolated and want purpose":** Start with connection before clarity. Join something. Show up consistently. You cannot discover what you care about in a vacuum.
+
+**"I don't know anyone who understands me":** Most people need one person, not many. One is achievable. Are you in spaces where you might find that one person?
+
+→ Full content: [references/loneliness-and-purpose.md](references/loneliness-and-purpose.md) — the neurobiology of social pain, attachment theory and purpose, belonging research (Baumeister, Leary), and building connection practices.
+
+---
+
+## Framework: Mortality, Legacy, and the Endpoint Clarifier
+
+Mortality is the clearest lens for purpose decisions. Holding your own finitude in clear view reorganizes priorities — not because death is depressing, but because it is clarifying. Every major wisdom tradition uses death as the primary tool for priority-setting.
+
+### The Memento Mori Practice
+
+**Memento mori** ("remember you will die") is not about fear — it is calibration. Seneca: at day's end, briefly ask what you did that day that would matter if it were your last. Epictetus: at day's start, ask whether the work you're about to do is the work you'd want to be doing when death arrives. Two-minute practices that produce presence, not morbidity.
+
+Terror Management Theory research confirms: mortality reminders shift people toward meaningful values, not away from them. When the endpoint is visible, the trivial becomes obviously trivial. Studies used 2–3 minutes of reflection — longer periods overwhelm rather than clarify.
+
+> **The person who can hold their mortality clearly makes better choices about how to spend their finite time.**
+
+### The Deathbed Regret Pattern
+
+Bronnie Ware spent years in palliative care. The most common regrets at the end: living someone else's life rather than their own, working too much and missing presence with people, suppressing authentic expression, losing touch with friends, and waiting for permission to be happy.
+
+A 2018 study confirmed: **ideal-related regrets (not following dreams, not becoming who you were capable of) outnumber action-related regrets 3-to-1.** People regret inaction more than action. The small daily deferrals compound into a life.
+
+### The活过 (Huóguò) Test
+
+**活过** (huóguò) = "having truly lived" — not just existed, but lived with such full engagement that death feels like arrival, not loss. The opposite: **白活** (bái huó) = to have lived in vain, to reach the end and feel you inhabited none of it.
+
+The活过 test: at the end of today, did you genuinely inhabit it — not just survive it, but live it? This reframes purpose from an abstract noun to a quality of daily engagement.
+
+### Using Mortality in Conversation
+
+**"I'm afraid of wasting my life":** The fact that you're asking means you haven't. The person who truly wasted their life doesn't ask. If you had one year, what would you start doing today?
+
+**"I'm scared of dying without having mattered":** Meaning does not require monument. The person who lived with genuine attention and contributed what they could has had a meaningful life — even if no one outside their circle knows their name.
+
+**"I don't want to think about death":** The avoidance of mortality thinking is the avoidance of the clearest lens for making choices about how to spend your time. Death is not a bug — it is a feature.
+
+**"I'm putting off what matters until I secure myself":** Security is a moving target. The habits of deferral tend to persist. Begin doing what matters within your current constraints, not after a condition that keeps receding.
+
+→ Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — complete deathbed regret data, TMT's 5 key findings, Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter),活过 framework, One-Year Letter template, Eulogy Draft.
+→ Related: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — Kintsugi reframe, Erikson's generativity concept, narrative coherence problem.
+
 ## Common Pitfalls
 
 1. **"I need to find my purpose before I can start."** — This is the paralysis. Purpose is built, not found. Start anything and the direction will clarify.
@@ -1215,19 +1236,16 @@ Mortality is the clearest lens for purpose decisions. Holding your own death in 
 
 See also: `references/research-notes.md` — Self-Determination Theory, ikigai vs. vocation framing, flow state triggers, the meaning crisis research, and extended hard-moment scripts.
 
-**When they say "I don't know what I want":** Not knowing is not a permanent condition. It's a starting position. The question is not "what do you want?" It's "what have you tried?" Start trying things — the answer comes from living, not thinking.
-**When they say "I have no motivation":** Motivation is output, not input. You don't wait to feel motivated and then act. You act, and motivation follows. Start with 2 minutes.
-**When they say "Everyone else seems to know what they're doing":** No one knows what they're doing. Everyone is making it up. The people who look directed just made a decision and stopped second-guessing it publicly.
-**When they say "I'm afraid I'll waste time on the wrong thing":** The only real waste is staying in a life that doesn't fit. You don't know what's right without experimenting. 3-month trials are not life sentences.
-**When they say "what's the point of anything":** Not knowing the point is not proof there is no point. It is proof you are in the middle of the story, not at the end. Keep going. The answer clarifies in retrospect.
-**When someone is afraid to make a big decision:** What would you regret not having tried when you're 80? That's not a logic problem — it's a values question. Most people already know the answer.
-**When someone feels their life is on hold:** If you knew you had 10 years, what would you start doing this week? Not the theoretical answer — the actual thing you'd schedule Monday morning.
-**When someone says "I don't know what to do with my life":** Write down three versions: the one you have now, the one you'd have if you changed one thing, and the wild card that scares you a little. The third usually contains the direction you already knew.
-**When someone says "I feel like I'm in a rut":** Ruts are comfort zones disguised as routine. The fix is not more motivation — it's raising the difficulty of something.
-**When someone says "I have everything I should want and still feel empty":** Autonomy and relatedness are met, but the competence need is starving. Are you growing at anything — not consuming, but building skill, getting better, being stretched?
-**When someone says "I feel like I'm not good enough":** That's a competence signal, not a character flaw. Build the competence through deliberate practice.
-**When someone says "I don't feel motivated to do anything":** You're waiting for motivation to arrive before acting. SDT says it works the other way: pick the smallest thing that gives you a genuine competence hit and start there.
-**When someone says "I'll never have enough money/status/recognition":** The sociometer doesn't care what number is on your account. It compares to a moving target. Where is your actual enough point?
+**"I don't know what I want":** Not knowing is not permanent. What have you tried? Start trying things — the answer comes from living, not thinking.
+**"I have no motivation":** Motivation is output, not input. Start with 2 minutes.
+**"Everyone seems to know what they're doing":** No one knows what they're doing. The people who look directed just stopped second-guessing publicly.
+**"I'm afraid I'll waste time on the wrong thing":** The only real waste is staying in a life that doesn't fit. 3-month trials are not life sentences.
+**"What's the point of anything?":** Not knowing is not proof there is no point. It's proof you are in the middle of the story, not at the end.
+**"I feel like I'm in a rut":** Ruts are comfort zones. The fix is raising the difficulty of something.
+**"I have everything and still feel empty":** Autonomy and relatedness are met, but the competence need is starving. Are you growing — not consuming, but building skill?
+**"I feel like I'm not good enough":** That's a competence signal. Build it through deliberate practice.
+**"I'll never have enough money/status":** The sociometer compares to a moving target. Where is your actual enough point?
+**"I feel alone even when around people":** That's a belonging problem. Usually the answer is vulnerability — terrifying, which is why most avoid it.
 
 ## When to Recommend Professional Support
 
@@ -1241,14 +1259,10 @@ Suggest therapy, a career coach, or a support group when:
 
 ## Verification Checklist
 
-- [ ] Reframe purpose as a practice, not a discovery
-- [ ] Address the passion myth directly
-- [ ] Give concrete exercises (energy audit, micro-experiments)
-- [ ] Distinguish motivation from purpose
-- [ ] Give the 2-minute rule and environment design
-- [ ] Address the "too late / too old" distortion
-- [ ] Offer professional support resources when appropriate
-- [ ] Introduce SDT (autonomy/competence/relatedness) as the foundational psychological scaffold that explains why other frameworks work
-- [ ] Introduce attribution-to-context vs. attribution-to-self for failure reframe
-- [ ] Update Quick Scripts with SDT-based reframes
-- [ ] Introduce failure and uncertainty framework (failure as directional signal, late-life purpose patterns, uncertainty trap, the messy middle) for when user has failed or feels behind
+- [ ] Reframe purpose as practice, not discovery; address the passion myth
+- [ ] Give concrete exercises (energy audit, micro-experiments, 2-minute rule)
+- [ ] Use SDT as the psychological scaffold for why all frameworks work
+- [ ] Address "too late / too old" distortion and comparison trap
+- [ ] Use failure and loneliness frameworks when relevant
+- [ ] Offer professional support when clinical depression or dissociation is present
+- [ ] Quick Scripts: all items current and paired to their framework
