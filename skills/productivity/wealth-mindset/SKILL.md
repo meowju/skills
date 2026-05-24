@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.20.0
+version: 1.22.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -500,7 +500,17 @@ The result of 70 years of consistent application: the world's greatest investmen
 
 The parallel for personal wealth: apply the same principles to income, spending, and investment. Stay in your lane. Demand value. Let compound interest work. Say no to noise.
 
+### Buffett's Index Fund Bet: The Fees Are the Enemy
+
+In 2007, Buffett bet $1 million that a simple S&P 500 index fund would outperform a portfolio of hedge funds over 10 years. Index fund: 85.4%. Hedge funds: 22%. Protégé Partners conceded in 2017. The culprit was not bad management — it was the fee structure. Typical hedge funds charge 2% management and 20% of profits. That compounds into a massive drag most investors underestimate.
+
+Buffett had been saying this for years. His 2008 shareholders letter: *"When trillions of dollars are managed by Wall Streeters charging high fees, it will usually be the managers who reap outsized profits, not the clients."*
+
+The bet resolved it empirically. A low-cost S&P 500 index fund beats most professionals after fees. That's the lesson.
+
 ---
+
+→ Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, why Buffett never sells, Lollapalooza effect, Two-List System, Insurance Float.
 
 → Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, why Buffett never sells, Lollapalooza effect, Two-List System, Insurance Float.
 
@@ -1306,78 +1316,61 @@ The Dalio framework is for the analytically-minded wealth builder who wants to u
 
 Morgan Housel's 2020 bestseller argues that the biggest determinant of financial success is not technical knowledge — it's behavior, patience, and the ability to stay rational when emotions push you in the wrong direction. This makes it the perfect complement to all the other frameworks in this skill: you can have the best investment strategy in the world and still fail if your behavior undoes it.
 
-### The Core Premise: Technical Skill Is Overrated
-
-Housel's central argument:
-> "The premise of this book is that doing well with money has a lot less to do with how smart you are and a lot more to do with how you behave."
-
-Most financial advice focuses on the math — the spreadsheet, the asset allocation, the tax optimization. Housel agrees all of that matters, but argues that the biggest variable is psychological: will you stay the course when markets crash 30%? Will you resist lifestyle inflation when you get a raise? Will you ignore the neighbor's new car and keep investing?
-
-### The Most Important Lesson: No One's Crazy
-
-Housel opens the book with this: every financial decision someone makes makes sense from inside their own history and psychology. The person who doesn't invest in stocks because their parents lost everything in 2009 isn't stupid — they're responding rationally to their trauma. Understanding why people make the decisions they make is more useful than judging them.
-
-→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
-
-### The Key Lessons (Summary)
-
-**Lesson 1: Compound interest is invisible for decades, then the curve goes vertical.** A $10,000 investment at 10% becomes ~$672,000 in 50 years. Don't judge investing by year 3.
-
-**Lesson 2: Getting money requires luck; keeping it requires discipline.** Wealth is what you don't spend. High income + high spending = not building wealth.
-
-**Lesson 3: The person who looks the richest is usually the poorest.** Real wealth is almost always invisible. The $90,000 BMW may be leased. The 10-year-old Corolla may be paid off with $800K in the bank.
-
-**Lesson 4: Wealth is freedom — the ability to do what you want, when you want.** The person with $1M in index funds earning $40K/year is more free than the person with $3M earning $120K/year but spending $115K.
-
-**Lesson 5: The highest arithmetic return is always the result of the highest behavioral tolerance.** The investor who earns 7% and holds beats the investor who earns 9% and panic-sells. The gap between gross and net returns is mostly behavior.
-
-**Lesson 6: Freedom is the best framework for thinking about money.** Stop asking "how do I maximize net worth?" Ask "what does this money give me the freedom to do or not do?"
-
-**Lesson 7: The hardest financial skill is getting the goal correct.** "$2 million by 55" is actionable. "I want to be comfortable someday" is not. Specific goals create behavioral discipline vague ones cannot.
-
-**Lesson 8: "Room to be wrong" is a life concept, not just an investing concept.** The person who saves 40% and can absorb a 30% market drop without changing their lifestyle has margin. The person who needs exactly 10% to survive is fragile.
-
-**Lesson 9: "Saving for the sake of saving" is underrated.** You don't know what opportunities will require capital. Cash is the fuel for the next opportunity. The person with $50K saved for no specific purpose can take the calculated risk when it matters.
-
-**Lesson 10: The person who "wins" investing is usually the one who stays in the game longest.** Investors who leverage, panic-sell, or chase fads never get the benefit of compounding. The person who puts 30% of income into index funds and never stops for 40 years is playing a game with almost no competition.
-
-**Lesson 11: The biggest wealth destroyer is short-term thinking in a long-term game.** The cost of watching your portfolio daily is paid for by the people who don't. The person who holds and keeps contributing wins — by doing nothing.
-
-**Lesson 12: Every dollar you save is a worker that earns more dollars.** Don't think of saving as deprivation. Think of it as hiring. Each dollar you invest is a worker that earns more dollars forever.
-
-**Lesson 13: The gap between rich and wealthy.** "$5M in the bank makes you wealthy. Having a $5M house and a $4M mortgage makes you rich." Track net worth, not appearance.
-
-**Lesson 14: The "never enough" trap is the default setting.** Lifestyle inflation expands to meet every income increase. The only way out: define "enough" before your income does it for you.
-
-**Lesson 15: Financial freedom comes at a specific number.** At a 4% safe withdrawal rate: spend $40K/year → need $1M. Spend $80K/year → need $2M. Know your number before you optimize for more.
-
-**Lesson 16: The role of luck should make you humble, not passive.** Be grateful for the breaks you've caught and generous toward others who didn't. Focus on the variables within your control.
-
-**Lesson 17: The compounding curve is almost impossible to believe in until you've seen it.** Trust the math, ignore the feelings, stay invested. The early years feel like nothing is happening. Then the curve goes vertical.
-
-### The Housel Wealth Framework
-
-| Principle | Core Insight | Applied Action |
-|---|---|---|
-| Behavior > technical skill | Doing well with money is mostly about doing simple things consistently | Automate savings, ignore noise |
-| Wealth is what you don't spend | High income + high spending = not building wealth | Track the gap, not the income |
-| Rich vs. wealthy | Assets minus liabilities, not income | Track net worth, not appearance |
-| Freedom is the goal | Money buys time and options | Define your number for independence |
-| Room to be wrong | Margin of safety applies to life | Build a buffer, don't over-leverage |
-| Never enough trap | Lifestyle inflation is the default | Define "enough" before you earn more |
-| Stay in the game | Not panicking beats picking winners | Automate, ignore noise, don't sell |
-| Peace of mind is the point | Sleep and low stress are worth more than the last dollar of return | Simplify, don't overcomplicate |
-
-### The Takeaway
-
-Housel's ultimate lesson: *The purpose of money is not to die with the most of it. The purpose of money is to give you the life you actually want to live.*
-
-The other frameworks in this skill give you the tools. Housel's framework gives you the right goal — financial independence, bought through decades of consistent, rational behavior and the willingness to never let lifestyle inflation steal your compounding.
+**Core Housel lessons:** Getting money requires luck; keeping it requires discipline. The person who looks the richest is usually the poorest. The highest arithmetic return is the result of the highest behavioral tolerance. Wealth is freedom — the ability to do what you want, when you want. Freedom is the best framework for thinking about money. The hardest financial skill is getting the goal correct. "Room to be wrong" applies to life, not just investing. Every dollar you save is a worker that earns more dollars. The person who wins at investing is usually the one who stays in the game longest. The biggest wealth destroyer is short-term thinking in a long-term game. The gap between rich and wealthy. The "never enough" trap. Financial freedom comes at a specific number. The compounding curve is almost impossible to believe in until you've seen it.
 
 → Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
 
 ---
----
+
+
+
+## Classic Industrial Wealth Builders: Rockefeller and Carnegie
+
+The pre-20th-century wealth builders offer a different lesson set: vertical integration, industry control, and the deliberate transfer of wealth across generations. Rockefeller and Carnegie built fortunes that persist — in foundations, institutions, and companies — well beyond their deaths.
+
+### John D. Rockefeller: Control the Infrastructure
+
+Rockefeller's insight was not to produce more oil than anyone else, but to control the *distribution infrastructure* of oil. When everyone else competed on production, he competed on logistics and bargaining power.
+
+**The Standard Oil framework:**
+- Rockefeller asked: *"What if I don't try to produce more than everyone else — what if I try to control how the whole market moves?"*
+- He negotiated railcar deals that gave him volume discounts competitors couldn't match
+- He invested in byproducts (petroleum derivatives) that others wasted
+- He built a trust structure that let him coordinate competitors without owning them directly — until the Supreme Court said no
+
+**The wealth lesson:** The person who controls the pipeline earns more than the person who digs the oil. Ask: *"What part of this market am I uniquely positioned to own the flow of, not just the production of?"*
+
+**Rockefeller's specific advantage:** He started with a transparent cost structure. He knew exactly where kerosene was expensive to produce and moved to reduce those costs systematically — not by cutting corners, but by investing in infrastructure that others hadn't built.
+
+**Rockefeller on money:**
+- *"The growth of a large business is merely a survival of the fittest."*
+- *"Competition is a sin."* (He meant it literally in the context of monopolies — and he built one.)
+- *"I have a great respect for money."* — He treated it as a tool for scale, not a scoreboard.
+
+### Andrew Carnegie: Convert Wealth to Lasting Capital
+
+Carnegie's approach was different: he accumulated enormous wealth through steel, then systematically gave it away. His "Gospel of Wealth" doctrine — that the rich have an obligation to circulate their money back into society — defined modern philanthropy and the foundations that transmit wealth institutionally rather than individually.
+
+**The Carnegie framework:**
+- Accumulate ruthlessly through industrial excellence
+- Give it away strategically before death (to foundations, libraries, universities)
+- The goal was not to pass wealth to heirs but to institutionalize its impact
+
+**The wealth transfer lesson:** The most durable wealth is not held — it's directed. Rockefeller and Carnegie both chose to convert personal fortunes into institutions that outlast them. Carnegie Mellon University, the Carnegie Corporation, the Peace Palace — these generate value indefinitely.
+
+**The personal application for modern wealth building:**
+- A business that institutionalizes its value (becomes an institution) is more durable than a business that depends on your continued involvement
+- Investing in assets that transmit value across generations (real estate, dividends, intellectual property) follows the same Carnegie logic
+- The person who builds a business and sells it to a larger company converts their wealth into capital they can redirect
+
+**Carnegie's rules for wealth:**
+1. *"The man who dies rich dies disgraced."* — Wealth kept is wealth wasted in Carnegie's view
+2. *"Put all your eggs in one basket, and then watch that basket."* — Concentration, not diversification, for builders
+3. *"There is no success like habit."* — Daily improvement compounds in ways that seem impossible until they aren't
+
+**The common thread:** Both Rockefeller and Carnegie were relentless about costs and infrastructure — not just about working harder. They built systems that multiplied their effort, then converted those systems into institutions that multiplied value long after they stopped working.
+
+
 
 ## Verification Checklist
 
