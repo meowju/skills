@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 2.44.0
+version: 2.46.0
 author: Hermes Agent
 license: MIT
 metadata:
@@ -1589,10 +1589,6 @@ Week 4: "准备好了demo环境，随时可以体验..."
 
 **核心洞察：** 选品 > 写作质量。选对细分方向，烂书也能卖；选错方向，好书也滞销。
 
-→ Full content: [references/ai-passive-income-cases.md](references/ai-passive-income-cases.md)
-
----
-
 ### 路径二：AI SaaS 工具站（中等投入，$500-5000 启动）
 
 **核心逻辑：** 做一个解决特定场景的 AI 工具，靠订阅制持续收费。
@@ -1632,10 +1628,6 @@ Week 4: "准备好了demo环境，随时可以体验..."
 - 真正被动程度：中等（需持续更新维持流量）
 
 **核心洞察：** Faceless 不等于没特色。你的声音、选题角度、编辑节奏就是护城河。
-
-→ Full content: [references/ai-passive-income-cases.md](references/ai-passive-income-cases.md)
-
----
 
 ### 路径四：AI Newsletter 付费订阅（高门槛，高价值）
 
@@ -1898,11 +1890,11 @@ Month 2：第一个付费客户（可以免费或低价换案例）
 Month 3：建立case study，用案例找更多客户，定价基于服务价值
 ```
 
-→ Full content: [references/ai-compliance-moat.md](references/ai-compliance-moat.md)
+→ 完整市场对比表+API服务商数据：[references/ai-compliance-moat.md](references/ai-compliance-moat.md)
 
----
+决策树
 
-## 二十、AI真实创富案例库：谁在真正赚钱（2024-2025深度研究）
+## 二十、AI真实创富案例库
 
 > 本节是第六次迭代「AI副业收入报告」的升级版——不是收入分布数据，而是**完整的故事**。每个人物：背景→工具→路径→关键数字→核心洞察。真实姓名的用了昵称，数据经过交叉验证。
 
@@ -3163,15 +3155,13 @@ Month 3：收第一笔钱
 
 ---
 
----
-
 ### 二、非共识洞察（90%的人不知道）
 
 **洞察1：东南亚数据法规，现在是2018年的GDPR——早进入的人制定规则**
 
-
-
 → 完整市场对比表+API服务商数据：[references/ai-compliance-moat.md](references/ai-compliance-moat.md)
+
+决策树
 决策树：中国大陆 → 通义/文心；欧美 → OpenAI/Anthropic；全球 → 多API架构；强合规 → AWS Bedrock
 
 ---
@@ -4963,3 +4953,17 @@ AI 工具市场变化极快。第一个版本做到 60 分就上线，看用户�
 | 想低启动成本快速验证 | AI工作流模板 |
 
 **核心原则：** 不是「服务或资产」二选一，而是「先用服务验证需求，再用资产规模化」。先做服务赚钱，再把成功经验固化成资产。
+
+---
+
+## 四十五、AI Agent 商业化：2025 年最被低估的高价值赛道
+
+> Run 11（v2.46）新增。AI Agent = 自主完成工作任务，不是问答。客户为「不用雇人」付钱，不是为「AI 技术」付钱。
+
+**核心**：Chatbot = 问答（$100-1k/月）vs Agent = 自主执行（$1k-50k/月）。定价锚定替代的人力成本。
+
+**真实案例**：Claygent 招聘 Agent ARR $5M+；Sierra AI 客服 Agent 处理 85% 互动；税务 Agent $200-500/季度。
+
+**普通人路径**：选高薪垂直行业 → Agent 替代核心重复工作 → 按节省人力定价。
+
+→ 完整研究：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
