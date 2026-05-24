@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 2.9.0
+version: 3.0.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -824,6 +824,76 @@ Most purpose stories told in retrospect look clean. The actual lived experience 
 
 ---
 
+## Framework: Founder Mode — How Builders Find Direction
+
+Brian Chesky's 2024 essay on "founder mode" described how some founders scale companies by staying close to the work — the product, the customers, the frontline decisions — rather than delegating upward into textbook management. The deeper insight most people missed: the *process* of founder mode is a **purpose discovery mechanism**. Founders rarely know what they're building at the start. They stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement, not planning. The founder discovers, through iteration, what the company — and by extension, what they themselves — actually care about.
+
+### The Three Founder Mode Principles for Purpose
+
+**1. Stay Close to the Work (Not the Title)**
+
+Most career advice tells you to climb the ladder — get promoted, delegate, manage. This produces competent but purposeless mid-career professionals. Founder mode inverts this: the closer you stay to the actual work — the product, the customer, the problem — the more you learn about what you genuinely care about. Direction is found in depth, not elevation.
+
+> Before optimizing for a title, ask: where is the work I cannot stop thinking about? That recurring draw is a signal about direction.
+
+**2. Iterate Toward What Resonates**
+
+The founder builds a version, observes what customers respond to, adjusts. The standard career approach is: figure out what you want, build a plan, execute. Founder mode says: build something, watch what happens, adjust. The adjustment is not failure — it is information.
+
+> Stop asking "what should I build?" Ask "what have I built that people responded to?" Your past successes contain signal about what will sustain you.
+
+**3. The Unfinished Founder Problem**
+
+People in the middle of building something interpret their uncertainty as proof they should stop. They haven't "found" their purpose because they haven't hit the iteration that resonates. *Unfinished* is not the same as *wrong direction*. The founder who quits before the signal is the founder who never finds out what they would have discovered.
+
+### The "MVP of Self" Framework
+
+Apply the minimum viable product principle to purpose discovery: you are already an MVP (audit existing skills, relationships, patterns). Quick experiments: add a feature, not a whole product. Measure: did this make me feel capable? Did others find it valuable? Did this give me something to return to tomorrow? The cycle is build → observe → adjust. The iteration is the point.
+
+### Founder Mode in Purpose Discovery: Examples
+
+**Stewart Butterfield (Slack, Flickr):** Built a video game. The game failed. The real-time communication technology it needed became Flickr, then Slack. The purpose signal was not in the original plan — it was in the response to what he built.
+
+**Brian Chesky:** Couldn't afford rent. Put an air mattress in the living room, made a website. The original purpose was survival. The real purpose — changing how communities form, what hospitality means — emerged through iteration.
+
+**Coming back from failure:** The founder who has failed once or twice knows more about their actual direction than the person who never tried. Failure removes options by elimination. What the person still wants to keep building toward is closer to real direction than anything they planned in advance.
+
+### Tactics: Applying Founder Mode to Your Career
+
+1. **Write your job description from scratch.** Not the one your employer gave you. The one that describes what you actually do when you're engaged. Compare the two — the gap is information.
+
+2. **Identify what you can't stop thinking about.** Not what you think you should think about. That recurring obsession is closer to your direction than any career objective.
+
+3. **Test one thing at the edge of your current ability.** Build the smallest possible version of something and show it to one person who will give you honest feedback. The feedback tells you whether you're pointed at something real.
+
+4. **Track the pattern across what you built, not what you planned.** Most people who feel lost have a history of experiments. Read your history back: what type of challenge shows up repeatedly?
+
+5. **Give yourself a 90-day check-in, not a daily evaluation.** Founders evaluate every quarter, not every day. The daily evaluation produces the paralysis that prevents real iteration from completing.
+
+6. **Find one person who will give you honest signal.** Not validation. Honest signal about whether what you're building is landing.
+
+### Founder Mode and Career Capital: The Synthesis
+
+Cal Newport's career capital framework and founder mode are the same insight from different angles. Together they produce a coherent model: build rare and valuable skills (career capital) → apply them to problems you genuinely care about (founder mode engagement) → observe what resonates → iterate toward what produces both meaning and value → use accumulated capital to claim autonomy when you've built something real.
+
+> The person who follows this sequence is not searching for purpose. They are building conditions under which purpose can emerge. The building is the practice. The purpose is what survives contact with reality.
+
+### Using Founder Mode in Conversation
+
+**"I don't know what to build":** Founders don't usually know. They start with a problem they can't stop thinking about. What problem can't you stop thinking about?
+
+**"What if I build the wrong thing and waste time":** The founder who builds the wrong thing learns something. The person who plans the right thing and never builds learns nothing.
+
+**"I tried something and it failed":** The failed experiment is data, not verdict. You have more information now than you did before. Use it.
+
+**"Everyone else seems to have a clearer direction":** You're watching their highlights. The clarity you see in other people's careers is usually a story constructed in retrospect, not a state they were actually in.
+
+**"I'm afraid to start something new because I've failed before":** Fear and significance are correlated. Take the fear seriously rather than interpreting it as a stop sign.
+
+→ Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md) — detailed case studies (Butterfield, Chesky, late-blooming founders), the MVP of Self exercise, the iteration log template, and the 90-day founder check-in protocol.
+
+---
+
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
 Edward Deci and Richard Ryan's **Self-Determination Theory** (SDT) provides the most empirically grounded account of what human beings actually need to feel motivated and purposeful. Unlike frameworks that focus on finding the "right" purpose, SDT explains *why* purpose produces motivation — and why most attempts to manufacture purpose fail.
@@ -1006,87 +1076,89 @@ For the purpose-finder: if your path so far looks like a series of partial exper
 
 ## Framework: The Philosophy of Enough
 
-One of the least-examined causes of purposelessness is not a lack of direction — it is the **chronic sense that nothing is ever sufficient.** The person who has achieved more than their childhood self could have imagined and still feels empty is not experiencing a purpose problem. They are experiencing an *enoughness* problem. The goalposts keep moving, and no matter where they land, they feel temporary.
+One of the least-examined causes of purposelessness is not a lack of direction — it is the **chronic sense that nothing is ever sufficient.** The person who has achieved more than their childhood self could have imagined and still feels empty is not experiencing a purpose problem. They are experiencing an *enoughness* problem.
 
 ### The Hedonic Treadmill: Why More Never Works
 
-Psychologists Philip Brickman and Donald Campbell coined the term **hedonic treadmill** in 1971. Their research found that both positive and negative life events produce only temporary shifts in well-being — the nervous system recalibrates, expectations adjust, and the person returns to a roughly stable baseline. Winning the lottery and suffering a disabling accident both converge, over time, back toward the same happiness set point.
+Psychologists Brickman and Campbell found that both positive and negative life events produce only temporary shifts in well-being — the nervous system recalibrates and the person returns to baseline. Sonja Lyubomirsky quantified it: positive changes deliver only **50% of the happiness boost people predict**, and it fades within months.
 
-Sonja Lyubomirsky's follow-up research at UC Riverside quantified this: positive life changes produce only about **50% of the happiness boost people predict** — and that boost fades within months. The lottery winner buys new things, adapts, wants more, and ends up no happier than before. The person who gets the promotion celebrates, adjusts to the new salary, starts eyeing the next level.
-
-The mechanism is **hedonic adaptation**: the brain normalizes new circumstances and raises the comparison point. Every win creates the condition for the next win to feel ordinary. The person chasing meaning through achievement is on a treadmill — running hard, going somewhere, but arriving at the same place they started.
+The mechanism is **hedonic adaptation**: the brain normalizes new circumstances and raises the comparison point. Every win creates the condition for the next win to feel ordinary. The person chasing meaning through achievement is on a treadmill — running hard, arriving at the same place.
 
 > **The person who earns twice as much as they did five years ago and feels the same has not failed. They have demonstrated a law of psychology, not a personal deficiency.**
 
-The trap is not that more is bad — it is that **more is not sufficient.** Achievement is reliable at producing momentary spikes. It is unreliable at producing durable meaning.
+### The Stoic Core: Finite Needs, Infinite Wants
 
-### The Stoic Insight: Wants Are Infinite, Needs Are Finite
+The Stoics understood what consumer culture obscures: the gap between what you need and what you want is the source of most dissatisfaction. Seneca: *"It is not that we have a short time to live, but that we waste a lot of it."* Epictetus: *"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."*
 
-The Stoics — particularly **Seneca** and **Epictetus** — understood something modern consumer culture systematically obscures: the gap between what you need and what you want is the source of most human dissatisfaction.
+The practice of **voluntary discomfort** — cold showers, plain meals, one-day media fasts — is not about suffering. It is about discovering that what you feared you'd miss is often not what you actually need.
 
-Epictetus, born a slave, distilled it:
-> *"He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has."*
+### The Sociometer: Why Enough Never Arrives
 
-Seneca, writing to his friend Lucilius, was more specific:
-> *"It is not that we have a short time to live, but that we waste a lot of it. ... We are not given a short life; we make it short."*
+Mark Leary's **sociometer theory**: the human nervous system runs a continuous background check on social acceptance. It does not shut off at a certain income or achievement level.
 
-The Stoic practice was not asceticism for its own sake. It was the deliberate cultivation of **the enough point** — the recognition that at some level of adequacy, additional acquisition produces no additional well-being, but the pursuit of additional acquisition consumes the finite time available for actually living.
+> **The person at $60,000/year who worries about status has the same sociometer reading as the person at $600,000/year.** The external benchmark adjusts to make the internal reading feel the same. This is not a character flaw — it is an evolved feature maladapted to a world of curated comparison.
 
-The Stoics used a technique called **voluntary discomfort** — deliberately experiencing temporary hardship (cold, hunger, plain food) to calibrate the gap between need and want. The goal was not suffering. The goal was clarity: to discover that the things you feared going without were often things you didn't actually need at all.
+### The Enough Point Exercise
 
-### The "Never Enough" Psychology: Sociometer Theory
+1. **The Yesterday Test:** *"If my life were exactly as it was yesterday — same income, same housing, same health — would I consider myself fortunate?"* Most honest answers are yes.
 
-Mark Leary's **sociometer theory** explains why "enough" feels so difficult to locate. Leary proposed that the human nervous system runs a continuous background check on social acceptance — a kind of internal radar asking *"do I matter? Am I valued? Am I included?"* This radar, evolved for tribal survival, does not shut off at a certain income or achievement level. It keeps scanning.
+2. **The 10-Year Window:** *"If I knew I had 10 years left, what would I need to stop chasing and start doing?"* Most people find the answer is less than they think — more time with people, more skill development, more contribution.
 
-The practical consequence: **the person who earns $60,000/year and worries about status has the same sociometer reading as the person who earns $600,000/year.** The external benchmark adjusts to make the internal reading feel the same. The person at the top of one ladder looks at the top of a taller ladder and feels, once again, behind.
-
-This is not a character flaw. It is an evolved feature of human social cognition that is maladapted to a world of curated comparison. The modern availability of visible success — everyone else's highlights on every screen — has created an unprecedented environment for chronic "not enough" feelings.
-
-### The Buddhist Economics Angle: When Growth Becomes Decline
-
-E.F. Schumacher, in his 1973 essay collection *Small Is Beautiful*, coined the term **Buddhist economics** to describe what he saw as a fundamental confusion in Western thinking: the assumption that infinite growth is progress, and that human satisfaction can be optimized indefinitely through expansion.
-
-Schumacher's core argument: the Western economist asks *"how can we maximize production?"* The Buddhist economist asks *"how much is enough?"* These are not the same question, and answering the first with the second has become the defining crisis of developed economies.
-
-> *"The Buddhist answer to the problem would be: work cooperatively with other people, produce things that are genuinely needed, and enjoy what you have. Seek to have enough. Be content."*
-
-The purpose connection is direct: **the person who cannot locate their enough point cannot locate their purpose.** Because purpose requires commitment — the willingness to go deep, to say no to other directions, to invest in something long-term. And you cannot commit deeply when every available option triggers the comparison engine that says *"maybe something better is out there."*
-
-### The Enough Point Exercise: Locating Your Actual Threshold
-
-The goal of the enoughness practice is not to stop wanting things. It is to **distinguish need from want with enough precision to know when you've crossed into the territory where more becomes a trap rather than a tool.**
-
-**Step 1: The Yesterday Test.**
-Ask: *"If my life were exactly as it was yesterday in every material respect — same income, same housing, same health — would I consider myself fortunate?"* Most people's honest answer is yes. This calibrates the gap between actual need and felt need. The gap between where you are and where your comparison engine wants you to be is almost always larger than the gap between where you are and where you actually need to be.
-
-**Step 2: The 10-Year Window.**
-Ask: *"If I knew I had 10 years left, what would I need to stop chasing and start doing?"* The 10-year frame short-circuits the comparison engine — it makes abstract ambition concrete. Most people find the answer is less than they think. They want more time with people they love, more skill development in things that matter, more contribution to things larger than themselves. Not more stuff. Not more status.
-
-**Step 3: The Tomorrow Morning Test.**
-Ask: *"If tomorrow morning I woke up with exactly what I have now — no more, no less — would I be able to find a reason to get out of bed that was genuinely mine?"* If the answer is no, the problem is not acquisition. It is attention. The exercise of locating enough is the exercise of locating what actually matters, independent of what the comparison engine is signaling.
+3. **The Tomorrow Morning Test:** *"If I woke up with exactly what I have now — no more, no less — would I find a reason to get out of bed that was genuinely mine?"* If no, the problem is not acquisition. It is attention.
 
 ### Enoughness Is Not Resignation
 
-The most common misreading of the enoughness philosophy: confusing it with settling. "Be content with what you have" sounds like giving up on growth, ambition, or contribution.
-
-It is the opposite.
-
-**Enoughness is a clarifying force, not a stopping force.** The person who knows their enough point is freed from the perpetual treadmill. They can invest in long-term directions without the background anxiety of *"this better be the perfect choice or I've wasted my life."* They can say no to opportunities that don't fit because they know what they are saying yes to. They can commit.
-
-The person who cannot locate their enough point is perpetually hedging — investing half in this direction, half in that one, keeping every door open because closing a door means accepting that the other doors are not worth walking through.
+Enoughness is a clarifying force, not a stopping force. The person who knows their enough point is freed from the perpetual treadmill. They can commit deeply to long-term directions without the background anxiety of *"this better be perfect or I've wasted my life."*
 
 > **Contentment is not the absence of ambition. It is the condition that makes ambition coherent.**
 
-The Stoic version of this: *ask not for more but for the strength to bear what cannot be changed and the wisdom to know the difference.* The wisdom part is the enough point. The strength part is what you build with the energy you stop wasting on endless acquisition.
+Enoughness and eudaimonic well-being are the same insight from different angles. The person who has found enough and the person who lives in accordance with their actual nature are almost always the same person.
 
-### Enoughness and Eudaimonia
+→ Full content: [references/enoughness-philosophy.md](references/enoughness-philosophy.md) — Stoic voluntary discomfort practice, sociometer theory deep-dive, the 10-year mortality lens, Buddhist economics (Schumacher), common enoughness distortions, and the full hedonic adaptation research.
 
-The connection between enoughness and eudaimonic well-being is direct. **Eudaimonia** — the Greek concept of living in accordance with your actual nature, growing toward your potential — requires the capacity to be present with what is. You cannot practice eudaimonia if your attention is perpetually in the future, calculating what you still lack.
+## Framework: Enoughness, Commitment, and The Quiet Life
 
-The person who has found a sense of enoughness and the person who has found eudaimonic well-being are almost always the same person. They stopped trying to optimize their way to meaning and started practicing it instead. They know what enough looks like in their own life — not in the life of the person they follow on social media — and they have directed their energy toward it.
+After finding your enough point, the central challenge that surfaces is **the fear that choosing enough means choosing less.** Modern culture's implicit instruction — keep your options open — activates the comparison engine constantly, the primary mechanism by which people remain stuck in permanent indecision while believing they are being prudent.
 
-The final reframe, from Epicurus (who was not a hedonist despite the reputation — he was a garden-dwelling pacifist who valued friendship and plain food):
-> *"Not what we have but what we enjoy, constitutes our abundance."*
+### The Commitment Problem
+
+The person who says *"I could do anything"* is not free — they are paralyzed by a comparison engine that won't let them value anything they've chosen. The person who has found an enough point and committed to it has made a different trade: they have decided that what they have chosen is worth more than what they gave up. That trade is the essence of commitment.
+
+> **Every choice is a trade. The person who cannot make peace with their trade cannot make peace with their life.**
+
+### The Quiet Life Is Not the Small Life
+
+There is a persistent assumption that purpose must be loud — publicly celebrated, visibly impactful. This causes enormous suffering for people whose actual direction is quieter than expected. The person who finds their direction in raising children well, maintaining a craft, contributing to a small community, or doing their job with genuine care is not failing at purpose. They are practicing a purpose that modern culture systematically undervalues: **the purposeful quiet life.**
+
+Epictetus, who spent years as a slave before becoming one of antiquity's most influential philosophers:
+
+> *"How long are you going to wait before you demand the best for yourself?"*
+
+The demand need not be loud. Living in accordance with your actual values — not the values the comparison engine feeds you — is the quietest and most radical act of purpose available.
+
+### The Sunk Cost of Fantasy
+
+The least-examined cost of perpetual indecision is not the time spent — it is the **mental energy consumed by the alternate life that is never lived.** Every person in permanent deliberation carries an imaginary parallel life: the career they didn't choose, the place they didn't move to, the person they didn't become. This ghost life occupies real psychological space.
+
+The decision to commit lets the ghost life stop consuming resources. The person who chooses their actual life — with all its real limitations — over the fantasy makes an energy trade that is almost always net positive.
+
+> **The life you have is the real life. The one you keep imagining is the ghost. Stop feeding the ghost.**
+
+### Enoughness as a Daily Practice
+
+Finding your enough point is not a one-time insight — it is a daily practice:
+
+1. **Morning:** Before checking what others are achieving, ask: *"What is enough for me today?"*
+2. **Mid-day:** Notice when the comparison engine fires and name it: *"There it is again."*
+3. **Evening:** The Yesterday Test — if this day were your life at its end, would the answer be yes?
+
+This is the Stoic practice of distinguishing what you can control (your attention, interpretation, commitment) from what you cannot (others' outcomes, the economy, the past).
+
+### When Enoughness Becomes Complacency
+
+The distortion to watch for: **using "enough" as permission to stop growing.** If "I have enough" becomes a wall rather than a foundation, it is a different problem than the hedonic treadmill — it is complacency.
+
+The test: does your enough point leave you energized for what you've chosen, or depleted by what you've given up? Genuine enoughness is energizing. An excuse is depleting.
 
 ---
 
@@ -1099,80 +1171,13 @@ The paradox has two sides that are both true simultaneously, and both easily dis
 1. **Purpose cannot be forced.** Trying too hard to find your purpose produces anxiety, not direction.
 2. **Purpose cannot be passively waited for.** Drift and "I'll figure it out eventually" rarely produce clarity.
 
-The resolution lies not in choosing one side but in understanding **what kind of effort actually helps** versus what kind merely simulates effort while avoiding the real work.
+The resolution: **what kind of effort actually helps versus what kind merely simulates effort while avoiding the real work?**
 
-### The Surrender Trap
+The paradox is resolved through surrendered action: **commit fully to the experiment, hold the outcome loosely.** You do not try without committing. You do not commit without accepting that the commitment may need to be revised. The person who can do both — act with full presence and remain genuinely open to being wrong — has found the psychological position from which purpose becomes visible.
 
-The self-help industry has produced a version of "let go" that is actually avoidance in spiritual clothing. "Release attachment to outcomes," "surrender to the universe," "trust the process" — these phrases, used unexamined, become permission to not try, not show up, and not risk disappointment.
+> All the purpose frameworks in this skill are different expressions of the same paradox. Ikigai is daily surrendered action. Frankl's attitudinal values are surrendered action in suffering. Newport's craftsman mindset is surrendered action in work. Csikszentmihalyi's flow is surrendered action in challenge. Clear's identity habits are surrendered action at the daily level. Founder mode is surrendered action applied to building. **Purpose clarifies through engagement, not through reflection on engagement.**
 
-True surrender in the purpose context is not the absence of effort. It is the absence of *grasping*. The distinction:
-
-| Grasping | Surrendered action |
-|----------|-------------------|
-| Trying hard because the outcome matters desperately | Trying hard because the trying is what you value |
-| Checking constantly whether you're "on track" | Not checking — just engaging |
-| Abandoning effort when results don't come quickly | Continuing because the engagement itself is rewarding |
-| Feeling like a failure if direction doesn't clarify | Remaining curious through uncertainty |
-
-The person who grasps is attached to the outcome (direction, certainty, validation). The person who surrenders is attached to the *process* (engagement, curiosity, showing up). Both can look identical from the outside. Only the internal experience reveals the difference.
-
-### Buddhist Non-Attachment and the Problem of Intentionality
-
-The Buddhist teaching of **non-attachment** (upekṣā) is frequently cited as a solution to purpose-seeking suffering. Non-attachment to outcomes, the teaching goes, frees you from the pain of wanting. This is accurate as far as it goes — but it is frequently misapplied to the purpose question.
-
-The problem: non-attachment does not mean you have no preferences about how to live. It means you do not cling to those preferences so tightly that their absence destroys you. A person who is genuinely non-attached can still choose a direction with passion and work toward it with intensity — and can simultaneously accept that the outcome is not entirely within their control.
-
-The misapplication: "I shouldn't be attached to having a purpose, so I won't try to find one." This is not non-attachment. It is using the doctrine to justify withdrawal from life.
-
-> The Buddhist teaching is: *desire causes suffering, but desire is also what makes life worth living.* The issue is not desire — it is the quality of desire. Attachment to outcomes that are outside your control produces suffering. Commitment to a direction that you can act on, while remaining open to how it unfolds, does not.
-
-### The Willingness to Be Fooled
-
-The writer and philosopher Mark Manson describes a useful reframe: **the willingness to be fooled.** The person who never commits to a direction because they want to be sure first will live their whole life in the audience. The person who commits before they have proof will sometimes commit to the wrong thing — and will discover this through living, adjust, and redirect.
-
-The key insight: **the fool who acts is always more correct than the wise person who waits.** Not because foolishness is good. Because action is the mechanism through which direction clarifies. You cannot think your way to certainty. You can only live your way to it.
-
-This connects directly to the micro-experiment philosophy in the Purpose Discovery Process: try things, commit for a bounded period, observe what you learn, adjust. The person who refuses to act "until they know for sure" is not being wise. They are being afraid. And the fear feels like wisdom because it masquerades as caution.
-
-### Active Engagement as the Actual Practice
-
-The paradox resolves here: **purpose clarifies through engagement, not through reflection on engagement.**
-
-The stuck person often has the sequence backwards. They believe: understand purpose → then act. The actual sequence: act → understand purpose through the acting.
-
-This is why:
-- The "Used to Love" exercise (what did you used to lose afternoons doing) is more useful than "what is my purpose?"
-- The Flow Log (when did you lose track of time) produces more signal than the meaning journal
-- The 3-month commitment produces more information than 3 hours of introspection
-
-The engagement is not a means to an end. It is the practice itself. You are not searching for your purpose while you work — you are practicing your purpose while you search. The distinction sounds semantic but it changes everything about how you hold the uncertainty.
-
-### Surrendered Action: The Synthesis
-
-The mature reframe combines both truths:
-
-> **Commit fully to the experiment. Hold the outcome loosely.**
-
-You do not try without committing. You do not commit without accepting that the commitment may need to be revised. The person who can do both simultaneously — act with full presence and accept that they may be wrong — has found the psychological position from which purpose actually becomes visible.
-
-This is not a technique. It is a stance toward uncertainty that becomes more natural with practice. The first few times you commit to something and remain genuinely open to being wrong, it feels uncomfortable. Later it feels like freedom.
-
-### The Paradox in Conversation
-
-**When someone says "I've been searching for years and I still don't know":**
-> The searching itself may be the problem — not a symptom of a deeper problem, but the actual activity of searching without engaging. Have you committed to anything long enough to find out if it fits? Not "tried it for a week and quit" — committed for 3+ months with genuine effort. That's a different kind of searching.
-
-**When someone is paralyzed by "what if I'm wrong about everything":**
-> You will be wrong about some things. The person who commits to something and is wrong has learned something real. The person who commits to nothing has learned nothing — about the world or themselves. Being wrong is a prerequisite for eventually being right about something that matters.
-
-**When someone says "I tried meditation and mindfulness but I still feel lost":**
-> Mindfulness helps you observe without grasping. It does not give you something to observe. You need both: the practice of non-attachment (to hold outcomes loosely) and the practice of engagement (the actual experiments). Without the second, the first becomes elaborate avoidance.
-
-**When someone feels guilty for not having found direction yet:**
-> The guilt usually means you're treating this like a test you should have passed by now. It's not a test — it's a process. The only real failure is stopping the process. If you're still engaging, still trying things, still willing to be wrong, you're doing it exactly right.
-
-**When someone says "I just need to let go and trust":**
-> Let go of the outcome you're grasping for. Don't let go of the engagement. The universe is not going to descend and hand you a purpose. What happens instead is that a person who is genuinely engaged with their life gradually discovers, through the engagement, what the engagement is for.
+→ Full content: [references/paradox-intentional-purpose.md](references/paradox-intentional-purpose.md), [references/founder-mode-purpose.md](references/founder-mode-purpose.md), [references/mortality-purpose.md](references/mortality-purpose.md)
 
 ---
 
@@ -1180,18 +1185,15 @@ This is not a technique. It is a stance toward uncertainty that becomes more nat
 
 Mortality is the clearest lens for purpose decisions. Holding your own death in clear view makes better choices — not because death is depressing, but because it is clarifying. Every major tradition of wisdom literature uses death as the primary tool for priority-setting.
 
-**Memento Mori:** The Stoics practiced it systematically. Seneca meditated on death nightly. Epictetus trained students to ask "shall I be doing this when death comes?" Roman generals had a servant whisper *memento mori* during triumphs — not to depress them, but to keep the present vivid. Marcus Aurelius: *"You could leave life right now. Let that determine what you do and say and think."*
+**The practice:** Briefly sit with your finitude — not to produce fear, but to produce clarity about what actually matters versus what is noise. Research shows (Terror Management Theory) that mortality reminders shift people toward meaningful values, not away from them.
 
-**Terror Management Theory:** Research in experimental psychology shows that reminding people of their mortality makes them more committed to meaningful values — not more fearful. When death is made salient, people rate purposeful activities as more important and recommit to their actual values. The small daily choices compound.
+**The regret pattern:** People who reach the end of their lives most consistently wish they had been more courageous about living true to themselves, expressing feelings, staying in touch, and permitting themselves happiness. A 2018 study confirmed ideal-related regrets outnumber action regrets 3-to-1. **People regret inaction more than action.** The small daily deferrals compound.
 
-**The Deathbed Regrets:** Bronnie Ware, a palliative care nurse, documented what people say at the end of life. The most common: *"I wish I'd had the courage to live a life true to myself."* Followed by: *"I wish I hadn't worked so hard," "I wish I'd had the courage to express my feelings," "I wish I had stayed in touch with friends," "I wish I had let myself be happier."* A 2018 study confirmed ideal-related regrets outnumber action regrets 3-to-1. **People regret inaction more than action.**
+**The sufficient version:** Enoughness is not resignation. The person who knows their enough point is freed from the perpetual treadmill. They can commit to long-term directions without the background anxiety of "this better be perfect." Contentment is not the absence of ambition — it is the condition that makes ambition coherent.
 
-**活过 (Huóguò):** The Chinese concept of having truly lived — fully present in your own life — is what allows a person to face death without needing to have "figured it out." Purpose is not a noun you find; it is a quality of engagement you practice. The person who has engaged fully does not fear the end.
-
-**Kintsugi:** The Japanese art of repairing breakage with gold. The crack is not hidden — it is made part of the beauty. Purpose tested through failure, reframed through loss, and rebuilt through grief is more durable than purpose never challenged. Your cracks are where the light enters — but only if you don't pretend they aren't there.
-
-→ Full content: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — deathbed regret transcripts, Stoic negative visualization, the One-Year Letter and Eulogy Draft templates, TMT experimental protocols, the活过 framework, and the complete regrets analysis.
-→ Related: [references/existential-anxiety.md](references/existential-anxiety.md) — existential anxiety vs. clinical anxiety, Heidegger's Being-toward-death, Yalom's therapeutic approach.
+→ Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — the complete mortality-purpose analysis including deathbed regret transcripts (Bronnie Ware's full data), Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter), Terror Management Theory experimental protocols (the 5-key findings), Marcus Aurelius's death reminders, the One-Year Letter and Eulogy Draft templates, the活过 (Huóguò) framework, and the Die With Zero perspective.
+→ Related: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — existential anxiety vs. clinical anxiety, Heidegger's Being-toward-death, Yalom's therapeutic approach.
+→ Related: [references/existential-anxiety.md](references/existential-anxiety.md) — depth on existential anxiety treatment approaches.
 
 ---
 
