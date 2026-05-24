@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 2.6.0
+version: 2.7.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1186,9 +1186,9 @@ Mortality is the clearest lens for purpose decisions. The person who holds their
 
 **活过 (Huóguò) — Having Truly Lived:** A Chinese concept of living so fully that death brings completion, not regret. Purpose is not a noun you find; it is a quality of engagement you practice.
 
-**Kintsugi:** Breakage is part of the purpose. Purpose tested through failure is more durable than purpose never challenged. The person who has been through something and found a way to continue has something to transmit that the person who never broke cannot offer.
+**Kintsugi:** Breakage is part of purpose. Purpose tested through failure is more durable than purpose never challenged. The person who broke and continued has what the unbroken cannot transmit.
 
-→ Full content: [references/legacy-and-mortality.md](references/legacy-and-mortality.md)
+**Existential Anxiety (Heidegger, Yalom):** Background awareness that your existence is finite and no one else will resolve your purpose question. Distinct from clinical anxiety — responds to meaning-making, not medication. "Ambient dread" is existential anxiety wearing practical dissatisfaction. → Full content: [references/existential-anxiety.md](references/existential-anxiety.md)
 
 ---
 
