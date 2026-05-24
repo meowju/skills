@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.27.0
+version: 1.30.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -704,72 +704,84 @@ The Naval model is the intellectual framework for people who want to build wealt
 
 → Full content: [references/naval-framework.md](references/naval-framework.md)
 
-## Naval's Decision Framework: How to Choose
+### Naval's Advanced Decision Framework: How to Choose Under Uncertainty
 
-Naval is unusually specific about HOW to make decisions — not just what to decide. This is often the missing link between frameworks and outcomes.
+Naval is unusually specific about HOW to make decisions — not just what to decide. This is the missing link between knowing frameworks and executing well.
 
-### The Three-Step Decision Process
+**The core problem:** Most people frame decisions as "will this work out?" when they should ask "what's the probability-weighted outcome across all scenarios?"
 
-**Step 1: Define the problem precisely.**
+**The three-step process:**
+1. **Define the problem in one sentence.** Most people argue about solutions before agreeing on the problem. Naval's rule: until you can state the problem clearly, you're not ready to decide.
+2. **Ask the reversibility question.** Is this decision reversible? If yes, decide at 70% confidence and adjust. If no (marriage, major debt, giving up a core skill permanently), take more time. Most financial decisions are reversible.
+3. **Ask the people question.** Would I trade places with the key person in this arrangement for 10 years? If not, don't enter it. The quality of your decisions is shaped by the quality of the people around you.
 
-Most people argue about solutions before agreeing on the problem. Naval's rule: until you can state the problem in one sentence, you are not ready to make a decision about it.
+**Naval's Antidisposition Framework:** Don't let current emotional state determine decisions. If you're panicked after a market crash, that's the worst time to decide about your portfolio. If you're euphoric after a big win, that's the worst time to make a career change. The antidote: write your decision criteria in advance, when calm. Then execute without changing course based on short-term emotional states.
 
-**Script:** *"The problem I'm trying to solve is ___"*
+**The specific script for career/business decisions:**
+> *"{What would I think about this decision if I were making it 10 years from now?} {What would the version of me who stayed 5 years say vs. the version who left?} {Which one am I more likely to regret not being?"*
 
-**Step 2: Identify what's actually optional vs. permanent.**
+**The script for investment decisions:**
+> *"{Is this decision driven by fear or by analysis? If fear, what's the actual probability of the bad outcome I'm avoiding? If analysis, what's the expected value over a 10-year horizon?} {Would I buy this today at current price? If yes, hold. If no, sell — regardless of whether I'm up or down.}*
 
-> *"Most decisions don't require 100% certainty. They require 70%. The other 30% is revealed by taking action."*
+---
 
-Naval's filter: Is this decision reversible? If yes, decide at 70% and adjust. If no, take more time. Most financial decisions (switching funds, changing careers, a side business) are reversible. The irreversible ones are usually: marriage, major debt, giving up a skill permanently.
+### Naval's Three-Level Wealth Game
 
-**Step 3: Choose people over schemes.**
+Naval explicitly frames wealth-building as a game with three levels — each requires different strategies:
 
-> *"The most important decision of your life is who you spend your time with."*
+**Level 1 — Survival:**
+- Eliminate high-interest debt
+- Build a 3-month emergency fund
+- Basic financial security
 
-This applies to co-founders, employers, investment advisors, and partners. Naval's test: would you trade places with this person for 10 years? If not, don't enter a long-term arrangement with them.
+**Level 2 — Financial Independence:**
+- Assets produce enough to cover basic expenses without working
+- The work you do is by choice, not necessity
+- Approximately: 25 × annual expenses in invested assets
 
-### The Naval Happiness Checklist (Applied to Wealth Building)
+**Level 3 — Wealth (Freedom):**
+- Assets produce enough to live exactly as you want
+- Full time autonomy — work is entirely optional
+- Approximately: 25 × your desired annual spending
 
-Naval's personal happiness practice combines ancient philosophy (Stoicism, Vedanta) with modern decision theory. Applied to financial life:
+**The critical insight:** Most people quit at Level 1 or 2 because they don't understand that the next level exists, or they mistake the current level for the final one. Naval's instruction: *"{The goal is not to maximize every dollar — it's to have enough that your decisions are free."}* Know which level you're in, and don't confuse the current level's strategies with the next level's requirements.
 
-| Practice | Wealth Application |
-|---|---|
-| **Premeditatio malorum:** Visualize what could go wrong | Review your financial plan for single points of failure |
-| **Negative visualization:** Imagine losing what you have | Reduces desperation, increases patience |
-| **Voluntary discomfort:** Skip comfort that isn't serving you | Frugality that isn't deprivation |
-| **Acceptance of impermanence:** Markets go up and down | Reduces panic-selling and lifestyle inflation |
-| **Specific desires:** Vague wanting produces vague results | "Retire by 55 with $X" vs. "I want to be comfortable" |
+---
 
-### Naval's Wealth Script Library
+### The Naval 10-Step Wealth Path
 
-**When deciding whether to switch jobs or careers:**
-> *"What would the version of you who stayed 5 years say? What would the version who left say? Which one are you more likely to regret not being?"*
+Practical sequence for building real wealth:
 
-**When deciding whether to start a business:**
-> *"Can you get one paying customer before you invest more? If yes, you have a business. If no, you have a hobby. Ship it and see."*
+1. **Define financial independence in concrete terms.** "$X in assets producing $Y/year" is a plan. "I want to be comfortable" is not. Specify the number.
+2. **Build specific knowledge in one domain.** Not "be good at business" — find where your genuine aptitude meets market demand and go deep.
+3. **Learn to sell and learn to build.** Naval's instruction: if you can do both, you're unstoppable. If you can only do one, learn the other enough to understand it.
+4. **Get one paying customer before building a product.** Ship first, verify second. The validation proves the market, not your assumptions.
+5. **Use leverage: code, media, or capital.** Pick the form that fits your situation — but code/media scale without permission and near-zero marginal cost.
+6. **Play long-term games with long-term people.** Short-termism compounds against you. Long-term thinking gives you a structural advantage.
+7. **Reinvest earnings into compounding assets.** Don't extract wealth early. Let the compounding work uninterrupted for years.
+8. **Build reputation deliberately.** Deliver on promises, be genuinely useful, build in public. Reputation is the one asset that compounds and cannot be taken from you.
+9. **Protect your health and peace first.** Wealth without health is a management problem. Wealth without peace is a constant source of suffering.
+10. **Stay in the game long enough.** The actual secret: outlast everyone else who quit. The compound interest is waiting.
 
-**When deciding whether to invest in something you don't understand:**
-> *"If you can't explain it in one sentence, you don't understand it well enough. Own your circle of competence or buy the index."*
+---
 
-**When comparing two paths with different risk profiles:**
-> Naval: *"The decision with the best probability-weighted outcome is not always the highest expected value — sometimes the downside of a high-variance option has asymmetric emotional cost. Account for that honestly."*
+### Emotional Mastery: Naval on Handling Wealth-Building Stress
 
-### Naval's Wealth Script: The "Wealth Is a Game" Mental Model
+Naval's framework for the psychological dimension of wealth-building:
 
-Naval explicitly frames wealth-building as a game — not life-and-death, not status — a game played for challenge and freedom:
+**On anxiety and market movements:**
+Naval: *"{If you can't watch your portfolio drop 50% without panic-selling, you don't have the right portfolio for your risk tolerance. The best investment is one you can hold through a crash without changing course."}* Adjust your allocation until the downside is emotionally acceptable. The best portfolio for you is not the one with the highest theoretical return — it's the one you can actually hold for 30 years.
 
-> *"I don't think about my net worth. I think about the game. The score takes care of itself if you play well."*
+**On greed and overconfidence:**
+Naval: *"{The most dangerous moment in wealth-building is when you're winning. The math of losing 50% requires a 100% gain to recover. Avoid the bets that can permanently destroy you even if the upside looks attractive."}* Guard against overconfidence in hot markets. When everyone is making money, that's when the margin of safety is most likely to disappear.
 
-This reframes the emotional relationship with money: you're not chasing a number, you're developing skill at a game with real stakes and rewards. The person who treats it as a game makes better decisions than the person who treats it as a matter of life and death — or worse, as something shameful.
+**On envy and peer comparison:**
+Naval: *"{Comparison is the thief of joy, and it's also the thief of good financial decisions. The person who looks at their neighbor's portfolio and changes their strategy rarely ends up ahead. The person who plays their own game for 30 years wins."}* Don't optimize for appearing wealthier than your peers — optimize for your own financial independence.
 
-**The game has three levels:**
-1. **Survival** — eliminate debt, build emergency fund, basic security
-2. **Independence** — assets produce enough to cover basics without working
-3. **Freedom** — assets produce enough to live exactly as you want without any time obligation
+**On patience during invisible years:**
+Naval: *"{The invisible years are the most important years. When you're building something and it looks like nothing is happening — that's the compounding working invisibly. The moment you quit is usually right before the breakthrough."}* Trust the process. Stay in the game. The math works if you give it time.
 
-Most people quit at Level 1 because it feels like enough. Naval's view: Level 2 and 3 are where the real game begins.
-
-→ Full Naval content: [references/naval-framework.md](references/naval-framework.md)
+→ Full Naval content: [references/naval-framework.md](references/naval-framework.md) — expanded decision framework, judgment development, reading as wealth tool, reputation moat, earned authority, and complete Naval wealth summary table.
 
 
 ---
@@ -1137,6 +1149,129 @@ Viktor Frankl observed: *"The will to meaning overcomes the will to pleasure or 
 
 ---
 
+---
+
+## Advanced Income Acceleration: The Middle-Class Wealth Multiplier
+
+Most wealth advice focuses on the extremes — either "get a job and save" or "start a unicorn startup." But the most practical wealth-building happens in the middle: people who increase their income by 30-80% over 3-5 years through specific, repeatable tactics.
+
+### The Income Multiplier: Why 30% More Income Beats 30% Better Returns
+
+A 30% income increase (say $60K to $78K) compounded at 10% over 20 years produces more wealth than a 30% better return on a smaller base. Every $1 increase in monthly income, if invested, becomes roughly $6.70 at 10% over 20 years.
+
+The income multiplier effect is most powerful when you invest the incremental income rather than spend it. Most people who get raises also increase their lifestyle. The ones who build wealth immediately invest the difference.
+
+### The Career Capital Framework: Three Moves That Compound
+
+**Move 1 — Level Up Your Job Title Before Getting Promoted**
+
+Most people wait for formal promotion cycles. The smarter approach: start working at the next level before you have the title, document the results, then negotiate both simultaneously.
+
+Script: *"I've been operating at the [Senior/Lead/Manager] level for [X] months. I've delivered [specific outcomes]. I'd like to formalize this with a title change and compensation adjustment to reflect this scope."*
+
+This works because employers don't want to lose someone already doing the work. Document the scope expansion before asking.
+
+**Move 2 — Build Professional Capital Through Reputation**
+
+The person known for delivering difficult projects on time, communicating clearly under pressure, and making colleagues' jobs easier builds a reputation that opens opportunities not found in job postings.
+
+Specific tactics:
+- Volunteer for the project everyone avoids (high visibility, low competition)
+- Write internal documentation that gets referenced repeatedly
+- Mentor junior colleagues (builds leadership signal)
+- Send a monthly summary of accomplishments to your manager (builds visibility)
+
+**Move 3 — Use Job Offers as Leverage (Even Without Intending to Leave)**
+
+The single most effective salary negotiation tactic: have a credible competing offer. Companies routinely give 10-30% counter-offers to employees with competitor offers — because replacing talent costs 2-3x annual salary in recruiting, onboarding, and lost productivity.
+
+Script for using leverage: *"I want to be transparent — I've received an offer from [Company] for [amount]. I'm not trying to create pressure, but I want to discuss whether there's a path for me to get to a similar level here."*
+
+Even if you prefer your current employer, the conversation creates leverage. Many discover their employer will genuinely match — they just had no reason to before.
+
+### The Side Business Validation Sequence
+
+Naval's rule: "Get one paying customer before you build the product."
+
+The validation sequence:
+1. **Describe the offer in one sentence:** "I help [X] do [Y] so they can [Z]."
+2. **Offer it to five people in your network** at a price slightly embarrassing to ask
+3. **If people pay:** Build the minimal version, ship it, iterate
+4. **If people don't pay:** Ask specifically what would make it worth paying for
+
+A paid customer tells you the market wants it. An unvalidated product tells you nothing.
+
+### The Credential Stack: Certifications That Actually Pay
+
+High-compounding credentials have three properties:
+1. They signal specific, measurable competence
+2. They are required or strongly preferred for roles that pay significantly more
+3. They expire or require renewal (reducing competition over time)
+
+Credential ROI formula: (Salary premium x years held) minus (cost + time to obtain). Target 3x return before pursuing.
+
+| Credential | Sector | Typical Premium |
+|---|---|---|
+| PMP (Project Management Professional) | Operations/IT | +20-25% |
+| CPA (Certified Public Accountant) | Accounting/Finance | Significant, compounds with years |
+| AWS/GCP/Azure Solutions Architect | Tech | 15-30%, renewals keep market current |
+| FMVA (Financial Modeling & Valuation) | Finance | Industry-recognized |
+| Certified Scrum Master | Tech/Product | Low cost, meaningful signal |
+
+### Geographic Arbitrage: Work High-Wage, Live Low-Cost
+
+Remote work has made this viable for knowledge workers at a scale never before possible:
+- High-wage city salary (NYC, SF, London) calibrated to local costs
+- Work remotely for that employer while living somewhere with 40-60% lower costs
+- The gap between earning and spending is dramatically larger
+
+**Important:** Works best with 5+ years established career. Early-career people benefit more from high-density talent markets for learning and network effects.
+
+### The Negotiation Architecture: Beyond Salary
+
+Salary is only one dimension. The person who negotiates the full package consistently beats the one who focuses only on base:
+
+| Dimension | How to Negotiate |
+|---|---|
+| **Signing bonus** | Often easier than salary (one-time cost) |
+| **Equity** | Strike price, vesting schedule, refresh grants |
+| **Title** | Creates future leverage for future negotiations |
+| **Remote/hybrid** | Has real monetary value |
+| **Professional development** | Conference budget, course budget, certification reimbursement |
+| **401(k) match** | Often negotiable beyond standard formula |
+
+---
+
+## Greenblatt's Magic Formula: Systematic Value Investing
+
+Joel Greenblatt (born 1957), Gotham Capital founder, took Graham's principles and made them systematic and backtestable. Gotham returned 50% annually (before fees) from 1985 to 1994. He also helped fund Michael Burry's Scion Capital early on.
+
+His Magic Formula ranks companies on two factors simultaneously:
+1. **Earnings yield** (earnings ÷ price — Graham's cheapness criterion)
+2. **Return on invested capital** (quality — a business with a genuine moat)
+
+The key insight: combining cheapness AND quality eliminates the main failure mode of pure value investing — buying cheap businesses that keep getting cheaper.
+
+**Modern caveat:** Greenblatt notes the formula works less well in small caps after 2001 (more institutional competition). Markets have become more efficient and the advantage is smaller.
+
+**Practical application:**
+- The real lesson is the framework: don't just buy cheap — buy cheap quality
+- Most individual investors should use index funds rather than trying to replicate the formula
+- The discipline of buying a total market fund at consistent intervals is what matters, not stock selection
+
+### Howard Marks: Second-Level Thinking
+
+Howard Marks (born 1946), Oaktree Capital co-founder (~$150B AUM), is known for his investor memos — Buffett reportedly reads them before anything else. Net worth ~$2.2B.
+
+Marks's key contribution is **second-level thinking** — ordinary investing wisdom (buy low, sell high) is "first-level" thinking everyone already knows, which means it's already priced in:
+
+> **First-level:** "This company is doing well — it's a good investment." (Everyone agrees, so price is already high.)
+> **Second-level:** "Everyone knows this company is doing well, which is why it's priced so high. But is it priced higher than it's worth? What do I know that the market might not be pricing in?"
+
+**The second-level thinking question:** *What do I know about this investment that the market doesn't?* If the answer is "nothing especially," you're doing first-level thinking and the price already reflects the consensus. Either buy the index (which holds the market's collective judgment) or accept you're betting on something you don't have an edge in.
+
+---
+
 ## The Real Wealth Builders
 
 The unglamorous truth about people who build real wealth:
@@ -1239,7 +1374,7 @@ Suggest seeing a financial advisor or planner when:
 
 
 
-→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md) — Dalio's economic machine (productivity, debt cycles, long/short portfolio), Morgan Housel's 20 behavior lessons (from Psychology of Money), and Rockefeller/Carnegie's industrial empire frameworks — condensed from three full sections into one reference.
+→ Full content: [references/dalio-frameworks.md](references/dalio-frameworks.md) — Dalio's economic machine (productivity, debt cycles, All Weather portfolio, radical truth), Morgan Housel's 20 behavior lessons (Psychology of Money), and Rockefeller/Carnegie's industrial empire frameworks.
 
 ---
 
