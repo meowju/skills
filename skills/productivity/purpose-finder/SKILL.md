@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 2.7.0
+version: 2.9.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1178,17 +1178,20 @@ This is not a technique. It is a stance toward uncertainty that becomes more nat
 
 ## Framework: Legacy, Mortality, and the Purpose of Ends
 
-Mortality is the clearest lens for purpose decisions. The person who holds their own death in clear view makes better choices about direction, time, and contribution — not because death is depressing, but because it is clarifying.
+Mortality is the clearest lens for purpose decisions. Holding your own death in clear view makes better choices — not because death is depressing, but because it is clarifying. Every major tradition of wisdom literature uses death as the primary tool for priority-setting.
 
-**Terror Management Theory:** Mortality reminders increase generosity and commitment to meaningful values. Ask: "If you had 5 years left, what would you start doing immediately?" The urgency cuts through the Hedonic Treadmill's long-term deferral pattern.
+**Memento Mori:** The Stoics practiced it systematically. Seneca meditated on death nightly. Epictetus trained students to ask "shall I be doing this when death comes?" Roman generals had a servant whisper *memento mori* during triumphs — not to depress them, but to keep the present vivid. Marcus Aurelius: *"You could leave life right now. Let that determine what you do and say and think."*
 
-**Generativity (Erikson):** Legacy is not fame. It is contribution that outlives you — usually local: code still running, a student who cites your lesson, a child who handles difficulty with grace. The question: "Did the people I touched become slightly more capable?"
+**Terror Management Theory:** Research in experimental psychology shows that reminding people of their mortality makes them more committed to meaningful values — not more fearful. When death is made salient, people rate purposeful activities as more important and recommit to their actual values. The small daily choices compound.
 
-**活过 (Huóguò) — Having Truly Lived:** A Chinese concept of living so fully that death brings completion, not regret. Purpose is not a noun you find; it is a quality of engagement you practice.
+**The Deathbed Regrets:** Bronnie Ware, a palliative care nurse, documented what people say at the end of life. The most common: *"I wish I'd had the courage to live a life true to myself."* Followed by: *"I wish I hadn't worked so hard," "I wish I'd had the courage to express my feelings," "I wish I had stayed in touch with friends," "I wish I had let myself be happier."* A 2018 study confirmed ideal-related regrets outnumber action regrets 3-to-1. **People regret inaction more than action.**
 
-**Kintsugi:** Breakage is part of purpose. Purpose tested through failure is more durable than purpose never challenged. The person who broke and continued has what the unbroken cannot transmit.
+**活过 (Huóguò):** The Chinese concept of having truly lived — fully present in your own life — is what allows a person to face death without needing to have "figured it out." Purpose is not a noun you find; it is a quality of engagement you practice. The person who has engaged fully does not fear the end.
 
-**Existential Anxiety (Heidegger, Yalom):** Background awareness that your existence is finite and no one else will resolve your purpose question. Distinct from clinical anxiety — responds to meaning-making, not medication. "Ambient dread" is existential anxiety wearing practical dissatisfaction. → Full content: [references/existential-anxiety.md](references/existential-anxiety.md)
+**Kintsugi:** The Japanese art of repairing breakage with gold. The crack is not hidden — it is made part of the beauty. Purpose tested through failure, reframed through loss, and rebuilt through grief is more durable than purpose never challenged. Your cracks are where the light enters — but only if you don't pretend they aren't there.
+
+→ Full content: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — deathbed regret transcripts, Stoic negative visualization, the One-Year Letter and Eulogy Draft templates, TMT experimental protocols, the活过 framework, and the complete regrets analysis.
+→ Related: [references/existential-anxiety.md](references/existential-anxiety.md) — existential anxiety vs. clinical anxiety, Heidegger's Being-toward-death, Yalom's therapeutic approach.
 
 ---
 
@@ -1206,48 +1209,23 @@ Mortality is the clearest lens for purpose decisions. The person who holds their
 
 6. **"Everyone else seems to have it figured out."** — They don't. They are posting curated highlights while quietly spiraling. You are comparing your real behind-the-scenes to their best edited footage.
 
-7. **"I'm waiting for the right moment."** — The right moment is today. The only real leverage you have is now.
-
-8. **"Nothing I have is ever enough."** — The hedonic treadmill makes every win temporary. The issue is not your current level of achievement — it's the comparison engine that recalibrates as soon as you move. The fix is not more. It's locating your actual enough point and redirecting the energy that would have gone into acquisition toward the things that actually matter.
-
----
-
 ## Quick Scripts
 
 See also: `references/research-notes.md` — Self-Determination Theory, ikigai vs. vocation framing, flow state triggers, the meaning crisis research, and extended hard-moment scripts.
 
-**When they say "I don't know what I want":**
-> Not knowing is not a permanent condition. It's a starting position. The question is not "what do you want?" It's "what have you tried?" Start trying things — the answer comes from living, not thinking.
-**When they say "I have no motivation":**
-> Motivation is output, not input. You don't wait to feel motivated and then act. You act, and motivation follows. Start with 2 minutes.
-**When they say "Everyone else seems to know what they're doing":**
-> No one knows what they're doing. Everyone is making it up. The people who look directed just made a decision and stopped second-guessing it publicly.
-**When they say "I'm afraid I'll waste time on the wrong thing":**
-> The only real waste is staying in a life that doesn't fit. You don't know what's right without experimenting. 3-month trials are not life sentences.
-**When they say "what's the point of anything":**
-> Not knowing the point is not proof there is no point. It is proof you are in the middle of the story, not at the end. Keep going. The answer clarifies in retrospect.
-**When someone is afraid to make a big decision:**
-> What would you regret not having tried when you're 80? That's not a logic problem — it's a values question. Most people already know the answer.
-**When someone feels their life is on hold:**
-> If you knew you had 10 years, what would you start doing this week? Not the theoretical answer — the actual thing you'd schedule Monday morning.
-**When someone says "I don't know what to do with my life":**
-> Write down three versions: the one you have now, the one you'd have if you changed one thing, and the wild card that scares you a little. The third usually contains the direction you already knew.
-**When someone says "I feel like I'm in a rut":**
-> Ruts are comfort zones disguised as routine. The fix is not more motivation — it's raising the difficulty of something. Pick one regular task and add a constraint: deadline, quality standard, larger scope.
-**When someone says "I used to love doing X but I don't anymore":**
-> That's usually a skill-level mismatch, not a desire problem. You're better at X now, so it's easier, so it's less engaging. Raise the difficulty or find something adjacent that's harder.
-**When someone says "I have everything I should want and still feel empty":**
-> Autonomy and relatedness are met, but the competence need is starving. Are you growing at anything — not consuming, but building skill, getting better, being stretched?
-**When someone says "I feel like I'm not good enough":**
-> That's a competence signal, not a character flaw. The fix is not reassurance — it's deliberate practice at something that challenges you. Build the competence.
-**When someone says "I don't feel motivated to do anything":**
-> You're waiting for motivation to arrive before acting. SDT says it works the other way: motivation follows need satisfaction, not precedes it. Pick the smallest thing that gives you a genuine competence hit and start there.
-**When someone says "I have everything and still feel empty":**
-> The hedonic treadmill works as designed — you adapted to everything. Stop adding, start practicing.
-**When someone says "I'll never have enough money/status/recognition":**
-> The sociometer doesn't care what number is on your account. It compares to a moving target. Where is your actual enough point?
-
----
+**When they say "I don't know what I want":** Not knowing is not a permanent condition. It's a starting position. The question is not "what do you want?" It's "what have you tried?" Start trying things — the answer comes from living, not thinking.
+**When they say "I have no motivation":** Motivation is output, not input. You don't wait to feel motivated and then act. You act, and motivation follows. Start with 2 minutes.
+**When they say "Everyone else seems to know what they're doing":** No one knows what they're doing. Everyone is making it up. The people who look directed just made a decision and stopped second-guessing it publicly.
+**When they say "I'm afraid I'll waste time on the wrong thing":** The only real waste is staying in a life that doesn't fit. You don't know what's right without experimenting. 3-month trials are not life sentences.
+**When they say "what's the point of anything":** Not knowing the point is not proof there is no point. It is proof you are in the middle of the story, not at the end. Keep going. The answer clarifies in retrospect.
+**When someone is afraid to make a big decision:** What would you regret not having tried when you're 80? That's not a logic problem — it's a values question. Most people already know the answer.
+**When someone feels their life is on hold:** If you knew you had 10 years, what would you start doing this week? Not the theoretical answer — the actual thing you'd schedule Monday morning.
+**When someone says "I don't know what to do with my life":** Write down three versions: the one you have now, the one you'd have if you changed one thing, and the wild card that scares you a little. The third usually contains the direction you already knew.
+**When someone says "I feel like I'm in a rut":** Ruts are comfort zones disguised as routine. The fix is not more motivation — it's raising the difficulty of something.
+**When someone says "I have everything I should want and still feel empty":** Autonomy and relatedness are met, but the competence need is starving. Are you growing at anything — not consuming, but building skill, getting better, being stretched?
+**When someone says "I feel like I'm not good enough":** That's a competence signal, not a character flaw. Build the competence through deliberate practice.
+**When someone says "I don't feel motivated to do anything":** You're waiting for motivation to arrive before acting. SDT says it works the other way: pick the smallest thing that gives you a genuine competence hit and start there.
+**When someone says "I'll never have enough money/status/recognition":** The sociometer doesn't care what number is on your account. It compares to a moving target. Where is your actual enough point?
 
 ## When to Recommend Professional Support
 
