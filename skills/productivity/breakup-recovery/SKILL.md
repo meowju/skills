@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.0.0
+version: 4.2.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -472,9 +472,70 @@ Research synthesis on breakup recovery points to these as the strongest predicto
 
 ---
 
-## Communication Scripts
+### The Psychology of Why Breakups Make People Act Crazy
 
-> *What you say in the first weeks after a breakup shapes how long the wound stays open. These scripts are not about being perfect — they're about being honest and kind, which are not the same thing.*
+> *"The rational mind is a superb servant, but a terrible master. After a breakup, the rational mind believes it can negotiate its way out of grief. It cannot."*
+
+Understanding why you do the things you do after a breakup — text them at 2am, reread old conversations, show up unannounced — is the first step toward interrupting the pattern. Not because understanding fixes it, but because shame is the enemy of regulation. When you know *why* you're acting this way, you can hold it differently.
+
+#### Why You Can't Stop Reaching Out (The Attachment System Explained)
+
+The urge to reach out after a breakup is not love. It is your **attachment system** trying to restore proximity to its bonded partner.
+
+In attachment theory (Bowlby, 1969), the attachment behavioral system is designed to maintain closeness to a caregiver or bonded person. When that person is gone — or when the bond is threatened — the system activates and produces behaviors aimed at restoring contact. These behaviors are involuntary. You don't *decide* to miss them. The attachment system *demands* contact.
+
+**What the research shows:** Studies on romantic relationship breakup (Gottman & Levenson, 1992; Sbarra & Hazlett, 2021) show that the brain's attachment circuitry responds to rejection the same way it responds to physical threat — with mobilization (fight or flight) followed by sustained hypervigilance. The person who just broke up with you has activated your threat detection system. Your nervous system is responding as though you are in danger.
+
+This is why:
+- You feel a physical pull to text them, even when you know you shouldn't
+- The urge intensifies at night (cortisol fluctuations, fatigue, absence of distraction)
+- Alcohol dramatically increases the probability of breaking no-contact (lowers prefrontal inhibition, activates reward system)
+- The "just one text" pattern almost never results in the outcome you want
+
+**The solution isn't to argue with the urge.** It's to recognize that the urge is your nervous system trying to solve an impossible problem (restoring attachment with someone who has chosen to leave) through the only mechanism it knows (contact). You cannot win this argument with willpower. You can only outlast it — by not feeding it.
+
+#### The "Last Conversation" Trap
+
+Most people who break no-contact do so because they want one more conversation. They want to "say one last thing," or "ask the question that will finally give them peace."
+
+Here is why this doesn't work:
+
+**The brain craves cognitive closure.** When a relationship ends without a clear explanation, the brain experiences the uncertainty as an open loop — an incomplete pattern that demands resolution. The urge to ask "why?" or to tell them "one last thing" is the brain trying to close the loop. The problem: closure requires *mutual* agreement. One person asking questions and one person having left is not a conversation. It's an interrogation.
+
+**The three things people actually want from a last conversation:**
+1. To be heard ("I want them to understand how much this hurt")
+2. To make sense ("I want to know why it happened")
+3. To be told something that changes things ("I want them to say they were wrong")
+
+None of these are achievable through a conversation with your ex in the early weeks. Here's why:
+
+- Being heard requires them to be capable of hearing you, which requires them to have processed the breakup, which takes time you don't have
+- Making sense is often unavailable — many breakups don't have a clean cause; sometimes two people just grew in different directions
+- The person who left is not in a psychological position to tell you something that will make you feel better; their choice already reflects their position
+
+**The last conversation you actually need** is with yourself: writing down what you wanted to say, what you wanted to hear, and giving yourself both things in your own words. You can provide your own closure. It just takes longer and feels less satisfying in the moment — which is why most people avoid it.
+
+#### What Actually Reduces the Urge to Reach Out
+
+Research on rumination and impulsive communication post-breakup points to these as most effective:
+
+| Intervention | Why it works |
+|---|---|
+| **Physical exercise** | metabolizes cortisol and increases serotonin; reduces the physiological arousal that drives impulsive communication |
+| **Writing the text and not sending it** | satisfies the cognitive drive to express without feeding the attachment system |
+| **Scheduled "worry time"** | gives the brain permission to obsess at a specific time rather than continuously; contains the rumination |
+| **Pre-committing to no-contact** | telling a friend your plan creates social accountability that activates when willpower fails |
+| **Removing the trigger** | deleting their number, blocking notifications, having someone hold your phone; environment design beats willpower |
+
+#### The "Am I Haunted or Am I Hooked?" Diagnostic
+
+When the urge to reach out hits, it's useful to identify which system is driving it:
+
+**Haunted:** The memory of who they were comes up, and you miss the person. The thought is: *"I wish we could work."* This is grief-adjacent — it's about the relationship, not about the specific person right now.
+
+**Hooked:** The memory comes with a physical sensation — tightness in the chest, a pull to act, a desperate quality. The thought is: *"I need them to respond."* This is addiction-adjacent — it's about the attachment system, not grief.
+
+If you're haunted, write in a journal, talk to a friend, feel the feeling. If you're hooked, apply the no-contact protocol. The protocols are different, and confusing them leads to trying to solve an attachment problem with grief work, or a grief problem with attachment-breaking.
 
 ---
 
@@ -842,237 +903,51 @@ Abusive or deeply unhealthy relationships work on the same principle. The cycle 
 
 Anger is the most misunderstood phase of breakup recovery. Most people try to skip it — they feel ashamed of the rage, suppress it, or try to "move past it" before they've let it run its course. This is a mistake. Anger is not the opposite of healing. It is part of it.
 
-### Why Anger Is Normal After a Breakup
+**Why anger is normal:** Anger after heartbreak is a legitimate emotional response to a real injury — you were left, rejected, betrayed, or unheard. Research (Novaco, 1975; Spielberger, 2009) shows anger is an *approach* emotion: it mobilizes energy, asserts boundaries, and motivates action. Unlike anxiety (avoidance) or depression (withdrawal), anger moves you *toward* something — a sense of justice, a reclaiming of self.
 
-Anger after heartbreak is not a character flaw. It is a legitimate emotional response to a real injury. You were left, rejected, betrayed, or unheard. The person you trusted chose to leave or was chosen by you to leave. That is a wound. Anger is your nervous system's signal that a boundary was crossed, that something unfair happened, that a need was not met.
+**The self-anger trap:** The most damaging post-breakup anger is directed inward — *"I should have seen it coming."* This inward anger is a form of rumination that prevents grief from completing. Redirect: *"I am allowed to be angry at what happened without needing to be the cause of it."*
 
-Research on the psychology of anger (Novaco, 1975; Spielberger & Reheiser, 2009) consistently finds that anger is an approach emotion — it mobilizes energy, asserts boundaries, and motivates action. Unlike anxiety (which is often about avoidance) or depression (which is about withdrawal), anger moves you *toward* something: a sense of justice, a reclaiming of self, a statement that what happened was not okay.
+**Anger as protector:** Most anger after breakup is a secondary emotion — a defense against deeper, more vulnerable pain (hurt, fear, shame). When someone is stuck in rage for months, they usually haven't been able to access what's underneath. Ask: *What is the anger protecting me from having to feel?*
 
-**What anger is telling you after a breakup:**
-- Something was taken from you that you cannot get back
-- A promise was broken or a need was not met
-- Your voice was not heard, or your worth was not recognized
-- You had to give up something real, and it was not your choice
+**Healthy outlets:** Physical exertion (cortisol metabolism), written rage (the letter you never send), the "list of what I will never tolerate again" (wound → filter), somatic release (vocalization, progressive muscle release, bilateral stimulation).
 
-Naming the specific wrong underneath the anger is the first step to processing it — and moving through it.
+**Completion criteria:** You can name specifically what was wrong; express it without overwhelming yourself; the anger has made room for sadness underneath; you can think about what happened without the story turning into rage. When anger completes, what replaces it is grief — and after grief comes real acceptance.
 
-### The Difference Between Healthy and Unhealthy Anger
-
-Not all anger is the same. The skill is in distinguishing between anger that is a signal to process and anger that becomes a cage.
-
-| Healthy Anger | Unhealthy Anger |
-|---|---|
-| Temporary — rises, makes its point, subsides | Persistent — becomes a background state that never lifts |
-| Directed at the specific act or pattern | Diffuse — aimed at yourself, everyone, or the world |
-| Increases energy and motivation | Depletes energy and leaves you exhausted |
-| Leads to insight or action | Leads to rumination without resolution |
-| Can be expressed and then released | Is suppressed, denied, or expressed destructively |
-| Makes space for grief after it passes | Blocks grief from ever arriving |
-
-Healthy anger has a trajectory. It comes, it delivers its message, and it makes room for what comes next. Unhealthy anger — or unexpressed anger — gets stuck in the body and the mind, replaying the same violations on loop without ever completing.
-
-### Why Suppressing Anger Doesn't Work
-
-The common advice to "just let it go" or "don't be angry" backfires because anger that is not expressed does not disappear. It goes underground. And once anger is underground, it works in three damaging ways:
-
-1. **Somatization:** The anger becomes physical — chronic tension, headaches, insomnia, digestive problems, high blood pressure. The body holds what the mind refuses to feel.
-
-2. **Displaced aggression:** The anger finds a different target. You rage at your friend who took their side, at your family for asking questions, at a stranger who cut you off. The original source is not resolved; you have just spread the damage.
-
-3. **Inward turn (depression):** Suppressed anger turns against the self. This is one mechanism by which acute grief becomes depression — the anger that cannot be directed outward folds back into self-criticism, self-doubt, and worthlessness. "I am angry" becomes "there is something wrong with me."
-
-> If you are in the anger phase and people around you are saying "you should be over it by now," understand: they are telling you their comfort timeline, not a psychological fact. Anger has its own schedule.
-
-### Healthy Outlets for Breakup Anger
-
-The goal is not to eliminate anger — it is to let it move through you rather than live inside you. The following outlets give anger a path out without burning down your life.
-
-**1. Physical exertion (rage exercise)**
-Vigorous physical activity is one of the most effective ways to metabolize anger. The stress hormones (cortisol, adrenaline) that anger mobilizes need an exit route. Running, boxing, heavy weightlifting, or high-intensity exercise burns through the physiological arousal that anger creates. This is not about "letting it all out" metaphorically — it is a real neurochemical process.
-
-**2. Screaming into a pillow or open sky**
-This sounds primitive because it is. But the sound mechanism in anger activation requires some form of vocal expression. Suppressed vocal expression keeps the nervous system in a state of activation. A pillow, an empty car, an open field — the sound needs somewhere to go.
-
-**3. Written rage (angry journaling)**
-Writing is particularly effective for anger because it engages the prefrontal cortex (planning, language, meaning) in a way that calms the amygdala (threat activation). Write the angry letter you will never send. Describe in vivid detail exactly what they did, how it affected you, and what you wish had happened instead. Do not edit. Do not be eloquent. Be specific and be furious. Then put it away.
-
-**4. The "list of what I will never tolerate again"**
-Anger, properly channeled, becomes wisdom. Take the raw heat of your anger and convert it into a boundary document: a list of specific behaviors, patterns, or treatment that you now know you will not accept. This is not a vengeance list — it is a values list. It turns wound into filter.
-
-Example: "I will never again stay with someone who goes silent for days when they're upset. The silence is not protecting the relationship — it's protecting their inability to be in conflict."
-
-**5. Confrontational but contained**
-If you need to speak your anger and it is safe to do so: one conversation, one time, with someone who can hear it — a therapist, a friend, a family member. The goal is not to resolve anything with your ex. The goal is to express the anger so it is no longer trapped in your body. What you say to your ex about your anger is optional. What you say to yourself is not.
-
-### The Self-Anger Trap — Why You Turn It Inward
-
-The most common post-breakup anger — and the most damaging — is not anger at your ex. It is anger at yourself: *"I should have seen it coming. I was an idiot. I let this happen to me."*
-
-This inward-directed anger sounds like self-responsibility but is actually a form of rumination that prevents grief from completing. Here is how to tell if self-anger has crossed into self-destruction:
-
-- You are spending more time criticizing yourself than learning from what happened
-- The anger at yourself is preventing you from functioning (eating, sleeping, working, connecting)
-- You believe you "deserved" the treatment you received
-- The self-anger is a way of feeling like you have control: *if I was the problem, I can fix it next time*
-
-> Self-blame after a breakup is the mind's attempt to find meaning in loss. Meaning is comforting. But the story "I caused this" is often the wrong story — it is just the one that feels most actionable.
-
-When you catch yourself in a loop of self-anger, use this redirect:
-
-> "I am allowed to be angry at what happened without needing to be the cause of it. Anger at the situation is valid. Anger at myself is not the only way to make sense of this."
-
-### Anger as Protector — The Wound Underneath
-
-Most anger after breakup is not the primary emotion. It is a **secondary emotion** — a defense against something more vulnerable underneath. Understanding this is the key to moving through anger rather than getting stuck in it.
-
-The structure: something more painful happened first (rejection, abandonment, being unseen, feeling worthless), and the anger rose to protect you from feeling that wound directly. The anger says: *I will not let myself feel how much this actually hurt.*
-
-**The three layers underneath anger:**
-
-1. **Hurt** — The raw experience of not being chosen, not being enough, being left. This is the most painful layer and the one anger most fiercely guards.
-2. **Fear** — If this happened once, can it happen again? The fear that you are fundamentally unlovable or that the pattern will repeat.
-3. **Shame** — The belief that there is something defective about you that caused this. Shame is the most hidden and most corrosive of the three.
-
-When someone is stuck in rage for months, they have usually not been able to access what is underneath the anger. The anger is doing its job — keeping the deeper wound sealed. The work is not to bypass the anger but to reach through it.
-
-**How to work with the protective function of anger:**
-- Ask: *What is the anger protecting me from having to feel?*
-- Sit with that question for 60 seconds without answering it. Notice what arises.
-- If the answer is shame, fear, or deep hurt — that is the layer that needs attention, not the anger itself.
-
-Therapy (particularly somatic therapy, parts work, or AEDP) is especially valuable here.
-
-### The Body Holds the Anger — Somatic Approaches
-
-Anger is not only a mental event. It is a full-body physiological response — and it resolves through the body, not only through thinking. This is why cognitive approaches alone (journaling, reframing) often feel like they help but don't fully discharge the anger. The stress hormones mobilised by anger (cortisol, adrenaline, testosterone) need a physical exit route.
-
-**Where anger lives in the body:** Chest tightness and pressure (something needing to expand outward); jaw clenching; hands and fists (impulse to hit or push); gut-level churning or tension; throat tension (holding back words, unable to speak what you feel).
-
-Anger needs to **complete its arc**: mobilization (body prepares for action), expression (scream, write, move, talk), and resolution (nervous system registers the threat as addressed). Exercise handles step 1 well; steps 2 and 3 need additional somatic work.
-
-**Five somatic approaches:**
-
-**1. Progressive muscle release** — Tense major muscle groups (jaw, shoulders, hands, stomach) for 5 seconds, then fully release. Repeat 3–5 times per area. Signals to the nervous system that the prepared action is not needed. Best for chronic, low-level anger.
-
-**2. The "completeness" breath** — Full inhale (belly, then chest), hold 3 seconds, long exhale (6–8 seconds). The long exhale activates the vagus nerve and tells the nervous system the threat has ended. Do 10–15 cycles. If tears come, let them — grief often lives underneath.
-
-**3. Bilateral stimulation (tapping)** — Alternate tapping left-right-left-right on your thighs or arms while staying with the anger. Bilateral movement (used in EMDR) helps the brain complete the processing cycle that gets stuck in rumination. Especially effective for anger that keeps replaying the same memory.
-
-**4. Vocalization** — Anger requires sound. Scream into a pillow, hum a low sustained note, or make a loud "ha" on the exhale. Suppressed anger stays in the body. The sound mechanism in anger is real; silencing it siloes the anger in the nervous system.
-
-**5. Physical grounding after discharge** — After exercise or expressive release, sit and notice what remains. The body is often more open, more tired, more accessible. Check: is there grief underneath? If so, let it be heard. You don't have to fix it — just let it complete.
-
-### Anger and the Grief Sequence — Don't Rush Through It
-
-Anger does not always come first. In the Kübler-Ross sequence it appears second, but that is a simplification — many people move between denial, anger, and bargaining in unpredictable order. Some feel only anger; some feel no anger until months later when the shock wears off. What matters is not when anger arrives but that you let it complete. A feeling that is not completed does not resolve — it waits, at the cost of your present.
-
-**Completion criteria for anger:**
-1. You can name specifically what was wrong (not just "everything")
-2. You can express it without overwhelming yourself or others
-3. The anger has made room for sadness underneath
-4. You can think about what happened without the story turning into rage
-
-When anger has completed its work, what replaces it is not peace — it is grief. The sadness that was underneath the anger all along becomes available. This is why people who skip anger and go straight to "acceptance" often find that acceptance was false. Real acceptance comes after grief. Grief comes after anger has said its piece.
-
-### Anger and Forgiveness — The Sequence Matters
-
-Forgiveness after breakup is only genuine when the anger has completed its cycle. Attempting to forgive prematurely produces **false forgiveness** — a thin surface of acceptance over unprocessed resentment, which will eventually surface in other relationships, health symptoms, or sudden emotional explosions years later.
-
-> The sequence is: anger → grief → forgiveness → peace. Not anger → forgiveness → peace.
-
-**The anger must:** be fully felt and expressed (to completion), yield to grief (the anger makes room for sadness underneath), and have done its protective work (it kept the vulnerable wound safe while you were too raw to approach it).
-
-When this sequence has run, forgiveness becomes possible — not as a performance or obligation, but as a genuine inner choice to stop paying the tax on your own nervous system.
-
-> You do not have to forgive to be healed. But you may find that when the anger has completed and the grief has been felt, forgiveness arrives on its own — not as a technique, but as a natural consequence of having been fully honest about what happened.
+→ Full content: [references/anger-phase.md](references/anger-phase.md)
 
 ---
 
 ## Forgiveness, Resentment & What It Actually Means to Move On
 
-> *"Forgiveness is not about condoning what happened. It's about refusing to let what happened keep taking from you."*
-> — David Augsburger
+> *"Forgiveness is not about condoning what happened. It's about refusing to let what happened keep taking from you."* — David Augsburger
 
-Forgiveness is one of the most avoided and most rushed concepts in breakup recovery. People either weaponize it ("I need to forgive so I can move on") or avoid it entirely ("I'll never forgive them for what they did"). Both approaches miss what forgiveness actually is — and why the way most people think about it keeps them stuck longer than the breakup itself.
+**What forgiveness is NOT:** condoning, reconciliation, forgetting, or excusing. Forgiveness is the deliberate decision to stop using energy to maintain resentment.
 
-### What Forgiveness Is NOT
+**What it actually is:** The withdrawal of energy from maintaining the wound. Holding onto resentment is resource-intensive — it keeps the wound fresh, your nervous system activated, and your attention stuck on the person who hurt you. The question isn't "do they deserve forgiveness" — it's "do I deserve to stop paying this tax on my own nervous system?"
 
-**Forgiveness is not condoning.** You can fully believe that what your ex did was wrong, harmful, or unacceptable — and still practice forgiveness. Condoning means "this was okay." Forgiveness means "this happened, and I am choosing not to let it continue to poison me."
+**Premature forgiveness** (rushing to "get past it" before feeling what happened) is the most common mistake. The sequence must be: anger → grief → forgiveness → peace. Not anger → forgiveness → peace. Attempting to forgive prematurely produces false forgiveness — a thin surface of acceptance over unprocessed resentment, which eventually surfaces in other relationships, health symptoms, or sudden emotional explosions years later.
 
-**Forgiveness is not reconciliation.** You can forgive someone and still choose never to speak to them again. Forgiveness is an internal act. Reconciliation is a relational one. They don't have to go together.
+**Resentment as information:** Before releasing resentment, ask what it tells you about your values — "I gave more than I received" → reciprocity matters to you. "I was not valued" → being seen is non-negotiable. The information is valuable. The tax of holding resentment indefinitely is not.
 
-**Forgiveness is not forgetting.** The phrase "forgive and forget" is psychologically misleading. Your nervous system encodes what happened as a data point for your future safety. Forgetting would actually be dangerous — it would remove the information you need to protect yourself from similar harm. What forgiveness does is change the *charge* of the memory. You remember, but it no longer controls you.
-
-**Forgiveness is not excusing.** "They had a rough childhood" or "they were going through something" may be true and still not excuse the behavior. You can hold the full complexity of a person — that they were wounded and that they wounded you — without excusing what they did.
-
-**Forgiveness is not weakness.** The choice to stop carrying resentment is not the same as rolling over. It is the most aggressive act of self-protection available to you: deciding that what happened will not define the rest of your life.
-
-### What Forgiveness Actually Is
-
-Forgiveness is the deliberate decision to stop using energy to maintain resentment. Resentment is a resource-intensive state — it keeps the wound fresh, your nervous system activated, and your attention stuck on the person who hurt you. Forgiveness is the withdrawal of that investment.
-
-> *Holding onto resentment is like drinking poison and hoping the other person dies.* — Nelson Mandela (attributed)
-
-This is not a metaphor. Resentment physiologically costs you. The question isn't "do they deserve forgiveness" — it's "do I deserve to stop paying this tax on my own nervous system?"
-
-### The Difference Between Healthy and Unhealthy Forgiveness
-
-Not all forgiveness is genuine. Three versions look like forgiveness but aren't:
-
-- **Premature forgiveness:** You rush to "get past it" before feeling what happened. The resentment is still there underneath and will resurface.
-- **Tolerance:** You accept harm without protest, often because you don't believe you have the right to be angry. Tolerance is self-abandonment, not forgiveness.
-- **Spiritual bypassing:** Using spiritual frameworks ("everything happens for a reason") to skip legitimate pain. This is avoidance with a positive spin, not forgiveness.
-
-Forgiveness is an active choice from your own authority — not a passive default or a performance.
-
-### The Five-Part Forgiveness Practice (Based on Worthington's REACH Model)
-
-Clinically validated by psychologist Everett Worthington. Adapted for breakup grief:
-
-1. **Recall** — Write an honest, specific account of what happened. No softening, no amplifying.
-2. **Empathize** — Ask what was going on in them. Not to excuse — to understand. Understanding their limitation doesn't mean accepting the harm.
-3. **Altruistic gift** — Recall a time you forgave something smaller. Ask: *What would it mean to be the kind of person who releases this?*
-4. **Commit** — Write it down and sign it. Public commitment significantly increases follow-through.
-5. **Hold onto hope** — Forgiveness is a practice, not a moment. Some days the resentment returns. Keep releasing.
-
-### When You Cannot Forgive Yet
-
-Forgiveness cannot be rushed. Prerequisites for genuine forgiveness:
-
-1. **The anger must have run its course** — You cannot forgive from underneath unexpressed anger.
-2. **You must have processed the grief** — Forgiveness from bypass is fragile.
-3. **The truth must be fully faced** — If you're still minimizing ("it wasn't that bad"), the forgiveness will be premature.
-4. **You must want to forgive for yourself, not for them** — "I deserve to be free of this" > "they don't deserve my resentment."
-
-**If you cannot forgive yet:** This is not failure. Witness the resentment without feeding it through rumination. Don't build a home in it.
-
-### Resentment as Information
-
-Resentment distills your values. Before you release it, ask what it's telling you:
-
-- **"I gave more than I received."** → Boundary lesson: your reciprocity standards.
-- **"I was misled or deceived."** → Boundary lesson: honesty matters to you.
-- **"I was not valued."** → Boundary lesson: being seen is non-negotiable.
-- **"They left without explanation."** → Boundary lesson: clarity and directness are non-negotiable.
-
-The information is valuable. The tax of holding resentment indefinitely is not.
+→ Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md)
 
 ---
 
 ## Self-Compassion, Self-Forgiveness & Rebuilding Self-Trust
 
-> *"You cannot hate yourself into becoming someone worth loving."*
-> — Kristin Neff
+> *"You cannot hate yourself into becoming someone worth loving."* — Kristin Neff
 
-The cruelest battles after a breakup are not with your ex — they are with yourself. The inner critic becomes louder, sharper, and more convincing. This section covers the quiet, difficult practice of treating yourself with the same kindness you would offer a dear friend.
+The cruelest battles after a breakup are not with your ex — they are with yourself. The inner critic becomes louder, sharper, and more convincing.
 
-**Core practice:** When the inner critic activates, ask: "Would I say this to a close friend who just went through the same thing?" If no — you now have data. Write down what you'd say to that friend. Then read it back to yourself. This is not fake positivity. It corrects the double standard.
+**Core practice:** When the inner critic activates, ask: "Would I say this to a close friend who just went through the same thing?" If no — write down what you'd say to that friend. Read it back to yourself. This is not fake positivity. It corrects the double standard.
 
-**Self-forgiveness** is not self-justification. It means: *I made a choice based on what I knew then. I now know more. I release myself from the need to keep punishing myself for it.* Self-forgiveness is a practice you return to every time the self-critic tries to reopen the case.
+**Self-forgiveness** is not self-justification. It means: *I made a choice based on what I knew then. I now know more. I release myself from the need to keep punishing myself for it.*
 
-**Rebuilding self-trust:** Breakups damage self-trust. You trusted yourself to choose someone who would show up, and they didn't. Rebuild it through action — not reassurance. Make one small promise to yourself today and keep it. Notice when you override your own needs. Practice the word "no."
+**Rebuilding self-trust:** Breakups damage self-trust. You trusted yourself to choose someone who would show up, and they didn't. Rebuild it through action — make one small promise to yourself today and keep it. Notice when you override your own needs. Practice the word "no."
 
 **For anxious attachers:** The shame spiral (abandoned → reach out → broken no-contact → shameful → reach out again) is not a character flaw. It is an adaptation. The question is not "how do I stop feeling this?" It is "can I feel this without acting on it — and can I be kind to myself in the gap between feeling and acting?"
+
+---
 
 ---
 
@@ -1188,6 +1063,91 @@ The identity crisis in the comparison spiral is this: everyone else seems to kno
 Reframe: The people who seem to have it figured out may simply have started their chapter earlier — or they may be performing certainty they don't feel. What matters is not their timeline. What matters is that you are making deliberate choices about who you're becoming — not from anxiety, but from genuine self-knowledge.
 
 The goal is not to catch up. It's to build a self you actually want to inhabit.
+
+## Helping a Friend Through a Breakup
+
+> *"You can't carry someone through heartbreak — but you can walk beside them while they find their own way."*
+
+Supporting a friend through breakup grief is its own skill. The instinct to fix, reframe, or accelerate their healing is almost always counterproductive. Here's what the research says actually works.
+
+### What Actually Helps
+
+**Be present without trying to solve.** The most powerful thing you can offer is showing up — not with answers, but with attendance. "I'm here" is complete.
+
+**Ask specific questions.** "What happened?" "What part makes you angriest?" "What do you keep coming back to?" Specific questions help process the concrete reality, not just the vague swirl of pain.
+
+**Name their pain as valid.** "That's genuinely unfair." "You have every right to feel this way." Most people in grief have had their experience minimized. Being told it's real and legitimate matters more than most people realize.
+
+**Normalize the timeline.** "Grief doesn't have a schedule. You're not behind." This gives permission to feel without rushing.
+
+**Offer concrete help.** "I'm bringing food over Tuesday" beats vague "let me know if you need anything."
+
+**Let them repeat the story.** People in acute grief often need to tell the story multiple times. This is completion, not rumination. Listen without adding commentary.
+
+### What Makes It Worse
+
+- **"At least you can move on now."** — Implies they should be past it. Dismissive.
+- **"You're better off without them."** — True possibly, but grief isn't logical. Logic can't argue someone out of feeling.
+- **"I told you so."** — Even if you did. Not the moment.
+- **"Have you tried yoga?"** — Unsolicited advice signals "stop feeling so I can feel comfortable."
+- **Sharing your own anger at their ex.** — Activates co-rumination — reinforcing anger without completing it.
+- **Telling them to forgive.** — Forgiveness can't come before anger and grief have run their course.
+- **Saying "I know exactly how you feel."** — "I'm so sorry, I can't imagine" is better than false solidarity.
+
+### Active Listening Techniques
+
+**Reflect back, don't redirect.** "It sounds like what hurt most was the lying" > "But you shouldn't have stayed if they were lying to you."
+
+**Use emotional labels.** "That sounds like it felt really humiliating" > "That's awful, let's talk about something else."
+
+**Don't fill silence.** Let them sit with what they said. The pause after they finish is where they process.
+
+**Check in on the body.** "How are you sleeping?" "Are you eating?" Grief lives in the body as much as the mind.
+
+### How to Check In Without Being Pushy
+
+Frequency matters less than consistency. Better to text once a week for two months than to flood someone with messages for two days and disappear.
+
+**Good check-in patterns:**
+- "Checking in. No need to reply — just know I'm here."
+- "I was thinking about you today. No pressure to respond."
+- "Want to get out of the house this week? We can do something distracting."
+
+**The text they don't respond to:** Don't take it personally. People in acute grief often can't respond. Send another in a few days.
+
+### Recognizing When They Need More Than You Can Give
+
+**Signs professional support may be needed:**
+- Self-harm thoughts or statements
+- Complete social withdrawal lasting more than 2 weeks
+- Grief not reducing in intensity after 8+ weeks
+- Dissociation ("I feel unreal / disconnected from everything")  
+- Recurring patterns of the same type of relationship ending badly
+- History of trauma that this breakup has reactivated
+
+You can say: "I think a therapist might be really helpful here — not because you're broken, but because grief this heavy deserves real support."
+
+### Scripts for When You Don't Know What to Say
+
+> "I'm not trying to fix anything. I'm just here."
+>
+> "I can't imagine how painful this is. I'm so sorry."
+>
+> "You're not overreacting. What happened was genuinely wrong."
+>
+> "Do you want to talk about it again, or do you just need to be distracted for a while?"
+>
+> "You don't have to make sense of this right now. You just have to feel it."
+>
+> "I'm not going anywhere. Take as long as you need."
+
+### The Core Principle
+
+Presence is not passive. Sitting with someone in pain without trying to fix it, rush them, or make them feel better is one of the most difficult and most valuable forms of help. It says: *I see what you're going through and I'm not going to leave because it's uncomfortable.*
+
+Your job is not to help them stop feeling. Your job is to be there while they feel it.
+
+---
 
 ---
 
