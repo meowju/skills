@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.54.0
+version: 1.55.1
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -978,9 +978,86 @@ Peter Lynch managed Fidelity's Magellan Fund from 1977–1990, averaging **29.2%
 
 **On market timing:** *"Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."*
 
-→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
+**Know your time horizon:** Lynch separated stocks into categories based on holding period:
+- **Small winners:** Companies you might hold 1–3 years if fundamentals stay intact
+- **Ten baggers:** Stocks with 10x potential — rare, require patience through volatility
+- **Stalwarts:** Stable companies growing 15–20%/year, held for decades
 
-— Lynch's Six Stock Categories, Two-Minute Drill (5 questions), GARP PEG rules, Ten Bagger framework with specific examples (Fannie Mae, Ford, Dunkin' Donuts), behavioral lessons on when to sell.
+*"In this game, the market needs to keep going up for you to make money. But the business — if you pick the right company — doesn't need the market to do anything."*
+
+**Lynch's specific rules for individual investors:**
+1. **Your edge is experience:** You've used the products at companies you can research before Wall Street notices. Being a customer gives you real data analysts don't have.
+2. **Understand what you own:** If you can't explain why you hold a stock in one sentence, you don't understand it well enough to hold through volatility.
+3. **Size to conviction:** Lynch held hundreds of stocks — but sized each position based on how confident he was. Low conviction = small position.
+4. **Know when to sell:** A bad company is a bad hold regardless of what you paid. Cut losses when the thesis breaks.
+5. **The best buy is a great company temporarily out of favor:** Great businesses in temporary downturns are where fortunes are made. Amazon fell 95% in 2000 and came back.
+6. **Don't try to time corrections:** Lynch never predicted crashes. He picked businesses that would be worth more in 10 years regardless of macro conditions.
+
+**Sleep test:** If you can't sleep at night because of your stock position, you're overconcentrated. Lynch's cure: diversify, but not to the point of matching an index. Your goal is to own businesses you actually understand.
+
+**Lynch on compound patience:** A $10,000 investment in the Magellan Fund at inception grew to over $800,000 at his resignation — without market timing, without macroeconomic predictions, just picking businesses you understand and letting compounding work.
+
+## Ray Dalio: How the Economic Machine Works
+
+Ray Dalio, founder of Bridgewater Associates (~$150B AUM at its peak), built his $20B fortune not through stock-picking but through systems thinking — understanding how the entire economic machine operates and positioning ahead of cycles most people don't see coming.
+
+### The Three Drivers of Everything
+
+Dalio reduces all economic activity to three forces:
+
+1. **Productivity growth** — the long-term driver. The one thing that actually makes societies richer over decades.
+2. **Short-term debt cycles (5–8 years)** — the normal expansion/contraction that creates recurring booms and busts.
+3. **Long-term debt cycles (75–100 years)** — the rare extreme cycle when debt reaches system-level limits and resets.
+
+> *"The economy works like a machine. Most people don't understand how it works or where they are in the cycle — so they make decisions that are exactly backwards. They buy assets at the top of a debt cycle and sell at the bottom."*
+
+### The All Weather Portfolio: Survive Every Scenario
+
+Dalio's most practical wealth tool — designed so that no single economic regime destroys everything:
+
+- 30% stocks (growth engine)
+- 40% long-term bonds (anchor; performs well in recessions)
+- 15% intermediate bonds
+- 7.5% gold (holds value in monetary stress)
+- 7.5% commodities (performs well in inflation)
+
+The principle: true diversification means assets that behave differently across economic scenarios. A 60/40 portfolio has most of its risk in stocks — when stocks crash, the portfolio crashes. All Weather spreads risk so no single regime destroys everything.
+
+### Radical Truth: The Feedback Loop That Compounds Judgment
+
+Dalio's core operating principle:
+
+> *"Radical truth + radical transparency = better decisions."*
+
+The weekly reflection habit: *What did I decide financially this week? Why did I decide it? What actually happened? How close was my reasoning?*
+
+This is how he built Bridgewater's decision system — and it's how anyone builds genuine financial judgment. Most people never examine their financial reasoning. They react and panic, or outsource decisions without understanding the logic. The person who writes down financial logic and reviews it quarterly has a feedback loop that compounds judgment over decades.
+
+### The Five-Step Dalio Process for Personal Finance
+
+1. **Have clear goals** — specific and time-bound, not vague intentions
+2. **Identify problems** — without honest assessment, no improvement happens
+3. **Diagnose root causes** — fix the actual cause, not the surface symptom
+4. **Design a plan** — specific steps that address the root cause
+5. **Execute** — with milestones and review points
+
+Apply this to your financial life: What is my specific financial goal? What's preventing me from reaching it faster? What's the actual root cause? What specific action closes that gap?
+
+### The Long Debt Cycle and Your Personal Risk
+
+Dalio's most sobering framework: when debt grows faster than income, when monetary policy loses effectiveness, the long-term debt cycle turns. The reset involves depressions, debt restructuring, and monetary overhauls.
+
+**For personal wealth:** Don't be over-leveraged when a long-term debt cycle peaks. Hold some assets that perform well during monetary disorder (gold, real assets, foreign diversification). Those who preserved capital ahead of the reset can buy assets cheap when others are distressed.
+
+### Dalio on Failure and Learning
+
+> *"Every mistake you make is a result of not understanding something. The most important thing you can do is figure out what went wrong and write it down so it doesn't happen again."*
+
+Early 1980s: Dalio made a bad call on interest rates and nearly destroyed Bridgewater. His response: documented exactly why he was wrong, turned the failure into a risk management principle, and built systems that became Bridgewater's core competitive advantage. The failure was the education.
+
+**For personal wealth:** Track financial mistakes in a journal. Not to beat yourself up — to see patterns. Most people have recurring mistakes (emotional selling, chasing performance, under-saving in bull markets). Writing down *"I sold because I panicked — the fundamentals hadn't changed"* builds genuine financial wisdom. Moving on without reflection repeats the same mistake.
+
+→ Full content: [references/dalio-frameworks.md](references/dalio-frameworks.md)
 
 ## Behavioral Finance: How Your Brain Works Against Your Wealth
 
