@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 3.3.0
+version: 4.7.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -39,12 +39,7 @@ This skill cuts through the vague, self-help noise around purpose and gets real:
 
 The mythology of purpose — the sudden calling, the lightning bolt of clarity — is mostly people telling a good story in retrospect. The actual process is messy, incremental, and deeply unsexy.
 
-The "passion" myth is even more damaging:
-
-> "Follow your passion" is advice for people who already know their passion.  
-> For everyone else, it's paralysis.
-
-**What actually works:** Attention → Experiment → Refinement → Commitment.
+**The "passion" myth:** "Follow your passion" is advice for people who already know their passion. For everyone else, it's paralysis. What actually works: Attention → Experiment → Refinement → Commitment.
 
 ---
 
@@ -72,17 +67,13 @@ Westerners treat ikigai as a grand, singular life purpose — the thing you'll b
 
 ### Using Ikigai in Conversation
 
-When someone is stuck on "finding their purpose" in an abstract, paralyzing way, redirect them with the ikigai lens:
+When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 
-1. **Start smaller than you think.** Don't ask "what is my life calling?" Ask "what is one thing that made today worth living?" The answer is the seed.
-
-2. **Notice what you do well that others notice.** Social ikigai grows when you are doing something that the people around you find valuable — even in small ways.
-
-3. **Separate the daily from the spectacular.** Purpose does not need to be a TED talk. Most people who feel ikigai describe a life of good enough work, meaningful relationships, and small daily practices — not a single dramatic calling.
-
-4. **Check for anti-social ikigai.** If someone's "purpose" is rooted in revenge, hatred, or comparison to others, that is a distortion. Purpose from anti-social motivation is brittle and consumes the person who holds it.
-
-5. **Sustain, don't discover.** The Japanese frame is maintenance, not discovery. You don't find ikigai once — you tend it daily. The question is: what practice do you return to that makes life feel worth living?
+1. **Start smaller.** Ask "what made today worth living?" — not "what is my life calling?" Small seeds compound.
+2. **Notice what you do that others value.** Social ikigai grows through doing useful things people genuinely lean on you for.
+3. **Separate daily from spectacular.** Meaningful relationships, good enough work, small daily practices — not a TED talk.
+4. **Check for anti-social ikigai.** Revenge or resentment-based purpose is brittle. Name it, then re-aim it at something generative.
+5. **Sustain, don't discover.** Purpose is maintenance, not a one-time discovery. What practice do you return to?
 
 ### The Eudaimonic Well-Being Frame
 
@@ -105,38 +96,27 @@ People who achieve hedonic goals (money, status, comfort) and still feel empty a
 
 Because ikigai has three dimensions (social, non-social, anti-social), a more complete purpose inventory maps all three:
 
-**Social ikigai inventory** — What do the people around you seem to genuinely need from me? Not what they ask for (often surface), but what do they lean on me for? What would actually be missed if I weren't here? This is the most underused source of direction because most people look inward and ignore the signal coming from their actual relationships.
+**Social ikigai inventory** — What do the people around you genuinely need from me? Not what they ask for (often surface), but what they lean on me for. This is the most underused source of direction.
+**Non-social ikigai inventory** — What private practice, ritual, or discipline gives me a reason to get up even when no one is watching? Faith, craft, creative work, physical practice — genuine sources meaning the social world cannot supply.
+**Anti-social ikigai audit** — Is any part of my stated purpose actually resentment or the desire to prove something? Name it if it's there, then re-aim it at something generative rather than defensive.
 
-**Non-social ikigai inventory** — What private practice, ritual, or discipline gives me a reason to get up even when no one is watching? Faith, craft, creative work, physical practice, study — these are often dismissed as "just personal" but they are a genuine source of meaning that the social world cannot supply.
+The goal is not to eliminate the anti-social dimension but to prevent it from being the *only* source of direction.
 
-**Anti-social ikigai audit** — Is any part of my stated purpose actually resentment, revenge, or the desire to prove something to someone? This is not a moral test — it's a clarity test. Anti-social motivation will mobilize you but eventually consume you. Name it if it's there, then ask: what would this look like if it were aimed at something generative rather than defensive?
+### Small-Purpose Practice
 
-The goal of the three-domain exercise is not to eliminate the anti-social dimension (it's real and human) but to prevent it from being the *only* source of direction.
+The goal isn't to find one big purpose — it's to notice small purposes repeatedly and let them compound. At end of each day, write one moment you felt genuinely useful, even briefly. Don't filter for importance. Over weeks, patterns emerge.
 
-### The Small-Purpose Practice
+→ Full content: [references/small-purpose-practice.md](references/small-purpose-practice.md)
 
-Traditional purpose frameworks are built for dramatic life pivots. Ikigai is built for Tuesday. A genuinely useful exercise for the stuck person is the **Daily Ikigai Note**:
+### The Motivation Spectrum
+The other frameworks in this skill map onto ikigai's dimensions:
+- **Craftsman mindset (Newport)** → social ikigai: rare and valuable skill that others find genuinely useful
+- **Flow (Csikszentmihalyi)** → non-social ikigai: private absorption in something demanding that the world doesn't see but that makes life worth living
+- **Identity habits (Clear)** → how you sustain ikigai over time through daily small actions
 
-Each evening, write one sentence: *One thing that made today worth living.*
+> Ikigai is the underlying frame; the other frameworks fill it in with specific practices. The person who practices all of them has an ikigai — a reason for being they tend daily.
 
-Not "what am I grateful for" (gratitude practice, different). Not "what went well" (negativity bias neutralization, different). Just: one specific thing, small or large, that gave you a reason to get out of bed this morning.
-
-After 30 days, read it back. The pattern is the signal — the thing you keep coming back to, across different days and circumstances, is closer to your actual direction than any abstract life philosophy.
-
-> This exercise is particularly effective for people in transitions (divorce, job loss, relocation) where the future feels invisible. The past and present contain the signal; the future doesn't need to be computed — it needs to be grown from what's already there.
-
-### Ikigai and the Other Frameworks
-
-Ikigai is the conceptual container that makes the other frameworks more understandable:
-
-- **Frankl's attitudinal values** map onto non-social ikigai — meaning you make from your stance toward what you cannot change
-- **Newport's craftsman mindset** maps onto social ikigai — rare and valuable skill that other people find genuinely useful
-- **Csikszentmihalyi's flow** is often found in non-social ikigai activities — the private absorption in something demanding that the world doesn't see but that makes life worth living
-- **Clear's identity habits** are how you sustain ikigai over time — daily small actions that tend the thing you've identified as your reason for being
-
-> Ikigai is not one framework among the others. It is the underlying frame that the others fill in with specific practices. The person who practices all of them is someone who, in practice, has an ikigai — a reason for being that they tend daily.
-
-→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md) — cross-cultural comparisons (Japan/Scandinavia/US), lifespan developmental model (four stages), the 7-day ikigai inventory practice, and the question that changes everything.
+→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
 ---
 
@@ -220,13 +200,7 @@ For 2 weeks: carry a small notebook. At the end of each day, write:
 
 After 2 weeks, read it back. Patterns will emerge that your brain is too close to see in the moment.
 
-#### The "Used to Love" Exercise
-
-Write down 10 things you used to be obsessed with — as a kid, as a teenager, as a younger adult. Not what you were "good at." What you would happily lose entire afternoons doing. Then ask: **what do these things have in common?**
-
-Often the thread between your scattered interests is more revealing than any single one.
-
-#### The Honest Inventory
+#### The Core Inventory
 
 Answer these without lying to yourself:
 
@@ -234,8 +208,11 @@ Answer these without lying to yourself:
 2. What do I complain about constantly? **Complaints are desires in disguise.** If you complain that no one is doing X well, you might be the person meant to do X.
 3. What would I do even if it paid nothing? (Don't say "I don't know." That's a deflection.)
 4. What would I regret not trying when I'm 80?
+5. What do the people around me consistently lean on me for — the thing they'd actually miss if I weren't here?
 
 ---
+
+
 
 ### Stage 2: Experiment (Try Before You Commit)
 
@@ -312,8 +289,8 @@ You do not lack discipline. You are surrounded by environments that make the def
 
 - **Remove friction** from the actions that matter (leave your book open on the desk, not in a bag)
 - **Add friction** to the time-sinks (phone in another room, social apps deleted)
-- **Sleep first** — most motivation problems are actually sleep problems in disguise
-- **Move your body** — even a 20-minute walk resets more than any productivity hack
+- **Sleep first** — many motivation problems are sleep problems in disguise
+- **Move your body** — even a 20-minute walk beats any productivity system
 
 ---
 
@@ -525,14 +502,11 @@ This distinction is critical:
 
 ### Using Flow in Conversation
 
-**When someone says "I feel empty but I have everything":**
-> Are you losing yourself in anything? Not consuming — doing. Not scrolling — building, solving, creating. If your days are full of comfort and empty of challenge, that's not peace — it's numbness. The reframe is not "find your purpose" — it's "find your challenge level."
+**"I feel empty but have everything":** Are you losing yourself in anything? Not consuming — doing. Not scrolling — building, solving, creating. Empty comfort is numbness. The reframe: not "find your purpose" but "find your challenge level."
 
-**When someone says "I don't know what I'm passionate about":**
-> Passion often follows flow, not the other way around. People who love their work usually started by finding activities that produced flow. The warmth built after the absorption, not before it. Have you tracked when you lose track of time? Start there.
+**"I don't know what I'm passionate about":** Passion follows flow, not the other way around. People who love their work started by finding flow in activities, then warmth built after the absorption. Have you tracked when you lose track of time?
 
-**When someone is in the wrong job but afraid to leave:**
-> Flow is not about the topic — it's about the challenge-to-skill ratio. A nurse who loves nursing but is bored may need harder cases. An engineer who hates coding but loves problem-solving may need to raise the difficulty of their projects, not change fields entirely. Before you conclude you need a different career, ask: am I at my challenge ceiling here?
+**"I'm in the wrong job but afraid to leave":** Flow is not about topic — it's about the challenge-to-skill ratio. A bored nurse may need harder cases, not a different career. Before changing fields, ask: am I at my challenge ceiling here?
 
 ### The Flow-Based Purpose Discovery Method
 
@@ -556,9 +530,9 @@ Flow requires sustained, uninterrupted time. If someone's life has no room for 9
 
 ### The Flow-Purpose Connection
 
-Csikszentmihalyi's data showed that the activities people identify as most meaningful in their lives are disproportionately activities associated with flow. The meaning and the absorption are not separate experiences — they are linked. Flow produces the conditions for purpose to emerge.
+Csikszentmihalyi's data showed that the most meaningful life moments are disproportionately associated with flow. The meaning and the absorption are not separate — flow produces the conditions for purpose to emerge.
 
-This gives the purpose-finder a concrete, actionable lever: **don't ask "what should I care about?" Ask "when did I last lose myself in something?"** If the answer is unsatisfying, the path forward is not more introspection — it is designing more opportunities for flow.
+The purpose-finder's key lever: **don't ask "what should I care about?" Ask "when did I last lose myself in something?"** If the answer is unsatisfying, the path forward is not more introspection — it is designing more opportunities for flow.
 
 ---
 
@@ -660,143 +634,71 @@ The finder identity puts purpose in the future — it is always being searched f
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
 
-For a significant subset of purpose-seekers, the problem is not "what should I do?" — it is "I cannot tell what I want separate from what others need me to want." Standard purpose frameworks (try things, follow energy, find your flow) fail when the underlying issue is identity formation itself: the person has been so shaped by their family system that their own wants are invisible to them. This framework covers the family patterns most directly relevant to chronic purpose blockage.
+For some purpose-seekers, the question "what should I do with my life?" cannot be answered until the prior question is addressed: **do I have enough of a self yet to want anything?** Standard purpose frameworks fail when the underlying issue is identity formation — the person has been so shaped by their family system that their own wants are invisible to them. If someone has worked through the purpose frameworks and still cannot locate a self separate from their family adaptation, refer to family systems therapy, Codependents Anonymous, or individual therapy focused on differentiation.
 
-### The Differentiation Problem
+→ Full content: [references/family-purpose-formation.md](references/family-purpose-formation.md)
 
-**Differentiation** — the capacity to be your own person while remaining connected to others — is the foundational developmental task that underlies purpose. From family systems theorist Murray Bowen: the person with high differentiation can think independently, maintain their own center under pressure, and be in intimate relationship without losing themselves. The person with low differentiation cannot tell where their own wants end and others' begin — their internal compass always reads someone else's north.
+---
 
-The practical implication: **for some purpose-seekers, the question "what should I do with my life?" cannot be answered until the prior question is addressed: do I have enough of a self yet to want anything?** This is not defeatism — it is the correct ordering of the problem.
+## Framework: Experimentation — Finding Direction Through Doing
 
-### The "Good Child" Pattern
+The most paralyzing moment in purpose-searching: believing you must know where you're going before you take the first step. This is false. Most people who find direction describe the same pattern — they stopped planning and started running small experiments. Direction emerged from data, not introspection.
 
-The most common family-of-origin pattern in chronic purpose-seekers: the child who learned that love was conditional on being easy, helpful, and unthreatening. They optimized for others' comfort and never learned to locate their own needs.
+This framework replaces "what should I do with my life?" with: **"what happens if I try this for 30 days?"** The first question has no answer. The second does.
 
-The diagnostic question: **when you help others, do you feel more alive or less?** If helping leaves you empty, it is likely the caretaking pattern — a family adaptation you've turned into a lifestyle, not a purpose. Genuine vocation energizes even when it's difficult. The good child pattern depletes regardless of the activity.
+### The Three Levels
 
-### Parentification: When the Child Raised the Parent
+**Level 1 — Observation (no commitment):** Journal "what absorbed me today?" for two weeks. Shadow someone for a morning. Read a biography of someone doing what you think you might want. Attend a meetup in the domain as an observer.
 
-Parentification is the role reversal where the child took on parental functions — emotional caretaking, problem-solving, managing a parent's moods. The parentified adult has highly developed skills in noticing others' needs but a poorly developed sense of their own. Their attention is always outward. They may enter "helping professions" and still feel empty — because the helping is a role, not a self-identified direction.
+**Level 2 — Small bet (1–4 weeks):** A compressed prototype. Think you might want to write? Write and publish three pieces in three weeks. Think you might want to start a business? Talk to five people who already did it. The goal is to learn whether you care — not to succeed.
 
-The cruelest irony: the skills that made you valuable in your family (attunement, crisis management, emotional intelligence) are the skills you deploy to find purpose — but always outward, never inward. The reframe: **you can use your sensitivity in service of your own goals, not just others'.**
+**Level 3 — Immersive test (3 months):** If Level 2 produces genuine interest, go deeper. Three months of real engagement gives you enough information to know: do I want to keep going?
 
-### The Imposter Identity
+> **You are allowed to quit after 3 months of real effort. You are not allowed to quit after 3 days.** Getting genuinely not-terrible at something requires ~20 hours of deliberate practice. Quitting at hour 3 is not a verdict — it is quitting.
 
-Across all these patterns, the person's current identity is largely an adaptation to their family system, not an expression of their own direction. They are playing a role — the good child, the caretaker, the family stabilizer — and have never built a separate self underneath it.
+### The 90-Day Check-In
 
-You cannot find purpose until you have a self that can want things. The fix:
+After a Level 3 test, evaluate three signals:
+1. **Energy** — did I keep wanting to come back to this?
+2. **Competence** — can I do things now I couldn't 60 days ago?
+3. **World** — do people respond to what I'm building?
 
-1. **Name the pattern.** The caretaking orientation is a family adaptation, not a vocation.
-2. **Practice small differentiations.** Find one thing you want that has nothing to do with managing others' emotional states. Choose it. Tolerate the guilt.
-3. **Separation is not rejection.** You can love your family and still be your own person.
-4. **Find the anger underneath.** Many people with these patterns have anger they learned not to feel. The anger is information — it is the part of you that knows you deserved better.
+All three present → go deeper. Two of three → direction is real, adjust the form. One or zero → the direction was probably a fantasy. Don't persist out of stubbornness.
 
-### When to Refer for Deeper Work
+### The Core Distortion
 
-If someone has gone through all the purpose frameworks and still says "I can't figure out what I want" — not from lack of trying, but because they genuinely cannot locate a self separate from their family adaptation — the appropriate referral is family systems therapy, Codependents Anonymous, AlAnon (if addiction is present), or individual therapy focused on differentiation. Purpose frameworks can resume once the person has developed enough of a separate self to want things.
+**Wrong:** Feel confused → Research more → Wait for certainty → Act
+**Right:** Feel confused → Run small experiment → Learn → Feel slightly less confused → Run next → Direction emerges
 
-→ Full content: [references/family-purpose-formation.md](references/family-purpose-formation.md) — the full differentiation spectrum, the two types of parentification, codependency structure, the good child vs. genuine vocation distinction, and the "un.enmeshment as part of the purpose process" protocol.
+Clarity arrives during action, not before it. The absence of certainty is the permanent condition of being alive — you cannot clear it in advance, only move through it.
 
-### Using This Framework in Conversation
+### Using Experiments in Conversation
 
-**"I know what I should do but I can't seem to want it":**
-> The "should" is a signal. What you should do is often what someone else needed you to do. The question is: what do YOU want, separate from what would make your family proud or keep the peace? If that question doesn't produce any answer, the problem may not be purpose — it may be that your sense of self is too fused with your family's to have your own wants yet. That is fixable, but it requires differentiation work first.
+**"I don't know what I want":** You need to run experiments, not find your purpose. What's the smallest thing you could try this week — a prototype, not a career pivot?
 
-**"I feel selfish when I pursue my own direction":**
-> Selfish is the feeling that was installed when you first tried to have your own needs. It is not a valid signal — it is a defense response from a family system that needed you to stay small. Practice being a little selfish. Notice what happens. Usually nothing catastrophic, and the guilt gradually decreases.
+**"I tried something and it didn't work":** Did you try it with real effort for 3 months, or did you stop when it got hard? If you stopped early, that's data about effort threshold — not a verdict on the direction.
 
-**"I help people but I feel empty afterward":**
-> That is a caretaking pattern, not a purpose. Genuine helping leaves you energized even when it's hard. Caretaking leaves you depleted. The question is not "find a purpose that fills me" — it is "why am I using helping as a way to avoid developing my own self?"
+**"I'm afraid of wasting time":** The person who runs 12 experiments in a year has more useful data than one who reads 12 books about how to find direction.
+
+→ Full content: [references/experimentation-purpose.md](references/experimentation-purpose.md)
 
 ---
 
 ## Framework: Monetizing Your Purpose
 
-There is a widespread belief that converting purpose into income is either impossible or a betrayal of the purity of the calling itself. Both beliefs are wrong. Money is a tool for sustainability — a way to keep doing what matters without being forced out of it. The real question is not whether to monetize, but how to do it without distorting what you're actually trying to do.
+Money is a tool for sustainability — a way to keep doing what matters without being forced out of it. The question is not whether to monetize, but how to do it without distorting what you're actually trying to do.
 
-### The Audience First Fallacy
+**Three models:** Craftsman (deep skill → premium pricing), Audience (public expertise → teaching/consulting), Creator (community → subscriptions/events). All work. Pick what fits your energy type.
 
-The most common mistake: building something with no audience and then hoping people show up. The "build it and they will come" myth destroys more purpose-driven projects than any other cause.
-
-The alternative is the **audience-first approach**: start in public, build a relationship with people who care about what you care about, and then create the thing they need. This inverts the traditional sequence:
-
-- **Traditional:** Build the thing → Try to find customers
-- **Audience-first:** Find the people → Learn what they need → Build the thing for them
-
-This follows Cal Newport's career capital approach applied to audience: you build rare and valuable knowledge in a domain, and you broadcast it until a group of people recognizes you as someone worth following. That audience becomes the leverage that makes monetization possible.
-
-### The 1000 True Fans Framework
-
-Kevin Kelly's "1000 true fans" concept: you do not need millions of people. You need 1,000 people who genuinely love what you do and will pay $100/year for access to more of it. That is $100,000/year — sustainable for one person, life-changing for most.
-
-The conditions:
-- **True fan:** Someone who will buy everything you make, recommend you to everyone they know, and feel genuinely richer for having your work in their life — not a casual follower
-- You do not need millions of followers. You need a small group of people who care intensely.
-- The implication: stop trying to appeal to everyone. Purpose-driven work that earns money usually starts by being deeply useful to a specific group — not trying to be universally compelling.
-
-### Three Models for Monetizing Purpose
-
-**1. The Craftsman Model — Deep Skill, Premium Pricing**
-You become genuinely excellent at something difficult and rare, then charge accordingly. This is the freelance, consulting, and bespoke service model. Build career capital in a domain, position yourself as the person who solves a specific hard problem, raise prices as your reputation grows.
-
-Best for: Skills requiring deep expertise (writing, design, engineering, medicine, law, finance, therapy)
-
-**2. The Audience Model — Knowledge + Platform**
-You build public expertise in a domain, attract people who share your interest, and monetize through teaching, writing, speaking, or consulting. Give away your best thinking for free to build trust, then offer paid products, courses, coaching, or communities.
-
-Best for: People energized by sharing knowledge more than doing client work
-
-**3. The Creator Economy Model — Content + Community**
-You build an audience around shared values or interests and monetize through subscriptions, merchandise, events, or platform revenue. Create consistently in a niche you genuinely care about, build community (not just an audience), and diversify revenue across multiple streams.
-
-Best for: People energized by building community, not just delivering individual services
-
-### The Sequencing Problem
-
-Many people get the sequence backwards: know purpose perfectly → build something in secret → find an audience.
-
-The real sequence:
-1. Start doing the work in public
-2. Audience reveals what matters
-3. Purpose clarifies through the feedback loop
-4. Monetization becomes possible when you know what people actually need
+**The sequencing problem:** Most people get it backwards — know purpose → build in secret → find audience. Real sequence: start in public → audience reveals what matters → purpose clarifies through feedback → monetization becomes possible when you know what people actually need.
 
 > **You do not find your purpose and then build an audience. You build an audience and your purpose clarifies through the relationship.**
 
-This is uncomfortable for people who want certainty before they commit. But people who build in public find their direction faster than people who build in private.
+**Monetization without selling out:** Define what you will not do for money before you start making any. Purpose that can't survive contact with money wasn't purpose — it was a hobby. But purpose that sells out to survive isn't purpose either.
 
-### Monetization Without Selling Out
+**"I'm not expert enough to charge":** You don't need to be the world's best. You need to be one step ahead of someone who's stuck where you were. The person who just figured something out often teaches it better than the expert who's forgotten what it was like to not know.
 
-The fear that monetization corrupts purpose is real — but only when the monetization model rewards something different from the purpose. Warning signs:
-
-- Creating content that doesn't resonate because you're optimizing for clicks
-- Offering services that drain you because they pay well
-- Performing a version of yourself that feels false because it sells better
-
-The antidote: define what you will not do for money before you start making any. Write it down. Purpose that can't survive contact with money wasn't purpose — it was a hobby. But purpose that sells out to survive isn't purpose either — it's survival. The goal is the intersection: work that matters to you, that other people find valuable enough to pay for, that you can sustain.
-
-### What to Do When You're Not Ready to Charge
-
-Many people paralyze themselves believing they need to be "expert enough" before charging. The trap: you don't need to be the world's best expert — you need to be one step ahead of the person who can't figure it out themselves. The person who just learned something often teaches it better than the expert who's forgotten what it was like to not know.
-
-The progression: give things away for free (builds audience and trust) → start charging small amounts (validates the offer) → raise prices as expertise and reputation grow → eventually earn a full living from work you would do anyway.
-
-### Using Monetization Frameworks in Conversation
-
-**When someone says "I want to make money from my passion but I don't know where to start":**
-> The question is not "how do I monetize?" It's "who has the problem I'm interested in solving?" Find those people. Start helping them — for free at first if needed. The monetization comes after you know what they actually need.
-
-**When someone is afraid of selling out:**
-> Selling out means doing work that contradicts your values in exchange for money. Define your non-negotiables before the money arrives. What would you never do for money, no matter how much?
-
-**When someone says "I'm not expert enough to charge":**
-> You don't need to be the world's best. You need to be one step ahead of someone who's stuck where you were. The person who just figured something out teaches the person who hasn't figured it out yet better than the expert who's forgotten what it was like to not know.
-
-**When someone says "I tried to build an audience but no one came":**
-> Building an audience takes 12-24 months of consistent public work before meaningful traction. Most people quit after 3 months and call it a verdict. Did you give it enough time and consistency before concluding it didn't work?
-
----
-
+→ Full content: [references/monetizing-purpose.md](references/monetizing-purpose.md)
 ## Framework: Failure, Uncertainty, and Late-Stage Purpose Discovery
 
 The cultural narrative around purpose has a recency bias: it focuses on people who "figured it out" young, made dramatic pivots in their 20s, and built a coherent story in retrospect. This narrative is structurally misleading. Most purpose is found **after** significant failure, confusion, and wrong turns — and often well into middle age or beyond.
@@ -895,97 +797,113 @@ Brian Chesky's 2024 essay described how founders who stay close to the work — 
 → Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
 
 
+
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
-Edward Deci and Richard Ryan's **Self-Determination Theory** (SDT) provides the most empirically grounded account of what human beings actually need to feel motivated and purposeful. Unlike frameworks that focus on finding the "right" purpose, SDT explains *why* purpose produces motivation — and why most attempts to manufacture purpose fail.
+SDT identifies three **universal psychological needs** that must all be met simultaneously for purpose:
 
-SDT identifies three **universal, innate psychological needs** that are essential for psychological health and well-being:
+| Need | Definition | When met | When absent |
+|------|-----------|---------|------------|
+| **Autonomy** | Acting from genuine choice | Actions feel like yours | Resentment, learned helplessness |
+| **Competence** | Getting genuinely better | Growth, stretch | Boredom, stagnation, fraud feeling |
+| **Relatedness** | Being truly seen | Genuine connection | Isolation, hollow achievement |
 
-| Need | Definition | When it's met | When it's absent |
-|------|-----------|---------------|-----------------|
-| **Autonomy** | Acting from genuine choice, not external pressure or approval | You feel like your actions are yours, not obligations | Resentment, learned helplessness, "what's the point" |
-| **Competence** | Getting genuinely better at something that matters | You feel yourself growing, stretching, not stagnating | Boredom, stagnation, imposter syndrome, feeling like a fraud |
-| **Relatedness** | Mattering to other people — not being useful, but being *seen* | You feel genuinely understood and valued | Isolation, loneliness, hollow achievement |
-
-### The Critical Insight: Purpose Requires All Three
-
-Purpose is not one of these needs — it **emerges when all three are met simultaneously**. You can have deep autonomy (you do what you want) and relatedness (people love you), but without competence, you will feel hollow. You can be highly competent (you are excellent at your job) and have relatedness, but without autonomy, you will feel trapped. None of these alone produces purpose.
-
-The most common purposelessness presentation in practice:
-
-> **High autonomy + high relatedness + low competence = talented people who feel empty.**
-
-They have freedom. They have love. But they are not genuinely good at anything that stretches them — and they know it. The fix is competence, and only competence. No amount of autonomy or connection substitutes for the feeling of growth.
+> **High autonomy + high relatedness + low competence = talented people who feel empty.** They have freedom and love but no genuine competence.
 
 ### The Motivation Spectrum
 
-SDT also explains why some forms of motivation produce sustainable purpose and others don't. It places motivation on a spectrum based on how **internalized** the motivation is:
-
-```
-External regulation → Introjection → Identification → Integration
-(Wanting rewards   (Wanting approval  (Valuing the    (Fully part of
- or avoiding惩罚)    or avoiding guilt)   goal itself)    who you are)
-```
-
-- **External motivation** — doing something for external rewards or to avoid punishment. Produces compliance, not commitment. People who find their purpose through external rewards usually lose it when the rewards stop.
-- **Introjected motivation** — doing something to avoid guilt or gain self-worth ("I must succeed so I'm not a failure"). Looks like motivation but is fragile. Burns out.
-- **Identified motivation** — you consciously value the goal and choose it. This is where purposeful action begins — you do something because you believe it matters, regardless of immediate reward.
-- **Integrated motivation** — the behavior is fully woven into your sense of self. This is what purpose feels like from the inside. You don't do your work because you chose it — you do it because it is *you*.
-
-> **The path to purpose is the path from external regulation to integrated motivation.** You start by doing things for external reasons, and through sustained engagement and reflection, the motivation becomes more internal. The goal is not to force integration — it is to create the conditions where it can happen naturally.
+Motivation ranges from **external** (doing something for rewards/punishment) → **introjected** (avoiding guilt) → **identified** (consciously valuing the goal) → **integrated** (fully part of your identity). Purpose lives at the identified/integrated end.
 
 ### Competence: The Overlooked Need
 
-Most purpose advice focuses on autonomy ("find what you love") and relatedness ("find your community"). SDT reveals why this is incomplete:
+Most purpose advice focuses on autonomy and relatedness. But competence requires sustained, difficult effort. Autonomy is easy to simulate; relatedness is easy to approximate. Getting genuinely good at something hard is not.
 
-**Competence is the need most often neglected in modern life.**
-
-The reason: competence requires sustained, difficult effort over time. Autonomy is easy to simulate (you can take a sabbatical). Relatedness is easy to approximate (you can join a community). But getting genuinely good at something hard — building real skill — requires showing up when it's hard, not just when you feel like it.
-
-> **If you are bored, your competence need is not being met. If you are anxious, your competence need is being asked to do too much too fast. The purpose signal in SDT is often a competence signal.**
-
-### The Goldilocks of Challenge
-
-SDT connects directly to Csikszentmihalyi's flow research: the competence need is met through **optimal challenge** — tasks at the edge of your current ability that you can actually succeed at with effort.
-
-- Tasks below your skill level → boredom (competence need not met)
-- Tasks above your skill level → anxiety (competence need overwhelmed)
-- Tasks at the edge → flow (competence need met through challenge)
-
-This means: the specific activities that meet your competence need will change as you grow. What challenges you at level 2 will bore you at level 10. Purpose is not found once — it is continuously met through finding new edges.
+> **Boredom = competence need not met. Anxiety = competence need overwhelmed. Flow = competence need met.**
 
 ### Using SDT in Conversation
 
-**When someone says "I have everything I should want and still feel empty":**
-> Autonomy and relatedness are met, but the competence need is starving. Are you growing at anything? Not consuming — building skill, getting better, being stretched? The question is not "what do I care about" — it's "what am I genuinely good at, and am I using it?"
+**"I have everything I should want and still feel empty":**
+> Autonomy and relatedness are met, but the competence need is starving. Are you growing — building skill, getting better?
 
-**When someone feels "not good enough":**
-> That's a competence signal, not a character flaw. The fix is not reassurance — it's deliberate practice at something hard enough to stretch you. Build the competence. The feeling of inadequacy usually retreats once competence actually builds.
+**"I don't know what I want":**
+> Try things until you find one where you want to get better at it. The wanting to improve is the signal.
 
-**When someone is "waiting for motivation":**
-> Motivation follows need satisfaction, not the other way around. You don't feel motivated and then act. You act in ways that meet your needs, and the motivation follows. Start with the smallest action that gives you a competence hit — something you can actually get better at.
+**"Waiting for motivation":**
+> Motivation follows need satisfaction. Start with the smallest action that gives you a competence hit.
 
-**When someone says "I don't know what I want":**
-> Autonomy requires knowing what you value enough to choose. The reason you don't know what you want may be that you haven't had enough experience to know what competence feels like. Try things until you find one where you want to get better at it. The wanting to improve is the signal.
-
-**When someone has strong autonomy and relatedness but no purpose:**
-> You're missing the third leg. Autonomy without competence is drift. Connection without competence is companionship without contribution. The move is to find something hard enough to get good at — not because it will "lead to purpose," but because competence is a basic psychological need and it is currently undernourished.
+**"Strong autonomy and relatedness but no purpose":**
+> You're missing the third leg. Autonomy without competence is drift. Find something hard enough to get genuinely good at.
 
 ### SDT and the Other Frameworks
 
-SDT threads through the other frameworks in this skill:
+| Framework | SDT lens |
+|-----------|----------|
+| Craftsman mindset (Newport) | Competence need in action |
+| Identity habits (Clear) | Autonomy over time |
+| Flow (Csikszentmihalyi) | Competence satisfaction in real-time |
+| Attitudinal values (Frankl) | Autonomy within constraint |
 
-- **Craftsman mindset (Newport):** Is the competence need in action. Getting good at something rare and valuable is how autonomy, competence, and relatedness are simultaneously met — you act from choice (autonomy), you grow (competence), and you contribute something others value (relatedness).
+> **SDT is the scaffold; the other frameworks fill in the practice.**
 
-- **Identity-based habits (Clear):** Is how autonomy works over time. When "I am a person who builds things" becomes part of your identity, your actions are self-determined rather than externally regulated. The identity is what internalization looks like in practice.
 
-- **Flow states (Csikszentmihalyi):** Is what competence satisfaction feels like from the inside. Flow is the subjective experience of the competence need being met in real-time — immediate feedback, challenge/skill balance, full absorption.
-
-- **Attitudinal values (Frankl):** Is how relatedness and autonomy work even in suffering. You cannot always control what happens to you, but you can choose your relationship to it — that is autonomy within constraint. Meaning in suffering is usually relatedness (connecting to something larger than yourself) plus autonomy (choosing your stance).
-
-> **The frameworks are not separate theories. They are different lenses on the same underlying needs. SDT is the scaffold; the other frameworks fill in the practice.**
 
 ---
+
+## Framework: Philosophy, Religion, and Major Wisdom Traditions
+
+Major religious and philosophical traditions offer purpose frameworks that predate modern psychology by millennia. They converge on a shared structure — purpose through service, virtue, and disciplined attention. For the purpose-seeker overwhelmed by modern frameworks, the wisdom traditions offer a different entry point: not "what do I want?" but "what does life ask of me?"
+
+### The Common Structure Across Traditions
+
+Five shared principles emerge across Stoicism, Buddhism, Confucianism, Islam, Christianity, and Taoism:
+
+1. **Purpose is not primarily about you.** — All point outward: Stoicism serves the rational order (logos), Buddhism ends craving, Confucianism fulfills relational roles, Islam serves creation, Christianity loves God and neighbor, Taoism lets nature express itself.
+2. **Attention is the mechanism.** — Stoic evening reflection, Buddhist mindfulness, Christian prayer, Taoist non-forcing — all are attention practices.
+3. **Service is the expression.** — Purpose is expressed through how you serve something larger than yourself.
+4. **Virtue is the practice.** — Courage, justice, temperance, wisdom (Stoicism); the paramis (Buddhism); ren (Confucianism); the divine attributes (Islam); love, faith, hope (Christianity); te (Taoism).
+5. **Let go of the outcome.** — Stoic acceptance, Buddhist release, Taoist wu wei, Christian surrender.
+
+### Stoicism: Virtue and the Dichotomy of Control
+
+Epictetus's core framework: separate all things into what is within your control and what is not. Purpose lives in your judgments, choices, and responses — not in other people's opinions or events you cannot control.
+
+> *"Make the best use of what is in your power, and take the rest as it happens."* — Epictetus, *Enchiridion*
+
+### Buddhism: Ending Suffering as Purpose
+
+The Buddha's framework: the purpose of life is to end suffering (dukkha) — not achievement, but the cessation of craving and attachment. The Eightfold Path: right view, intention, ethical conduct, effort, mindfulness, concentration.
+
+The Buddhist challenge to Western purpose culture: the obsession with "finding your purpose" is itself a form of craving. Buddhism asks: can you release the need to matter and act from genuine clarity?
+
+### Confucianism: Purpose Through Relational Duty
+
+Purpose as **ren (仁)** — humaneness, genuine relatedness. Purpose is the quality of attention you bring to your roles. The question is not "what is my singular calling?" but "am I fulfilling all my roles with genuine care?"
+
+### Taoism: Wu Wei (Non-Forcing)
+
+Laozi and Zhuangzi: purpose emerges when you stop forcing and allow your nature to express itself. **Wu wei** (无为) is not passivity but the practice of not fighting the nature of things.
+
+### Christianity: Vocation and the Priesthood of All Believers
+
+Martin Luther's breakthrough: all work — farming, smithing, parenting, governance — done in faith and service to neighbor, is equally sacred. **"Holy work" insight:** All work done faithfully is holy work.
+
+### Islam: Purpose Through Submission and Service
+
+Purpose through **submission to Allah's will** and **service to creation (khidmat)**. **Tawhid** (unity of God), **Ikhlas** (sincerity of intention — the test), **Amanah** (life as a deposit you will account for).
+
+### Using Philosophy and Religion in Conversation
+
+**"I'm spiritual but not religious":**
+> The major traditions agree: purpose is not primarily about you, it is about service and disciplined attention. Which tradition's language resonates?
+
+**"I don't believe in God":**
+> Not as much as you might think. Stoicism works without a deity. Buddhism is non-theistic. Secular purpose frameworks are largely secularized versions of these traditions.
+
+**"Everything feels meaningless":**
+> Stop looking for a framework and start doing what all traditions agree on: serve something, practice attention, cultivate virtue, let go of the outcome.
+
+→ Full content: [references/philosophy-traditions-purpose.md](references/philosophy-traditions-purpose.md)
+
 ## Framework: Range and the Generalist Path (David Epstein)
 
 David Epstein's *Range* dismantles the early-specialization assumption: the most fulfilled, creative, resilient people are disproportionately late-blooming generalists. In a world rewarding cross-domain synthesis, the generalist advantage is increasing.
@@ -1124,21 +1042,6 @@ The paradox is resolved through surrendered action: **commit fully to the experi
 
 ---
 
-## Framework: Legacy, Mortality, and the Purpose of Ends
-
-Mortality is the clearest lens for purpose decisions. Holding your own death in clear view makes better choices — not because death is depressing, but because it is clarifying. Every major tradition of wisdom literature uses death as the primary tool for priority-setting.
-
-**The practice:** Briefly sit with your finitude — not to produce fear, but to produce clarity about what actually matters versus what is noise. Research shows (Terror Management Theory) that mortality reminders shift people toward meaningful values, not away from them.
-
-**The regret pattern:** People who reach the end of their lives most consistently wish they had been more courageous about living true to themselves, expressing feelings, staying in touch, and permitting themselves happiness. A 2018 study confirmed ideal-related regrets outnumber action regrets 3-to-1. **People regret inaction more than action.** The small daily deferrals compound.
-
-**The sufficient version:** Enoughness is not resignation. The person who knows their enough point is freed from the perpetual treadmill. They can commit to long-term directions without the background anxiety of "this better be perfect." Contentment is not the absence of ambition — it is the condition that makes ambition coherent.
-
-→ Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — the complete mortality-purpose analysis including deathbed regret transcripts (Bronnie Ware's full data), Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter), Terror Management Theory experimental protocols (the 5-key findings), Marcus Aurelius's death reminders, the One-Year Letter and Eulogy Draft templates, the活过 (Huóguò) framework, and the Die With Zero perspective.
-→ Related: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — existential anxiety vs. clinical anxiety, Heidegger's Being-toward-death, Yalom's therapeutic approach.
-→ Related: [references/existential-anxiety.md](references/existential-anxiety.md) — depth on existential anxiety treatment approaches.
-
----
 
 
 ## Framework: Loneliness, Belonging, and Purpose
@@ -1217,6 +1120,58 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 
 → Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — complete deathbed regret data, TMT's 5 key findings, Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter),活过 framework, One-Year Letter template, Eulogy Draft.
 → Related: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — Kintsugi reframe, Erikson's generativity concept, narrative coherence problem.
+→ Related: [references/existential-anxiety.md](references/existential-anxiety.md) — existential anxiety treatment approaches.
+
+---
+
+
+## Framework: Character Strengths and Virtues (Peterson & Seligman)
+
+The VIA Classification (Peterson & Seligman, 2004) maps 24 character strengths across six virtues. Purpose takes one of these forms — knowing which is more actionable than abstract ideals.
+
+### The Six Virtues and Their Purpose Connections
+
+| Virtue | Strengths | Purpose connection |
+|--------|-----------|-------------------|
+| **Wisdom** | Curiosity, love of learning, judgment, open-mindedness | Drives genuine inquiry |
+| **Courage** | Bravery, persistence, integrity, vitality | Willingness to act despite fear |
+| **Humanity** | Love, kindness, social intelligence | Keeps purpose relational, not solo |
+| **Justice** | Fairness, leadership, teamwork | Serves something larger than self |
+| **Temperance** | Forgiveness, humility, prudence, self-regulation | Prevents purpose from becoming obsession |
+| **Transcendence** | Appreciation, gratitude, hope, humor, spirituality | Connects struggle to meaning |
+
+A scientist's purpose is heavy on Wisdom and Temperance; a social activist's on Courage and Justice; a teacher's on Humanity and Transcendence.
+
+### Signature Strengths: The VIA Framework
+
+Your top five **signature strengths** — qualities that feel most authentically you across contexts — are the entry point for purpose discovery. Take the free assessment at [viacharacter.org](https://www.viacharacter.org). Purpose is most accessible where 2–3 signature strengths activate simultaneously in service of something you genuinely value.
+
+### The Strengths-Virtue Matching Exercise
+
+1. Take the VIA at [viacharacter.org](https://www.viacharacter.org) — 20 minutes
+2. Map your top 3 strengths to the six virtues
+3. Ask: which strength, if taken away, would I feel like a different person?
+4. Ask: where can I deploy this strength at a level that stretches me, in service of something I genuinely value?
+
+The answer to question 4 is usually closer to your purpose than any abstract life goal.
+
+### Using Character Strengths in Conversation
+
+**"I don't know what my strengths are":**
+> VIA takes 20 minutes. Start there — what you rate highest is where meaning is most accessible.
+
+**"I'm good at things but nothing feels meaningful":**
+> Strength without values activation is just competence. Which of your strengths, deployed in service of something you care about, produces absorption? The *in service of* is the meaning component.
+
+**"I took the VIA and my top strengths don't seem to fit any career":**
+> Most purposes don't require a specific career. The matching question is not "which career matches my strengths" but "which environments let me activate my top strengths most days?"
+
+**"I score high in a strength I don't feel good about":**
+> VIA measures frequency, not value. The question is not "do I have this strength?" but "is this strength pointed at something generative or defensive?"
+
+→ Full content: [references/character-strengths-virtues.md](references/character-strengths-virtues.md)
+
+---
 
 ## Common Pitfalls
 
@@ -1224,7 +1179,7 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 
 2. **"I'm already too old to start."** — The "overnight success" stories are always 10 years in the making. You are not behind. You are at your own starting line.
 
-3. **"What if I choose wrong?"** — You are not choosing a locked career path. You are choosing an experiment. If it doesn't work, you run another experiment. Most successful people changed directions multiple times.
+3. **"What if I choose wrong?"** — You are not choosing a locked career path. You are choosing an experiment. If it doesn't work, you run another experiment.
 
 4. **"Nothing excites me."** — This is often depression-adjacent (consult a professional). But it can also be a symptom of having stopped trying things entirely. Novelty returns when you engage again.
 
@@ -1232,9 +1187,66 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 
 6. **"Everyone else seems to have it figured out."** — They don't. They are posting curated highlights while quietly spiraling. You are comparing your real behind-the-scenes to their best edited footage.
 
-## Quick Scripts
+7. **"I keep researching but never start."** — Reading about purpose is not the same as discovering purpose. The research trap is particularly insidious because it feels productive — you are learning, after all. But each framework read without experiment produces the sensation of progress without the substance. The cure: pick one small experiment from whatever framework you just read and do it this week, not after the next article.
 
-See also: `references/research-notes.md` — Self-Determination Theory, ikigai vs. vocation framing, flow state triggers, the meaning crisis research, and extended hard-moment scripts.
+8. **"I knew what mattered before — the trauma/breakdown erased it."** — Major disruption (job loss, divorce, burnout, illness) can produce purpose amnesia: you lose contact with what drove you, not because it was false, but because the nervous system is in protection mode. The purpose is not gone — you have temporarily lost access to it. The Used to Love exercise (Stage 1 of the Purpose Discovery Process) often recovers the thread. The thread is still there.
+
+9. **"I have too many frameworks and don't know which one to use."** — Collecting frameworks is a form of avoidance. Pick the one that resonates most — use it — and move. Testing one framework beats reading all of them.
+10. **"I've read every framework but haven't tried any of them."** — Reading about purpose is not the same as discovering it. Each framework you consume without testing produces the sensation of progress without the substance. The cure: pick one exercise from whichever framework you just read and do it this week — not after the next article or skill. A 20-minute inventory you actually complete beats five frameworks you only read.
+11. **"I'm in the right tree, patching the right file."** — `skill_view` on an in-repo skill returns a preview; `patch` edits the user-local tree. After patching, compare the `version:` field in both trees. If they diverge, you edited the wrong file. Use Python `pathlib` directly for in-repo skills.
+
+
+
+## Framework: Values Clarification (ACT-Inspired)
+
+Values differ from goals: a **goal** is achieved and done (motivation fades on arrival); a **value** is a direction you keep moving in — never completed, always alive. People pursuing goals arrive and find emptiness. People moving in a valued direction never run out of road.
+
+**The Values Sort (60 seconds):** Write "What I care about most, in roughly this order" — 5–10 qualities of engagement (genuine connection, growth, beauty, service), not achievements or people. Cross out anything performed. What's left is closer to your actual values.
+
+**"Used to Love" Inventory** (for disrupted direction): Answer from *before* the disruption — what did you used to lose track of time doing? Think in the shower before your thoughts became worry? The disruption blocked access, not erased your values.
+
+> Values are not meant to be understood. They are meant to be enacted. Acting imperfectly in the direction of your values moves you forward.
+
+→ Full content: [references/values-clarification.md](references/values-clarification.md)
+
+
+## Framework: The Body and Movement — Purpose Through Physical Engagement
+
+Purpose is not only a cognitive problem. For many people stuck in rumination, the issue is not *what to think* — it is *that thinking has become the only mode of engagement.* The body offers an alternative entry point supported by both neuroscience and ancient practice.
+
+### Why the Body Matters
+
+Sustained rumination activates the **default mode network (DMN)** — the brain's self-referential, past-focused processing. Physical movement — especially deliberate, rhythmic movement — shifts neural activation away from DMN and toward the salience network and sensorimotor cortex. People who are physically active report fewer rumination spirals.
+
+Somatic research (Thomas Hanna, Bonnie Bainbridge-Cohen, Peter Levine) confirms: **the body holds emotional and existential information that language cannot access directly.** A person who cannot answer "what do I want?" through talking may find the answer through movement or breath.
+
+### Three Entry Points
+
+**1. The Breath Anchor (5 minutes):** Inhale 4, hold 4, exhale 6. Repeat for 5 minutes. The extended exhale activates the parasympathetic system and breaks the rumination loop. Purpose clarity often arrives an hour later — not during the practice, but after the nervous system settles.
+
+**2. Walking (30–60 minutes, no headphones):** Csikszentmihalyi noted many of his best ideas came during walks. Bilateral rhythmic movement activates the cerebellum, quieting the rumination circuit. Over weeks, direction often clarifies during walks in ways desk-based planning never produces.
+
+**3. The Body Scan (10 minutes, lying down):** Move attention systematically through each body part — feet to head. Notice without changing. Adapted from MBSR and Sensorimotor Psychotherapy, this practice reveals where the body holds tension, which often corresponds to what the person is avoiding. The chest contracts when living contrary to values. The body knows before the mind articulates.
+
+### The Movement-Purpose Cycle
+
+**Physical engagement → Nervous system regulation → Reduced rumination → Increased access to felt meaning → More purposeful action.**
+
+Most people waiting for mental clarity before acting have the sequence backwards. The body clears the path for the mind.
+
+### Using Body-Based Approaches in Conversation
+
+**"I can't stop thinking in circles":** The thinking loop is neurological. Try the breath anchor — 5 minutes of extended exhale (4 in, 4 hold, 6 out) — before trying to think your way out.
+
+**"Nothing feels real anymore":** Dissociation from the body is common in burnout. The 10-minute body scan rebuilds contact with yourself. You may find the answer the body holds before the mind does.
+
+**"I'm too tired to exercise":** Exhaustion is often a nervous system state, not a physical one. 10 minutes of walking can reset it more effectively than rest. Try before concluding you're too depleted.
+
+**"I'm completely in my head all day":** The DMN is overactivated from years of cognitive work with no physical discharge. Bilateral movement (walking, swimming, martial arts) is the specific antidote — not meditation, not more thinking.
+
+→ Full content: [references/body-movement-purpose.md](references/body-movement-purpose.md)
+
+## Quick Scripts
 
 **"I don't know what I want":** Not knowing is not permanent. What have you tried? Start trying things — the answer comes from living, not thinking.
 **"I have no motivation":** Motivation is output, not input. Start with 2 minutes.
@@ -1245,7 +1257,12 @@ See also: `references/research-notes.md` — Self-Determination Theory, ikigai v
 **"I have everything and still feel empty":** Autonomy and relatedness are met, but the competence need is starving. Are you growing — not consuming, but building skill?
 **"I feel like I'm not good enough":** That's a competence signal. Build it through deliberate practice.
 **"I'll never have enough money/status":** The sociometer compares to a moving target. Where is your actual enough point?
-**"I feel alone even when around people":** That's a belonging problem. Usually the answer is vulnerability — terrifying, which is why most avoid it.
+**"I feel alone even when around people":** That's a belonging problem. Usually the answer is vulnerability — terrifying, which is why most people avoid it.
+**"I keep changing direction and nothing sticks — am I broken?":** Changing directions multiple times is not a sign of failure — it's a sampling problem. The issue is not that you can't commit; it's that you haven't found something that gives you enough feedback to want to commit. What did the things you kept returning to have in common?
+**"I'm just busy to avoid thinking about this":** Busyness is a reliable distraction. The question underneath is whether the life you're busy living is the one you actually want. When you have a quiet hour with no obligations — what comes up?
+**"My purpose changed after a loss and I don't know who I am anymore":** Loss doesn't erase purpose — it blocks access to it. What did you used to love doing, before the loss made everything feel pointless? The thread is still there.
+
+→ Full content: [references/quick-scripts-purpose.md](references/quick-scripts-purpose.md) — expanded conversation library with crisis scripts, advanced patterns, and 25+ additional response templates.
 
 ## When to Recommend Professional Support
 
@@ -1254,6 +1271,19 @@ Suggest therapy, a career coach, or a support group when:
 - The user is actively dissociating from daily life (not showering, not leaving house, not eating)
 - There is a history of multiple career/relationship changes that all feel "wrong" — this can indicate a deeper pattern
 - The user explicitly says "I think I might be depressed"
+
+**Scripts for acute distress:**
+
+**"I'm in a dark place right now" / "I don't want to be here anymore":**
+> I'm not the right person for this conversation right now. What you need is human connection and professional support — someone who can be with you in real time. Please reach out to a crisis line (text or call 988 in the US) or go to your nearest emergency room. We can talk about purpose work when you're safe. I'll still be here.
+
+**"Everything feels hopeless" / "there's no point to anything":**
+> Hopelessness can be a symptom of depression — and depression is treatable. This is not about finding your purpose right now; it's about getting support so you can get back to a place where purpose becomes visible again. Talking to a therapist is not a sign of weakness — it's one of the clearest signals you're willing to fight for yourself.
+
+**"I think I might be depressed":**
+> Thank you for saying that directly. That takes honesty and courage. I'd like to suggest talking to a professional — a therapist can help you understand what's happening and give you tools that make a real difference. Would you like help finding one, or do you already have someone you're working with?
+
+> The purpose frameworks in this skill are not designed for clinical depression. They work best when the person has enough stability to engage with them. The first and most important step is getting support — everything else can follow.
 
 ---
 
@@ -1265,4 +1295,9 @@ Suggest therapy, a career coach, or a support group when:
 - [ ] Address "too late / too old" distortion and comparison trap
 - [ ] Use failure and loneliness frameworks when relevant
 - [ ] Offer professional support when clinical depression or dissociation is present
-- [ ] Quick Scripts: all items current and paired to their framework
+- [ ] Quick Scripts: all items current and paired to their frameworks
+- [ ] Reference files linked in SKILL.md with → Full content: links
+- [ ] **Pre-patch size gate:** file > 80k chars → compute combined delta before writing; sequential patches accumulate invisible byte drift near the limit
+- [ ] **WSL size rule:** use Python `pathlib.read_text()` for size (terminal `wc -c` can be 2x stale); Python is authoritative
+- [ ] **Orphan audit:** after creating a references/ file, verify the `→ Full content:` link appears in SKILL.md immediately
+---
