@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.47.0
+version: 1.48.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
