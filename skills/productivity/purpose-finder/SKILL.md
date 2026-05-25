@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.7.0
+version: 4.8.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -853,56 +853,25 @@ Most purpose advice focuses on autonomy and relatedness. But competence requires
 
 Major religious and philosophical traditions offer purpose frameworks that predate modern psychology by millennia. They converge on a shared structure — purpose through service, virtue, and disciplined attention. For the purpose-seeker overwhelmed by modern frameworks, the wisdom traditions offer a different entry point: not "what do I want?" but "what does life ask of me?"
 
-### The Common Structure Across Traditions
+### The Common Structure
 
-Five shared principles emerge across Stoicism, Buddhism, Confucianism, Islam, Christianity, and Taoism:
+Five shared principles across Stoicism, Buddhism, Confucianism, Islam, Christianity, and Taoism:
 
 1. **Purpose is not primarily about you.** — All point outward: Stoicism serves the rational order (logos), Buddhism ends craving, Confucianism fulfills relational roles, Islam serves creation, Christianity loves God and neighbor, Taoism lets nature express itself.
 2. **Attention is the mechanism.** — Stoic evening reflection, Buddhist mindfulness, Christian prayer, Taoist non-forcing — all are attention practices.
 3. **Service is the expression.** — Purpose is expressed through how you serve something larger than yourself.
-4. **Virtue is the practice.** — Courage, justice, temperance, wisdom (Stoicism); the paramis (Buddhism); ren (Confucianism); the divine attributes (Islam); love, faith, hope (Christianity); te (Taoism).
+4. **Virtue is the practice.** — Courage, justice, temperance, wisdom (Stoicism); the paramis (Buddhism); ren (Confucianism); love, faith, hope (Christianity).
 5. **Let go of the outcome.** — Stoic acceptance, Buddhist release, Taoist wu wei, Christian surrender.
 
-### Stoicism: Virtue and the Dichotomy of Control
+### Using Wisdom Traditions in Conversation
 
-Epictetus's core framework: separate all things into what is within your control and what is not. Purpose lives in your judgments, choices, and responses — not in other people's opinions or events you cannot control.
+**"I'm spiritual but not religious":** The major traditions agree: purpose is not primarily about you — it is about service and disciplined attention. Which tradition's language resonates?
 
-> *"Make the best use of what is in your power, and take the rest as it happens."* — Epictetus, *Enchiridion*
+**"I don't believe in God":** Not as much as you might think. Stoicism works without a deity. Buddhism is non-theistic. Secular purpose frameworks are largely secularized versions of these traditions.
 
-### Buddhism: Ending Suffering as Purpose
+**"Everything feels meaningless":** Stop looking for a framework and start doing what all traditions agree on: serve something, practice attention, cultivate virtue, let go of the outcome.
 
-The Buddha's framework: the purpose of life is to end suffering (dukkha) — not achievement, but the cessation of craving and attachment. The Eightfold Path: right view, intention, ethical conduct, effort, mindfulness, concentration.
-
-The Buddhist challenge to Western purpose culture: the obsession with "finding your purpose" is itself a form of craving. Buddhism asks: can you release the need to matter and act from genuine clarity?
-
-### Confucianism: Purpose Through Relational Duty
-
-Purpose as **ren (仁)** — humaneness, genuine relatedness. Purpose is the quality of attention you bring to your roles. The question is not "what is my singular calling?" but "am I fulfilling all my roles with genuine care?"
-
-### Taoism: Wu Wei (Non-Forcing)
-
-Laozi and Zhuangzi: purpose emerges when you stop forcing and allow your nature to express itself. **Wu wei** (无为) is not passivity but the practice of not fighting the nature of things.
-
-### Christianity: Vocation and the Priesthood of All Believers
-
-Martin Luther's breakthrough: all work — farming, smithing, parenting, governance — done in faith and service to neighbor, is equally sacred. **"Holy work" insight:** All work done faithfully is holy work.
-
-### Islam: Purpose Through Submission and Service
-
-Purpose through **submission to Allah's will** and **service to creation (khidmat)**. **Tawhid** (unity of God), **Ikhlas** (sincerity of intention — the test), **Amanah** (life as a deposit you will account for).
-
-### Using Philosophy and Religion in Conversation
-
-**"I'm spiritual but not religious":**
-> The major traditions agree: purpose is not primarily about you, it is about service and disciplined attention. Which tradition's language resonates?
-
-**"I don't believe in God":**
-> Not as much as you might think. Stoicism works without a deity. Buddhism is non-theistic. Secular purpose frameworks are largely secularized versions of these traditions.
-
-**"Everything feels meaningless":**
-> Stop looking for a framework and start doing what all traditions agree on: serve something, practice attention, cultivate virtue, let go of the outcome.
-
-→ Full content: [references/philosophy-traditions-purpose.md](references/philosophy-traditions-purpose.md)
+→ Full content: [references/philosophy-traditions-purpose.md](references/philosophy-traditions-purpose.md) — six tradition deep-dives.
 
 ## Framework: Range and the Generalist Path (David Epstein)
 
@@ -1043,6 +1012,44 @@ The paradox is resolved through surrendered action: **commit fully to the experi
 ---
 
 
+## Framework: The Autotelic Personality — Who Is Built for Flow
+
+Csikszentmihalyi found some people enter flow far more readily than others. He called them **autotelic** (Greek: *autos* = self, *telos* = goal) — people who pursue goals for their own sake, not for external reward. The autotelic personality is the strongest predictor of frequent flow across the lifespan.
+
+### Four Characteristics
+
+1. **Goal-seeking over reward-seeking** — the activity itself is the reward, not a means to something else
+2. **Immediate feedback** — they notice constantly whether they are winning or losing at the activity
+3. **Curiosity about the activity** — genuine interest in the work itself, not in what it signals about them
+4. **Personal initiative** — they create conditions for engagement rather than waiting for ideal circumstances
+
+### The Experiencer Types
+
+Csikszentmihalyi sorted participants into four groups based on flow frequency:
+
+- **Unbidden experiencer** — enters flow easily, often without seeking it (High frequency)
+- **Challenged experiencer** — enters flow when conditions are right: clear goals, immediate feedback, challenge at edge (Moderate)
+- **Non-experiencer** — rarely enters flow; interprets difficulty as threat (Low)
+- **Bidirectional** — desires flow but cannot access it (Variable)
+
+The non-experiencer and bidirectional types are not broken — they are underpracticed. Developing habits of setting clear goals, seeking immediate feedback, and choosing challenging activities gradually makes people more autotelic.
+
+### The Development Path
+
+1. **Set goals within activities** — not external goals (grades, income) but process goals (complete the chapter, write 500 words)
+2. **Seek immediate feedback** — build or choose activities that tell you in real time how you're doing
+3. **Raise difficulty** — seek harder paths at the edge of your skill, not easier ones
+4. **Interrupt the comparison loop** — redirect attention back to the activity faster
+
+> The autotelic personality is not a trait you have or don't have. It is a practice of consistently choosing to engage with challenging activities for their own sake — and that practice can be developed at any age.
+
+### The Dark Side: Flow as Escape
+
+Flow can become problematic when it functions as escape rather than engagement. **Flow addiction** — organizing life around the neurological reward, neglecting relationships, seeking higher-intensity challenges to reproduce the same state — is distinct from passion. The person chasing flow is fleeing ordinary consciousness, not following genuine interest.
+
+**The test:** Healthy flow is embedded in a life — it energizes relationships and coherent purpose. Compulsive flow extracts from a life — it hollows out everything around it. Does the activity connect you to something beyond itself, or does it replace your life?
+
+---
 
 ## Framework: Loneliness, Belonging, and Purpose
 
