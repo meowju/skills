@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.30.0
+version: 1.34.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -169,7 +169,7 @@ The goal is not to die rich. The goal is financial autonomy. Having options is t
 
 ## Musk-Style Wealth Building
 
-Elon Musk went from $10M after the Zip2 sale in 1999 to an estimated $839 billion in 2026. The scale is extreme, but the mental frameworks he uses are applicable at any level. His approach to wealth building is not about budgeting or cutting costs — it is about solving hard problems with leverage and compounding the results over decades.
+Elon Musk went from $10M after the Zip2 sale in 1999 to an estimated $828 billion in 2026 (Forbes). The scale is extreme, but the mental frameworks he uses are applicable at any level. His approach to wealth building is not about budgeting or cutting costs — it is about solving hard problems with leverage and compounding the results over decades. In 2024, Musk became the largest donor in a U.S. presidential election, supporting Donald Trump. He served as Senior Advisor to the President and de facto head of the Department of Government Efficiency (DOGE) in 2025 before departing in May 2025 after a public feud with Trump, returning full-time to his companies. He also established xAI as a subsidiary of SpaceX in 2026. His approach to wealth follows the same pattern: identify massive problems most people think unsolvable, build toward them across decades, and accept the turbulence as part of the process.
 
 ### First Principles Thinking: The Core Framework
 
@@ -363,210 +363,89 @@ Bezos's wealth model is about patience and compounding over decades, not genius 
 
 The contrast with Musk: Musk says move fast and build things that didn't exist. Bezos says move slow and compound things that will dominate for decades. Both work. The common thread: both are thinking in decades, not quarters.
 
+**Buffett's additional lesson — succession and legacy:** At Berkshire Hathaway's May 2025 investor conference, Buffett announced Greg Abel as his designated successor as CEO — while Buffett remains as chairman. This is the Oracle's final lesson: **a wealth-building system that outlasts its founder is the ultimate achievement.** Buffett didn't just build wealth — he built an institution that will compound without him. For your own wealth: the question isn't just "how much can I accumulate?" but "what structure am I building that continues to compound after I've stopped actively managing it?"
+
 ---
 
 ## Buffett-Style Wealth Building: The Oracle's Mental Models
 
-Warren Buffett turned a $10,000 investment in 1950 into approximately $150 billion by 2026. His approach is the least flashy and most powerful in all of wealth-building: simple principles applied with uncommon consistency over extraordinary time horizons. His $148.9B net worth is not the result of one great trade — it's the result of decades of rational decisions and compound interest working undisturbed.
+Warren Buffett turned a $10,000 investment in 1950 into approximately $149 billion by 2026 (Forbes, January 2026). His approach is the least flashy and most powerful in all of wealth-building: simple principles applied with uncommon consistency over extraordinary time horizons. At Berkshire Hathaway's May 2025 investor conference, Buffett announced succession plans — Greg Abel to become CEO while Buffett remains chairman — marking the transition to the post-Buffett era of one of history's greatest wealth-building records.
 
 ### The Circle of Competence: Know What You Don't Know
 
-Buffett's most important mental model, developed with Charlie Munger:
+> *"Know your circle of competence, and stick within it. The size of that circle is not very important; knowing its boundaries, however, is vital."*
 
-> "Know your circle of competence, and stick within it. The size of that circle is not very important; knowing its boundaries, however, is vital."
-
-**What it means:** You don't need to be an expert on everything. You only need to be able to correctly evaluate selected businesses — within your circle. The danger is not a small circle; it's operating outside it.
-
-**The mechanism:** Operating within your circle gives you:
-- An **unfair information advantage** — you know more than the market about this specific thing
-- **Fewer bad decisions** — you avoid the areas where overconfidence leads to losses
-- **Concentration wins** — you can bet bigger when you have genuine conviction
-
-**Wealth application:** Most retail investors lose money by investing in things they don't understand. Staying within your circle of competence in investing means: if you work in healthcare, understand healthcare stocks deeply. If you don't understand a business model, buy a low-cost index fund instead. The person who knows they don't know beats the person who doesn't know they don't know.
+**What it means:** You don't need to be an expert on everything. Operating within your circle gives you an unfair information advantage, fewer bad decisions, and the ability to bet bigger when you have genuine conviction.
 
 **The self-assessment question:** *What do I genuinely understand better than most people in this specific domain?* If the answer is "nothing specific," index funds are your circle of competence.
 
 ### The Economic Moat: Build Something That Can't Be Easily Copied
 
-Buffett uses "moat" to describe a business's competitive advantage — the thing that makes it hard for competitors to steal market share. He compares it to a medieval castle with a moat around it.
-
 **Types of moats:**
-- **Intangible assets:** Brand names (Coca-Cola), patents (pharmaceuticals), government licenses
-- **Switching costs:** Products so embedded in a customer's workflow that switching is expensive (enterprise software)
+- **Intangible assets:** Brand names (Coca-Cola), patents, government licenses
+- **Switching costs:** Products so embedded that switching is expensive (enterprise software)
 - **Network effects:** Products that become more valuable as more people use them (Visa, Mastercard)
-- **Cost advantages:** Being able to produce or deliver cheaper than competitors through geography, process, or scale
-
-**Wealth application:** When evaluating any investment — a stock, a business, your own career — ask: *What is the moat? What makes this hard to copy?* A job with no moat (easily replaceable, commodity skills) is a job where your income is always at risk. A skill or business with a strong moat is one that compounds in value because it can't be easily replicated.
+- **Cost advantages:** Being able to produce or deliver cheaper through scale
 
 **The personal moat formula:** *What do I do that is valuable, rare, and difficult to replace?* Build that, protect it, compound it.
 
 ### Mr. Market: Don't Let Fear Override Arithmetic
 
-Buffett learned this from Benjamin Graham's 1949 book *The Intelligent Investor*. The allegory: imagine you have a business partner named Mr. Market who shows up every day offering to buy your share or sell you his at a price that varies wildly based on his mood.
+Imagine you have a business partner named Mr. Market who shows up every day offering to buy or sell at a price that varies wildly based on his mood. **You don't have to respond to every offer.** You only transact when he offers you something irrationally cheap or irrationally expensive.
 
-**Mr. Market's traits:**
-- He is **emotional and irrational** — prices swing from euphoria to panic
-- He **offers prices, not values** — the price is not always the value
-- He **doesn't care if you transact** — he'll be back tomorrow with another offer
-- He is most dangerous when **everyone else is acting** — groupthink amplifies his irrationality
-
-**The rule:** You don't have to respond to every offer Mr. Market makes. You only transact when he offers you something irrationally cheap or irrationally expensive.
-
-**Wealth application:** The stock market is Mr. Market operating at scale. When prices crash (2009, March 2020), Mr. Market is panicking — and often offering quality assets at irrational prices. When everyone is euphoric (2021 tech bubble), Mr. Market is overpaying. The individual investor's advantage is having no obligation to act when Mr. Market is manic.
-
-**The script:** When markets crash and everyone is panicking, ask: *Has the underlying value of these businesses changed, or has Mr. Market just changed his mood?* If the fundamentals are intact, the crash is an opportunity, not a threat.
+**The script:** When markets crash and everyone panics, ask: *Has the underlying value of these businesses changed, or has Mr. Market just changed his mood?* If the fundamentals are intact, the crash is an opportunity.
 
 ### Margin of Safety: Never Bet on Perfect Conditions
 
-Buffett adapted this from Graham: the margin of safety is the discount between what you pay and what something is actually worth. You don't buy at "fair price" — you buy at a price that gives you error room.
+> *"The three most important words in investing are 'margin of safety.'"*
 
-> *"The three most important words in investing are 'margin of safety.' It's not a way to avoid risk — it's a way to make better decisions in the presence of uncertainty."*
-
-**The math:** If you estimate a business is worth $100 per share and you buy at $70, you have a 30% margin of safety. Your estimate could be wrong by 30% and you'd still be break-even. If you buy at $100 (fair value), a small error in your estimate means you lose money.
+**The math:** If you buy a business worth $100/share at $70, your estimate could be wrong by 30% and you'd still be break-even. Buy at $100 (fair value) and a small error means you lose.
 
 **Wealth application:**
-- When investing: buy quality assets when they're priced below their intrinsic value. Not when they're "reasonable." When they're discounted.
-- In career: negotiate for more than you think you're worth. The gap between "what I think I'm worth" and "what I can ask for" is your margin of safety.
-- In business: price your products/services with a margin that lets you absorb unexpected costs. Competing on price alone with no margin is a race to the bottom.
-
-**The practical question:** *Am I buying this at a price that gives me error room, or am I paying full price and hoping I'm right?*
+- When investing: buy quality assets when they're priced below intrinsic value, not "reasonable"
+- In career: negotiate for more than you think you're worth — the gap is your margin of safety
+- In business: price products with a margin that absorbs unexpected costs
 
 ### The Two-List System: Stay Focused
 
-Buffett is famous for a career strategy he calls the "two-list system" (also attributed to Munger):
-
-1. Write down the top 25 things you want to do or be
+1. Write down the top 25 things you want to do
 2. Circle the top 5
+3. **Everything below the top 5 becomes your "avoid at all costs" list.** Never work on them.
 
-The trap: people work on 6-25 while telling themselves the top 5 are "later." Buffett's rule: **everything on the list below the top 5 becomes your "avoid at all costs" list.** You don't do them. Not eventually. Not when you have time. Never.
-
-**The wealth connection:** Focus is not just about productivity — it's about not dissipating your resources (time, energy, capital) across too many things. The person who does one thing exceptionally well for 30 years compounds. The person who does 15 things moderately for 30 years spreads their compound interest so thin it barely registers.
-
-**The script:** Take your current list of financial goals, career ambitions, and side projects. Cross off everything except the top 2. The others are not "later" — they're the things that prevent the top 2 from working.
+**The wealth connection:** The person who does one thing exceptionally well for 30 years compounds. The person who does 15 things moderately dissipates their compound interest so thin it barely registers.
 
 ### The Insurance Float: Making Money While You Sleep
 
-Buffett's most underappreciated wealth mechanism is Berkshire Hathaway's insurance operations. Insurance companies collect premiums upfront and pay claims later. The money sitting between collection and payment is called "float." Berkshire uses that float to invest in assets that compound.
+Insurance companies collect premiums upfront and pay claims later. The money between collection and payment is "float." Berkshire's $168B+ float is invested and compounds in the background — money that arrives without additional work.
 
-**The math:** $10 billion in float invested at 10% returns $1 billion per year — money that comes in without any additional work.
-
-**Wealth application for individuals:**
-- Collect fees or subscriptions upfront (retainers, annual plans) — the money you hold before performing the work is your float
-- Structure income so you get paid before you deliver — this lets capital sit in your account earning interest
-- Use dividend-paying assets — they generate returns without requiring you to sell or work
-
-**The principle:** Money that arrives before work is performed has more power than money that arrives after.
+**Wealth application:** Collect fees/subscriptions upfront (retainers, annual plans) — money held before work is performed is your float. Structure income so you get paid before you deliver.
 
 ### Value Investing: The Framework That Beat the Market for 70+ Years
 
-Buffett's core approach, distilled:
-
-1. **Intrinsic value over market price:** A business is worth its future cash flows discounted to present value. Price is what the market says today. Value is what the fundamentals say over time.
-2. **Price matters more than quality in the short term:** A wonderful company at a terrible price is a bad investment. A mediocre company at a great price can be a good investment.
-3. **Time horizon:** Buffett's minimum holding period is "forever." He has held positions for 30+ years. Compounding requires time; any time you sell and re-invest creates friction and tax events.
-4. **Be fearful when others are greedy, greedy when others are fearful:** Buy when there's blood in the streets. Sell when everyone's euphoric.
-
-**Wealth application in personal finance:**
-- Don't time the market, but be aware when asset prices are at historical extremes relative to fundamentals
-- A total market index fund at reasonable valuations is the closest most people get to following Buffett's principles
-- The most important decision is not which stock to pick — it's how long you stay invested
+1. **Intrinsic value over market price** — price is what the market says today; value is what fundamentals say over time
+2. **Price matters more than quality in the short term** — a wonderful company at a terrible price is a bad investment
+3. **Time horizon is "forever"** — compounding requires time; selling creates friction and tax events
+4. **Be fearful when others are greedy, greedy when others are fearful** — buy when there's blood in the streets
 
 ### The "Don't Do" List: What Buffett Refuses
 
-Buffett's partner Charlie Munger says: *"Tell me where he'll die, and I'll never go there."* Buffett is famous for declining most deals, most interviews, most opportunities. His discipline is in what he avoids as much as what he pursues.
+Charlie Munger: *"Tell me where he'll die, and I'll never go there."* Buffett refuses: companies without moats, industries he doesn't understand, leverage, short-term thinking, emotional decisions under pressure.
 
-**Buffett refuses:**
-- Companies without clear competitive advantages (no moat)
-- Industries he doesn't understand
-- Leverage (he rarely uses it)
-- Short-term thinking in any form
-- Emotional decisions under market pressure
-
-**The rule:** Your wealth is protected as much by what you don't do as by what you do. The investor who avoids major losses stays in the game long enough for compound interest to work.
-
-**Wealth application:** Write your own "don't do" list: *Under what conditions will I NOT invest, no matter how good it looks?* Having this written before temptation strikes is how you avoid the mistakes everyone else makes in the heat of the moment.
+**Your wealth is protected as much by what you don't do as by what you do.** Write your own "don't do" list before temptation strikes.
 
 ### Buffett on Money and Wealth (Direct Quotes)
 
 - *"Someone is sitting in the shade today because someone planted a tree a long time ago."*
 - *"The stock market is a device for transferring money from the active to the patient."*
-- *"Wall Street is the only place where people ride to work in a Rolls-Royce to get advice from someone who rides the subway."*
 - *"The business schools reward complex behavior more than simple behavior, but simple behavior is more effective."*
 - *"Price is what you pay. Value is what you get."*
+- *"Be fearful when others are greedy and greedy when others are fearful."*
+- *"The most important thing to do if you find yourself in a hole is to stop digging."*
+- *"Only when the tide goes out do you discover who's been swimming naked."*
+- *"Rule #1: Never lose money. Rule #2: Never forget Rule #1."*
 
-### The Takeaway: Buffett's Wealth Framework
+→ Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, Lollapalooza effect, Insurance Float deep dive.
 
-Buffett's approach is the anti-hustle. It doesn't require genius — it requires:
-
-1. **Staying within your circle of competence** — only invest in what you genuinely understand
-2. **Building or finding moats** — assets, skills, or businesses that can't be easily copied
-3. **Using Mr. Market's moods** — buying when he's panicked, staying calm when he's euphoric
-4. **Demanding margin of safety** — never pay full price, always have error room
-5. **Playing forever games** — holding quality assets for decades, not trading in and out
-6. **Saying no to almost everything** — the two-list system, the "don't do" list, the focus filter
-7. **Protecting against catastrophic loss** — no leverage, no emotional decisions, no bets that destroy you
-
-The result of 70 years of consistent application: the world's greatest investment track record.
-
-The parallel for personal wealth: apply the same principles to income, spending, and investment. Stay in your lane. Demand value. Let compound interest work. Say no to noise.
-
-### Buffett's Index Fund Bet: The Fees Are the Enemy
-
-In 2007, Buffett bet $1 million that a simple S&P 500 index fund would outperform a portfolio of hedge funds over 10 years. Index fund: 85.4%. Hedge funds: 22%. Protégé Partners conceded in 2017. The culprit was not bad management — it was the fee structure. Typical hedge funds charge 2% management and 20% of profits. That compounds into a massive drag most investors underestimate.
-
-Buffett had been saying this for years. His 2008 shareholders letter: *"When trillions of dollars are managed by Wall Streeters charging high fees, it will usually be the managers who reap outsized profits, not the clients."*
-
-The bet resolved it empirically. A low-cost S&P 500 index fund beats most professionals after fees. That's the lesson.
-
----
-
-→ Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, why Buffett never sells, Lollapalooza effect, Two-List System, Insurance Float.
-
-### The Long Game: Why Buffett Plays Forever
-
-Buffett's final and most important lesson: **the game is designed for people who stay in it forever**. His 70-year track record is not the result of brilliant one-year bets — it's the result of making consistently rational decisions year after year without the occasional brilliant trade offsetting the occasional stupid one.
-
-> *"The stock market is designed to transfer money from the active to the patient."*
-
-The patient investor — the one who holds a diversified portfolio, reinvests dividends, ignores market movements, and never sells at the bottom — will almost always beat the active trader. This is not opinion. It is arithmetic.
-
-**The Buffett checklist for personal finance:**
-- [ ] I understand what I'm investing in (or I'm buying an index fund instead)
-- [ ] I'm buying with a margin of safety, not at peak prices
-- [ ] I'm not using leverage
-- [ ] I can hold this for 10+ years without needing the money
-- [ ] I've demanded a margin of safety in my own compensation (I ask for more than I think I'm worth)
-- [ ] I've built or identified a moat in my own earning ability
-- [ ] I'm saying no to most opportunities so I can say yes to the few that matter
-
-### Why Buffett Never Sells: The Compounding Discipline
-
-The most underappreciated part of Buffett's system: **he almost never sells.** Berkshire Hathaway holds the same core positions — Coca-Cola since 1988, American Express since 1969, See's Candy since 1972 — for decades. He has publicly held Apple since 2016. This is not passive. It is deliberate.
-
-The reason is compounding arithmetic. When you sell a compounding asset:
-
-1. **Tax drag:** Long-term capital gains tax reduces every dollar you extract. In the US, that is a minimum 15–20% haircut on every transaction.
-2. **Transaction costs:** Even with zero-commission trading, bid-ask spreads and market impact cost you on every trade.
-3. **Opportunity cost:** The moment you sell, you hold cash. Cash does not compound.
-4. **The re-entry problem:** After selling a position that compounds at 19% annually, you must find a new investment that beats the one you exited. You rarely do.
-
-Buffett's most important lesson on this is from his 1993 shareholder letter: *\"The stock market is a device for transferring money from the active to the patient.\"* He was writing about other investors. But the same applies to his own relationship with his best holdings.
-
-**What drives Berkshire's compounding that most analysts miss:**
-
-The real engine is not stock picking — it is **float.** Berkshire's insurance subsidiaries (GEICO, National Indemnity, Reinsurance Group) collect premiums today and pay claims years later. That float is invested in the market. Every year the float grows, the investment base grows, and the compounding accelerates without Buffett having to sell anything.
-
-As of 2024, Berkshire had $168 billion in insurance float that compounds in the background of the stock portfolio. That is a compounding machine built into the structure of the company. The shares in Apple, Coca-Cola, and the other core holdings are not just investments — they are the vehicle by which the float is deployed into assets that appreciate at rates that exceed the cost of holding them.
-
-**The practical rule for personal wealth:**
-
-The index fund investor who buys and never sells — who treats their portfolio like a deed to productive businesses — captures the same compounding discipline Buffett uses at Berkshire. The moment you treat your portfolio like a trading account, you introduce the fees, taxes, and opportunity cost that erode the very advantage you were trying to create.
-
-*The investor who holds the index fund for 40 years is doing Buffett's strategy better than he does it — because he has no float, no management fees, and no tax event until he sells.*
-
-→ Full content: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, Lollapalooza effect, Two-List System, Insurance Float deep-dive.
-
----
 
 ## Charlie Munger Mental Models: The Art of Better Thinking
 
@@ -780,8 +659,6 @@ Naval: *"{Comparison is the thief of joy, and it's also the thief of good financ
 
 **On patience during invisible years:**
 Naval: *"{The invisible years are the most important years. When you're building something and it looks like nothing is happening — that's the compounding working invisibly. The moment you quit is usually right before the breakthrough."}* Trust the process. Stay in the game. The math works if you give it time.
-
-→ Full Naval content: [references/naval-framework.md](references/naval-framework.md) — expanded decision framework, judgment development, reading as wealth tool, reputation moat, earned authority, and complete Naval wealth summary table.
 
 
 ---
@@ -1272,17 +1149,42 @@ Marks's key contribution is **second-level thinking** — ordinary investing wis
 
 ---
 
+## Morgan Housel: The Psychology of Money
+
+Morgan Housel's 2020 *The Psychology of Money* argues financial success is 20% technical knowledge and 80% behavior. The book distills 20 years of financial writing into lessons about how humans actually behave with money — not about returns, but about behavior under uncertainty.
+
+**Core lessons:** Compounding is invisible for decades ($10K at 10% = $672K in 50 years — flat for the first 15). Wealth is what you don't spend (the 40%-saver on $80K beats the 5%-saver on $200K). Behavioral tolerance beats intelligence (the 7% net investor who stays beats the 9% gross investor who panic-sells). "Room to be wrong" is the actual point — margin of safety lets you make good decisions when uncertain. Freedom, not accumulation, is the ultimate goal.
+
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md) — complete 20 behavior lessons, Mr. Market analogy, Margin of Safety, Graham-Marks-Housel synthesis.
+
+
+---
+
+## Charlie Carlson: Principles-Based Wealth Building
+
+Carlson's core principle: **decisions during market stress are determined by principles written when calm.** Written rules do what willpower cannot.
+
+**Weekly reflection script:** *"{What did I decide financially? Why? What happened? How close was my reasoning?}"* The gap between stated reasoning and outcome compounds your financial judgment.
+
+**Systems beat goals.** Automate savings so the right behavior is inevitable. Written investment criteria reviewed quarterly. Core mental models: Mr. Market (prices ≠ values), Circle of Competence (stay in your lane), Margin of Safety (leave error room), Compounding (time beats timing).
+
+→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md) — Dalio's economic machine, All Weather portfolio, Morgan Housel's 20 lessons, Graham/Mr. Market/Margin of Safety, Rockefeller/Carnegie frameworks, OODA Loop.
+
+---
+
 ## The Real Wealth Builders
 
-The unglamorous truth about people who build real wealth:
+- Earn well, spend deliberately
+- Invest early, consistently, simply
+- Protect income with insurance (health, disability, life)
+- Try to not get poor slow, not get rich quick
+- Live below their means for years
+- Don't tell anyone about their investments
+- Build systems that make right behavior automatic
+- Write decision principles before panic sets in
+- Compound through decades of consistent, boring behavior
 
-- They earn well, but they also spend deliberately
-- They invest early, consistently, and simply
-- They protect their income with insurance (health, disability, life)
-- They do not try to get rich quick — they try to not get poor slow
-- They live below their means for years
-- They do not tell anyone about their investments (no one needs to know)
-
+---
 ---
 
 ## Common Pitfalls
