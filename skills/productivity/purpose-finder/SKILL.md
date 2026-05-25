@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.15.0
+version: 4.17.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -106,20 +106,20 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 
 ### The Eudaimonic Well-Being Frame
 
-Ikigai connects to a broader concept in psychology: **eudaimonic well-being** — the Greek idea (eu = good, daimon = spirit) that well-being is not a feeling state but a way of *actualizing your potential*.
-
-Contrast with **hedonic well-being** (pleasure, comfort, avoiding pain):
+**Eudaimonic well-being** (eu = good, daimon = spirit) — well-being as *actualizing your potential*, not a feeling state. Contrast with hedonic well-being (pleasure, comfort, avoiding pain):
 
 | | Hedonic | Eudaimonic |
 |--|---------|------------|
-| **Core question** | "Does this feel good?" | "Is this good for me in terms of who I'm becoming?" |
-| **Focus** | Comfort, pleasure, avoidance of pain | Challenge, growth, meaning in difficulty |
-| **Sustains through hardship?** | No — pain undermines it | Yes — difficulty deepens it |
-| **Risk** | Adaptation: the pleasure fades | Growth: the difficulty produces lasting capacity |
+| **Core question** | "Does this feel good?" | "Am I actualizing my potential?" |
+| **Time orientation** | Present-focused | Future-authored |
+| **Motivation type** | Extrinsic | Intrinsic (inherent interest) |
+| **Downside risk** | Hedonic treadmill, adaptation | Overextension, burnout |
 
-People who achieve hedonic goals (money, status, comfort) and still feel empty are experiencing a hedonic ceiling. The pleasure is real but it adapts — you get used to it, and then you need more to get the same effect. Eudaimonic goals don't adapt this way. Getting genuinely good at something hard is harder, but the sense of capacity it builds is durable.
+People high in eudaimonic well-being are less dependent on external reward because the activity itself is rewarding — why craftspeople can work in apparent solitude for decades.
 
-**The practical reframe:** when someone says "nothing feels good anymore," they are probably asking the wrong question. The question is not "what feels good?" but "what makes me feel *capable*?" Those are different questions with different answers.
+**The Eudaimonic Flip:** "If no one ever acknowledged this, if I never got paid, if no one ever knew — would I still do it?" If yes: eudaimonic territory. If no: primarily hedonic — and fragile under adversity.
+
+→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
 ### The Ikigai Depth Exercise: Three Domains
 
@@ -146,21 +146,42 @@ The other frameworks in this skill map onto ikigai's dimensions:
 > Ikigai is the underlying frame; the other frameworks fill it in with specific practices. The person who practices all of them has an ikigai — a reason for being they tend daily.
 
 → Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
+
 → Related: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
 
 ### Ikigai Across the Life Stages
 
-Research by Yukio Kondo and Japanese gerontologists identifies distinct ikigai patterns across life stages — a corrective to the Western search for one permanent, singular purpose:
+Yukio Kondo's research identifies distinct ikigai patterns across life stages:
 
-**Stage 1 (20s–30s): "Seeking" — Social ikigai dominant.** Purpose is found through work and social contribution. The question is: "where do I belong and what can I contribute?" Failure at this stage is formative — the person who fails at their first social contribution attempt and recovers often has stronger ikigai in later decades.
+**Stage 1 (20s–30s): "Seeking"** — Social ikigai dominant. The person who fails and recovers in their 20s builds more durable purpose than one who succeeds without failure.
 
-**Stage 2 (40s): "Consolidating" — Non-social ikigai emerges.** Social ikigai is still present but insufficient. A private practice — a craft, a faith, a discipline — becomes the anchor. The person who has only social ikigai is at risk of the "Sunday neurosis" (Frankl's term) — achieving everything and finding it empty. Non-social ikigai is the insurance policy.
+**Stage 2 (30s–50s): "Building"** — Non-social ikigai deepens. Still asking "what should I do" in your 40s usually means commitment was avoided.
 
-**Stage 3 (50s–60s): "Integrating" — Anti-social ikigai resolved or channeled.** Whatever anti-social ikigai was present — resentment, proving something to someone, revenge-driven achievement — has either been resolved or consumed the person. The people who find lasting purpose at this stage found a way to channel that originally dark energy into something generative.
+**Stage 3 (50s+): "Harvesting"** — Social and non-social ikigai converge. Ikigai strengthens with age when cultivated — weakens when neglected.
 
-**Stage 4 (70s+): "Transmitting" — Generativity and legacy.** The highest ikigai ratings in Japanese studies are in the 70+ range. Purpose has become externalized — mentoring, teaching, passing on knowledge, being present for younger people. The daily question shifts from "what do I get from life?" to "what do I leave behind?"
+**Implication:** There is no single "right time." Each stage has its own dominant form.
 
-The practical question to ask depends on life stage. A 25-year-old may just need permission to contribute. A 45-year-old may need to be asked about their private practice. A 65-year-old may need to be asked what they want to leave behind.
+→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
+
+### The Neuroscience of Ikigai
+
+Katameya's neuroimaging studies on adults with strong daily ikigai practices found increased prefrontal cortex activation — sustained attention, stress recovery, and goal-directed behavior are all prefrontal functions. The DMN (default mode network), associated with rumination and self-referential anxiety, shows reduced baseline activation in people with clear daily purpose. The mechanism: daily purposeful engagement reduces idle self-referential time available for the anxiety loop.
+
+Hayashi's longitudinal research found ikigai's health effects compound over decades — cumulative stress reduction (lower allostatic load) affects immune function and neural preservation. Starting a daily purpose practice at 45 produces real brain changes. Waiting until you're "certain" costs you compounding benefit.
+
+### Anti-Social Ikigai: From Naming to Redirecting
+
+Anti-social ikigai is present when "what would success look like?" includes someone else being wrong, diminished, or proven inferior. The Recognition Test: Does your stated purpose contain a "stick it to" element?
+
+**The Channeling Protocol:**
+
+1. **Name the energy without shame.** Anti-social ikigai is mobilizing — the shame of having it prevents use. The energy is real and powerful. Can you redirect it at something generative?
+
+2. **Find the generative equivalent.** The person who wanted to prove their father wrong usually has deep understanding of what competent fatherhood looks like — they catalogued the absence their whole life. Redirect: from "prove my father failed" to "build what my father couldn't." Same energy. Different target.
+
+3. **Test at 90 days.** Does the energy still mobilize? Does it produce something pointable-to? Does it feel less defended, more generative? If it still feels like proof, the channeling is incomplete.
+
+White's research on achievement motivation: "proving" goals and "developing" goals produce similar short-term effort but diverge sharply under failure. Proving goals produce anxiety. Developing goals produce engagement. When you fail, do you want to prove yourself harder, or understand what happened and get better? The second response is evidence of generative purpose.
 
 ---
 
@@ -311,6 +332,49 @@ Most "I feel like my life has no meaning" problems are actually "I am not doing 
 Your purpose is where your specific combination of experiences, abilities, and sensitivities meets something that actually helps people. That intersection is different for everyone and impossible to find by staring inward.
 
 ---
+
+
+## Framework: Post-Traumatic Growth — Finding Purpose Through Crisis
+
+> *"The human spirit is stronger than anything that happens to it."* — C.S. Lewis
+
+Post-Traumatic Growth (PTG): **30–70% of people who survive catastrophic events report positive psychological transformation afterward** (Tedeschi & Calhoun). This is not about being resilient in the moment — it is the deep reconstruction that can follow crisis.
+
+Some of the most durable, grounded purposes are built in the wreckage of something destroyed. The person who finds purpose through crisis has typically been forced to ask questions they would have avoided otherwise.
+
+### The Five Domains of PTG
+
+1. **New strength** — discovering "I am stronger than I knew"
+2. **New possibilities** — new horizons not visible before
+3. **Richer relationships** — some deepen dramatically; others fall away
+4. **Greater appreciation of life** — a shift in what registers as important
+5. **Renewed purpose** — a deeper calling that integrates the experience
+
+### Growth and Grief Are Not Opposites
+
+They coexist. Grief is not a failure to grow. Growth does not require eliminating grief. The person grieving *and* growing is the norm, not the exception.
+
+### The Anti-Nihilism Test for PTG Narratives
+
+Not every "growth" narrative is valid. Frankl's question: *Does this meaning hold up under scrutiny, connect you to something real, and not require denying what happened?*
+
+- **Requires denying the trauma?** → Invalid. PTG integrates the experience.
+- **Connects to something real?** → Valid growth is grounded in reality, not a positive spin.
+- **Holds up over time?** → Sustainable growth does not collapse when the emotion fades.
+
+### When to Raise PTG in Conversation
+
+PTG is relevant when someone is in or recently emerged from a significant crisis (relationship loss, career failure, health crisis, financial collapse) and is struggling to see how anything positive could come from it.
+
+**"After what happened, I can't imagine rebuilding."**
+
+> The struggle to make sense of it is the engine of growth. The people who discover meaning after tragedy are people who stopped waiting for the experience to make sense on its own and started actively looking for what could be built from it. The question is not "why did this happen?" — it is "what do I do with what happened?"
+
+**"I feel guilty for saying anything positive about what I went through."**
+
+> That guilt is the collision between grief and growth. Both are real. The growth does not mean you wanted the trauma. It means something grew inside the space the trauma created.
+
+→ Full content: [references/ptg.md](references/ptg.md)
 
 ## Motivation: The Real Problem
 
@@ -1079,6 +1143,7 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 **"I'm putting off what matters until I secure myself":** Security is a moving target. The habits of deferral tend to persist. Begin doing what matters within your current constraints, not after a condition that keeps receding.
 
 → Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — complete deathbed regret data, TMT's 5 key findings, Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter),活过 framework, One-Year Letter template, Eulogy Draft.
+
 → Related: [references/legacy-and-mortality.md](references/legacy-and-mortality.md) — Kintsugi reframe, Erikson's generativity concept, narrative coherence problem.
 → Related: [references/existential-anxiety.md](references/existential-anxiety.md) — existential anxiety treatment approaches.
 
@@ -1206,28 +1271,24 @@ Most people waiting for mental clarity before acting have the sequence backwards
 ## Quick Scripts
 
 **"I don't know what I want":** Not knowing is not permanent. What have you tried? Start trying things — the answer comes from living, not thinking.
+
 **"I have no motivation":** Motivation is output, not input. Start with 2 minutes.
+
 **"Everyone seems to know what they're doing":** No one knows what they're doing. The people who look directed just stopped second-guessing publicly.
-**"I'm afraid I'll waste time on the wrong thing":** The only real waste is staying in a life that doesn't fit. 3-month trials are not life sentences.
-**"What's the point of anything?":** Not knowing is not proof there is no point. It's proof you are in the middle of the story, not at the end.
-**"I feel like I'm in a rut":** Ruts are comfort zones. The fix is raising the difficulty of something.
-**"I have everything and still feel empty":** Autonomy and relatedness are met, but the competence need is starving. Are you growing — not consuming, but building skill?
-**"I feel like I'm not good enough":** That's a competence signal. Build it through deliberate practice.
-**"I'll never have enough money/status":** The sociometer compares to a moving target. Where is your actual enough point?
-**"I feel alone even when around people":** That's a belonging problem. Usually the answer is vulnerability — terrifying, which is why most people avoid it.
-**"I keep changing direction and nothing sticks — am I broken?":** Changing directions multiple times is not a sign of failure — it's a sampling problem. The issue is not that you can't commit; it's that you haven't found something that gives you enough feedback to want to commit. What did the things you kept returning to have in common?
-**"I'm just busy to avoid thinking about this":** Busyness is a reliable distraction. The question underneath is whether the life you're busy living is the one you actually want. When you have a quiet hour with no obligations — what comes up?
-**"My purpose changed after a loss and I don't know who I am anymore":** Loss doesn't erase purpose — it blocks access to it. What did you used to love doing, before the loss made everything feel pointless? The thread is still there.
 
-### Crisis Response Scripts
+**"I'm afraid I'll waste time on the wrong thing":** The only real waste is staying in a life that doesn't fit. Most people who changed direction describe the old life as the waste, not the exploration.
 
-**"I'm in crisis — everything feels meaningless and I don't see a way forward":** This is real and it matters that you're naming it. Meaninglessness isn't proof there's no meaning — it's proof you're in a place where meaning is obscured. The task right now isn't to find your purpose. The task is to get through today without making a permanent decision about a temporary state. Can you name one thing that felt slightly okay yesterday, even briefly? We're not solving for your whole life. We're finding one thread.
+**"I tried that and it didn't work":** What specifically didn't work? Not "it" — the specific element. Understanding what failed is not the same as knowing what will succeed. It's closer than you think.
 
-**"I lost my purpose when I lost someone/something":** The purpose you're grieving isn't gone — it's embedded in what you used to care about. What did that person or thing make possible in your life? The answer to "what should I do now" is usually in the answer to "who was I when I was most alive?" That person isn't gone. They're on pause.
+**"I can't afford to follow my purpose":** Most purpose-driven paths don't require quitting your job. They require 5 hours a week of serious engagement with something different.
 
-**"I feel like a fraud — I don't deserve what I have":** That's imposter syndrome. It's common in people who've actually accomplished things — because the internal standard keeps moving. What would a close friend say about your achievements? The voice that says you don't deserve it is not the reliable one today.
+**"I'm too old to start":** Most people who found their purpose did not find it young. Ikigai strength increases with age. You're not behind.
 
-**"I'm numb — nothing feels like anything anymore":** Numbness is a protection mechanism. It means your system decided you needed to shut down to survive something. It's not permanent. What's one small thing you could notice — not feel, just notice — about what's around you right now? The numbness usually thins when we make small contact with the present.
+**"I'm afraid of failing publicly":** The person who fails publicly and iterates is always more advanced than the person who never tries.
+
+**"What if I choose wrong?":** There is no wrong choice — only choices you understand better afterward. Every direction teaches you something about yourself.
+
+**"I feel numb / disconnected":** Numbness is a protection mechanism. Your system decided you needed to shut down to survive something. It's not permanent. What's one small thing you could notice — not feel, just notice — about what's around you right now? The numbness usually thins when we make small contact with the present.
 
 → Full content: [references/quick-scripts-purpose.md](references/quick-scripts-purpose.md) — expanded conversation library with crisis scripts, advanced patterns, and 25+ additional response templates.
 
