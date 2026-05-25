@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.56.0
+version: 1.58.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -622,262 +622,52 @@ Real estate combines four mechanisms — **leverage** (borrow 70-80% at 5-7% ove
 
 ### The Income Ceiling Problem
 
-Most people's income grows linearly because they accept the default path: get a degree, get a job, get periodic raises of 2-5% per year. This path has a ceiling that is deliberately managed by employers to be just above inflation. The people who break through this ceiling do so by design, not by luck.
+Most people's income grows linearly: degree → job → 2–5% annual raises, managed to stay just above inflation. This ceiling is by design. Breaking through requires compounding your skills, not just your money.
 
-**The default path ceiling:** ~3%/yr raises (usually below inflation), 2-4 yr promotion cycles, income ceiling managed by employer. **The accelerated path:** negotiates intentionally, builds specific knowledge, creates leverage via products/business/investments, switches employers strategically, builds assets alongside earned income.
+**The income stack (in order of leverage):**
 
-### The Salary Negotiation Framework
+1. **Specific knowledge** (highest ROI): Skill that took 5–10 years to build and is extremely hard to replicate. Not "coding" — specific knowledge is the intersection of your unique skills, experiences, and interests that you've spent years developing. Naval: "Specific knowledge cannot be taught, but it can be learned."
+2. **Leverage**: Code (software), capital (money), or labor (people). Software and labor scale; capital compounds.
+3. **Negotiation**: ~15–20% of lifetime earnings is negotiated at hiring. One good negotiation can equal years of raises.
+4. **Side business**: Validated before scaled — *"Can I get one paying customer at [price]? If yes, I have a business. If no, I have a hobby."*
+5. **Career hopping**: Strategic moves to the next company, not lateral ones.
 
-Most people leaving money on the table never negotiate. The research by economist Linda Babcock shows that women, in particular, are socialized to avoid negotiation and lose an estimated $1.5M+ over a career as a result. But the data on negotiation outcomes is clear:
+**The negotiation framework:** Research the range. Open 15–20% above your target. Justify with specific accomplishments, not generic competence. The person who negotiates confidently is rarely punished — the person who doesn't negotiate accepts whatever was offered.
 
-**The negotiation math:**
-- If you ask for 10% more and get it: that's a permanent raise (compounds forever)
-- If you don't ask: you definitely don't get it
-- If they say no: you usually keep your job AND learn the company's pain points
-- Counter-offers are common: companies often negotiate to retain good employees
+**Building specific knowledge at scale:**
+- Deepen expertise in a field that is genuinely hard to learn (requires rare skills, long experience, or specific context)
+- This knowledge compounds with time and is nearly impossible to replicate from a textbook
+- The leverage comes when you combine specific knowledge with digital leverage (software, content, media) — you keep the upside while the platform provides the scale
 
-**The preparation framework — know before you ask:**
+**Avoid the credential trap:** Credentials open doors but plateau early. Specific knowledge compounds; credentials plateau at the top of the range for your field.
 
-1. **Market rate research:** Glassdoor, Payscale, Levels.fyi (for tech), LinkedIn Salary. Find the range for your specific role + experience level + geography. Identify the top 75th percentile number — this is your target.
-
-2. **Value documentation:** Quantify your contributions in specific metrics (revenue, costs saved, projects delivered). Document times you went beyond your stated role. Collect testimonials or performance reviews.
-
-3. **The script:** *"I've been here [X] months and I've contributed [specific metric 1], [specific metric 2], and [specific metric 3]. Based on my research, the market rate for this role at my experience level is $[A]. I believe my value is closer to $[B]. What would it take to get there?"*
-
-4. **If they say no or lowball:** *"I appreciate that. Could you tell me specifically what would need to be true for us to get to $[B]? And what's a timeline for that?"* This converts a no into a development plan.
-
-### The Premium Skill Framework
-
-Not all skills compound equally. Naval's concept of **specific knowledge** maps directly to income acceleration: skills at the intersection of genuine aptitude and market demand command premium pricing because they can't be easily taught or replicated.
-
-**The premium skill criteria:**
-- You find it naturally easier than most people ( aptitude × interest = specificity )
-- The market pays well for it (demand × scarcity = premium)
-- It's hard to automate or outsource (durability)
-
-**High-compounding skill categories:**
-- Systems thinking + technical execution (engineering, data science, product)
-- Persuasion + delivery (sales, entrepreneurship, consulting)
-- Domain expertise + communication (law, medicine, finance + ability to explain it)
-- Creative + distribution (content creation, design + audience-building)
-
-**The skill development shortcut:** Find the thing you would do for free that also happens to be worth money. Build from there. Naval: *"It feels like play to you but looks like work to others."*
-
-### The Job-Hopping Math
-
-Counter to conventional wisdom, staying at one employer for 10+ years can be a wealth-building mistake, not a virtue. The data:
-
-**The job-hopping premium:**
-- Switching employers every 2-3 years historically yields 10-30% raises (vs. 3% annual raises)
-- Internal promotion cycles are slower than external offers because managers have budget constraints
-- External offers create leverage for negotiation even if you don't take them
-
-**The strategic approach:**
-- Build specific knowledge and reputation for 2 years minimum (short tenure has no signal)
-- Leave when you've extracted the learning, not before
-- Use competing offers as negotiation leverage — even if you prefer staying
-- Target employers who are growing fast (they have budget for premium talent)
-
-**The exception:** If you're in a role with extraordinary compounding potential (deep specialist, equity-heavy startup), the internal trajectory may outpace external movement.
-
-### Building Product Income (The Real Wealth Multiplier)
-
-Earned income (salary, consulting fees) is capped by your hourly rate or annual salary. Product income (businesses, investments, intellectual property) scales without your direct involvement. The transition from earned to product income is the single largest wealth-building event in most people's financial lives.
-
-**The product income ladder:**
-
-**Level 1 — Trading time for money (hourly/annual):** Your income stops when you stop working. This is where most people stay. Ceiling: whatever someone will pay for your time.
-
-**Level 2 — Trading results for money (commission, retainers, performance fees):** You get paid for output, not hours. Your income is partially decoupled from time. Ceiling: still limited by how much you can produce personally.
-
-**Level 3 — Systems that earn without you:** Businesses with employees or automated systems. Investments generating returns independent of your labor. Intellectual property (books, courses, software) producing royalty income. Ceiling: theoretically unlimited, requires capital or leverage to build.
-
-**The practical starting point:**
-1. Identify one specific skill or knowledge area you have that others would pay to access
-2. Create a small, paid version of it (a course, consulting package, guide, template)
-3. Validate that people will actually pay before investing more time
-4. Reinvest the revenue to build more of it
-5. Move from service to product as the revenue allows
-
-### The "Get Paid Before Delivery" Principle
-
-Buffett's insurance float concept applies at the personal level: money that arrives before work is performed has more power than money that arrives after. This is not about fraud or pre-payment without delivery — it's about structuring arrangements so capital works for you during the gap between payment and performance.
-
-**Practical applications:**
-- **Consultants/contractors:** Ask for retainers or project deposits (30-50% upfront)
-- **Product sellers:** Get payment before shipping whenever possible
-- **Employees:** If you have a strong track record, negotiate a sign-on bonus paid in the first week rather than a salary spread over a year
-- **Investors:** Structure deals so your capital is at work while due diligence happens
-- **Subscriptions/annual plans:** Offer discounts for annual prepay — you get the cash now, customer gets a discount
-
-**The math of prepayment:** If you receive $10,000 in January for work to be done by December, that money can be invested and earning returns for 11 months. The person who receives the same $10,000 in monthly installments over the year has less capital working for them on average.
-
-### Income Acceleration Through Leverage
-
-Leverage — the ability to multiply your output without multiplying your time input — is what separates people who build extraordinary wealth from those who don't. Naval identified three types, but in practice:
-
-**Labor leverage:** Hire people to do what you were doing. The gap between their billing rate and their salary is your margin. This is how most service businesses scale.
-
-**Capital leverage:** Invest money to make more money. The return on capital minus the cost of capital is your margin. This is what banks and investors do.
-
-**Code/media leverage:** Create something once that scales to millions without additional cost. This is the most accessible form today. A book, a course, a YouTube channel, a software tool — these have near-zero marginal cost to replicate.
-
-**The leverage priority for most people:**
-1. Start with your own labor premium (earn more for what you do)
-2. Add code/media leverage (create products alongside your job)
-3. Layer in capital leverage (invest earnings to generate returns)
-4. Use labor leverage last (build a team only when the economics justify it)
-
-### Income Velocity vs. Income Level
-
-Most people focus on income level (how much you earn) while ignoring income velocity (how fast your earning capacity grows). The distinction:
-
-| Variable | Income Level | Income Velocity |
-|---|---|---|
-| **Definition** | How much you earn today | How fast your earnings grow |
-| **Effect** | Present financial capacity | Future financial capacity |
-| **The mistake** | Maximizing today's pay | Underinvesting in future earning power |
-| **Better strategy** | Building skills + leverage | Compound learning + negotiation |
-
-**The income velocity framework:**
-- Every year, your goal is not just to earn — it's to earn more than last year at an accelerating rate
-- If your income isn't growing faster than inflation, you're falling behind in real terms
-- The person who earns $80K and negotiates to $95K (+19%) beats the person who earns $80K and stays there for 5 years
-- Track your income trajectory, not just your absolute number
-
-### Scripts for Common Income Situations
-
-→ Full content: [references/financial-frameworks.md](references/financial-frameworks.md) — extended salary negotiation scripts and income ceiling analysis.
-
-**When asked "what are your salary expectations" (before offer):**
-> *"Based on my research, the range for this role is $[A]-[B]. I'm looking for something in the upper half of that range given my specific background in [skill area]. But I'd rather discuss what we can create together and let the compensation follow that."*
-
-**When given an offer below your target:**
-> *"I appreciate the offer. I'm genuinely excited about the role. My expectation was [target]. Is there room to revisit this, either through base salary, a sign-on bonus, or equity component?"*
-
-**When you want a raise but it's not review time:**
-> *"I've been tracking my contributions and I want to discuss my compensation. I've added [specific value metrics] since we last spoke. Can we schedule a conversation to discuss where my compensation should be?"*
-
-**When starting a side business:**
-> *"Before I invest more time, I want to validate this is worth building. Can I get one paying customer at [price point]? If yes, I have a business. If no, I have a hobby."*
-
----
+→ Full content: [references/financial-frameworks.md](references/financial-frameworks.md)
 
 ## Risk and Probability Thinking: How the Wealthy Think About Uncertainty
 
-Every financial decision is a bet on an uncertain future. The difference between people who build lasting wealth and those who lose it is not the absence of risk — it's the quality of their risk assessment. This section distills how Musk, Buffett, Bezos, and Naval each think about risk differently, and how to apply their frameworks.
+Every financial decision is a bet on an uncertain future. The difference between people who build lasting wealth and those who lose it is not the absence of risk — it's the quality of their risk assessment.
 
-### The Five Risk Frameworks
+**The Five Risk Frameworks:**
 
 **1. Buffett's Margin of Safety (Downside Protection)**
-
-Buffett's primary risk framework: never bet on perfect conditions. Always leave room for being wrong.
-
-> *"The three most important words in investing are 'margin of safety.'"*
-
-**How it works:** Pay $70 for something worth $100. If your estimate is wrong by 30%, you still break even. Pay $100 for something worth $100. A 10% error means you lose 10%.
-
-**Applied to wealth-building:**
-- **In investing:** Buy quality assets when they're priced below intrinsic value. Not when they're "fair." When they're discounted.
-- **In career:** Negotiate for more than you think you're worth. The gap between what you ask for and what you get is your margin of safety.
-- **In business:** Price products with a margin that absorbs unexpected costs. Competing on price alone with no margin is a race to the bottom.
-- **In life:** Keep 3-6 months expenses as a buffer. The person with no margin of safety is one bad break from crisis.
-
-**The question to ask:** *Am I paying a price that gives me error room, or am I paying full price and hoping I'm right?*
+Pay $70 for something worth $100. If your estimate is wrong by 30%, you still break even. Pay $100 for something worth $100. A 10% error means you lose 10%. Applied: buy quality assets when discounted, not when "fair." Keep 3–6 months expenses as financial margin of safety.
 
 **2. Musk's First Principles Risk Analysis**
-
-Musk's approach to risk: decompose the thing you're afraid of into its actual components. What's the real probability? What's the real downside? Don't let fear and uncertainty blend together into paralysis.
-
-**The method:**
-1. Name the specific bad outcome you're afraid of
-2. Estimate its actual probability (not your fear's estimate)
-3. Estimate the actual downside if it happens (not the imagined downside)
-4. Calculate the expected value: (probability × downside)
-5. Compare to the expected value of acting
-
-**The example: Fear of investing in a market crash.**
-1. Bad outcome: "The market drops 50% and I lose everything"
-2. Actual probability: Historically ~1 major crash per decade; 30% corrections happen ~3x per decade
-3. Actual downside: A 50% drop in a diversified portfolio that you don't sell = paper loss, not real loss. You only lose if you sell at the bottom.
-4. Expected value: Low probability × temporary (not permanent) downside = act.
-5. The expected value of staying out of the market historically is worse than the expected value of staying invested.
+Name the specific bad outcome → estimate actual probability (not fear's estimate) → estimate actual downside if it happens → calculate expected value. The example: fear of investing in a crash. Historically ~1 major crash/decade. A 50% drop in a diversified portfolio you don't sell = paper loss, not real loss. Expected value of staying invested historically beats the expected value of staying out.
 
 **3. Bezos's Disagreeable Decision-Making**
-
-Bezos distinguishes between **Type 1** and **Type 2** decisions:
-
-- **Type 1 decisions:** Irreversible, high-stakes, cannot be undone. These require deliberation and due diligence.
-- **Type 2 decisions:** Reversible, can be undone. These should be made quickly with 70% of the information and adjusted later.
-
-> *"The thing I realize is that in our world, people confuse Type 1 and Type 2. They treat many decisions as if they're Type 1 when they're actually Type 2. If it's a Type 2 decision, you can reverse it. Reversible decisions must be made quickly, and you can change course later."*
-
-**The wealth application:** Most personal financial decisions are Type 2 — you can reverse them. Switching funds, changing your allocation, trying a new side business — these are not permanent. The person who waits 6 months for a "perfect" decision on a reversible move has incurred an opportunity cost that outweighs the delay risk.
-
-**The script for reversible decisions:**
-> *"I have about 70% of the information I need. If I'm wrong, I can course-correct in [timeframe]. What's the cost of acting now vs. the cost of waiting?"*
+Type 1 decisions (irreversible, high-stakes): deliberate and slow. Type 2 decisions (reversible): move fast with 70% of information. Most personal finance decisions are Type 2 — you can change your investments, career, spending. Stop treating reversible decisions like they're irreversible.
 
 **4. Naval's Probabilistic Thinking**
+Naval: "You don't know if this will work. Neither do I. The right move is the one with the highest expected value." Probabilistic thinking means: don't ask "will this work?" — ask "if I do this 100 times, what are the outcomes?" One great outcome can outweigh 99 failures. But the cost per attempt has to be bounded so one failure doesn't wipe you out.
 
-Naval's framework: most outcomes in wealth-building are probabilistic, not certain. Train yourself to think in expected value rather than binary outcomes.
+**5. Charlie Munger's Inversion**
+Munger: *"Tell me where I will die, so I can avoid going there."* Before any financial decision, ask: *What would guarantee failure?* Then don't do that. The most dangerous risks are the ones that seem safe — leveraged products, illiquid commitments, concentration in a single stock you can't afford to lose.
 
-**The example:** A job offer with a 60% chance of being a great fit and a 40% chance of being mediocre.
-- Binary thinking: "It might not work out" = don't take it
-- Probabilistic thinking: 0.6 × great outcome > 0.4 × mediocre outcome = take it, manage the risk
+**The risk question to ask before any major financial decision:** *What is the worst outcome here, and can I survive it?* If the answer is yes, the risk-reward calculation changes completely.
 
-**The wealth applications:**
-- **Career moves:** Most career transitions are 60-70% bets. That's sufficient to act on if the upside is large enough.
-- **Investments:** Every investment has a probability of outperforming and underperforming. Expected value = probability × return. Demand that high-risk investments offer high enough returns to justify the risk.
-- **Business ventures:** "Will this work?" is the wrong question. "What's the expected value of this venture given the probability distribution of outcomes?" is the right question.
-
-### The Risk Assessment Matrix
-**5. Kahneman-Tversky: The Behavioral Gap (Losses Hurt 2× More Than Gains)**
-
-Kahneman and Tversky (Nobel 2002) found losses feel ~2× more painful than equivalent gains feel pleasurable. This asymmetry drives the two most common wealth-destroying behaviors: selling winners too early (feels like "winning") and holding losers too long (keeps hope alive). A 50% drop needs a 100% gain just to break even.
-
-**The four behavioral biases that cost you money:**
-
-1. **Loss Aversion:** The pain of a $10k loss outweighs the pleasure of a $10k gain ~2:1. Paralyzed by downside risk, quick to take profits.
-
-2. **Disposition Effect:** Odean (1998) on 10,000 brokerage accounts: investors are 50% more likely to sell a rising stock than a falling one, even when the falling stock is the better investment. You're selling the winner and holding the loser — the exact opposite of smart investing.
-
-3. **Narrow Framing:** Evaluating each position in isolation rather than portfolio context. The wealthy zoom out to 10 years; most people zoom in to today's P&L.
-
-4. **Probability Blindness:** Low-probability catastrophes feel like 0% risk; familiar outcomes feel 100% certain. Write down the specific bad outcome and its historical frequency — your gut is systematically wrong.
-
-**Your edge:** Most investors are predictably irrational. Their panic selling creates your buying opportunities. You don't need to be smarter than everyone — just less behavioral.
-
-→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
-
-Before any major financial decision, apply this filter:
-
-| Question | Low Risk | High Risk |
-|---|---|---|
-| **What's the worst-case scenario?** | Recoverable | Potentially catastrophic |
-| **Is this reversible?** | Yes — can adjust course | No — permanent consequences |
-| **What's my track record here?** | I understand this domain | I'm operating outside my circle |
-| **What's the expected value?** | Positive even accounting for failure probability | Requires near-certainty to justify |
-| **What's the opportunity cost?** | If I don't act, what do I miss? | If I do act and fail, what do I lose? |
-
-### Specific Risk Principles
-
-All four frameworks above (Buffett's margin of safety, Musk's first principles, Bezos's 70% rule, Naval's probability weighting) share one underlying logic: **don't let behavioral wiring override rational analysis.** The wealthy use these frameworks specifically to counteract the four Kahneman-Tversky biases — loss aversion, the disposition effect, narrow framing, and probability blindness — that cost most investors more than any market crash.
-
-**The script before any major financial decision:**
-> *"Am I being influenced by how this makes me feel right now? Is the downside I'm fearing a specific historical fact, or a probability-blind estimate? What's the expected value, not the worst-case gut feeling?"*
-
-### The Risk Scripts
-
-**When you're paralyzed by fear of a financial decision:**
-> *"What's the worst that actually happens if I'm wrong? Is it recoverable? What's the actual probability of that worst case? And what's the cost of not acting?"*
-
-**When considering a high-risk, high-reward opportunity:**
-> *"Is this a risk I can absorb if it goes wrong, or is this a risk where failure has permanent consequences? If it's the former, what's the expected value? If it's the latter, what's the minimum I can bet while validating the thesis?"*
-
-**When someone presents you with a "guaranteed" high-return investment:**
-> *"Margin of safety requires that I understand what I'm investing in. Can you explain the underlying asset, its historical performance, and why this return is possible? If you can't explain it simply, I don't understand it well enough to invest."*
-
----
+→ Full content: [references/musk-frameworks.md](references/musk-frameworks.md) — Musk first principles risk analysis.
+→ Full content: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Buffett margin of safety.
 
 ## Power and Unstoppable Execution
 
@@ -1085,94 +875,48 @@ Early 1980s: Dalio made a bad call on interest rates and nearly destroyed Bridge
 
 The single biggest threat to your wealth isn't bad investments — it's your own decision-making under pressure. Fifty years of behavioral finance research has mapped exactly how human cognition systematically destroys wealth, and the countermeasures that work.
 
-### Kahneman and Tversky's Nobel Prize Discovery
+**Loss Aversion — Why Losses Feel Twice as Big as Gains:** Tversky and Kahneman (1979) found that losses feel roughly twice as painful as equivalent gains feel pleasurable. This asymmetry distorts every financial decision: you hold a losing investment not because the fundamentals changed, but because realizing the loss makes it real. You sell a rising stock not because the fundamentals changed, but because locking in gains feels like a win. Same behavior; opposite outcomes depending on which direction markets moved while you held.
 
-Daniel Kahneman and Amos Tversky's Prospect Theory (Nobel 2002) overturned the rational-actor model. Their core findings directly explain why smart people make wealth-destroying decisions:
+**The Disposition Effect — Investors' Single Biggest Self-Defeating Habit:** Individual investors at a large discount brokerage sold winning positions at a rate 50% greater than losing positions. They locked in $16M in gains while holding $32M in losses — simultaneously — in the same accounts. The rational behavior (hold losers, sell winners) is psychologically harder than the irrational behavior (sell winners, hold losers). This is why investment returns are determined less by what you own and more by how you behave when outcomes are uncertain.
 
-**Loss aversion:** Losses feel roughly 2x as painful as equivalent gains. A $100 loss generates the same neurological activity as a $200 gain. This means most people refuse a 50/50 bet with equal gains and losses — even when the math favors taking it. In wealth terms: the fear of losing $10,000 feels worse than the excitement of gaining $10,000, even though the math is identical.
+**Reference Point Manipulation — Mr. Market Controls Your Emotions:** Your evaluation of any investment changes based on what you use as a reference point. A stock at $100 feels like a loss if you bought at $120 and a gain if you bought at $80 — even if nothing about the business changed. Graham's Mr. Market parable exists precisely to teach that the market's price is not information; it's a manipulation device designed to make you behave badly at exactly the wrong moments.
 
-**The implication:** People sell winning investments too early (locking in the good feeling) and hold losing investments too long (avoiding the pain of realizing the loss). Both behaviors systematically destroy compound returns.
+**The Behavioral Compounding Principle:** The most powerful force in finance — compound interest — is also the most psychologically demanding. It requires you to do nothing for decades while everyone around you is acting. The investor who earns 7% and stays invested for 40 years outperforms the 9% investor who panic-sells during the first drawdown. Behavior is not a secondary factor in investing outcomes. It is the primary factor.
 
-**Reference dependence:** You evaluate outcomes relative to a reference point — usually your purchase price. A stock at $90 feels like a loss if you bought at $100, and like a gain if you bought at $80. Same price, completely different emotional response, completely different behavior.
+**The Three Most Practical Debiasing Tools:**
+1. **Decision journal:** Write down every major financial decision with your reasoning BEFORE you see the outcome. Compare later. The gap between your reasoning and the result is where your actual education happens.
+2. **Pre-mortem before any major financial move:** Ask — *if this investment drops 50%, what specifically caused it?* Forcing yourself to imagine failure reveals the risks you're not pricing in.
+3. **Structural defaults:** Auto-enroll in your 401(k). Automate savings before payday. Make the rational behavior the path of least resistance — don't rely on willpower against emotional market environments.
 
-**The implication:** "Am I winning or losing?" is the wrong question. The right question: "Is this asset likely to be worth more than it costs me to hold it over my time horizon?" The purchase price is irrelevant to that calculation.
-
-### The Four Costly Behavioral Errors
-
-**1. Herding — Doing What Everyone Else Is Doing**
-
-Buffett's indicator: "Be fearful when others are greedy, and greedy when others are fearful." When everyone is buying, prices are driven above fundamental value by social proof. The people who make money are the ones who sold to the herders. When everyone is selling, prices are driven below fundamental value by fear. The people who make money are the ones who bought from the herders.
-
-**The script when everyone is talking about a hot investment:**
-> *"What is the actual fundamental value? What would I pay if I had to hold this for 10 years? Is the current price reflecting that value — or the crowd's enthusiasm?"*
-
-**2. Recency Bias — Assuming the Last 3 Years Will Continue Forever**
-
-After a 30% decline, most people believe the decline will continue. After a 3-year bull run, most people believe gains will continue. Both are wrong equally. The data: every major bull market followed a major crash. Every major crash followed apparent stability people mistook for permanence.
-
-**The fix:** Use 10-year historical averages, not 3-year recent performance, to set expectations.
-
-**3. Mental Accounting — Treating Money Differently Based on Source**
-
-Richard Thaler's concept: people mentally label money based on source, not equivalent economic value. $1,000 from a tax refund feels like "found money" and gets spent differently than $1,000 from salary — even though they're identical.
-
-The wealth-destroying version: holding 6 months of expenses in a savings account earning 0.5% while simultaneously carrying 24% credit card debt. The math is obvious. But mental accounting keeps the savings as "safety money" and the debt as somehow separate.
-
-**The fix:** Every dollar is interchangeable. The only question: what is the highest return available for this dollar given my risk and time horizon?
-
-**4. The Endowment Effect — Overvaluing What You Already Own**
-
-Once you own something, you demand more to sell it than you would pay to buy the identical item. People hold a stock at a loss they would never buy at the same price — because "selling at a loss makes it real."
-
-**The test:** *If I didn't own this today, would I buy it at the current price?* If no — the endowment effect is operating.
-
-### Debiasing Techniques That Actually Work
-
-**1. Pre-commitment — Decide Before the Crisis**
-
-Before earnings season or a market crash: write down your decision rules in advance. Sign them.
-
-*"If the S&P 500 drops 30%, I will not sell. I will not check my portfolio more than once per quarter during the decline."*
-
-Why it works: removes hot-state decision-making. Thaler's sophisticated investor pre-commits; the naive investor believes they'll be rational in the moment. The naive investor is always wrong in the moment.
-
-**2. Decision Velocity with Automatic Triggers**
-
-For recurring financial decisions: set automatic triggers rather than discretionary ones.
-
-*"If my portfolio drifts more than 5% from target allocation, automatically rebalance within 5 business days."*
-
-**3. The 10-10-10 Rule**
-
-Before any major financial decision: how will you feel in 10 minutes? 10 months? 10 years? Decisions that feel urgent often don't pass the 10-year test.
-
-**4. The Outside View — What Does the Base Rate Say?**
-
-Before any major financial decision: what is the statistical base rate for similar decisions?
-
-*"What is the historical probability that picking individual stocks outperforms an index fund over 20 years?"* (Answer: approximately 10% of actively managed funds beat the index over 20 years.)
-
-The outside view removes availability bias and grounds decisions in statistical reality.
-
-### The Behavioral Finance Script Library
-
-**When a friend tells you about a hot stock tip:**
-> *"I don't invest in things I don't understand. What does the company actually do? Would you buy it if the price dropped 50% tomorrow?"*
-
-**When you feel the urge to sell during a downturn:**
-> *"The market is offering me a lower price on the same asset I believed in at a higher price. Has the fundamental value changed — or has Mr. Market changed his mood?"*
-
-**When you're defensive about a losing investment:**
-> *"If I didn't own this today, would I buy it? If not, why am I holding it?"*
-
-**When you're about to make an impulse purchase:**
-> *"In 10 years, will I remember this purchase or will I wish I'd invested it? What's the compound value of this money at my expected rate of return?"*
-
-→ Full content: [references/behavioral-finance.md](references/behavioral-finance.md) — Extended Tversky/Kahneman research breakdown, Thaler's full Nudge framework, Hersh Shefrin's behavioral portfolio theory, and the complete debiasing toolkit.
+→ Full content: [references/behavioral-finance.md](references/behavioral-finance.md) — Extended Tversky/Kahneman research, Thaler's Nudge framework, Shefrin's behavioral portfolio theory, and the complete debiasing toolkit.
 
 
 
-## Wealth Identity: Who You Are With Money
+## Morgan Housel: The Psychology of Money — Timeless Lessons for Wealth Builders
+
+Morgan Housel's *The Psychology of Money* (2020) and *Same as Ever* (2023) argue that financial success is 20% technical knowledge and 80% behavioral psychology. The book's insight: everyone receives the same information about investing — the difference between those who build wealth and those who don't comes down to how they behave when outcomes are uncertain.
+
+**Housel's Core Insight: The Room to Be Wrong.** Wealth is not about investment returns — it's about creating space to be patient. The person with a 40% savings rate and a 6-month emergency fund can be wrong about which stock to buy, when to rebalance, or when markets will recover. The person living paycheck to paycheck has no room to be wrong — every market crash is a crisis, every career setback is a catastrophe. Savings rate and financial margin are not secondary to investment returns. They are the foundation.
+
+**The Compounding Window Is Invisible — Until It Isn't.** Housel uses a simple example: $200/month invested at 10% for 40 years = ~$1.2M. Wait 10 years before starting — $400K. The $800K difference is invisible at year 3,看不出来 at year 10, and seems obvious at year 40. The investor who stays for 40 years isn't smarter than the one who got cold feet at year 10. They just didn't have a reason to sell. The market is designed to punish anyone who can't sit still.
+
+**The Person Who Looks Richest Is Usually the Poorest.** A person with a $500K house, $80K car, $200K boat — all financed — looks wealthy. Their actual net worth may be negative. Meanwhile, the person who seems boringly middle-class — maxes their 401(k), owns a modest home, drives a 10-year-old car — may be a multimillionaire. Housel's rule: wealth is what you don't spend. The most visible manifestation of someone having money is that they don't spend it.
+
+**The 7% Investor Who Stays Beats the 9% Investor Who Panics.** The data on equity fund investors (Dalbar studies, 30+ years): the average equity fund investor earned 3.9% annually while the S&P 500 returned 10%+. The reason: investors moved money into and out of funds at exactly the wrong times — buying after strong returns, selling after crashes. The behavioral gap between what the market returns and what investors earn is enormous. Being slightly above average and staying completely still outperforms being brilliant and reactive.
+
+**"Getting Money Requires Luck; Keeping It Requires Discipline."** Housel draws a clear line: making your first $100K usually involves some combination of skill, persuasion, and luck. Growing it to $1M+ requires systematically not destroying it. The person who earns $300K/year and spends $295K is not building wealth — they are running a high-income lifestyle. Wealth is income minus expenses, compounded over time. The math is not complicated. The behavior is brutal.
+
+**Risk and Luck Are Hard to Tell Apart Until It's Too Late.** The investor who made 40% last year — was it skill or luck? The investor who lost 40% — was it bad luck or bad risk management? Housel argues that in investing, outcomes and process are not the same thing, and most people evaluate process by outcomes. Buffett: "It's only when the tide goes out that you learn who's been swimming naked." A good process that has a bad outcome is still a good process. A bad process with a good outcome is still a bad process.
+
+**Housel's Wealth-Building Rules:**
+1. **Save without a specific goal.** The purpose of saving is not to buy something — it's to build optionality. The person with $100K in the bank can take risks the person with $0 cannot.
+2. **Define wealth in terms of income, not net worth.** A $2M portfolio that generates $60K/year sustainably is more wealth than a $5M portfolio generating $200K/year that requires constant attention and leverage.
+3. **Invest in what you understand, and be honest about what you don't.** The person who invests in what they understand at 8% beats the person who chases 15% in products they don't understand. Index funds are not a failure of ambition — they are an acknowledgment of honest limits.
+4. **Build a financial identity that can tolerate market volatility.** If a 40% market crash causes you to sell everything, your portfolio isn't the problem — your financial identity is. Fix the identity first.
+
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
+
+Wealth Identity: Who You Are With Money
 
 The wealthiest people share something that has nothing to do with income or investment returns: **they have a stable, positive identity with money**. They are not their net worth. They don't feel rich or poor based on market fluctuations. They have a consistent internal relationship with wealth that doesn't depend on external validation.
 
@@ -1316,3 +1060,33 @@ Suggest seeing a financial advisor or planner when:
 - [ ] Explained index fund basics without overcomplicating
 - [ ] Addressed the "money = greed" guilt
 - [ ] Gave quick scripts for common blocks
+
+## Morgan Housel's "Same as Ever": Timeless Lessons That Never Change
+
+In *Same as Ever* (2023), Housel distills 23 lessons from history's most consistent wealth builders — lessons that hold across every market, era, and economic condition. Unlike *The Psychology of Money* (individual behavior), *Same as Ever* studies what stays constant across societies and centuries.
+
+**Core premise:** The way to understand the future is to study the past — not the financial past, but human nature's past. Financial markets are efficient not because everyone is rational, but because human irrationality is predictable and consistent.
+
+**Core lessons for wealth building:**
+
+**"The Room to Be Wrong is the Point"** — A 20% savings rate doesn't just fund your future; it funds your patience. The emergency fund isn't financial planning — it's psychological infrastructure that lets you be patient when others panic.
+
+**"Compounding Requires Silence"** — The most powerful force in wealth-building is also the most boring. Buffett's portfolio doesn't make dramatic moves — it compounds quietly for 50 years. The moment you tell people about your portfolio, social pressure introduces pressure to act, which destroys compounding.
+
+**"Ego is Expensive"** — The wealthiest people Housel knows drive Camrys and wear Casios. The most miserable wealthy people drive Bentleys and lease everything. Ego inflation scales with income. Fighting it is worth more than any investment strategy.
+
+**"Risk is What You Don't See"** — The riskiest thing is the risk you don't know exists. The 2008 crisis wasn't a failure of mathematics — it was a failure of imagination about what could go wrong simultaneously. Before any investment: *What is the thing that would hurt me most that I'm not seeing?*
+
+**"Freedom is the Ultimate Wealth"** — *"The highest form of wealth is the ability to wake up and say, I can do whatever I want today."* The $500K person with no debt and $200K beats the $2M person with $1.9M in liabilities. Freedom is the goal; money is the means to it.
+
+**"Tail Events Drive Everything"** — A small number of events (ten-baggers, market crashes, career inflection points) drive most of the outcomes. Position yourself so you're on the right side when they happen. Always have dry powder (cash) when others are distressed — and never be in a position where one failure wipes you out.
+
+**"The Attractive and the Repulsive"** — The most profitable investments always have an element that repels most people. If a stock feels comfortable and obvious to everyone, it's priced accordingly. Conviction requires being comfortable being wrong and alone.
+
+**"The Best Plan is the One That Allows You to Change Plans"** — Rigid financial plans fail when reality changes. Build flexibility into every financial decision. Avoid long-term illiquid commitments you can't escape if your situation changes.
+
+**"The Paradox of Skill"** — As financial sophistication increases, the rewards for innovation decrease — the innovation gets priced in immediately. The basics (save 20%, index funds, don't panic-sell) beat sophisticated strategies over time because sophisticated strategies are competed away.
+
+**Applying Same as Ever to your decisions:** Before any major financial decision, ask Housel's filter: *"Will this feel the same in 10 years as it does today?"* If you're buying an investment because "this time is different," it almost never is. If you're making a consumption decision because "I deserve this," remember that who you are in 10 years lives with the consequences.
+
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
