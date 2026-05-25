@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.48.0
+version: 1.49.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -622,22 +622,51 @@ Munger's contribution is not a single technique — it is a way of thinking. His
 
 ## Tax Optimization and Asset Protection
 
-The wealthiest individuals legally minimize their tax burden every year. This is not tax evasion -- it is strategic use of the tax code as designed to incentivize saving, investing, and building. A 1% annual tax savings compounded at 10% over 30 years adds approximately 30% more to your final wealth. This is one of the few truly free lunches in personal finance.
+The wealthiest individuals legally minimize their tax burden every year. This is not tax evasion -- it is strategic use of the tax code. A 1% annual tax savings compounded at 10% over 30 years adds approximately 30% more to your final wealth. This is one of the few truly free lunches in personal finance.
 
-**The tax-advantaged account stack:**
-1. Employer 401(k) up to match (50-100% instant return)
-2. HSA (triple tax advantage: contributions, growth, and withdrawals for medical are tax-free)
-3. Roth IRA or Traditional IRA ($7,000/year, Roth wins for most starting out)
-4. Max 401(k) beyond match ($23,500 in 2026)
-5. Mega backdoor Roth (up to ~$46,000/year if your plan supports it)
-6. Taxable brokerage (tax-efficient asset location)
+**The tax-advantaged account stack (priority order):**
+1. Employer 401(k) up to match (50-100% instant return -- always take this first)
+2. HSA (triple tax advantage: contributions, growth, and qualified medical withdrawals all tax-free -- treat it as a stealth Roth)
+3. Roth IRA or Traditional IRA ($7,000/year in 2026; Roth wins for most people starting out)
+4. Max 401(k) beyond match ($23,500 in 2026, $31,000 if over 50)
+5. Mega backdoor Roth (up to ~$46,000/year if your employer plan supports after-tax contributions)
+6. Taxable brokerage (hold buy-and-hold index funds here for favorable long-term capital gains rates; keep REITs and bonds in tax-advantaged accounts)
 
-**Key strategies:** Tax-loss harvesting (turn portfolio losses into tax offsets), Roth conversion ladder (move Traditional to Roth in low-income years), S-corp election for business owners (save 15.3% on distributions above salary), donor-advised funds for charitable giving.
+### The Marginal Tax Rate Reality
 
-→ Full content: [references/tax-optimization.md](references/tax-optimization.md) — entity structures (LLC, S-Corp, C-Corp), asset protection frameworks, income timing and bunching strategies, tax credits guide, charitable giving structures, and the complete priority stack for high earners.
+The US uses *marginal* brackets -- only dollars *above* each threshold are taxed at the higher rate. A single filer at $200K in 2026 pays 10% on the first $11,600, 12% on the next ~$35K, 22% on ~$53K, and only 24% on dollars above $100,525.
+
+**The practical insight:** A raise that pushes you into a higher bracket does NOT make your entire income taxed at the new rate -- only the marginal dollars above the threshold are. This reframes the fear of "I'll be in a higher bracket."
+
+### Bunching Deductions and the Roth Conversion Window
+
+**The bunching strategy:** If your itemized deductions (mortgage interest, charitable giving, state taxes) don't exceed the $15,000/$30,000 standard deduction, bunch charitable contributions every other year. In the bunch year, itemize and capture the full deduction. In the off year, take the standard. This turns a modest charitable habit into a meaningful tax advantage.
+
+**The Roth conversion window:** If your income drops in any year (career transition, early retirement, business loss), convert Traditional 401(k)/IRA to Roth at your temporarily lower rate. Converting $50,000 at 22% costs ~$11,000 in taxes. That $50,000 growing at 10% for 20 years becomes ~$336,000 -- all tax-free. The conversion cost is the premium for permanent tax-free growth.
+
+### Tax Credits: More Valuable Than Deductions
+
+A tax credit reduces your tax bill dollar-for-dollar. A deduction reduces *taxable income* -- saving $240 for someone in the 24% bracket. A $1,000 credit saves $1,000. Credits are nearly always worth more.
+
+**The most impactful credits:**
+- **Child Tax Credit:** Up to $2,000 per child under 17 ($1,700 partially refundable)
+- **Earned Income Tax Credit (EITC):** Up to ~$7,500 for families with 3+ children in 2026 -- frequently missed by people who don't know they qualify
+- **American Opportunity Credit:** Up to $2,500/year for college (first 4 years)
+- **Clean Energy Credits:** 30% residential solar credit through 2032
+
+**The script:** "Most people leave thousands on the table every year by not claiming credits they're entitled to. The EITC, for people who qualify and don't claim it, is one of the largest government wealth transfers that goes unclaimed. If your income is variable or you're unsure what you qualify for, a free VITA tax clinic can help you find credits that paid preparers won't bother finding."
+
+### The S-Corp Strategy for Business Owners
+
+If you earn over ~$80,000/year in net profit as a business owner, an S-corp election can save 15.3% on self-employment tax. You pay yourself a *reasonable salary* (ordinary income + payroll tax), then take remaining profits as distributions not subject to self-employment tax. For a consultant billing $200K/year, this saves $15,000-$20,000 annually.
+
+**The catch:** The salary must be genuinely reasonable for the work performed. The IRS scrutinizes S-corps where salary is artificially low.
+
+→ Full content: [references/tax-optimization.md](references/tax-optimization.md) — entity structures (LLC, S-Corp, C-Corp), tax-loss harvesting mechanics, Roth conversion ladder details, asset location tables, charitable giving structures (DAF, QCD, appreciated stock donation), and the complete priority stack for high earners.
 
 **The script:** "Taxes are probably the single largest drag on your long-term wealth after investment returns. The good news is that most optimization is done once -- set up the right accounts, automate the contributions, and check in annually. Max your 401(k), get the match, backdoor a Roth, harvest losses if they exist, and if you run a business, talk to an accountant about an S-corp election."
 
+---
 ---
 
 ## Real Estate: Leverage, Cash Flow, Tax Benefits, Appreciation
