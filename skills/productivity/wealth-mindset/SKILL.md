@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.46.0
+version: 1.47.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1151,8 +1151,71 @@ Four investors who bridge the gap between mechanical formulas and behavioral fin
 
 ## The Real Wealth Builders
 
+→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md) — Core habits, the compounding pattern, and what separates people who actually build lasting wealth from those who earn well but never accumulate.
 
 ## Peter Lynch: Invest in What You Know
+
+Peter Lynch managed Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world during that period. Assets grew from $18 million to $14 billion under his management. His core principle: individual investors have an advantage over Wall Street because they encounter great businesses in their daily lives before analysts do.
+
+### The Core Philosophy: Invest in What You Know
+
+> *"Your investor's edge is not something you get from Wall Street experts. It's something you already have. You can outperform experts by investing in companies and industries you already understand."*
+
+**The Lynch insight:** By the time a Fidelity analyst finishes reading about a company in an SEC filing, Lynch had already been a customer for years. He knew whether people loved or hated the product before the financial data confirmed it.
+
+**The practical rule:** Before buying any stock, ask: *Have I used this product or service? Would I recommend it?* If yes — you have an information edge.
+
+### The Six Stock Categories
+
+Lynch organized all stocks into six categories based on growth stage and risk:
+
+| Category | Characteristics | Strategy |
+|----------|----------------|----------|
+| **Slow growers** | Utilities, established banks | Hold; dividends compound |
+| **Stalwarts** | Coca-Cola, P&G — large, stable | Hold decades; raise prices annually |
+| **Fast growers** | Small companies growing 20–25%/year | Buy early; verify growth is real |
+| **Cyclicals** | Airlines, autos, steel | Buy depressed, sell at peak |
+| **Turnarounds** | Distressed companies recovering | High risk; needs deep understanding |
+| **Asset plays** | Hidden assets (land, IP, cash) | Find the underappreciated value |
+
+### The Two-Minute Drill
+
+Before buying, Lynch asked five questions in two minutes:
+
+1. Can I describe the business in one sentence?
+2. Is revenue, earnings, or dividends growing at least 10%/year?
+3. Are earnings per share growing (not just revenue)?
+4. Is the P/E reasonable for the growth rate? (PEG ≤ 1)
+5. Would I hold this through a 30% drawdown?
+
+### GARP: Growth at a Reasonable Price
+
+Lynch pioneered **GARP** — avoid pure growth (too expensive) and pure value (often cheap for good reasons). Buy good companies growing 15–25%/year at a P/E not exceeding their growth rate.
+
+**GARP filter:** PEG ≤ 1.0 is potentially undervalued; PEG ≤ 0.75 is likely undervalued.
+
+### Ten Baggers: Finding the Multi-Baggers
+
+> *"Ten-baggers don't come from boring industries. They come from industries with visible long-term growth."*
+
+Lynch's biggest winners included **Fannie Mae (10,000%+ return)**, **Ford**, **Philip Morris**, and **Dunkin' Donuts**. Common thread: bought when unloved, the business was growing faster than expected.
+
+### Lynch on Market Timing and Behavior
+
+> *"Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."*
+
+**When to sell:** The company's story has changed, it's reached your price target, or you need capital for a better opportunity. Otherwise — leave it alone.
+
+**On patience:** Lynch's Magellan grew $18M to $14B in 23 years through compounding. The individual investor's advantage over fund managers: you can hold through drawdowns without clients redeeming and without answering to anyone.
+
+### Lynch Quotes
+
+- *"The person who wrote One Thousand Ways to Make $1000 at age seven had more financial sense than most MBA graduates."*
+- *"The most expensive stock on Wall Street is a 'stock that has gone down' rather than a 'stock that has gone up.' People fall in love with the story of why it will recover instead of asking why it went down."*
+- *"In investing, being in the right place at the right time is nothing more than having the courage to buy when everyone else is selling."*
+- *"Knowing what you don't know is more valuable than being right."*
+- *"Invest in a business any fool can run, because eventually some fool will."*
+
 
 ## Common Pitfalls
 
