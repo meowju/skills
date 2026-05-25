@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.49.0
+version: 1.50.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -835,7 +835,7 @@ Most people focus on income level (how much you earn) while ignoring income velo
 
 Every financial decision is a bet on an uncertain future. The difference between people who build lasting wealth and those who lose it is not the absence of risk — it's the quality of their risk assessment. This section distills how Musk, Buffett, Bezos, and Naval each think about risk differently, and how to apply their frameworks.
 
-### The Four Risk Frameworks
+### The Five Risk Frameworks
 
 **1. Buffett's Margin of Safety (Downside Protection)**
 
@@ -899,6 +899,23 @@ Naval's framework: most outcomes in wealth-building are probabilistic, not certa
 - **Business ventures:** "Will this work?" is the wrong question. "What's the expected value of this venture given the probability distribution of outcomes?" is the right question.
 
 ### The Risk Assessment Matrix
+**5. Kahneman-Tversky: The Behavioral Gap (Losses Hurt 2× More Than Gains)**
+
+Kahneman and Tversky (Nobel 2002) found losses feel ~2× more painful than equivalent gains feel pleasurable. This asymmetry drives the two most common wealth-destroying behaviors: selling winners too early (feels like "winning") and holding losers too long (keeps hope alive). A 50% drop needs a 100% gain just to break even.
+
+**The four behavioral biases that cost you money:**
+
+1. **Loss Aversion:** The pain of a $10k loss outweighs the pleasure of a $10k gain ~2:1. Paralyzed by downside risk, quick to take profits.
+
+2. **Disposition Effect:** Odean (1998) on 10,000 brokerage accounts: investors are 50% more likely to sell a rising stock than a falling one, even when the falling stock is the better investment. You're selling the winner and holding the loser — the exact opposite of smart investing.
+
+3. **Narrow Framing:** Evaluating each position in isolation rather than portfolio context. The wealthy zoom out to 10 years; most people zoom in to today's P&L.
+
+4. **Probability Blindness:** Low-probability catastrophes feel like 0% risk; familiar outcomes feel 100% certain. Write down the specific bad outcome and its historical frequency — your gut is systematically wrong.
+
+**Your edge:** Most investors are predictably irrational. Their panic selling creates your buying opportunities. You don't need to be smarter than everyone — just less behavioral.
+
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
 
 Before any major financial decision, apply this filter:
 
@@ -912,21 +929,10 @@ Before any major financial decision, apply this filter:
 
 ### Specific Risk Principles
 
-**Buffett's Rule #1: Don't lose money.**
-Buffett's actual rule is: *"Rule #1: Never lose money. Rule #2: Never forget Rule #1."* This is not conservative — it's mathematically powerful. Losing 50% requires a 100% gain to get back to break-even. The person who avoids catastrophic losses stays in the compounding game longer, and time in the game is what matters.
+All four frameworks above (Buffett's margin of safety, Musk's first principles, Bezos's 70% rule, Naval's probability weighting) share one underlying logic: **don't let behavioral wiring override rational analysis.** The wealthy use these frameworks specifically to counteract the four Kahneman-Tversky biases — loss aversion, the disposition effect, narrow framing, and probability blindness — that cost most investors more than any market crash.
 
-**The practical implication:** Avoid leverage, avoid speculative bubbles, avoid investing in things you don't understand. These are the main wealth destroyers. A person who avoids major losses and invests consistently for 40 years will beat a person who takes bold bets and occasionally wins big but also occasionally loses big.
-
-**The Musk "Iterate Fast on Small, Reversible Risks" Rule:**
-Musk's approach is to take small, reversible risks constantly while avoiding the one catastrophic irreversible risk. Applied to wealth: make small bets, learn from them, adjust. The person who never takes any risk never builds anything. The person who takes one catastrophic risk doesn't get a second try.
-
-**The Bezos 70% Rule:**
-Make reversible decisions at 70% confidence. Don't wait for 95%. The cost of being wrong and correcting is lower than the cost of paralysis. This applies to trying a new side business, switching investment strategies, negotiating a deal, or making a career change.
-
-**The Naval "Probability-Weighted Outcomes" Rule:**
-Naval on decision-making: *"The quality of your decisions determines the quality of your life."* His framework: rather than asking "what's the best possible outcome?" ask "what decision gives me the best probability-weighted outcome across all possible futures?"
-
-Don't take a bet where the downside permanently destroys you even if the upside is attractive. But do take bets where the downside is recoverable and the upside is meaningful.
+**The script before any major financial decision:**
+> *"Am I being influenced by how this makes me feel right now? Is the downside I'm fearing a specific historical fact, or a probability-blind estimate? What's the expected value, not the worst-case gut feeling?"*
 
 ### The Risk Scripts
 
