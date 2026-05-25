@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.55.1
+version: 1.56.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -163,7 +163,36 @@ Research consistently shows:
 - Above ~$75K/year, more money has diminishing returns for happiness
 - **However:** Financial independence — not working because you have to — has strong positive correlation with life satisfaction at all income levels
 
-The goal is not to die rich. The goal is financial autonomy. Having options is the actual prize.
+The goal is not to die rich. The goal is financial autonomy. Having options is ## Persistence and Daily Wealth Rituals
+
+Small daily actions compound faster than dramatic infrequent ones. The gap between knowing and building wealth is explained almost entirely by what you do every day.
+
+### Why Daily Rituals Beat Willpower
+
+Roy Baumeister's ego depletion research shows self-control is finite — you cannot rely on willpower alone. Automate savings so money leaves before you can spend it. Set investment transfers on payday. Put bills on autopay. Design your environment so the right action requires zero daily deliberation.
+
+> *"The goal is to make the right thing the easy thing."* — Jocko Willink
+
+### Frankl's Meaning in the Struggle
+
+Viktor Frankl (*Man's Search for Meaning*): *"The will to meaning overcomes the will to pleasure or power."* The person who frames wealth-building as a meaningful long-term project endures what the person who only chases money cannot.
+
+### Persistence Under Duress
+
+Angela Duckworth's grit studies found it predicted graduation rates better than IQ, parental income, or standardized test scores. Markets crash every 5–7 years — the gritty investor stays; the fearful one sells. Business-building requires years of invisible progress before traction. Salary negotiation involves rejection — gritty people negotiate anyway.
+
+> *"Grit is sticking with your future, day in and day out."* — Angela Duckworth, *Grit*
+
+**Five daily wealth rituals:**
+1. Automate the transfer *before* you finish reading this
+2. Write one financial decision with reasoning — weekly review compounds judgment
+3. Pick one long-term project; commit publicly for 90 days minimum
+4. When an investment drops 20%, ask: *Has the thesis broken, or is this market irrationality?*
+5. Say *"I'm an investor"* — identity drives automatic behavior without deliberation
+
+### The Cost of Indecision
+
+The person who invests $200/month for 20 years beats the person who waits 5 years for the "perfect" time. Set a decision deadline: one week once you have 70% of relevant information. Waiting for perfect information is its own form of recklessness.
 
 ---
 
@@ -964,39 +993,32 @@ Four investors who bridge the gap between mechanical formulas and behavioral fin
 
 — Core habits, the compounding pattern, and what separates people who actually build lasting wealth from those who earn well but never accumulate.
 
+
 ## Peter Lynch: Invest in What You Know
 
-Peter Lynch managed Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world during that period. Assets grew from $18 million to $14 billion. His core principle: individual investors have an advantage over Wall Street because they encounter great businesses in their daily lives before analysts do.
+Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world. Assets grew from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do.
 
-> *"Your investor's edge is not something you get from Wall Street experts. It's something you already have. You can outperform experts by investing in companies and industries you already understand."*
+> *"Your investor's edge is not something you get from Wall Street experts. It's something you already have."*
 
-**The Lynch insight:** By the time a Fidelity analyst finishes reading an SEC filing, Lynch had already been a customer for years. He knew whether people loved or hated the product before the financial data confirmed it.
+**The practical rule:** Before buying any stock, ask: *Have I used this product? Would I recommend it?* If yes — you have an edge most analysts don't.
 
-**The practical rule:** Before buying any stock, ask: *Have I used this product or service? Would I recommend it?* If yes — you have an information edge most analysts don't.
+**GARP:** Buy companies growing 15–25%/year at a P/E ≤ growth rate. PEG ≤ 1.0 is potentially undervalued. Lynch pioneered this metric.
 
-**GARP (Growth at a Reasonable Price):** Lynch pioneered buying good companies growing 15–25%/year at a P/E not exceeding their growth rate. PEG ≤ 1.0 is potentially undervalued.
+**Six stock categories:**
+- **Stalwarts:** Stable, 15–20%/year growth — hold decades (Coca-Cola, Hershey)
+- **Fast growers:** 25%+/year — small positions, high risk
+- **Slow growers:** Utilities, 2–3%/year — don't expect miracles
+- **Cyclicals:** Airlines, autos — buy near operational trough
+- **Asset plays:** Tangible assets worth more than market price
+- **Turnarounds:** Distressed companies with recovery potential
 
-**On market timing:** *"Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."*
+> *"If you can't see yourself owning this business in 10 years, don't buy it for 10 minutes."*
 
-**Know your time horizon:** Lynch separated stocks into categories based on holding period:
-- **Small winners:** Companies you might hold 1–3 years if fundamentals stay intact
-- **Ten baggers:** Stocks with 10x potential — rare, require patience through volatility
-- **Stalwarts:** Stable companies growing 15–20%/year, held for decades
+**On timing:** *"Far more money has been lost by investors preparing for corrections than has been lost in the corrections themselves."*
 
-*"In this game, the market needs to keep going up for you to make money. But the business — if you pick the right company — doesn't need the market to do anything."*
+**Lynch's portfolio rule:** 3–5 deeply understood stocks outperform 30 random ones.
 
-**Lynch's specific rules for individual investors:**
-1. **Your edge is experience:** You've used the products at companies you can research before Wall Street notices. Being a customer gives you real data analysts don't have.
-2. **Understand what you own:** If you can't explain why you hold a stock in one sentence, you don't understand it well enough to hold through volatility.
-3. **Size to conviction:** Lynch held hundreds of stocks — but sized each position based on how confident he was. Low conviction = small position.
-4. **Know when to sell:** A bad company is a bad hold regardless of what you paid. Cut losses when the thesis breaks.
-5. **The best buy is a great company temporarily out of favor:** Great businesses in temporary downturns are where fortunes are made. Amazon fell 95% in 2000 and came back.
-6. **Don't try to time corrections:** Lynch never predicted crashes. He picked businesses that would be worth more in 10 years regardless of macro conditions.
-
-**Sleep test:** If you can't sleep at night because of your stock position, you're overconcentrated. Lynch's cure: diversify, but not to the point of matching an index. Your goal is to own businesses you actually understand.
-
-**Lynch on compound patience:** A $10,000 investment in the Magellan Fund at inception grew to over $800,000 at his resignation — without market timing, without macroeconomic predictions, just picking businesses you understand and letting compounding work.
-
+→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
 ## Ray Dalio: How the Economic Machine Works
 
 Ray Dalio, founder of Bridgewater Associates (~$150B AUM at its peak), built his $20B fortune not through stock-picking but through systems thinking — understanding how the entire economic machine operates and positioning ahead of cycles most people don't see coming.
