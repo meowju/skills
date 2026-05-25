@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.50.0
+version: 1.54.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -255,117 +255,20 @@ Musk's wealth approach works because it is not about money at all — it is abou
 
 ## Bezos-Style Wealth Building: Long-Term Thinking and Compounding
 
-Jeff Bezos built Amazon from a garage startup to a multi-trillion dollar company over three decades, and his wealth accumulation follows a distinct philosophy: **the power of long-term compounding**. Unlike Musk's "move fast and break things" style, Bezos's approach is about patience, reinvestment, and never optimizing for the short term.
+Jeff Bezos built Amazon from a garage startup to a multi-trillion dollar company over three decades. His wealth philosophy centers on **long-term compounding** — patience, reinvestment, and never optimizing for the short term.
 
-### The Regret Minimization Framework
+**Core frameworks:**
+- **Regret Minimization Framework:** When facing a big decision, ask — *"Will I regret NOT having done this when I'm 80?"* If yes, the fear is the signal to act, not retreat.
+- **"Day One" Mentality:** Stay curious, customer-obsessed, and fast. *"Day 2 is stasis. Followed by irrelevance. Followed by a long, painful decline."*
+- **Disagree and Commit:** Strong opinions, loosely held. Resolve decisions and move — paralysis is the real wealth killer.
+- **Reinvestment over extraction:** Let profits compound for decades. Bezos's net worth grew from ~$10B (2000) to ~$284B (2026) not by earning it, but by letting compounding work.
+- **Customer obsession:** Build things customers actually want — not what competitors are building. The wealth follows from genuine value, not positioning.
+- **Type 1 vs Type 2 decisions:** Reversible decisions (most) should be made at 70% confidence. Irreversible ones require full due diligence. Most financial decisions are reversible.
 
-Bezos has famously described his decision to leave his high-paying Wall Street job to start Amazon using what he calls the **Regret Minimization Framework**:
+**Bezos on the long game:** *"I think we are all products of our experiences. If you think you have some big insights, don't be frustrated if nobody's paying attention. Just keep thinking. Keep working at it."* Amazon nearly collapsed in the dot-com bust. He kept building.
 
-> *"I wanted to be sure that when I'm 80, I wouldn't have regret about not having started Amazon. I think most people, when they're 80, if they're reflecting, they would rather be the person who tried something and failed than the person who never tried."*
+→ Full content: [references/bezos-frameworks.md](references/bezos-frameworks.md) — Regret Minimization Framework script, Day One desk anecdote, Customer Obsession principle, Amazon's reinvestment model and compounding math, Disagree and Commit scripts, Day Two wealth destroyers checklist, Washington Post principle, and the long-term vs short-term comparison table.
 
-**How it works:** When facing a big decision (quitting a job, starting a business, making a major investment), you ask yourself: *Will I regret NOT having done this when I'm 80?* If yes, the decision is to act. This is a specific mental model for overcoming fear and inertia.
-
-**Wealth application:** Most people avoid starting because of short-term fear of failure. The regret framework flips this — it asks you to consider the long-term cost of inaction, which is usually higher than the cost of trying and failing.
-
-**The script:** When facing a wealth-building decision that scares you — asking for a raise, starting a side business, making a big investment — ask: *"Will I regret not having done this when I'm 80?"* If the answer is yes, the fear is the signal to act, not to retreat.
-
-### "Day One" Mentality
-
-Bezos famously keeps two identical desks in Amazon's offices — one for his first day, one for his last day. He calls this the "Day One" mentality, meaning:
-
-- **Day One:** Customer obsession. Obsession with the customer, not competitors. Curiosity, not incumbency. Speed, not bureaucracy.
-- **Day Two:** Comfort. Complacency. Declining relevance.
-
-> *"Day 2 is stasis. Followed by irrelevance. Followed by a long, painful decline. Followed by death."*
-
-**Wealth application:** Never stop learning. The person who thinks they've "made it" stops adapting and starts declining. Long-term wealth builders treat every financial decision as though they're starting from scratch — with curiosity and deliberate intent.
-
-**Practical reframe:** Don't think of your financial life as "I'm behind" or "I'm ahead." Think of it as "It's always Day One. What would I do if I were starting today with the knowledge I have now?"
-
-### Customer Obsession as Wealth Strategy
-
-Bezos didn't win by out-marketing competitors — he won by being obsessed with what customers actually wanted. His famous anecdote: early Amazon would hand-write thank-you notes to customers and include small treats in packages. Not because it was efficient — because it was what customers noticed.
-
-**The wealth parallel:** Your most reliable path to compounding income is not chasing trends — it's building something that customers genuinely value and are willing to pay for repeatedly. The wealth follows from solving customer problems well enough that they stay loyal and refer others.
-
-**The reframe:** Instead of "how do I make more money?" ask "what problem do I solve for people that they would pay more for?" The money follows the problem-solving.
-
-### Long-Term Compounding: Amazon's Reinvestment Model
-
-Amazon famously ran at breakeven or low-profit for its first decade, reinvesting every dollar back into infrastructure, growth, and talent. Wall Street hated this. Bezos didn't care.
-
-**The math:** If Amazon had paid out all profits as dividends early on, it would have been short-term satisfying. Instead, it compounded at extraordinary rates for 30 years. Bezos's net worth went from ~$10B in 2000 to ~$284B in 2026 — not because he earned it, but because he let the compounding work.
-
-**Personal application:** In your financial life:
-- Maximize reinvestment in your earning ability (skills, business, assets that compound)
-- Minimize "cash out" decisions — taking profits early from compounding assets
-- Accept that the most boring, steady investments often outperform the exciting ones over 20+ years
-
-### The "Disagree and Commit" Decision Model
-
-Bezos is known for a specific decision-making culture he calls **Disagree and Commit**:
-
-> *"If you have a view that conflicts with mine, I want to hear it. Once I've made the decision, I expect full commitment. This is how we work — strong opinions, loosely held."*
-
-**Wealth application:** This is a decision quality framework. The enemy of wealth-building is not bad decisions — it's unresolved indecision. Making a choice and committing fully beats endless deliberation. If you're wrong, you learn faster. If you're right, you move faster.
-
-**Script:** When you're paralyzed by a financial decision (a new investment, a career move, a business decision), use this: *"What would I do if I knew I was 70% confident rather than waiting for 95% certainty?"* Then commit fully once you act.
-
-### Building "Day Two" Habits: The Real Wealth Destroyers
-
-Bezos has said the biggest risk to both companies and individuals is becoming comfortable — the "Day Two" trap:
-
-**Day Two wealth destroyers:**
-- Paying for things you don't use (subscriptions, memberships, lifestyle inflation)
-- Taking on recurring expenses that don't produce recurring value
-- Stopping the learning and adaptation process
-- Comparing your wealth to others (peer pressure to spend)
-- Treating "I make more now" as "I can afford more now"
-
-**Wealth application:** Schedule an annual review of every recurring expense. Ask: *"Is this producing value for me today?"* Cut what isn't. The money you keep is worth more than the money you earn.
-
-### The Washington Post Principle
-
-In 2013, Bezos bought the Washington Post for $250 million — a price considered high at the time. He then made it free to access online and invested heavily in journalism. Within three years, the Post went from losing money to profitability.
-
-**The principle:** Buy assets that produce value above their cost for years, not months. A newspaper, a piece of real estate, a skill that compounds your earning — these are different from consumption.
-
-**Wealth application:** Every purchase is either an asset (produces value over time) or a liability (costs you over time). Train yourself to ask: *"What does this give me in 3 years?"* before *"What does this cost today?"*
-
-### Bezos on Failure and Long Games
-
-> *"I think we are all products of our experiences. For me it's: If you think that you have some big insights, don't be frustrated if nobody's paying attention to them. Just keep thinking. Keep working at it."*
-
-Bezos's wealth was not a straight line. Amazon nearly collapsed during the dot-com bust. He kept building. He kept reinvesting. He ignored the naysayers.
-
-**The reframe for wealth:** The people who build extraordinary wealth are almost always playing a 10–20 year game, not a 1–2 year game. Short-term failures, market downturns, and setbacks are input data — not final verdicts. The key variable is whether you stay in the game long enough for the compounding to work.
-
-### Long-Term Thinking vs. Short-Term Anxiety
-
-Bezos has said that Wall Street often gets this wrong — optimizing for quarterly earnings at the expense of long-term value. The same applies to personal finance:
-
-| Short-Term Thinking | Long-Term Thinking |
-|---|---|
-| "I'll start investing when I have more" | "I start now, no matter how small" |
-| Chasing the highest salary today | Building skills that compound over decades |
-| Checking portfolio daily | Ignoring quarterly movements |
-| Taking profits early from growth assets | Letting compounding work |
-| Buying things to impress people | Buying assets that create independence |
-
-### The Takeaway
-
-Bezos's wealth model is about patience and compounding over decades, not genius or luck. His key frameworks:
-- Use the **regret minimization framework** to overcome fear of big decisions
-- Treat every day as **Day One** — curiosity and customer obsession
-- **Reinvest** in assets that compound, don't extract short-term profits
-- Practice **disagree and commit** — resolve decisions and move
-- Stay in the game long enough for the compounding to work
-
-The contrast with Musk: Musk says move fast and build things that didn't exist. Bezos says move slow and compound things that will dominate for decades. Both work. The common thread: both are thinking in decades, not quarters.
-
-**Buffett's additional lesson — succession and legacy:** At Berkshire Hathaway's May 2025 investor conference, Buffett announced Greg Abel as his designated successor as CEO — while Buffett remains as chairman. This is the Oracle's final lesson: **a wealth-building system that outlasts its founder is the ultimate achievement.** Buffett didn't just build wealth — he built an institution that will compound without him. For your own wealth: the question isn't just "how much can I accumulate?" but "what structure am I building that continues to compound after I've stopped actively managing it?"
-
----
 
 ## Buffett-Style Wealth Building: The Oracle's Mental Models
 
@@ -1022,150 +925,21 @@ Viktor Frankl observed: *"The will to meaning overcomes the will to pleasure or 
 
 ## Advanced Income Acceleration: The Middle-Class Wealth Multiplier
 
-Most wealth advice focuses on the extremes — either "get a job and save" or "start a unicorn startup." But the most practical wealth-building happens in the middle: people who increase their income by 30-80% over 3-5 years through specific, repeatable tactics.
+This section covers the tactical playbook for income acceleration — career capital moves, negotiation architecture, credential stacking, and consumption trap awareness. Full tactical detail and scripts at the reference link.
 
 ### The Income Multiplier: Why 30% More Income Beats 30% Better Returns
 
-A 30% income increase (say $60K to $78K) compounded at 10% over 20 years produces more wealth than a 30% better return on a smaller base. Every $1 increase in monthly income, if invested, becomes roughly $6.70 at 10% over 20 years.
+A 30% income increase compounded at 10% over 20 years produces more wealth than a 30% better return on a smaller base. Every $1 increase in monthly income, if invested, becomes roughly $6.70 at 10% over 20 years. The income multiplier effect is most powerful when you invest the incremental income rather than spend it — most people who get raises also increase their lifestyle.
 
-The income multiplier effect is most powerful when you invest the incremental income rather than spend it. Most people who get raises also increase their lifestyle. The ones who build wealth immediately invest the difference.
+### Career Capital Framework: Three Moves That Compound
 
-### The Career Capital Framework: Three Moves That Compound
+1. **Level up before you get promoted** — work at the next level, document results, then negotiate title and compensation simultaneously
+2. **Build professional capital through reputation** — be known for delivering difficult projects, mentoring junior colleagues, and clear under-pressure communication
+3. **Use job offers as leverage** — even without intending to leave; the competing offer creates 10-30% counter-offer leverage
 
-**Move 1 — Level Up Your Job Title Before Getting Promoted**
+### Side Business Validation, Credential Stack, Geographic Arbitrage, Negotiation Architecture
 
-Most people wait for formal promotion cycles. The smarter approach: start working at the next level before you have the title, document the results, then negotiate both simultaneously.
-
-Script: *"I've been operating at the [Senior/Lead/Manager] level for [X] months. I've delivered [specific outcomes]. I'd like to formalize this with a title change and compensation adjustment to reflect this scope."*
-
-This works because employers don't want to lose someone already doing the work. Document the scope expansion before asking.
-
-**Move 2 — Build Professional Capital Through Reputation**
-
-The person known for delivering difficult projects on time, communicating clearly under pressure, and making colleagues' jobs easier builds a reputation that opens opportunities not found in job postings.
-
-Specific tactics:
-- Volunteer for the project everyone avoids (high visibility, low competition)
-- Write internal documentation that gets referenced repeatedly
-- Mentor junior colleagues (builds leadership signal)
-- Send a monthly summary of accomplishments to your manager (builds visibility)
-
-**Move 3 — Use Job Offers as Leverage (Even Without Intending to Leave)**
-
-The single most effective salary negotiation tactic: have a credible competing offer. Companies routinely give 10-30% counter-offers to employees with competitor offers — because replacing talent costs 2-3x annual salary in recruiting, onboarding, and lost productivity.
-
-Script for using leverage: *"I want to be transparent — I've received an offer from [Company] for [amount]. I'm not trying to create pressure, but I want to discuss whether there's a path for me to get to a similar level here."*
-
-Even if you prefer your current employer, the conversation creates leverage. Many discover their employer will genuinely match — they just had no reason to before.
-
-### The Side Business Validation Sequence
-
-Naval's rule: "Get one paying customer before you build the product."
-
-The validation sequence:
-1. **Describe the offer in one sentence:** "I help [X] do [Y] so they can [Z]."
-2. **Offer it to five people in your network** at a price slightly embarrassing to ask
-3. **If people pay:** Build the minimal version, ship it, iterate
-4. **If people don't pay:** Ask specifically what would make it worth paying for
-
-A paid customer tells you the market wants it. An unvalidated product tells you nothing.
-
-### The Credential Stack: Certifications That Actually Pay
-
-High-compounding credentials have three properties:
-1. They signal specific, measurable competence
-2. They are required or strongly preferred for roles that pay significantly more
-3. They expire or require renewal (reducing competition over time)
-
-Credential ROI formula: (Salary premium x years held) minus (cost + time to obtain). Target 3x return before pursuing.
-
-| Credential | Sector | Typical Premium |
-|---|---|---|
-| PMP (Project Management Professional) | Operations/IT | +20-25% |
-| CPA (Certified Public Accountant) | Accounting/Finance | Significant, compounds with years |
-| AWS/GCP/Azure Solutions Architect | Tech | 15-30%, renewals keep market current |
-| FMVA (Financial Modeling & Valuation) | Finance | Industry-recognized |
-| Certified Scrum Master | Tech/Product | Low cost, meaningful signal |
-
-### Geographic Arbitrage: Work High-Wage, Live Low-Cost
-
-Remote work has made this viable for knowledge workers at a scale never before possible:
-- High-wage city salary (NYC, SF, London) calibrated to local costs
-- Work remotely for that employer while living somewhere with 40-60% lower costs
-- The gap between earning and spending is dramatically larger
-
-**Important:** Works best with 5+ years established career. Early-career people benefit more from high-density talent markets for learning and network effects.
-
-### The Negotiation Architecture: Beyond Salary
-
-Salary is only one dimension. The person who negotiates the full package consistently beats the one who focuses only on base:
-
-| Dimension | How to Negotiate |
-|---|---|
-| **Signing bonus** | Often easier than salary (one-time cost) |
-| **Equity** | Strike price, vesting schedule, refresh grants |
-| **Title** | Creates future leverage for future negotiations |
-| **Remote/hybrid** | Has real monetary value |
-| **Professional development** | Conference budget, course budget, certification reimbursement |
-| **401(k) match** | Often negotiable beyond standard formula |
-
-The Income Effect: Why Earning More Doesn't Automatically Build Wealth
-
-Behavioral economics reveals why higher incomes don't automatically produce wealth: the human tendency to adjust spending upward with income creates a consumption trap that keeps high earners perpetually cash-strapped. Understanding this mechanism is the difference between income growth that compounds into wealth and income growth that compounds into a more expensive lifestyle.
-
-**The Core Mechanism:**
-
-Psychologists have documented what they call the "income effect" — as people earn more, spending increases to match or exceed the new income level. Studies of lottery winners show they typically return to their pre-winning spending level within a few years. The house, the car, the vacations all scale up until the marginal dollar feels no different than the last one.
-
-**The Lifestyle Inflation Trap:**
-
-The typical high earner who gets a 30% raise immediately faces pressure to upgrade: a nicer apartment, a newer car, dining out more frequently. These aren't bad choices in isolation — but the pattern keeps high earners perpetually without meaningful savings regardless of income level. The person making $80K who saves 10% builds wealth. The person making $200K who upgrades everything and saves 10% also builds wealth — but the gap between them in actual net worth is much smaller than the gap in income.
-
-**The Compounding Window:**
-
-Compound growth is time-dependent, not income-dependent. Someone who starts saving 20% at 25 has roughly double the wealth at 65 versus someone who starts saving the same percentage at 35. Income acceleration matters most in the early-to-mid career window where compound growth has maximum time to work. Late-career income increases still matter but have less time to compound.
-
-**The Key Insight:**
-
-Wealth accumulates when income significantly exceeds spending — the size of that gap compounds more powerfully than income level alone. A $60K earner who spends $48K annually builds wealth faster than a $150K earner who spends $140K.
-
-**The Script — When Someone Says "I Need to Earn More to Save":**
-
-> "The math of compound interest doesn't require a high income — it requires consistent savings and time. Someone saving 20% on $60K puts away $12K/year; at 10% growth, that's $1.3M in 30 years. The real question isn't 'how much do I earn?' — it's 'what percentage of what I earn am I keeping?' Fix the percentage first; the income will follow."
-
-**The 50/30/20 Reframe (Modified for Wealth Builders):**
-
-The standard 50/30/20 rule (needs/wants/savings) is fine as a starting point but tends to normalize lifestyle inflation. Wealth builders use a modified version:
-- **Needs (50%):** Essential fixed costs — housing, utilities, insurance, groceries
-- **Wants (30%):** Discretionary but not wealth-building
-- **Savings/Investment (20% minimum, 40%+ target):** Not discretionary — this is the wealth engine
-
-The 40%+ savings rate is achievable for knowledge workers, particularly those who leverage remote work, geographic arbitrage, and strategic job-hopping.
-
-**The Spending Audit Pattern:**
-
-Before someone can change their spending patterns, they need to understand where money is actually going — not where they think it's going. The pattern: people consistently underestimate lifestyle costs by 20-30% when self-reporting. The fix is a systematic audit:
-
-1. Pull 3 months of bank and credit card transactions
-2. Categorize every transaction (housing, food, transport, subscriptions, etc.)
-3. Calculate total monthly spending vs. monthly after-tax income
-4. Identify the "invisible leaks" — small recurring charges that add up (subscriptions, dining, services)
-5. The audit usually reveals 15-25% of spending is either invisible waste or conscious upgrade that's not producing happiness
-
-**The "Frugal Rich" vs. "Affluent Poor" Pattern:**
-
-Research documents a consistent finding: people with high incomes who live below their means accumulate wealth rapidly. The "affluent poor" — people with high incomes but no savings — are experiencing lifestyle inflation pushing spending to match income. The "frugal rich" — people with moderate incomes who save aggressively — compound wealth rapidly.
-
-**The Income-Expense Gap as the Wealth Driver:**
-
-The single most important number in wealth-building: the gap between what you earn and what you spend. This gap, invested, is the engine of compound growth. The size of the gap matters more than the income level:
-- $80K income, $60K spending → $20K gap (25% savings rate)
-- $150K income, $120K spending → $30K gap (20% savings rate)
-
-The gap compounds. The gap invested buys freedom. The gap is the only thing that matters in the wealth equation.
-
----
-
+Full content, scripts, credential ROI table, and negotiation matrix at → Full content: [references/financial-frameworks.md](references/financial-frameworks.md) — Advanced Income Acceleration core tactics, consumption trap analysis, spending audit pattern, and the 50/30/20 modified framework for wealth builders.
 ## Greenblatt, Howard Marks, Morgan Housel, and Charlie Carlson: Systematic and Psychological Investing
 
 Four investors who bridge the gap between mechanical formulas and behavioral finance — each adding a layer of discipline that pure value investing and pure psychology alone miss.
@@ -1186,72 +960,157 @@ Four investors who bridge the gap between mechanical formulas and behavioral fin
 
 ## The Real Wealth Builders
 
-→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md) — Core habits, the compounding pattern, and what separates people who actually build lasting wealth from those who earn well but never accumulate.
+→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
+
+— Core habits, the compounding pattern, and what separates people who actually build lasting wealth from those who earn well but never accumulate.
 
 ## Peter Lynch: Invest in What You Know
 
-Peter Lynch managed Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world during that period. Assets grew from $18 million to $14 billion under his management. His core principle: individual investors have an advantage over Wall Street because they encounter great businesses in their daily lives before analysts do.
-
-### The Core Philosophy: Invest in What You Know
+Peter Lynch managed Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world during that period. Assets grew from $18 million to $14 billion. His core principle: individual investors have an advantage over Wall Street because they encounter great businesses in their daily lives before analysts do.
 
 > *"Your investor's edge is not something you get from Wall Street experts. It's something you already have. You can outperform experts by investing in companies and industries you already understand."*
 
-**The Lynch insight:** By the time a Fidelity analyst finishes reading about a company in an SEC filing, Lynch had already been a customer for years. He knew whether people loved or hated the product before the financial data confirmed it.
+**The Lynch insight:** By the time a Fidelity analyst finishes reading an SEC filing, Lynch had already been a customer for years. He knew whether people loved or hated the product before the financial data confirmed it.
 
-**The practical rule:** Before buying any stock, ask: *Have I used this product or service? Would I recommend it?* If yes — you have an information edge.
+**The practical rule:** Before buying any stock, ask: *Have I used this product or service? Would I recommend it?* If yes — you have an information edge most analysts don't.
 
-### The Six Stock Categories
+**GARP (Growth at a Reasonable Price):** Lynch pioneered buying good companies growing 15–25%/year at a P/E not exceeding their growth rate. PEG ≤ 1.0 is potentially undervalued.
 
-Lynch organized all stocks into six categories based on growth stage and risk:
+**On market timing:** *"Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."*
 
-| Category | Characteristics | Strategy |
-|----------|----------------|----------|
-| **Slow growers** | Utilities, established banks | Hold; dividends compound |
-| **Stalwarts** | Coca-Cola, P&G — large, stable | Hold decades; raise prices annually |
-| **Fast growers** | Small companies growing 20–25%/year | Buy early; verify growth is real |
-| **Cyclicals** | Airlines, autos, steel | Buy depressed, sell at peak |
-| **Turnarounds** | Distressed companies recovering | High risk; needs deep understanding |
-| **Asset plays** | Hidden assets (land, IP, cash) | Find the underappreciated value |
+→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
 
-### The Two-Minute Drill
+— Lynch's Six Stock Categories, Two-Minute Drill (5 questions), GARP PEG rules, Ten Bagger framework with specific examples (Fannie Mae, Ford, Dunkin' Donuts), behavioral lessons on when to sell.
 
-Before buying, Lynch asked five questions in two minutes:
+## Behavioral Finance: How Your Brain Works Against Your Wealth
 
-1. Can I describe the business in one sentence?
-2. Is revenue, earnings, or dividends growing at least 10%/year?
-3. Are earnings per share growing (not just revenue)?
-4. Is the P/E reasonable for the growth rate? (PEG ≤ 1)
-5. Would I hold this through a 30% drawdown?
+The single biggest threat to your wealth isn't bad investments — it's your own decision-making under pressure. Fifty years of behavioral finance research has mapped exactly how human cognition systematically destroys wealth, and the countermeasures that work.
 
-### GARP: Growth at a Reasonable Price
+### Kahneman and Tversky's Nobel Prize Discovery
 
-Lynch pioneered **GARP** — avoid pure growth (too expensive) and pure value (often cheap for good reasons). Buy good companies growing 15–25%/year at a P/E not exceeding their growth rate.
+Daniel Kahneman and Amos Tversky's Prospect Theory (Nobel 2002) overturned the rational-actor model. Their core findings directly explain why smart people make wealth-destroying decisions:
 
-**GARP filter:** PEG ≤ 1.0 is potentially undervalued; PEG ≤ 0.75 is likely undervalued.
+**Loss aversion:** Losses feel roughly 2x as painful as equivalent gains. A $100 loss generates the same neurological activity as a $200 gain. This means most people refuse a 50/50 bet with equal gains and losses — even when the math favors taking it. In wealth terms: the fear of losing $10,000 feels worse than the excitement of gaining $10,000, even though the math is identical.
 
-### Ten Baggers: Finding the Multi-Baggers
+**The implication:** People sell winning investments too early (locking in the good feeling) and hold losing investments too long (avoiding the pain of realizing the loss). Both behaviors systematically destroy compound returns.
 
-> *"Ten-baggers don't come from boring industries. They come from industries with visible long-term growth."*
+**Reference dependence:** You evaluate outcomes relative to a reference point — usually your purchase price. A stock at $90 feels like a loss if you bought at $100, and like a gain if you bought at $80. Same price, completely different emotional response, completely different behavior.
 
-Lynch's biggest winners included **Fannie Mae (10,000%+ return)**, **Ford**, **Philip Morris**, and **Dunkin' Donuts**. Common thread: bought when unloved, the business was growing faster than expected.
+**The implication:** "Am I winning or losing?" is the wrong question. The right question: "Is this asset likely to be worth more than it costs me to hold it over my time horizon?" The purchase price is irrelevant to that calculation.
 
-### Lynch on Market Timing and Behavior
+### The Four Costly Behavioral Errors
 
-> *"Far more money has been lost by investors preparing for corrections or trying to anticipate corrections than has been lost in the corrections themselves."*
+**1. Herding — Doing What Everyone Else Is Doing**
 
-**When to sell:** The company's story has changed, it's reached your price target, or you need capital for a better opportunity. Otherwise — leave it alone.
+Buffett's indicator: "Be fearful when others are greedy, and greedy when others are fearful." When everyone is buying, prices are driven above fundamental value by social proof. The people who make money are the ones who sold to the herders. When everyone is selling, prices are driven below fundamental value by fear. The people who make money are the ones who bought from the herders.
 
-**On patience:** Lynch's Magellan grew $18M to $14B in 23 years through compounding. The individual investor's advantage over fund managers: you can hold through drawdowns without clients redeeming and without answering to anyone.
+**The script when everyone is talking about a hot investment:**
+> *"What is the actual fundamental value? What would I pay if I had to hold this for 10 years? Is the current price reflecting that value — or the crowd's enthusiasm?"*
 
-### Lynch Quotes
+**2. Recency Bias — Assuming the Last 3 Years Will Continue Forever**
 
-- *"The person who wrote One Thousand Ways to Make $1000 at age seven had more financial sense than most MBA graduates."*
-- *"The most expensive stock on Wall Street is a 'stock that has gone down' rather than a 'stock that has gone up.' People fall in love with the story of why it will recover instead of asking why it went down."*
-- *"In investing, being in the right place at the right time is nothing more than having the courage to buy when everyone else is selling."*
-- *"Knowing what you don't know is more valuable than being right."*
-- *"Invest in a business any fool can run, because eventually some fool will."*
+After a 30% decline, most people believe the decline will continue. After a 3-year bull run, most people believe gains will continue. Both are wrong equally. The data: every major bull market followed a major crash. Every major crash followed apparent stability people mistook for permanence.
+
+**The fix:** Use 10-year historical averages, not 3-year recent performance, to set expectations.
+
+**3. Mental Accounting — Treating Money Differently Based on Source**
+
+Richard Thaler's concept: people mentally label money based on source, not equivalent economic value. $1,000 from a tax refund feels like "found money" and gets spent differently than $1,000 from salary — even though they're identical.
+
+The wealth-destroying version: holding 6 months of expenses in a savings account earning 0.5% while simultaneously carrying 24% credit card debt. The math is obvious. But mental accounting keeps the savings as "safety money" and the debt as somehow separate.
+
+**The fix:** Every dollar is interchangeable. The only question: what is the highest return available for this dollar given my risk and time horizon?
+
+**4. The Endowment Effect — Overvaluing What You Already Own**
+
+Once you own something, you demand more to sell it than you would pay to buy the identical item. People hold a stock at a loss they would never buy at the same price — because "selling at a loss makes it real."
+
+**The test:** *If I didn't own this today, would I buy it at the current price?* If no — the endowment effect is operating.
+
+### Debiasing Techniques That Actually Work
+
+**1. Pre-commitment — Decide Before the Crisis**
+
+Before earnings season or a market crash: write down your decision rules in advance. Sign them.
+
+*"If the S&P 500 drops 30%, I will not sell. I will not check my portfolio more than once per quarter during the decline."*
+
+Why it works: removes hot-state decision-making. Thaler's sophisticated investor pre-commits; the naive investor believes they'll be rational in the moment. The naive investor is always wrong in the moment.
+
+**2. Decision Velocity with Automatic Triggers**
+
+For recurring financial decisions: set automatic triggers rather than discretionary ones.
+
+*"If my portfolio drifts more than 5% from target allocation, automatically rebalance within 5 business days."*
+
+**3. The 10-10-10 Rule**
+
+Before any major financial decision: how will you feel in 10 minutes? 10 months? 10 years? Decisions that feel urgent often don't pass the 10-year test.
+
+**4. The Outside View — What Does the Base Rate Say?**
+
+Before any major financial decision: what is the statistical base rate for similar decisions?
+
+*"What is the historical probability that picking individual stocks outperforms an index fund over 20 years?"* (Answer: approximately 10% of actively managed funds beat the index over 20 years.)
+
+The outside view removes availability bias and grounds decisions in statistical reality.
+
+### The Behavioral Finance Script Library
+
+**When a friend tells you about a hot stock tip:**
+> *"I don't invest in things I don't understand. What does the company actually do? Would you buy it if the price dropped 50% tomorrow?"*
+
+**When you feel the urge to sell during a downturn:**
+> *"The market is offering me a lower price on the same asset I believed in at a higher price. Has the fundamental value changed — or has Mr. Market changed his mood?"*
+
+**When you're defensive about a losing investment:**
+> *"If I didn't own this today, would I buy it? If not, why am I holding it?"*
+
+**When you're about to make an impulse purchase:**
+> *"In 10 years, will I remember this purchase or will I wish I'd invested it? What's the compound value of this money at my expected rate of return?"*
+
+→ Full content: [references/behavioral-finance.md](references/behavioral-finance.md) — Extended Tversky/Kahneman research breakdown, Thaler's full Nudge framework, Hersh Shefrin's behavioral portfolio theory, and the complete debiasing toolkit.
 
 
+
+## Wealth Identity: Who You Are With Money
+
+The wealthiest people share something that has nothing to do with income or investment returns: **they have a stable, positive identity with money**. They are not their net worth. They don't feel rich or poor based on market fluctuations. They have a consistent internal relationship with wealth that doesn't depend on external validation.
+
+This is the invisible infrastructure that makes everything else work.
+
+### The Identity Problem
+
+Most people's financial behavior is driven by identity threats, not rational analysis:
+
+- **"I'm not a math person"** → avoids investing entirely
+- **"Rich people are greedy"** → unconsciously sabotages own wealth accumulation
+- **"I don't deserve to be wealthy"** → earns well but can't keep money
+- **"Money is the root of all evil"** → pushes away opportunities that would create wealth
+
+These are not conscious beliefs — they're installed programs running in the background.
+
+**The script:** Notice when a financial decision feels like a threat to your identity rather than a calculation of expected value. The threat response is the signal. Ask: *"What would I do if I were the kind of person who handles this easily?"* Then act from that identity, not from the fear.
+
+### Wealth as a Practice, Not a Destination
+
+The most durable wealth-builders treat their financial life as a practice — daily decisions, weekly reviews, decades of iteration — rather than a destination to reach. The identity question is not "what is my net worth?" but "what kind of steward am I of the resources I have?"
+
+**Warren Buffett** has been making the same investment decisions since he was 11. Not because he's greedy — because this is who he is. The money is a consequence of the identity, not the other way around.
+
+**The reframe:** Stop asking "how much do I need to be happy?" Start asking "who is the person I need to become to handle wealth well?" The person who becomes that identity attracts the wealth naturally.
+
+### Compounding Identity, Not Just Money
+
+Just as money compounds, identity compounds too:
+
+- Every time you make a careful financial decision, you reinforce the identity of "careful person with money"
+- Every time you resist lifestyle inflation after a raise, you reinforce "person who builds rather than spends"
+- Every time you stay calm during market volatility, you reinforce "long-term thinker"
+
+This compounds into a financial identity that makes wealth-building automatic rather than effortful.
+
+**Practical habit:** End each week with one question: *"Did I act like the person I want to become with money this week?"* If yes, the compounding is working. If no, note it without judgment and adjust.
 ## Common Pitfalls
 
 1. **"I don't deserve to be wealthy."** — This is a lie you were taught. Your worth is not your net worth, but you are also allowed to want financial security without guilt. They are not the same thing.
