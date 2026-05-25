@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.36.0
+version: 1.44.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -251,7 +251,7 @@ The pattern: Musk treats every major decision as a bet on a future most people c
 
 Musk's wealth approach works because it is not about money at all — it is about solving hard problems for many people over long time horizons. The money follows the problem-solving. This is the reverse of most advice, which starts with "save more." Start with "what problem can I solve that creates compounding value?" The wealth-building frameworks follow from that.
 
----
+→ Full content: [references/musk-frameworks.md](references/musk-frameworks.md)
 
 ## Bezos-Style Wealth Building: Long-Term Thinking and Compounding
 
@@ -408,18 +408,16 @@ Imagine you have a business partner named Mr. Market who shows up every day offe
 
 ### The Two-List System: Stay Focused
 
-1. Write down the top 25 things you want to do
-2. Circle the top 5
-3. **Everything below the top 5 becomes your "avoid at all costs" list.** Never work on them.
+Buffett's most underappreciated wealth tool is his "two-list system": write down 25 goals, circle the top 5, then **avoid the other 20 under any circumstances.** Not "later." Not "when I have time." Never. The remaining 20 are the trap — they feel like progress but they're competing with what actually matters.
 
-**The wealth connection:** The person who does one thing exceptionally well for 30 years compounds. The person who does 15 things moderately dissipates their compound interest so thin it barely registers.
+**The wealth insight:** Focusing on one high-quality strategy for 30 years compounds dramatically. Chasing 15 strategies simultaneously does not — the complexity itself becomes the cost. Focus is an investment strategy, not just a productivity tip.
 
+> *"The difference between ordinary and extraordinary is practice."* — Buffett
+
+→ Full content: [references/buffett-frameworks.md](references/buffett-frameworks.md)
 ### The Insurance Float: Making Money While You Sleep
 
-Insurance companies collect premiums upfront and pay claims later. The money between collection and payment is "float." Berkshire's $168B+ float is invested and compounds in the background — money that arrives without additional work.
-
-**Wealth application:** Collect fees/subscriptions upfront (retainers, annual plans) — money held before work is performed is your float. Structure income so you get paid before you deliver.
-
+Collect fees upfront — money held before work is your float. Get paid before you deliver. Detailed mechanics (see → [references/buffett-frameworks.md](references/buffett-frameworks.md))
 ### Value Investing: The Framework That Beat the Market for 70+ Years
 
 1. **Intrinsic value over market price** — price is what the market says today; value is what fundamentals say over time
@@ -435,15 +433,7 @@ Charlie Munger: *"Tell me where he'll die, and I'll never go there."* Buffett re
 
 ### Buffett on Money and Wealth (Direct Quotes)
 
-- *"Someone is sitting in the shade today because someone planted a tree a long time ago."*
-- *"The stock market is a device for transferring money from the active to the patient."*
-- *"The business schools reward complex behavior more than simple behavior, but simple behavior is more effective."*
-- *"Price is what you pay. Value is what you get."*
-- *"Be fearful when others are greedy and greedy when others are fearful."*
-- *"The most important thing to do if you find yourself in a hole is to stop digging."*
-- *"Only when the tide goes out do you discover who's been swimming naked."*
-- *"Rule #1: Never lose money. Rule #2: Never forget Rule #1."*
-
+> *"Someone is sitting in the shade today because someone planted a tree a long time ago."* • *"Price is what you pay. Value is what you get."* • *"Rule #1: Never lose money. Rule #2: Never forget Rule #1."* • *"Be fearful when others are greedy, greedy when others are fearful."* — Full quotes in → [references/buffett-frameworks.md](references/buffett-frameworks.md)
 ### The Buffett Quality Filter: 5 Questions Before You Buy
 
 Before any investment, Buffett asks five questions. Munger calls this the "Berkeley test" — if you can't answer all five in 30 minutes, you don't understand the business well enough:
@@ -494,222 +484,139 @@ The implication: the best investment advice is usually simple and boring. Index 
 
 **The Buffett challenge:** If you can't explain why you own each investment in two sentences to a 10-year-old, you don't understand it well enough. Simplify until conviction appears.
 
+
+
+### Munger's Global Generality: Invert, Always Invert
+
+Charlie Munger — Buffett's partner for 45 years — built his fortune by borrowing mental models from psychology, economics, and physics. His core principle: **"Always invert."** Instead of asking "How do I succeed?", ask "What guarantees failure? Then avoid that."
+
+**The inversion framework:**
+1. Identify the goal → What would guarantee the opposite?
+2. List failure conditions → Avoid those completely
+3. What doesn't invert? → That's your path forward
+
+**Munger's wealth-killers:** take irreversible obligations; act without understanding consequences; associate with people who undermine your judgment; consume without producing; decide under emotional stress.
+
+**Munger's path:** stay within your circle of competence; treat every capital decision as permanent; surround yourself with high-caliber people; always have margin of safety; accept being wrong — build systems that survive it.
+
+> *"Carry a checklist of key ideas from all major disciplines. You will make fewer mistakes if you have a better list of things not to do."* — Charlie Munger
+
+---
+
 → Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, Lollapalooza effect, Insurance Float deep dive.
 
 
+## Naval Ravikant: How to Get Rich Without Getting Lucky
+
+Naval Ravikant is the co-founder of AngelList and one of the most influential thinkers on wealth and decision-making. His "How to Get Rich Without Getting Lucky" tweet storm (2019) became the definitive meditation on wealth in the internet era. Unlike Buffett who built wealth primarily through investing, Naval built wealth as an entrepreneur and angel investor (Uber, Twitter, Yammer) while becoming a philosopher about the process. His core insight: in an information-abundant world, **judgment** is the scarce resource — and wealth flows to those who develop it.
+
+### Seek Wealth, Not Money or Status
+
+> *"Wealth is assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy."*
+
+**The wealth hierarchy (Naval's framework):**
+- **Wealth:** Assets that generate income without your direct involvement — businesses, investments, intellectual property, systems that run themselves
+- **Income:** The active component — salary, consulting fees, services. Income fuels the investment cycle
+- **Money:** The transfer mechanism — useful for negotiating and flexibility, but not the goal
+- **Status:** The zero-sum game — someone else's win diminishes yours. The lowest-return activity for your time
+
+The shift: stop trying to earn more money and start building assets. A $500K salary is still trading time for money. Wealth means the assets generate more than your expenses without you working.
+
+### The Judgment Framework: Decisions That Compound
+
+Naval identifies **judgment** as the most important skill in the information age — knowing the long-term consequences of decisions while everyone else optimizes for short-term tactics.
+
+**The three-step process:**
+1. **Define the problem in one sentence** — most people argue solutions before agreeing on the problem. If you can't state the problem clearly, you don't understand it well enough to decide.
+2. **Ask the reversibility question:** Reversible → decide at 70% confidence and adjust. Irreversible → take more time, gather more input, think carefully.
+3. **Ask the people question:** *"Would I trade places with the key person in this arrangement for 10 years? If not, don't enter it."* The quality of your decisions is determined by the quality of the people you deal with.
+
+**The Antidisposition Framework:** Don't let emotional state determine decisions. If panicked after a crash, that's the worst time to decide about your portfolio. If euphoric after a big win, that's the worst time to change course. Write decision criteria when calm and follow them when emotional — not the other way around.
+
+### The Specific Knowledge Formula: Your Unfair Advantage
+
+> *"Specific knowledge cannot be taught, but it can be learned. It is found by pursuing your genuine curiosity and talent. It feels like play to you but looks like work to others."*
+
+**The specific knowledge formula:**
+- **Accountability** amplifies it — being the person who says "I'll take responsibility for this outcome" commands a premium. Most people avoid accountability — that's why there's a premium for it.
+- **Leverage** multiplies it — code and media are the modern forms (scale without permission), capital is the traditional form.
+- **Specific knowledge** is the core — know more about a specific domain than anyone else in your domain. This becomes your unfair advantage.
+
+**Practical path:** Read what genuinely interests you. Develop genuine expertise that feels like play to you but looks like work to others. Find the people who will pay for exactly your specific combination of knowledge, background, and interest.
+
+### The Leverage Formula for Building Wealth
+
+> *"The three types of leverage: Labor (people work for you), Capital (money works for you), and Code/Media (products that scale without permission)."*
+
+**The Naval wealth formula:** *Specific Knowledge + Accountability + Leverage = Wealth*
+
+Without leverage, you trade time for money at best. With the right leverage applied to genuine specific knowledge and genuine accountability, you can build wealth at a rate that pure effort cannot match.
+
+→ Full content: [references/naval-framework.md](references/naval-framework.md) — the complete Naval wealth frameworks: full tweet storm, judgment framework, specific knowledge formula, earn more than you bill, the Naval 10-step wealth path, emotional mastery, and reading as wealth-building tool.
+
 ## Charlie Munger Mental Models: The Art of Better Thinking
 
-→ Full content: [references/munger-frameworks.md](references/munger-frameworks.md) — latticework, inversion, psychology of misjudgment, power of saying no, compound interest, decision framework, direct quotes.
+Charlie Munger (1924–2023) was Buffett's partner at Berkshire Hathaway for 45 years and the "architect" of its modern philosophy. His mental models come from psychology, economics, law, physics, and biology. His approach to wealth is inseparable from his approach to thinking clearly — a single interdisciplinary framework is dangerous; you need many models from many disciplines to accurately understand the world.
 
----
+### The Latticework of Mental Models
 
-## Naval-Style Wealth Building: Seek Wealth, Not Money or Status
+Munger's core insight: *"A man who has only one tool in his toolbox is dangerous in any domain."* His latticework — a collection of mental models from different disciplines — lets you analyze any problem from multiple angles.
 
-Naval Ravikant is an Indian-American entrepreneur and angel investor (Uber, Twitter, Postmates) whose财富 philosophy is crystallized in *The Almanack of Naval Ravikant*. His approach is less about tactics and more about foundational mindset shifts — the frameworks underneath everything else.
+**Key models for wealth-building:**
 
-### Core Premise: Seek Wealth, Not Money or Status
+**1. Inversion:** Don't ask "how do I succeed?" Ask "how do I fail?" Then avoid those paths. Munger: *"I think I've been successful in life because I always inversion: 'What's the stupidest version of this? What would guarantee failure?' Then I avoid that."* Applied to wealth: Identify what destroys wealth (debt, speculation, fraud, lifestyle inflation) and eliminate those first.
 
-Naval's foundational reframe:
+**2. Psychology of human misjudgment:** Munger's 25 causes of misjudgment include: contrast bias (judging value relative to what's around it), authority bias (following authority blindly), social proof (doing what everyone else does), reciprocation (free lunch, expensive follow-up), and availability heuristic (overweighting recent vivid events).
 
-> *"Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy."*
+**3. Circle of Competence:** Know what you understand deeply and stay strictly inside it. Outside your circle, you may be at a disadvantage. Munger was famously dismissive of crypto and complex products: *"Not going to do it. Not my circle."*
 
-Most people chase money (the scoreboard) or status (the hierarchy) without building wealth (the asset base). Chasing money without building assets leaves you always working. Chasing status leaves you dependent on other people's opinions. Wealth is the only path that compounds and eventually decouples your time from income.
+### The Power of Saying No
 
-**The reframe:** Stop asking "how do I make more money?" Start asking "what asset am I building that earns while I sleep?"
+Munger's most underrated skill was saying no. His filter: *"How can this thing go wrong? What's the worst case? What's the probability it's fraudulent, stupid, or both?"* He said no to most things, and that discipline kept Berkshire out of trouble for 60 years.
 
-### The Four Levers of Wealth
+**Munger's "never" list:**
+- Never invest in something you don't fully understand
+- Never use leverage (or use it very sparingly)
+- Never trust a promoter who promises returns
+- Never let yourself be rushed by a "limited time" offer
+- Never invest in a business model you can't explain in one sentence
 
-Naval distills wealth-building to four levers:
+### Compound Interest: The First Rule
 
-**1. Specific Knowledge**
-Specific knowledge is knowledge that cannot be easily taught or replicated — earned through experience, curiosity, and actual doing. It sits at the intersection of what you're genuinely good at and what the market pays a premium for.
+Munger's most repeated wisdom: *"The first rule of compounding is to never interrupt it unnecessarily."* The power of compound interest is not in understanding it — everyone understands it. The power is in having the discipline to let it work undisturbed for decades. Most people interrupt their own compounding by selling at the wrong time, changing strategies, or extracting money from appreciating assets.
 
-Naval on specific knowledge:
-> *"Specific knowledge is found by pursuing your genuine curiosity and talent. It feels like play to you but looks like work to others."*
+### Munger's Decision Framework
 
-**How to build it:** Don't ask "what's a high-paying skill?" Ask "what do I find myself naturally understanding that others find difficult?" Build from there. Specific knowledge compounds in value because it takes time to accumulate and can't be outsourced or automated easily.
+When facing a major financial decision, Munger's multi-lens approach:
+1. **Check incentives first:** *"Show me the incentive and I'll show you the outcome."* Who benefits from my decision?
+2. **Invert the problem:** How could this go wrong? What's the worst case? Is the downside acceptable?
+3. **Use base rates:** What is the historical success rate for this type of investment/decision?
+4. **Apply the contrast principle:** Is this actually good, or does it just look good relative to what's around it?
+5. **Wait for the obvious folly:** If an investment requires a genius to succeed, it's probably a bad investment.
 
-**2. Accountability**
-> *"You can make actual money in an accountability market, where someone is willing to pay you to bear responsibility for a specific outcome."*
+### Munger's Direct Quotes
 
-Accountability means putting your name on things. Taking credit. Taking blame. This is rare and valuable — most people avoid it. Being the person who says "I'll take responsibility for this" commands a premium precisely because most people won't.
-
-**How to apply it:** Volunteer for visible ownership. Be the person who presents the results. Own the mistake publicly. Each of these builds a reputation that compounds.
-
-**3. Leverage**
-There are three types of leverage:
-- **Labor:** Having other people work for you (the industrial era's form of leverage)
-- **Capital:** Having money work for you (the financial era's form)
-- **Media/Code:** Creating content, products, or systems that scale without permission (the information era's form — and Naval's preferred lever)
-
-> *"The most leveraged form of wealth is creating something that can be scaled infinitely — code, media, books, systems."*
-
-**How to apply it:** Your most powerful wealth-building move in the internet era is creating something once that people pay for repeatedly — a product, a course, a system, a piece of intellectual property. This is why Naval recommends writing, podcasting, and building in public: it creates leverage that doesn't require permission.
-
-**4. Putting It Together**
-
-Naval's formula for building wealth without selling your time:
-> *"Combine specific knowledge, accountability, leverage, and the skill of selling. Specifically: become the best in the world at what you do, take risk in a specific domain, and build/use leverage in the form of code or media."*
-
-You don't need all four equally. You need one deeply. The others amplify the first.
-
-### Play Long-Term Games With Long-Term People
-
-Naval's most repeated principle:
-
-> *"Play long-term games with long-term people. All the benefits accrue from compound interest. Short-term players get wiped out over time."*
-
-This applies to:
-- **Career:** Choose employers/industries where relationships compound over decades, not ones that reset every year
-- **Investing:** Stay invested in quality assets for years, not days or quarters
-- **Business:** Build reputation and relationships in your industry for decades
-- **Negotiation:** People who negotiate fairly and honestly get better deals over time because counterparties return
-
-**The mechanism:** Long-term games have a mathematical advantage — you benefit from everyone else's short-termism. When competitors are flipping assets, you're accumulating them. When colleagues are job-hopping for 10% raises, you're building deep relationships that compound into bigger opportunities.
-
-### The Script for Negotiating Wealth
-
-Naval's negotiation philosophy in one principle:
-> *"Price is what you pay. Value is what you get. Know the value before you negotiate the price."*
-
-Applied scripts:
-
-**Before a salary negotiation:**
-- Research the market rate for your specific skill + experience level
-- Quantify your specific contribution to measurable business outcomes
-- Frame the conversation around value created, not time served
-- *Script:* "I've contributed [X] to [Y metric]. The market rate for this role is $[A]. I believe my value is closer to $[B]. What would it take to get there?"
-
-**Before starting a business:**
-- Get one paying customer before you quit your job
-- Naval: "Ship first, verify second." Make the market prove the demand before you invest everything
-- The validation itself is worth more than the income initially
-
-### The Happiness Framework (Because Wealth Without Happiness Is Empty)
-
-Naval is unusual among wealth thinkers because he also thinks carefully about what wealth is FOR:
-
-> *"Health, wealth, and happiness are not in conflict — they reinforce each other. A healthy person has more energy for wealth-building. A wealthy person has more options for how to spend their time. Happiness makes the wealth-building more sustainable."*
-
-His practical happiness frameworks (applied to wealth context):
-- **Acceptance:** Markets go up and down. Careers have up years and down years. Acceptance of impermanence reduces the emotional volatility that leads to bad financial decisions.
-- **Specificity:** Vague desires produce vague actions. "I want to be happy" doesn't build wealth. "I want to retire by 55 with $2M in assets that produce $60K/year" does.
-- **Independence over optimization:** The goal is not to maximize every dollar — it's to have enough independence that your decisions are free. This reframe changes what you optimize for.
-
-### Naval on Getting Rich (Specific Tactics)
-
-**On earning:**
-- *"The most important skill for getting rich is becoming genuinely good at something. Not 'pretty good' — genuinely world-class."*
-- *"Learn to sell. Learn to build. If you can do both, you will be unstoppable."*
-- *"Your goal is to find a job that is a specific knowledge job — one that looks like play to you."*
-
-**On investing:**
-- *"Index funds are the best investment for most people. You don't have to be smarter than the market — you just have to be patient."*
-- *"The biggest investment you can make is in your own specific knowledge in a domain that compounds."*
-- *"Don't own things that require your active management if you want freedom. Own things that work while you sleep."*
-
-**On compounding:**
-- *"Compound interest is the eighth wonder of the world. Understand it, use it, and spend time finding investments where it applies."*
-- *"The best investments in your 20s and 30s are in yourself — in learning, in health, in relationships. These compound at rates that no asset can match."*
-
-### Naval's Direct Quotes on Wealth
-
-- *"Money is how we transfer wealth from one time to another. Take it as a moral imperative to learn how to manage it."*
-- *"If you don't own a piece of a business, you're just renting your time. Eventually your time runs out."*
-- *"The most important decision of your life is what you choose to spend your time on. The second most important is who you choose to spend it with."*
-- *"Build your reputation by doing things that are genuinely valuable. The returns follow."*
-- *"Specific knowledge cannot be taught but it can be learned."*
+- *"The money will come. The thing you need to worry about is whether you will be rational when the money comes."*
+- *"The way to get rich is to keep your rationality, especially when everyone else is losing theirs."*
+- *"We don't have to be brilliant. We just have to be rational, and stay rational for 60 years."*
+- *"A lot of people think they are rational. They are not — they are just confident. Rationality requires humility."*
+- *"You don't have to be brilliant. You just have to be a little bit more rational than the next person, and act consistently over time."*
+- *"To get what you want, you must deserve what you want. The world is not yet a sufficiently fair place to give you things without earning them."*
 
 ### The Takeaway
 
-Naval's wealth model is about understanding the game underneath the game:
-- **Wealth is the goal, not money** — build assets, don't chase currency
-- **Specific knowledge is the foundation** — become genuinely excellent at something
-- **Leverage multiplies the foundation** — code, media, or capital
-- **Long-term thinking wins** — compound over decades, not quarters
-- **Negotiate well, build in public, stay healthy** — these reinforce each other
+Munger's contribution is not a single technique — it is a way of thinking. His latticework approach means you never rely on one model, one narrative, or one expert's opinion.
 
-The Naval model is the intellectual framework for people who want to build wealth without losing themselves in the process. It's not about hustle — it's about understanding which moves compound and which just feel productive.
+**The Munger principles for wealth:**
+- **Build your latticework:** Read widely across disciplines. Mental models compound in value.
+- **Use inversion:** Ask what could go wrong before asking what could go right.
+- **Practice rational patience:** Let compound interest work undisturbed.
+- **Say no to almost everything:** Discipline in avoidance is more powerful than clever pursuit.
+- **Stay within your circle:** Know what you don't know. Outside your circle is where good investors get destroyed.
+- **Check incentives:** Before any financial decision, ask who benefits and how.
+- **Be willing to be contrarian:** Being wrong when everyone else is right is much more dangerous than being wrong when everyone is wrong.
 
-→ Full content: [references/naval-framework.md](references/naval-framework.md)
-
-### Naval's Advanced Decision Framework: How to Choose Under Uncertainty
-
-Naval is unusually specific about HOW to make decisions — not just what to decide. This is the missing link between knowing frameworks and executing well.
-
-**The core problem:** Most people frame decisions as "will this work out?" when they should ask "what's the probability-weighted outcome across all scenarios?"
-
-**The three-step process:**
-1. **Define the problem in one sentence.** Most people argue about solutions before agreeing on the problem. Naval's rule: until you can state the problem clearly, you're not ready to decide.
-2. **Ask the reversibility question.** Is this decision reversible? If yes, decide at 70% confidence and adjust. If no (marriage, major debt, giving up a core skill permanently), take more time. Most financial decisions are reversible.
-3. **Ask the people question.** Would I trade places with the key person in this arrangement for 10 years? If not, don't enter it. The quality of your decisions is shaped by the quality of the people around you.
-
-**Naval's Antidisposition Framework:** Don't let current emotional state determine decisions. If you're panicked after a market crash, that's the worst time to decide about your portfolio. If you're euphoric after a big win, that's the worst time to make a career change. The antidote: write your decision criteria in advance, when calm. Then execute without changing course based on short-term emotional states.
-
-**The specific script for career/business decisions:**
-> *"{What would I think about this decision if I were making it 10 years from now?} {What would the version of me who stayed 5 years say vs. the version who left?} {Which one am I more likely to regret not being?"*
-
-**The script for investment decisions:**
-> *"{Is this decision driven by fear or by analysis? If fear, what's the actual probability of the bad outcome I'm avoiding? If analysis, what's the expected value over a 10-year horizon?} {Would I buy this today at current price? If yes, hold. If no, sell — regardless of whether I'm up or down.}*
-
----
-
-### Naval's Three-Level Wealth Game
-
-Naval explicitly frames wealth-building as a game with three levels — each requires different strategies:
-
-**Level 1 — Survival:**
-- Eliminate high-interest debt
-- Build a 3-month emergency fund
-- Basic financial security
-
-**Level 2 — Financial Independence:**
-- Assets produce enough to cover basic expenses without working
-- The work you do is by choice, not necessity
-- Approximately: 25 × annual expenses in invested assets
-
-**Level 3 — Wealth (Freedom):**
-- Assets produce enough to live exactly as you want
-- Full time autonomy — work is entirely optional
-- Approximately: 25 × your desired annual spending
-
-**The critical insight:** Most people quit at Level 1 or 2 because they don't understand that the next level exists, or they mistake the current level for the final one. Naval's instruction: *"{The goal is not to maximize every dollar — it's to have enough that your decisions are free."}* Know which level you're in, and don't confuse the current level's strategies with the next level's requirements.
-
----
-
-### The Naval 10-Step Wealth Path
-
-Practical sequence for building real wealth:
-
-1. **Define financial independence in concrete terms.** "$X in assets producing $Y/year" is a plan. "I want to be comfortable" is not. Specify the number.
-2. **Build specific knowledge in one domain.** Not "be good at business" — find where your genuine aptitude meets market demand and go deep.
-3. **Learn to sell and learn to build.** Naval's instruction: if you can do both, you're unstoppable. If you can only do one, learn the other enough to understand it.
-4. **Get one paying customer before building a product.** Ship first, verify second. The validation proves the market, not your assumptions.
-5. **Use leverage: code, media, or capital.** Pick the form that fits your situation — but code/media scale without permission and near-zero marginal cost.
-6. **Play long-term games with long-term people.** Short-termism compounds against you. Long-term thinking gives you a structural advantage.
-7. **Reinvest earnings into compounding assets.** Don't extract wealth early. Let the compounding work uninterrupted for years.
-8. **Build reputation deliberately.** Deliver on promises, be genuinely useful, build in public. Reputation is the one asset that compounds and cannot be taken from you.
-9. **Protect your health and peace first.** Wealth without health is a management problem. Wealth without peace is a constant source of suffering.
-10. **Stay in the game long enough.** The actual secret: outlast everyone else who quit. The compound interest is waiting.
-
----
-
-### Emotional Mastery: Naval on Handling Wealth-Building Stress
-
-Naval's framework for the psychological dimension of wealth-building:
-
-**On anxiety and market movements:**
-Naval: *"{If you can't watch your portfolio drop 50% without panic-selling, you don't have the right portfolio for your risk tolerance. The best investment is one you can hold through a crash without changing course."}* Adjust your allocation until the downside is emotionally acceptable. The best portfolio for you is not the one with the highest theoretical return — it's the one you can actually hold for 30 years.
-
-**On greed and overconfidence:**
-Naval: *"{The most dangerous moment in wealth-building is when you're winning. The math of losing 50% requires a 100% gain to recover. Avoid the bets that can permanently destroy you even if the upside looks attractive."}* Guard against overconfidence in hot markets. When everyone is making money, that's when the margin of safety is most likely to disappear.
-
-**On envy and peer comparison:**
-Naval: *"{Comparison is the thief of joy, and it's also the thief of good financial decisions. The person who looks at their neighbor's portfolio and changes their strategy rarely ends up ahead. The person who plays their own game for 30 years wins."}* Don't optimize for appearing wealthier than your peers — optimize for your own financial independence.
-
-**On patience during invisible years:**
-Naval: *"{The invisible years are the most important years. When you're building something and it looks like nothing is happening — that's the compounding working invisibly. The moment you quit is usually right before the breakthrough."}* Trust the process. Stay in the game. The math works if you give it time.
-
+→ Full content: [references/munger-frameworks.md](references/munger-frameworks.md)
 
 ---
 
@@ -727,7 +634,7 @@ The wealthiest individuals legally minimize their tax burden every year. This is
 
 **Key strategies:** Tax-loss harvesting (turn portfolio losses into tax offsets), Roth conversion ladder (move Traditional to Roth in low-income years), S-corp election for business owners (save 15.3% on distributions above salary), donor-advised funds for charitable giving.
 
-> *Full details: see `references/tax-optimization.md` -- entity structures (LLC, S-Corp, C-Corp), asset protection frameworks, income timing and bunching strategies, tax credits guide, charitable giving structures, and the complete priority stack for high earners.*
+→ Full content: [references/tax-optimization.md](references/tax-optimization.md) — entity structures (LLC, S-Corp, C-Corp), asset protection frameworks, income timing and bunching strategies, tax credits guide, charitable giving structures, and the complete priority stack for high earners.
 
 **The script:** "Taxes are probably the single largest drag on your long-term wealth after investment returns. The good news is that most optimization is done once -- set up the right accounts, automate the contributions, and check in annually. Max your 401(k), get the match, backdoor a Roth, harvest losses if they exist, and if you run a business, talk to an accountant about an S-corp election."
 
@@ -879,7 +786,7 @@ Most people focus on income level (how much you earn) while ignoring income velo
 
 ### Scripts for Common Income Situations
 
-> *See also: `references/financial-frameworks.md` for extended salary negotiation scripts and income ceiling analysis.*
+→ Full content: [references/financial-frameworks.md](references/financial-frameworks.md) — extended salary negotiation scripts and income ceiling analysis.
 
 **When asked "what are your salary expectations" (before offer):**
 > *"Based on my research, the range for this role is $[A]-[B]. I'm looking for something in the upper half of that range given my specific background in [skill area]. But I'd rather discuss what we can create together and let the compensation follow that."*
@@ -1256,11 +1163,19 @@ Marks's key contribution is **second-level thinking** — ordinary investing wis
 
 ## Morgan Housel: The Psychology of Money
 
-Morgan Housel's 2020 *The Psychology of Money* argues financial success is 20% technical knowledge and 80% behavior. The book distills 20 years of financial writing into lessons about how humans actually behave with money — not about returns, but about behavior under uncertainty.
+Housel's *The Psychology of Money* (2020) and *Same as Ever* (2023) argue financial success is 20% technical and 80% behavioral. The highest arithmetic return is always the result of the highest behavioral tolerance.
 
-**Core lessons:** Compounding is invisible for decades ($10K at 10% = $672K in 50 years — flat for the first 15). Wealth is what you don't spend (the 40%-saver on $80K beats the 5%-saver on $200K). Behavioral tolerance beats intelligence (the 7% net investor who stays beats the 9% gross investor who panic-sells). "Room to be wrong" is the actual point — margin of safety lets you make good decisions when uncertain. Freedom, not accumulation, is the ultimate goal.
+### 4 Core Lessons
 
-→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md) — complete 20 behavior lessons, Mr. Market analogy, Margin of Safety, Graham-Marks-Housel synthesis.
+1. **Compound interest is invisible for decades.** At 10%/yr, the first 15 years look flat. Then the curve goes vertical. $200/month for 40 years at 10% ≈ $1.2M. A 10-year delay costs ~$800K.
+
+2. **Wealth is what you don't spend.** Real wealth is almost always invisible — the person with $800K in index funds and a 10-year-old Toyota is wealthier than the person with the new German sedan.
+
+3. **Behavioral tolerance beats intelligence.** The 7% net investor who stays beats the 9% gross investor who panic-sells. Showing up for decades IS the whole game.
+
+4. **"Room to be wrong" is the point.** The person who saves 40%, has a 6-month emergency fund, and can absorb a 30% drop without changing their lifestyle has room to be wrong.
+
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
 
 
 ---
@@ -1273,24 +1188,13 @@ Carlson's core principle: **decisions during market stress are determined by pri
 
 **Systems beat goals.** Automate savings so the right behavior is inevitable. Written investment criteria reviewed quarterly. Core mental models: Mr. Market (prices ≠ values), Circle of Competence (stay in your lane), Margin of Safety (leave error room), Compounding (time beats timing).
 
-→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md) — Dalio's economic machine, All Weather portfolio, Morgan Housel's 20 lessons, Graham/Mr. Market/Margin of Safety, Rockefeller/Carnegie frameworks, OODA Loop.
+→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md)
 
 ---
 
 ## The Real Wealth Builders
 
-- Earn well, spend deliberately
-- Invest early, consistently, simply
-- Protect income with insurance (health, disability, life)
-- Try to not get poor slow, not get rich quick
-- Live below their means for years
-- Don't tell anyone about their investments
-- Build systems that make right behavior automatic
-- Write decision principles before panic sets in
-- Compound through decades of consistent, boring behavior
-
----
----
+→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
 
 ## Common Pitfalls
 
@@ -1351,7 +1255,7 @@ Want to build a skill?
 
 ## Quick Scripts
 
-See also: `references/financial-frameworks.md` — net worth benchmarks by age, income ceiling analysis, salary negotiation scripts, tax-advantaged account priority, compound growth tables, and extended quick scripts.
+→ Full content: [references/financial-frameworks.md](references/financial-frameworks.md) — net worth benchmarks by age, income ceiling analysis, salary negotiation scripts, tax-advantaged account priority, compound growth tables, and extended quick scripts.
 
 **When they say "I'm not good with money":**
 > "Not good with money" is usually "never learned how." That's not a character flaw — it's a gap. And gaps are fixable. Want to start with one number: what's your current net worth? We'll work from there.
