@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.12.0
+version: 4.15.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -51,11 +51,7 @@ The self-help industry has produced a version of "let go" that is avoidance in s
 
 True surrender is not the absence of effort. It is the absence of *grasping*:
 
-| Grasping | Surrendered action |
-|--|--|
-| Trying hard because the outcome matters desperately | Trying hard because the trying itself is what you value |
-| Checking constantly whether you're "on track" | Not checking — just engaging |
-| Abandoning effort when results don't come quickly | Continuing because the engagement itself is rewarding |
+> Grasping: outcome-desperate effort, constant checking, quitting when results lag. Surrendered: effort for its own sake, not checking, continuing because the engagement itself is rewarding.
 
 Both can look identical from the outside. Only the internal experience reveals the difference.
 
@@ -221,17 +217,17 @@ This is not toxic positivity. It is not "everything happens for a reason." It is
 **When someone is in acute crisis:**
 > This framework is not for emergencies. If someone is in a dark place right now, the first move is not to find meaning — it is to find human connection and professional support. Come back to this when they are safe.
 
-### The "Sunday Neurosis"
+### The "Sunday Neurosis" and Post-Traumatic Growth
 
-Frankl described a condition common among people who have achieved external goals: they reached what they were working toward and found it empty. A successful career, a completed degree, a house — and then the Sunday-afternoon dread of "is this all there is?"
+Frankl described **"Sunday neurosis"** — reaching a goal and finding it empty. Purpose is not a summit; it is continuous engagement.
 
-This is what happens when people pursue meaning without examining their values, or confuse achievement with significance. The antidote is ongoing self-examination, not a finished answer.
+**Post-traumatic growth (PTG)** — Tedeschi & Calhoun found 30–70% of crisis survivors report positive transformation: new strength, new possibilities, deeper relationships, renewed purpose. Growth coexists with grief.
 
-### The Anti-Nihilism Clause
+> **Sound meaning passes Frankl's test:** it holds up under scrutiny, connects you to something real, and does not require denying what happened.
 
-Frankl was clear: meaning is not invented. It is not assigned by you to yourself. It is found — it exists objectively, waiting to be discovered. If someone is constructing elaborate personal meanings that contradict evidence, they risk collapsing into nihilism. Sound meaning passes the test: it holds up under scrutiny and connects you to something real.
+**"After what happened, I can't rebuild"** — the struggle to make sense of it is the engine of growth; late-stage discoverers stopped waiting for safety, connected pre/post-trauma threads, reframed loss as reconfiguration
 
----
+→ Full content: [references/ptg.md](references/ptg.md)
 
 ## Framework: The Purpose Discovery Process
 
@@ -259,7 +255,6 @@ Answer these without lying to yourself:
 5. What do the people around me consistently lean on me for — the thing they'd actually miss if I weren't here?
 
 ---
-
 
 
 ### Stage 2: Experiment (Try Before You Commit)
@@ -341,103 +336,65 @@ You do not lack discipline. You are surrounded by environments that make the def
 - **Move your body** — even a 20-minute walk beats any productivity system
 
 ---
-
 ## Framework: Career Capital Theory (Cal Newport)
 
-Cal Newport's career capital framework, developed in *So Good They Can't Ignore You*, is one of the most empirically grounded approaches to building work you care about. It directly attacks the "follow your passion" advice — not because passion is bad, but because the advice is structurally flawed.
+Cal Newport's career capital framework (*So Good They Can't Ignore You*) attacks the "follow your passion" myth: passion follows competence, not the other way around. The most successful people — writers who love writing, doctors who love medicine — almost never started out passionate. They got good first.
 
-### The Passion Hypothesis Is Backwards
+### The Core Insight: The Passion Hypothesis Is Backwards
 
-The conventional wisdom says: **find your passion → build your career around it → fulfillment follows.**
+> "The most successful people almost never started out loving what they do. They started by getting *good* at it. The love came after the mastery."
 
-Newport's research found the opposite pattern in people with compelling, meaningful careers:
+Two structural flaws in the passion-first approach: (1) passion is rare — few people have a pre-existing passion mapped to a viable career; (2) you cannot love what you are terrible at. Competence precedes passion.
 
-> The most successful people — writers who love writing, doctors who love medicine, programmers who love coding — almost never started out loving what they do. They started by getting *good* at it. The love came after the mastery.
+### Career Capital Defined
 
-The passion hypothesis is structurally flawed in two ways:
+**Career capital** = rare and valuable skills you can trade in the marketplace. Two types: *deep skills* (years to build — medicine, law, engineering) and *creative skills* (novel combinations others miss). Common skills don't generate capital — everyone has them.
 
-1. **Passion is rare.** Very few people have a pre-existing passion directly mapped to a viable career. "Follow your passion" works for those who already have one — it gives them permission to act on something they already know. For everyone else, it's paralysis.
-2. **Passion requires competence.** You cannot love what you are terrible at. Competence precedes passion, not the other way around.
+### The Craftsman Mindset
 
-### What Is Career Capital?
+**Passion mindset:** *What does this work do for me?* — Does it align with my passion?
+**Craftsman mindset:** *What am I creating?* — What am I getting good at? What is the quality of my work?
 
-**Career capital** = rare and valuable skills that you can trade in the marketplace. It is the leverage that gives you autonomy, meaning, and the ability to say no to what doesn't fit.
+The craftsman mindset creates the conditions for passion to develop. The passion mindset waits and usually quits before mastery.
 
-Two types of rare and valuable skills:
-- **Deep skills** — expertise in a domain that takes years to build (medicine, law, engineering, design, music, writing)
-- **Creative skills** — the ability to combine existing ideas in new ways, produce novel outputs, or see connections others miss
+### The Four Rules
 
-The key word is *rare*. Common skills (basic admin, generic "communication," surface-level social media fluency) don't generate career capital because everyone has them.
+1. **Don't follow your passion** — it follows competence
+2. **Become a craftsman** — deliberate practice at rare, valuable skills
+3. **Track your capital** — if your path isn't building rare/valuable skills, it's a detour
+4. **Cash in strategically** — autonomy, opportunities, fair compensation; but spend wisely
 
-### The Craftsman Mindset vs. the Passion Mindset
+### Deliberate Practice: How Mastery Actually Works
 
-Newport contrasts two approaches to work:
+Not all practice is equal. **Deliberate practice** — focused effort at the edge of your ability with immediate feedback — builds career capital. Casual practice doesn't.
 
-**Passion mindset:** *What does this work do for me?* — Does it align with my passion? Does it make me happy? Does it feel meaningful?
+> It takes ~20 hours of deliberate practice to get from "completely incompetent" to "notably competent" at a new skill. Most people quit at hour 3.
 
-**Craftsman mindset:** *What am I creating?* — What am I getting good at? What am I contributing? What is the quality of my work?
-
-> The craftsman mindset, with its relentless focus on becoming "so good they can't ignore you," is a strategy well suited for acquiring career capital. This is why it trumps the passion mindset if your goal is creating work you love.
-
-The passion mindset is passive — it waits for the right feeling. The craftsman mindset is active — it creates the conditions for the right feeling to develop.
-
-### The Four Rules of Career Capital
-
-1. **Don't follow your passion.** Passion is a side effect of mastery, not a prerequisite. The career advice industry has this backwards.
-2. **Become a craftsman.** Focus on deliberately practicing and improving rare, valuable skills. The goal is to become genuinely excellent at something.
-3. **Track your capital.** Identify what rare and valuable skills you are building. If your current path isn't building career capital, it may be a detour.
-4. **Cash in strategically.** Career capital gives you leverage: autonomy (control over your time), opportunities, financial security, and the ability to say no to what doesn't fit. But spend it wisely — once you cash in, it's gone.
-
-### Deliberate Practice: The Mechanism of Mastery
-
-Not all practice is equal. **Deliberate practice** — focused, structured effort aimed at improving specific弱点 — is what builds career capital. Casual practice doesn't.
-
-The hallmarks of deliberate practice:
-- **Specific goal** — Not "get better at guitar" but "play this passage at 120bpm without error"
-- **Immediate feedback** — You know within seconds whether you hit the target
-- **Full concentration** — Distracted practice produces nothing useful
-- **Stretching** — You work at the edge of your current ability, not within it
-- **Repetition with variation** — Same skill, different angles of attack
-
-> It takes roughly 20 hours of deliberate practice to get from "completely incompetent" to "notably competent" at a new skill. Most people quit before that threshold. The "I tried X and I wasn't good at it" verdict is usually given at hour 3.
-
-### Career Capital Step-by-Step
-
-**Step 1: Identify potential capital tracks.**
-What skills are both rare and valuable in your domain? Look at the best people in your field — what do they know that others don't?
-
-**Step 2: Audit your current skills honestly.**
-What do you actually have? What is the gap between your current skills and the rare/valuable ones? That gap is your roadmap.
-
-**Step 3: Choose one track and go deep.**
-Don't spread yourself across multiple skills. The leverage comes from depth, not breadth. Pick one and commit to 20+ hours of deliberate practice before evaluating.
-
-**Step 4: Find a "goldilocks" task.**
-Tasks that are too easy produce no growth. Tasks that are too hard produce anxiety. The growth zone is the task slightly above your current ability — one where you can succeed with focused effort.
-
-**Step 5: Build until you have leverage.**
-Until you have career capital, you have limited power to negotiate for autonomy, meaning, or fair compensation. Build first. Then cash in.
+**Five hallmarks of deliberate practice:**
+- Specific goal (not "get better" but "hit X at Y speed without error")
+- Immediate feedback — you know within seconds
+- Full concentration — no multitasking
+- Stretching — at the edge of ability, not inside comfort zone
+- Repetition with variation — same skill, different angles
 
 ### The Autonomy Paradox
 
-Career capital is the pre-condition for autonomy. Autonomy — control over your time, your work, your decisions — is one of the highest predictors of meaningful work. But you cannot claim autonomy without something to trade.
-
-People who demand autonomy before they have career capital usually don't get it. People who build career capital and then use it as leverage to claim autonomy usually do.
+Career capital is the pre-condition for autonomy. People who demand autonomy before they have career capital usually don't get it. Build first, then claim.
 
 > **If you want more control over your life, get better at something rare and valuable first.** The freedom you want is on the other side of competence.
 
-### Using Career Capital in Conversation
+### Using in Conversation
 
-**When someone says "I just need to find what I'm passionate about":**
-> The research on passion doesn't support that approach. The people who love their work usually started by getting good at it first. Passion follows competence, not the other way around. What skill would you want to be genuinely excellent at?
+**"I just need to find what I'm passionate about":**
+> The research doesn't support that approach. People who love their work usually started by getting good at it. What skill would you want to be genuinely excellent at?
 
-**When someone says "I don't know what career capital I have":**
-> Start with the honest inventory: what are you already better at than most people? What do people ask you for help with? What do you know that is genuinely hard to learn? That's your starting capital — build from there.
+**"I don't know what career capital I have":**
+> Start with honest inventory: what are you better at than most people? What do others ask you for help with? What do you know that is genuinely hard to learn? That's your starting capital.
 
-**When someone is stuck in a job they hate but can't leave:**
-> You don't leave by finding your passion. You leave by building career capital that gives you options. Every week you spend getting genuinely better at something rare and valuable is a week invested in your freedom.
+**"Stuck in a job I hate but can't leave":**
+> You don't leave by finding your passion. You leave by building career capital that gives you options. Every week spent getting genuinely better at something rare and valuable is a week invested in your freedom.
 
----
+→ Full content: [references/career-capital-newport.md](references/career-capital-newport.md)
 
 ## Framework: Decision Frameworks for Direction
 
@@ -509,7 +466,7 @@ At the end of two weeks, look for the pattern. Not what you think should matter 
 **When someone feels their life is on hold:**
 > The 'die with zero' question: if you knew you had 10 years, what would you start doing this week? Don't tell me the theoretical answer. Tell me the actual thing you'd schedule.
 
----
+**"I keep looping without deciding":** OODA — Observe, Orient, Decide, Act. Most people are stuck in the orient phase. Force a decision and get a real outcome to react to. "What would you try if you had to decide today?" If the answer requires more certainty, that's orientation without decision — and it's the---
 
 ## Framework: Flow States and Purpose
 
@@ -854,7 +811,6 @@ You are already an MVP. Audit your existing skills and patterns before building 
 
 → Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
 
-
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
 SDT identifies three **universal psychological needs** that must all be met simultaneously for purpose:
@@ -893,15 +849,9 @@ Most purpose advice focuses on autonomy and relatedness. But competence requires
 
 ### SDT and the Other Frameworks
 
-| Framework | SDT lens |
-|-----------|----------|
-| Craftsman mindset (Newport) | Competence need in action |
-| Identity habits (Clear) | Autonomy over time |
-| Flow (Csikszentmihalyi) | Competence satisfaction in real-time |
-| Attitudinal values (Frankl) | Autonomy within constraint |
+> SDT is the scaffold; other frameworks fill it — Craftsman (competence), Identity (autonomy), Flow (real-time competence), Attitudinal values (autonomy within constraint).
 
 > **SDT is the scaffold; the other frameworks fill in the practice.**
-
 
 
 ---
@@ -960,7 +910,6 @@ Most people who feel lost at 35 have only tried 2-3 things — not because they 
 
 → Full content: [references/range-generalist.md](references/range-generalist.md)
 
-
 ## Framework: The Philosophy of Enough
 
 One of the least-examined causes of purposelessness is not a lack of direction — it is the **chronic sense that nothing is ever sufficient.** The person who has achieved more than their childhood self could have imagined and still feels empty is not experiencing a purpose problem. They are experiencing an *enoughness* problem.
@@ -1014,7 +963,6 @@ There is a persistent assumption that purpose must be loud — publicly celebrat
 3. **Evening:** The Yesterday Test — if this day were your life at its end, would the answer be yes?
 
 ---
-
 
 
 ## Framework: The Autotelic Personality — Who Is Built for Flow
@@ -1136,7 +1084,6 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 
 ---
 
-
 ## Framework: Character Strengths and Virtues (Peterson & Seligman)
 
 The VIA Classification (Peterson & Seligman, 2004) maps 24 character strengths across six virtues. Purpose takes one of these forms — knowing which is more actionable than abstract ideals.
@@ -1208,7 +1155,6 @@ The answer to question 4 is usually closer to your purpose than any abstract lif
 11. **"I'm in the right tree, patching the right file."** — `skill_view` on an in-repo skill returns a preview; `patch` edits the user-local tree. After patching, compare the `version:` field in both trees. If they diverge, you edited the wrong file. Use Python `pathlib` directly for in-repo skills.
 
 
-
 ## Framework: Values Clarification (ACT-Inspired)
 
 Values differ from goals: a **goal** is achieved and done (motivation fades on arrival); a **value** is a direction you keep moving in — never completed, always alive. People pursuing goals arrive and find emptiness. People moving in a valued direction never run out of road.
@@ -1220,7 +1166,6 @@ Values differ from goals: a **goal** is achieved and done (motivation fades on a
 > Values are not meant to be understood. They are meant to be enacted. Acting imperfectly in the direction of your values moves you forward.
 
 → Full content: [references/values-clarification.md](references/values-clarification.md)
-
 
 ## Framework: The Body and Movement — Purpose Through Physical Engagement
 
