@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.34.0
+version: 1.36.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -443,6 +443,56 @@ Charlie Munger: *"Tell me where he'll die, and I'll never go there."* Buffett re
 - *"The most important thing to do if you find yourself in a hole is to stop digging."*
 - *"Only when the tide goes out do you discover who's been swimming naked."*
 - *"Rule #1: Never lose money. Rule #2: Never forget Rule #1."*
+
+### The Buffett Quality Filter: 5 Questions Before You Buy
+
+Before any investment, Buffett asks five questions. Munger calls this the "Berkeley test" — if you can't answer all five in 30 minutes, you don't understand the business well enough:
+
+1. **Is this business simple enough that a smart junior analyst can understand it?** If it requires a genius to succeed, it's probably not a good investment.
+2. **Does it have consistent earnings with little or no leverage?** Volatile or highly leveraged businesses carry hidden risks that show up in bad years.
+3. **Does it have a durable competitive moat that will last 10+ years?** You're not buying last year's earnings — you're buying the stream of earnings over the next decade.
+4. **Is the price reasonable relative to a conservative estimate of intrinsic value?** Great business + fair price beats good business + cheap price.
+5. **Would I be comfortable if the stock market closed for 10 years?** This is Munger's version. If you can't answer yes, you don't have conviction enough to hold through a crash.
+
+### The 10-Year Test: How Buffett Thinks About Time
+
+Buffett doesn't think in quarters or years — he thinks in decades. His rule: *The time horizon matters more than any other variable in investing.*
+
+**The 10-year test:** Before buying any asset, ask yourself: *Would I be comfortable holding this if the market closed for 10 years?* No news, no prices, no quarterly reports. Just the business fundamentals. If the answer is no because you'd be worried about the fundamentals deteriorating, sell. If the answer is no because you need the money in 3 years, don't buy it. If the answer is yes, you have conviction.
+
+**The math on 10 years:** A $10,000 investment at 10% annual compounding = $25,937 after 10 years, $67,275 after 20 years, $174,494 after 30 years. Most people underestimate how powerful 10 years of compounding is and overestimate how much they need to "beat the market."
+
+### The Snowball Principle: Compounding Is the Eighth Wonder
+
+> *"My wealth has come from a combination of living in America, some lucky genes, and compound interest."*
+
+Buffett's famous snowball metaphor describes compounding at its finest: *Someone who is 15 or 20 or 25 and starts saving early puts the snowball of compound interest at the top of a very long hill. The hill gets longer as the snowball grows larger. All you need is a small snowball of compounding working for you for 50 years.*
+
+**The 50-year snowball:** Starting at 25, investing $500/month at 10% annually produces approximately $1.26 million by age 65. The last 10 years produce more than the first 30. This is the power Buffett is describing — not genius, just time and consistency.
+
+### Buffett's Behavioral Rules: What Destroys Wealth
+
+Buffett has been specific about the behaviors that destroy wealth — these come from his shareholder letters and interviews:
+
+**Rule against speculation:** *The market is a device for transferring money from the active to the patient. When speculation gets out of control, the market becomes a casino. Stay away.*
+
+**Rule against leverage:** *Any person who borrows to make an investment is employing leverage. Any person who employs leverage in the pursuit of superior returns must be right more often than wrong, or they will be destroyed.*
+
+**Rule for bear markets:** *In a bear market, you get the opportunity to buy quality at lower prices. The question is whether you have the courage and capital to act when others are terrified.*
+
+**The Berkshire test for holding:** *We have no interest in selling good businesses for short-term earnings. We will never sell a business that is producing good returns at a fair price to buy something that produces higher returns at a comparable price.*
+
+**The liquidity rule:** *Never depend on the market to rescue you. Always have enough cash to meet your needs without being forced to sell.*
+
+### Buffett on Building Wealth Without Being Brilliant
+
+Buffett's most humbling lesson: *The most important thing to do if you find yourself in a hole is to stop digging.* And his consistent message across 70 years of shareholder letters: you don't need to be brilliant to build wealth.
+
+> *"Wall Street is the only place where people ride to the airport in a Rolls-Royce to get advice from someone who rides the bus."*
+
+The implication: the best investment advice is usually simple and boring. Index funds, consistent saving, low fees, time. The complicated stuff is designed to generate fees for the advisor, not returns for you.
+
+**The Buffett challenge:** If you can't explain why you own each investment in two sentences to a 10-year-old, you don't understand it well enough. Simplify until conviction appears.
 
 → Full Buffett deep dive: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Owner Earnings, AmEx crisis analysis, See's Candy brand moat, Four Quadrant framework, Lollapalooza effect, Insurance Float deep dive.
 
@@ -1116,6 +1166,61 @@ Salary is only one dimension. The person who negotiates the full package consist
 | **Remote/hybrid** | Has real monetary value |
 | **Professional development** | Conference budget, course budget, certification reimbursement |
 | **401(k) match** | Often negotiable beyond standard formula |
+
+The Income Effect: Why Earning More Doesn't Automatically Build Wealth
+
+Behavioral economics reveals why higher incomes don't automatically produce wealth: the human tendency to adjust spending upward with income creates a consumption trap that keeps high earners perpetually cash-strapped. Understanding this mechanism is the difference between income growth that compounds into wealth and income growth that compounds into a more expensive lifestyle.
+
+**The Core Mechanism:**
+
+Psychologists have documented what they call the "income effect" — as people earn more, spending increases to match or exceed the new income level. Studies of lottery winners show they typically return to their pre-winning spending level within a few years. The house, the car, the vacations all scale up until the marginal dollar feels no different than the last one.
+
+**The Lifestyle Inflation Trap:**
+
+The typical high earner who gets a 30% raise immediately faces pressure to upgrade: a nicer apartment, a newer car, dining out more frequently. These aren't bad choices in isolation — but the pattern keeps high earners perpetually without meaningful savings regardless of income level. The person making $80K who saves 10% builds wealth. The person making $200K who upgrades everything and saves 10% also builds wealth — but the gap between them in actual net worth is much smaller than the gap in income.
+
+**The Compounding Window:**
+
+Compound growth is time-dependent, not income-dependent. Someone who starts saving 20% at 25 has roughly double the wealth at 65 versus someone who starts saving the same percentage at 35. Income acceleration matters most in the early-to-mid career window where compound growth has maximum time to work. Late-career income increases still matter but have less time to compound.
+
+**The Key Insight:**
+
+Wealth accumulates when income significantly exceeds spending — the size of that gap compounds more powerfully than income level alone. A $60K earner who spends $48K annually builds wealth faster than a $150K earner who spends $140K.
+
+**The Script — When Someone Says "I Need to Earn More to Save":**
+
+> "The math of compound interest doesn't require a high income — it requires consistent savings and time. Someone saving 20% on $60K puts away $12K/year; at 10% growth, that's $1.3M in 30 years. The real question isn't 'how much do I earn?' — it's 'what percentage of what I earn am I keeping?' Fix the percentage first; the income will follow."
+
+**The 50/30/20 Reframe (Modified for Wealth Builders):**
+
+The standard 50/30/20 rule (needs/wants/savings) is fine as a starting point but tends to normalize lifestyle inflation. Wealth builders use a modified version:
+- **Needs (50%):** Essential fixed costs — housing, utilities, insurance, groceries
+- **Wants (30%):** Discretionary but not wealth-building
+- **Savings/Investment (20% minimum, 40%+ target):** Not discretionary — this is the wealth engine
+
+The 40%+ savings rate is achievable for knowledge workers, particularly those who leverage remote work, geographic arbitrage, and strategic job-hopping.
+
+**The Spending Audit Pattern:**
+
+Before someone can change their spending patterns, they need to understand where money is actually going — not where they think it's going. The pattern: people consistently underestimate lifestyle costs by 20-30% when self-reporting. The fix is a systematic audit:
+
+1. Pull 3 months of bank and credit card transactions
+2. Categorize every transaction (housing, food, transport, subscriptions, etc.)
+3. Calculate total monthly spending vs. monthly after-tax income
+4. Identify the "invisible leaks" — small recurring charges that add up (subscriptions, dining, services)
+5. The audit usually reveals 15-25% of spending is either invisible waste or conscious upgrade that's not producing happiness
+
+**The "Frugal Rich" vs. "Affluent Poor" Pattern:**
+
+Research documents a consistent finding: people with high incomes who live below their means accumulate wealth rapidly. The "affluent poor" — people with high incomes but no savings — are experiencing lifestyle inflation pushing spending to match income. The "frugal rich" — people with moderate incomes who save aggressively — compound wealth rapidly.
+
+**The Income-Expense Gap as the Wealth Driver:**
+
+The single most important number in wealth-building: the gap between what you earn and what you spend. This gap, invested, is the engine of compound growth. The size of the gap matters more than the income level:
+- $80K income, $60K spending → $20K gap (25% savings rate)
+- $150K income, $120K spending → $30K gap (20% savings rate)
+
+The gap compounds. The gap invested buys freedom. The gap is the only thing that matters in the wealth equation.
 
 ---
 
