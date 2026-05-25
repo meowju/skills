@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 2.77.0
+version: 2.78.0
 author: Hermes Agent
 license: MIT
 metadata:
@@ -3016,13 +3016,10 @@ Month 3：收第一笔钱
 
 ## 三十四、信任型销售：AI B2B 的核心战场
 
-> 本节核心内容已合并至「十七、信任型销售：AI B2B 的核心战场」。此处保留框架摘要。
+> 本号已合并至「十七、信任型销售：AI B2B 的核心战场」，此处保留编号。
 
-**信任型销售4层次：** L1展示案例数据；L2用行业语言；L3帮客户算ROI；L4介绍老客户给新客户。
+**信任型销售4层次：** L1展示案例数据；L2用行业语言；L3帮客户算ROI；L4介绍老客户给新客户。续费率对比：信任模式 >85%；工具模式 <40%。企业买 AI 不是买算法，是买确定性。
 
-→ 完整内容：[references/ai-trust-selling-deep.md](references/ai-trust-selling-deep.md)
-
-**续费率对比：** 信任模式 >85%；工具模式 <40%。企业买 AI 不是买算法，是买确定性。
 
 ## 三十五、信息差套利：AI市场中的不对称机会
 
