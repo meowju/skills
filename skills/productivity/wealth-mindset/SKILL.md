@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.44.0
+version: 1.46.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1131,70 +1131,28 @@ The gap compounds. The gap invested buys freedom. The gap is the only thing that
 
 ---
 
-## Greenblatt's Magic Formula: Systematic Value Investing
+## Greenblatt, Howard Marks, Morgan Housel, and Charlie Carlson: Systematic and Psychological Investing
 
-Joel Greenblatt (born 1957), Gotham Capital founder, took Graham's principles and made them systematic and backtestable. Gotham returned 50% annually (before fees) from 1985 to 1994. He also helped fund Michael Burry's Scion Capital early on.
+Four investors who bridge the gap between mechanical formulas and behavioral finance — each adding a layer of discipline that pure value investing and pure psychology alone miss.
 
-His Magic Formula ranks companies on two factors simultaneously:
-1. **Earnings yield** (earnings ÷ price — Graham's cheapness criterion)
-2. **Return on invested capital** (quality — a business with a genuine moat)
+**Joel Greenblatt (Gotham Capital, ~50% annual returns 1985–1994):** His Magic Formula ranks companies by earnings yield (cheapness) AND return on invested capital (quality). The key insight: buying cheap businesses that keep getting cheaper is the main failure mode of pure value investing. Combining both factors eliminates it. Greenblatt himself notes the formula works less well post-2001 in small caps as institutional competition increased.
 
-The key insight: combining cheapness AND quality eliminates the main failure mode of pure value investing — buying cheap businesses that keep getting cheaper.
+**Howard Marks (Oaktree Capital, ~$150B AUM):** Known for **second-level thinking** — ordinary investing wisdom like "buy low, sell high" is "first-level" thinking everyone already knows, which means it's already priced in. The second-level question: *what do I know that the market doesn't?* If the answer is "nothing," you're doing first-level thinking and the price already reflects consensus. Buffett reportedly reads Marks's memos before anything else.
 
-**Modern caveat:** Greenblatt notes the formula works less well in small caps after 2001 (more institutional competition). Markets have become more efficient and the advantage is smaller.
+**Morgan Housel (*The Psychology of Money*, *Same as Ever*):** Financial success is 20% technical, 80% behavioral. Four core lessons: (1) compound interest is invisible for decades — a 10-year delay in investing costs ~$800K; (2) real wealth is what you don't spend; (3) behavioral tolerance beats intelligence — the 7% investor who stays beats the 9% investor who panic-sells; (4) "room to be wrong" is the point — savings rate and emergency funds create the space to be patient.
 
-**Practical application:**
-- The real lesson is the framework: don't just buy cheap — buy cheap quality
-- Most individual investors should use index funds rather than trying to replicate the formula
-- The discipline of buying a total market fund at consistent intervals is what matters, not stock selection
+**Charlie Carlson:** Decisions during market stress are determined by principles written when calm. Written rules do what willpower cannot. Weekly reflection: *"What did I decide financially? Why? What happened? How close was my reasoning?"* Systems beat goals — automate savings, write investment criteria, review quarterly. Core mental models: Mr. Market, Circle of Competence, Margin of Safety, Compounding.
 
-### Howard Marks: Second-Level Thinking
-
-Howard Marks (born 1946), Oaktree Capital co-founder (~$150B AUM), is known for his investor memos — Buffett reportedly reads them before anything else. Net worth ~$2.2B.
-
-Marks's key contribution is **second-level thinking** — ordinary investing wisdom (buy low, sell high) is "first-level" thinking everyone already knows, which means it's already priced in:
-
-> **First-level:** "This company is doing well — it's a good investment." (Everyone agrees, so price is already high.)
-> **Second-level:** "Everyone knows this company is doing well, which is why it's priced so high. But is it priced higher than it's worth? What do I know that the market might not be pricing in?"
-
-**The second-level thinking question:** *What do I know about this investment that the market doesn't?* If the answer is "nothing especially," you're doing first-level thinking and the price already reflects the consensus. Either buy the index (which holds the market's collective judgment) or accept you're betting on something you don't have an edge in.
-
----
-
-## Morgan Housel: The Psychology of Money
-
-Housel's *The Psychology of Money* (2020) and *Same as Ever* (2023) argue financial success is 20% technical and 80% behavioral. The highest arithmetic return is always the result of the highest behavioral tolerance.
-
-### 4 Core Lessons
-
-1. **Compound interest is invisible for decades.** At 10%/yr, the first 15 years look flat. Then the curve goes vertical. $200/month for 40 years at 10% ≈ $1.2M. A 10-year delay costs ~$800K.
-
-2. **Wealth is what you don't spend.** Real wealth is almost always invisible — the person with $800K in index funds and a 10-year-old Toyota is wealthier than the person with the new German sedan.
-
-3. **Behavioral tolerance beats intelligence.** The 7% net investor who stays beats the 9% gross investor who panic-sells. Showing up for decades IS the whole game.
-
-4. **"Room to be wrong" is the point.** The person who saves 40%, has a 6-month emergency fund, and can absorb a 30% drop without changing their lifestyle has room to be wrong.
-
-→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md)
-
-
----
-
-## Charlie Carlson: Principles-Based Wealth Building
-
-Carlson's core principle: **decisions during market stress are determined by principles written when calm.** Written rules do what willpower cannot.
-
-**Weekly reflection script:** *"{What did I decide financially? Why? What happened? How close was my reasoning?}"* The gap between stated reasoning and outcome compounds your financial judgment.
-
-**Systems beat goals.** Automate savings so the right behavior is inevitable. Written investment criteria reviewed quarterly. Core mental models: Mr. Market (prices ≠ values), Circle of Competence (stay in your lane), Margin of Safety (leave error room), Compounding (time beats timing).
-
-→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md)
+→ Full content: [references/buffett-frameworks.md](references/buffett-frameworks.md) — Greenblatt's Magic Formula details, Howard Marks's second-level thinking framework.
+→ Full content: [references/psychology-of-money.md](references/psychology-of-money.md) — Morgan Housel's full psychology of money framework.
+→ Full content: [references/dalio-psychology-industrial.md](references/dalio-psychology-industrial.md) — Charlie Carlson's principles-based wealth system.
 
 ---
 
 ## The Real Wealth Builders
 
-→ Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
+
+## Peter Lynch: Invest in What You Know
 
 ## Common Pitfalls
 
