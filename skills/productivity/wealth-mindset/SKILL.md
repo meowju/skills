@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.58.0
+version: 1.59.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -786,29 +786,48 @@ Four investors who bridge the gap between mechanical formulas and behavioral fin
 
 ## Peter Lynch: Invest in What You Know
 
-Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in the world. Assets grew from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do.
+Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in history. Assets grew from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do.
 
 > *"Your investor's edge is not something you get from Wall Street experts. It's something you already have."*
 
-**The practical rule:** Before buying any stock, ask: *Have I used this product? Would I recommend it?* If yes — you have an edge most analysts don't.
+**GARP — Growth at a Reasonable Price:** Lynch pioneered this metric. PEG ≤ 1.0 is potentially undervalued; PEG ≤ 0.75 is likely undervalued; PEG > 1.5 means you're overpaying even for a good business.
 
-**GARP:** Buy companies growing 15–25%/year at a P/E ≤ growth rate. PEG ≤ 1.0 is potentially undervalued. Lynch pioneered this metric.
+**Six stock categories and their hold/sell logic:**
 
-**Six stock categories:**
-- **Stalwarts:** Stable, 15–20%/year growth — hold decades (Coca-Cola, Hershey)
-- **Fast growers:** 25%+/year — small positions, high risk
-- **Slow growers:** Utilities, 2–3%/year — don't expect miracles
-- **Cyclicals:** Airlines, autos — buy near operational trough
-- **Asset plays:** Tangible assets worth more than market price
-- **Turnarounds:** Distressed companies with recovery potential
+| Category | Examples | Strategy |
+|---|---|---|
+| **Slow growers** | Utilities, regional banks | Hold; dividends compound |
+| **Stalwarts** | Coca-Cola, Hershey | Hold decades; raise prices annually |
+| **Fast growers** | 20–25%/year small companies | Buy early; verify earnings growth is real |
+| **Cyclicals** | Airlines, autos, steel | Buy when depressed, sell when peak |
+| **Turnarounds** | Distressed recovering companies | High risk; needs deep conviction |
+| **Asset plays** | Hidden land, IP, cash pile | Find value the market hasn't priced yet |
 
-> *"If you can't see yourself owning this business in 10 years, don't buy it for 10 minutes."*
-
-**On timing:** *"Far more money has been lost by investors preparing for corrections than has been lost in the corrections themselves."*
+**Lynch's Two-Minute Drill — five questions before buying:**
+1. Can I describe the business in one sentence? If not, you don't understand it.
+2. Is revenue or earnings growing at least 10%/year? No growth = slow grower at best.
+3. Are earnings per share growing (not just revenue)? Revenue up, earnings down = trouble.
+4. Is the PEG ≤ 1.0? GARP rule: P/E shouldn't exceed the growth rate.
+5. Would I hold this through a 30% drawdown? If no, you lack conviction — sell now.
 
 **Lynch's portfolio rule:** 3–5 deeply understood stocks outperform 30 random ones.
 
+**The Sell Discipline:**
+- Sell when the story changed — fundamentals deteriorated
+- Sell when it hit your price target — take the win
+- Sell when a better opportunity appears — better opportunity wins
+- Otherwise: leave it alone. Individual investors don't answer to clients redeeming during a drawdown.
+
+**Ten-baggers — Lynch's biggest winners:**
+- **Fannie Mae**: 10,000%+ return — unloved + faster-than-expected growth
+- **Ford**: $199M profit for Magellan
+- **Dunkin' Donuts**: Bought because Lynch was a regular customer noticing the lines
+- **Philip Morris**: $111M profit — the "vice" stock everyone dismissed
+
+**The common thread:** Every real wealth builder shared these traits — conviction from understanding (not tips), patience as the actual edge, simplicity over sophistication, and income greater than spending.
+
 → Full content: [references/real-wealth-builders.md](references/real-wealth-builders.md)
+
 ## Ray Dalio: How the Economic Machine Works
 
 Ray Dalio, founder of Bridgewater Associates (~$150B AUM at its peak), built his $20B fortune not through stock-picking but through systems thinking — understanding how the entire economic machine operates and positioning ahead of cycles most people don't see coming.
