@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.28.0
+version: 4.34.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -586,6 +586,44 @@ In the weeks after a breakup, everyone asks this. You are not okay. Here are hon
 > "I appreciate you asking. I'm in it right now."
 
 **What NOT to do:** Say you're fine when you're not, turn every conversation into a detailed account (co-rumination trap), or pretend everything is fine to avoid being a burden. The middle path: acknowledge you're not okay, don't make it the only thing you talk about, and tell people what helps — distraction, company, or solitude.
+
+### How to Respond When an Ex Badmouths You to Mutual Friends or New Partners
+
+When an ex speaks negatively about you to people you both know — or worse, to someone they're now dating — the instinct is to correct the record. Resist it.
+
+**Why correcting backfires:**
+- It puts you in a reactive position, which makes you look defensive
+- The people hearing it already have their own observations of both of you
+- People who spread misinformation reveal themselves; people who hear it draw their own conclusions
+
+**The script for mutual friends:**
+> "I know you're trying to help, but right now I can't hear about them without it setting me back. Let's talk about something else."
+
+**The script if a friend brings up something the ex said about you:**
+> "I don't need you to defend me — but I appreciate that you told me. I'd rather not discuss the details."
+
+**The principle:** Let your behavior be the evidence. The people worth keeping will observe and conclude correctly.
+
+### How to Respond When an Ex Reaches Out — By Message Type
+
+No-contact applies across every message type:
+
+| Message type | Response |
+|---|---|
+| Neutral check-in ("Hey, how's it going?") | None. Silence is a boundary. |
+| Apology | None. An apology during no-contact is usually guilt relief. |
+| "I miss you" / "I can't do this without you" | None. This is the attachment system looking for a way back in. |
+| Threat or abuse | Full block. "I will not be in contact with you." |
+
+**The behavioral change test:** "What specifically is different, and what are you actually offering?" If they cannot answer concretely, the message is about their pain, not about you.
+
+### How to Gracefully Exit an In-Person Encounter
+
+Sometimes no-contact ends with an unexpected encounter — a mutual friend's event or an unexpected run-in.
+
+> "Hi. I hope you're doing well." Then turn back to who you were talking to and continue the conversation.
+
+**What not to do:** Prolong the conversation to check how they are. Deliver a prepared speech. Use the moment to make them see what they lost.
 
 ### Handling Mutual Friends After the Breakup
 
