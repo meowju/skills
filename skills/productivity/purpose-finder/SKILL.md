@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.24.0
+version: 4.25.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -632,6 +632,21 @@ Csikszentmihalyi's data showed that the most meaningful life moments are disprop
 
 The purpose-finder's key lever: **don't ask "what should I care about?" Ask "when did I last lose myself in something?"** If the answer is unsatisfying, the path forward is not more introspection — it is designing more opportunities for flow.
 
+
+### Flow and the Autotelic Personality
+
+Csikszentmihalyi found some people enter flow far more readily than others. He called them **autotelic** (Greek: *autos* = self, *telos* = goal) — people who pursue goals for their own sake, not for external reward. The autotelic personality is the strongest predictor of frequent flow across the lifespan.
+
+**Four characteristics:**
+- **Goal-seeking over reward-seeking** — the activity itself is the reward
+- **Immediate feedback** — they notice constantly whether they are winning or losing
+- **Curiosity about the activity** — genuine interest in the work itself
+- **Personal initiative** — they create conditions for engagement rather than waiting for ideal circumstances
+
+**The development path:** Set goals within activities (process goals, not external ones). Seek immediate feedback. Raise difficulty to the edge of your skill. Interrupt the comparison loop and redirect attention back to the activity faster.
+
+**The dark side:** Flow can become problematic when it functions as escape rather than engagement. Compulsive flow chases the neurological reward, hollowing out everything around it. *The test:* Does the activity connect you to something beyond itself, or does it replace your life?
+
 ---
 
 ## Framework: Identity-Based Habits for Finding Purpose
@@ -1024,44 +1039,6 @@ Three practices:
 
 → Full content: [references/enoughness-philosophy.md](references/enoughness-philosophy.md)
 
-## Framework: The Autotelic Personality — Who Is Built for Flow
-
-Csikszentmihalyi found some people enter flow far more readily than others. He called them **autotelic** (Greek: *autos* = self, *telos* = goal) — people who pursue goals for their own sake, not for external reward. The autotelic personality is the strongest predictor of frequent flow across the lifespan.
-
-### Four Characteristics
-
-1. **Goal-seeking over reward-seeking** — the activity itself is the reward, not a means to something else
-2. **Immediate feedback** — they notice constantly whether they are winning or losing at the activity
-3. **Curiosity about the activity** — genuine interest in the work itself, not in what it signals about them
-4. **Personal initiative** — they create conditions for engagement rather than waiting for ideal circumstances
-
-### The Experiencer Types
-
-Csikszentmihalyi sorted participants into four groups based on flow frequency:
-
-- **Unbidden experiencer** — enters flow easily, often without seeking it (High frequency)
-- **Challenged experiencer** — enters flow when conditions are right: clear goals, immediate feedback, challenge at edge (Moderate)
-- **Non-experiencer** — rarely enters flow; interprets difficulty as threat (Low)
-- **Bidirectional** — desires flow but cannot access it (Variable)
-
-The non-experiencer and bidirectional types are not broken — they are underpracticed. Developing habits of setting clear goals, seeking immediate feedback, and choosing challenging activities gradually makes people more autotelic.
-
-### The Development Path
-
-1. **Set goals within activities** — not external goals (grades, income) but process goals (complete the chapter, write 500 words)
-2. **Seek immediate feedback** — build or choose activities that tell you in real time how you're doing
-3. **Raise difficulty** — seek harder paths at the edge of your skill, not easier ones
-4. **Interrupt the comparison loop** — redirect attention back to the activity faster
-
-> The autotelic personality is not a trait you have or don't have. It is a practice of consistently choosing to engage with challenging activities for their own sake — and that practice can be developed at any age.
-
-### The Dark Side: Flow as Escape
-
-Flow can become problematic when it functions as escape rather than engagement. **Flow addiction** — organizing life around the neurological reward, neglecting relationships, seeking higher-intensity challenges to reproduce the same state — is distinct from passion. The person chasing flow is fleeing ordinary consciousness, not following genuine interest.
-
-**The test:** Healthy flow is embedded in a life — it energizes relationships and coherent purpose. Compulsive flow extracts from a life — it hollows out everything around it. Does the activity connect you to something beyond itself, or does it replace your life?
-
----
 
 ## Framework: Loneliness, Belonging, and Purpose
 
