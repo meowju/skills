@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.23.0
+version: 4.24.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -858,22 +858,10 @@ Most purpose stories told in retrospect look clean. The actual lived experience 
 ---
 ## Framework: Founder Mode — How Builders Find Direction
 
-Brian Chesky's 2024 essay described how founders who stay close to the work find direction through iteration rather than planning. The process of building is a purpose discovery mechanism. Founders stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement — not through planning.
-
-### Three Principles
-
-1. **Stay close to the work.** The closer you stay to the actual problem — not the org chart, not the title — the more you learn about what you genuinely care about.
-2. **Iterate toward what resonates.** Build something, watch what happens, adjust. The adjustment is not failure — it is information.
-3. **Unfinished is not wrong direction.** Most people in the middle of building interpret uncertainty as proof they should stop. The evidence: are you building something that produces a response?
-
-### Personal Application
-
-- **Audit your MVP of self:** What skills do you already have? What would you build if you added one feature to yourself?
-- **Find the obsession:** What problem do you return to even when you shouldn't? That recurring pull is closer to your direction than any planned career path.
-- **90-day check-in, not daily:** Daily evaluation produces paralysis. Track patterns across months, not hours.
-- **Ship one small thing:** Build → show someone honest → observe → iterate.
+Brian Chesky's 2024 essay described how founders who stay close to the work find direction through iteration rather than planning. The process of building is itself a purpose discovery mechanism — stay close to the actual problem and observe what angers you, what you cannot stop thinking about. See the reference file for the full framework including three core principles, the personal application playbook, and case studies of builders who found direction through sustained engagement with problems they couldn't walk away from.
 
 → Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
+
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
 SDT identifies three **universal psychological needs** that must all be met simultaneously for purpose:
@@ -1025,8 +1013,16 @@ There is a persistent assumption that purpose must be loud — publicly celebrat
 2. **Mid-day:** Notice when the comparison engine fires and name it: *"There it is again."*
 3. **Evening:** The Yesterday Test — if this day were your life at its end, would the answer be yes?
 
----
+### The Commitment Loop: Enoughness × Identity
 
+The deeper move in commitment is not choosing a direction — it is **choosing who you want to become.** Every commitment you keep builds the self that keeps commitments. **You don't figure out who you are and then choose. You choose, and then you find out who you are.**
+
+Three practices:
+- **One commitment, kept.** Pick one thing and do it even when you don't feel like it.
+- **The 10-year test.** Will you regret not having tried this in 10 years? Not *will it work* — will the not-trying haunt you?
+- **Die with zero.** The cost of not starting is measured in time you cannot earn back.
+
+→ Full content: [references/enoughness-philosophy.md](references/enoughness-philosophy.md)
 
 ## Framework: The Autotelic Personality — Who Is Built for Flow
 
