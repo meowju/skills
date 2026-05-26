@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.17.0
+version: 4.23.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -106,20 +106,11 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 
 ### The Eudaimonic Well-Being Frame
 
-**Eudaimonic well-being** (eu = good, daimon = spirit) — well-being as *actualizing your potential*, not a feeling state. Contrast with hedonic well-being (pleasure, comfort, avoiding pain):
-
-| | Hedonic | Eudaimonic |
-|--|---------|------------|
-| **Core question** | "Does this feel good?" | "Am I actualizing my potential?" |
-| **Time orientation** | Present-focused | Future-authored |
-| **Motivation type** | Extrinsic | Intrinsic (inherent interest) |
-| **Downside risk** | Hedonic treadmill, adaptation | Overextension, burnout |
-
-People high in eudaimonic well-being are less dependent on external reward because the activity itself is rewarding — why craftspeople can work in apparent solitude for decades.
+**Eudaimonic well-being** (eu = good, daimon = spirit) — well-being as *actualizing your potential*, not a feeling state. Contrast with hedonic well-being (pleasure, comfort, avoiding pain). People high in eudaimonic well-being are less dependent on external reward because the activity itself is rewarding.
 
 **The Eudaimonic Flip:** "If no one ever acknowledged this, if I never got paid, if no one ever knew — would I still do it?" If yes: eudaimonic territory. If no: primarily hedonic — and fragile under adversity.
 
-→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
+→ Full content: [Eudaimonic vs hedonic frame, with full comparison table](references/ikigai-deep-dive.md)
 
 ### The Ikigai Depth Exercise: Three Domains
 
@@ -147,27 +138,35 @@ The other frameworks in this skill map onto ikigai's dimensions:
 
 → Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
+
+### The Five Dimensions of Ikigai — Beyond the Venn Diagram
+
+The popular four-circle ikigai diagram is a Western invention. The more useful frame comes from Japanese longevity research and the Blue Zones project, identifying **five dimensions** that distinguish people with strong, durable purpose:
+
+**1. Self (Jiko, 自己):** What you do that makes you feel genuinely alive — not entertained or validated, but alive. A specific activity where time disappears and you feel most like yourself. For most people this is a craft, a practice, or a form of creative work that has nothing to do with career.
+
+**2. Health (Kenko, 健康):** A body that allows you to show up. Not athletic performance — basic physical capacity. Blue Zones research shows that physical capability in the 60s and 70s predicts whether purpose remains accessible or becomes theoretical. Purpose requires a body that can execute.
+
+**3. Environment (Kankyō, 環境):** The physical and social contexts where you spend your time. Okinawa elders have specific places they return to — a garden, a café, a walking path. These places anchor identity. People in stimulating environments develop more varied and resilient purpose than people in depleted ones.
+
+**4. Social (Shakai, 社会):** The quality of your relationships and your contribution to others. The strongest ikigai predictors in longevity research: having someone to wake up for, and having something to contribute beyond yourself. Social ikigai is the most reliable source — but only when genuine, not performed.
+
+**5. Legacy (Keishin, 精神):** What you leave behind. Not monuments — small transmissions. Teaching someone what you know, modeling a way of being, contributing to something that outlasts you. Legacy doesn't require fame; it requires intention. The question: who will remember you, and for what?
+
+**The Balance Question:** Most people over-index on one or two dimensions and neglect others. The most common imbalance: strong Self, weak Social. The highest ikigai scorers in the Blue Zones had all five dimensions activated — not in equal measure, but all present. Which of the five is most neglected in your current life?
 → Related: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
 
 ### Ikigai Across the Life Stages
 
-Yukio Kondo's research identifies distinct ikigai patterns across life stages:
+Kondo's four-stage model maps how ikigai shifts across life. Social ikigai dominates in the 20s–30s. Non-social ikigai deepens through the 40s–50s. The highest ikigai ratings in Japanese studies are typically in the 70s+ — purpose has become externalized, pointing toward what survives the person.
 
-**Stage 1 (20s–30s): "Seeking"** — Social ikigai dominant. The person who fails and recovers in their 20s builds more durable purpose than one who succeeds without failure.
-
-**Stage 2 (30s–50s): "Building"** — Non-social ikigai deepens. Still asking "what should I do" in your 40s usually means commitment was avoided.
-
-**Stage 3 (50s+): "Harvesting"** — Social and non-social ikigai converge. Ikigai strengthens with age when cultivated — weakens when neglected.
-
-**Implication:** There is no single "right time." Each stage has its own dominant form.
-
-→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
+→ Full content: [Lifespan stages — Stage 1 seeking through Stage 4 transmitting](references/ikigai-lifespan-stages.md)
 
 ### The Neuroscience of Ikigai
 
-Katameya's neuroimaging studies on adults with strong daily ikigai practices found increased prefrontal cortex activation — sustained attention, stress recovery, and goal-directed behavior are all prefrontal functions. The DMN (default mode network), associated with rumination and self-referential anxiety, shows reduced baseline activation in people with clear daily purpose. The mechanism: daily purposeful engagement reduces idle self-referential time available for the anxiety loop.
+Katameya's neuroimaging found increased prefrontal cortex activation and reduced DMN (rumination network) baseline in adults with strong daily purpose practices. Hayashi's longitudinal research: ikigai's health effects compound over decades — lower allostatic load, sustained dopamine, better sleep. The daily practice at 45 produces real brain changes. Waiting until you're "certain" costs compounding benefit.
 
-Hayashi's longitudinal research found ikigai's health effects compound over decades — cumulative stress reduction (lower allostatic load) affects immune function and neural preservation. Starting a daily purpose practice at 45 produces real brain changes. Waiting until you're "certain" costs you compounding benefit.
+→ Full content: [Neural mechanisms — prefrontal activation, DMN suppression, allostatic load](references/ikigai-neuroscience.md)
 
 ### Anti-Social Ikigai: From Naming to Redirecting
 
@@ -182,6 +181,28 @@ Anti-social ikigai is present when "what would success look like?" includes some
 3. **Test at 90 days.** Does the energy still mobilize? Does it produce something pointable-to? Does it feel less defended, more generative? If it still feels like proof, the channeling is incomplete.
 
 White's research on achievement motivation: "proving" goals and "developing" goals produce similar short-term effort but diverge sharply under failure. Proving goals produce anxiety. Developing goals produce engagement. When you fail, do you want to prove yourself harder, or understand what happened and get better? The second response is evidence of generative purpose.
+
+### The Ikigai Audit: Three Questions for Daily Practice
+
+The Blue Zones research on Okinawan elders provides the most concrete behavioral description of ikigai in practice. Unlike abstract "purpose discovery," the Okinawan approach treats ikigai as a daily behavioral routine — something you do, not something you find.
+
+**Question 1: What did I do today that made getting up worth it?**
+
+Not what did you plan, not what you meant to do — what did you actually do? The Okinawan practice is specifically: before bed, reflect on one concrete thing you did that had value beyond your own consumption. The moai (lifelong peer groups) compounds this — when 10 people do this daily for 40 years, the social reinforcement makes the practice durable in a way individual intention cannot.
+
+**Question 2: What small thing am I avoiding that I keep returning to?**
+
+The thing you defer but that draws you back is a signal, not a coincidence. The Okinawan concept of ikigai is sustained through attention to what you keep coming back to — not through dramatic single decisions. The pattern of return is the evidence.
+
+**Question 3: Who would notice if I stopped?**
+
+Social ikigai requires witness — other people who experience value from your existence. This question surfaces the social dimension directly. If no one would notice, the current expression of your ikigai may be too private or too unexpressed. If many people would notice, that's data about where your social ikigai lives.
+
+> The Blue Zone finding: elders in Okinawa who practiced daily ikigai (defined as answering Question 1 daily) had statistically significant longevity advantages over those who did not — controlling for diet, genetics, and exercise. The practice itself is the intervention, not the content of the answer.
+
+→ Full content: [Okinawa moai groups, hara hachi bu, daily ikigai practice, Blue Zones research](references/ikigai-blue-zones.md)
+
+→ Full content: [Lifespan stages — how ikigai shifts from seeking to transmitting](references/ikigai-lifespan-stages.md)
 
 ---
 
@@ -374,8 +395,6 @@ PTG is relevant when someone is in or recently emerged from a significant crisis
 
 > That guilt is the collision between grief and growth. Both are real. The growth does not mean you wanted the trauma. It means something grew inside the space the trauma created.
 
-→ Full content: [references/ptg.md](references/ptg.md)
-
 ## Motivation: The Real Problem
 
 Lack of purpose often looks like lack of motivation. But they are not the same thing.
@@ -394,12 +413,22 @@ The trick: once you start, you usually keep going. The resistance is to the *beg
 
 You do not lack discipline. You are surrounded by environments that make the default choice the easy, draining one.
 
-- **Remove friction** from the actions that matter (leave your book open on the desk, not in a bag)
+- **Remove friction** from the actions that matter (leave your book open on the desk)
 - **Add friction** to the time-sinks (phone in another room, social apps deleted)
 - **Sleep first** — many motivation problems are sleep problems in disguise
 - **Move your body** — even a 20-minute walk beats any productivity system
 
----
+### The Identity Gap
+
+Most motivation hacks work briefly before the underlying pattern reasserts. The real issue is usually not "how do I get motivated?" but "what am I motivated *toward*?"
+
+Robert Kegan described this as the "identity transition" problem: when you're between identities (leaving who you were, not yet who you'll be), motivation is naturally low.
+
+**The practical implication:** Start before you feel ready — in the direction that seems most alive — and motivation will follow. The identity you are becoming only emerges through acting as if you already are that person.
+
+### The Engagement Trap
+
+People who feel unmotivated are often experiencing disengagement from a life that doesn't fit — not a motivation deficit. Avoidance is information. The question to ask: what am I actually avoiding? Getting past the first 2 minutes gets you into the activity, which often reveals the problem was starting, not doing.
 ## Framework: Career Capital Theory (Cal Newport)
 
 Cal Newport's career capital framework (*So Good They Can't Ignore You*) attacks the "follow your passion" myth: passion follows competence, not the other way around. The most successful people — writers who love writing, doctors who love medicine — almost never started out passionate. They got good first.
@@ -609,97 +638,35 @@ The purpose-finder's key lever: **don't ask "what should I care about?" Ask "whe
 
 James Clear's *Atomic Habits* reframes purpose not as a single discovery but as the result of hundreds of small decisions that gradually prove a new identity to yourself. The key insight: **you do not change what you do until you first change who you believe you are.**
 
-### The Three Layers of Behavior Change
+The core move: **identity first, then evidence.** Traditional goal-setting sets a goal and hopes identity follows. Clear reverses this: prove the identity through daily votes, and the identity produces consistent action.
 
-Clear organizes behavior change into three concentric layers:
+The **builder identity** (I engage, I build, I contribute) puts purpose in the present — demonstrated through daily practice. The **finder identity** (I am looking for my calling; once I discover it, I will act) puts purpose in the future, always deferred. The builder identity is available immediately, regardless of whether someone has identified a specific calling.
 
-1. **Outcomes** — how your life looks (the outer layer most people focus on)
-2. **Processes** — what you do (habits, routines, systems)
-3. **Identity** — who you believe you are (the deepest layer, which drives everything else)
+**The two-stage exercise:** (1) Define the identity you are moving toward: *who do you want your best friend to describe you as a year from now?* (2) Prove it daily through small votes — actions that are *votes*, not effort.
 
-Most people try to change their outcomes (lose weight, make more money, find meaning) without touching identity. They set goals instead of building systems. The problem: outcomes are downstream of identity. If you do not believe you are the type of person who acts with purpose, you will not consistently act with purpose — no matter how compelling the goal.
+For people from **family-of-origin systems** where a separate self was structurally difficult to form (enmeshment, codependency, parentification), standard identity work has a hidden prerequisite: the person needs enough of a self to want things before they can build identity around them. The diagnostic: if the best-friend exercise produces an answer that sounds like what someone else needed, they may be building identity around the adaptation rather than the genuine self.
 
-> **"Every action you take is a vote for the type of person you wish to become."** — James Clear
+→ Full content: [Identity habits reference](references/identity-habits-purpose.md) — full framework, family-of-origin complications, conversation scripts.
 
-The cumulative effect of these votes — cast daily through small actions — is not motivation. It is identity. And identity is what purpose looks like from the inside.
+### Conversation Scripts
 
-### Identity First, Then Evidence
+**"I don't know who I want to become":**
+> Who do you want your best friend to describe you as, a year from now? Not what you want to have — who do you want to be? Start there. We'll find the behaviors that cast votes for that identity.
 
-Traditional goal-setting says: *set a goal → take action → become someone different.* Clear's model reverses this: *become someone → take actions that prove it → the evidence accumulates.*
+**"I keep quitting things":**
+> Quitting after 3 days is not a verdict — giving up before evidence accumulates. Give an experiment 30 days before deciding it's not you.
 
-This matters for purpose-seekers because:
+**"I'm waiting for motivation":**
+> You don't wait to feel like a runner before you run — you run, and the running proves you're a runner. The identity follows the action.
 
-- **Purpose feels like identity, not a goal.** When people say "I found my purpose," they are describing a relationship with their work that feels essential to who they are — not a milestone they reached. That relationship is built through daily practice, not a single revelation.
-- **Identity provides continuity.** Goals can be achieved and then abandoned. Identity is something you *are* — it persists across individual wins and losses and gives actions coherence over time.
-- **Identity reduces decision fatigue.** If "I am a person who builds things" is part of your identity, you do not have to re-motivate yourself every morning. The identity does the driving.
+**"I tried everything and nothing stuck":**
+> Trying everything suggests you're a person who experiments. The question is: what did you try consistently for 30 days?
 
-### The Two-Stage Identity Exercise
-
-**Stage 1: Define the identity you are moving toward.**
-
-Before asking "what should I do with my life?" ask: "who do I want to become?" This is not a goal — it is a direction. Some people know this instinctively. Many do not. A useful prompt:
-
-> *If your best friend described you a year from now, what would you want them to say about who you are — not what you have achieved?*
-
-Write 2-3 sentences. Not "I want to be a writer" (outcome) but "I want to be someone who makes things, who notices what needs fixing, who contributes something real" (identity).
-
-**Stage 2: Prove it with small votes.**
-
-Every day, cast small votes for that identity:
-
-- Want to be a person who creates? Today: write 200 words. It does not matter if they are good.
-- Want to be a person who helps people? Today: actually listen to someone fully before offering advice.
-- Want to be a person who grows? Today: do one thing that is slightly uncomfortable.
-
-One day is nothing. Thirty days is a pattern. A year is a proof. The accumulation of small votes is what gradually convinces your nervous system that you are someone different — and that shift in self-perception is what purpose feels like.
-
-### Building Identity Around Emerging Purpose
-
-The practical challenge: what if you do not know your purpose yet? You cannot build identity around something you have not identified. Clear's framework addresses this by separating *identity discovery* from *identity building*:
-
-**While discovering:** Build generic-purpose identity habits — the habits of someone who is curious, who experiments, who shows up consistently. "I am a person who tries things" is a valid identity even before you know what specific form your purpose takes.
-
-> Someone who identifies as a person who experiments is already practicing the core skill that leads to purpose: sustained engagement with novelty.
-
-**When something clicks:** When a micro-experiment produces a spark — flow, energy, the sense of "I could get good at this" — begin building domain-specific identity around it. The transition from "I experiment" to "I make things" to "I am a maker" happens incrementally as evidence accumulates.
-
-### The Purpose-Pattern Identity
-
-Across Clear's framework and purpose research, people who find lasting direction tend to share a common identity pattern: they see themselves as **people who make something happen** rather than people who are *looking for* something. The difference:
-
-- **Finder identity:** I am looking for my calling. Once I discover it, I will act.
-- **Builder identity:** I am a person who engages, who builds, who contributes.
-
-The finder identity puts purpose in the future — it is always being searched for, never possessed. The builder identity puts purpose in the present — it is demonstrated through daily practice.
-
-> The goal is not to find your purpose. The goal is to become someone who practices purpose daily — and the identity of "person who practices purpose" is available to everyone, regardless of whether they have identified a specific calling yet.
-
-### Using Identity Frameworks in Conversation
-
-**When someone says "I don't know who I want to become":**
-> Who do you want your best friend to describe you as, a year from now? Not what you want to have — who do you want to be? Start there, and we'll find the behaviors that cast votes for that identity.
-
-**When someone keeps quitting things:**
-> Quitting after 3 days is not a verdict — it's giving up before the evidence can accumulate. Identity requires consistency. Give an experiment 30 days of real effort before deciding it isn't you.
-
-**When someone is waiting for motivation:**
-> Motivation is a vote you cast for an identity. But you don't wait to feel like a runner before you run — you run, and the running gradually proves you're a runner. The identity follows the action.
-
-**When someone says "I tried everything and nothing stuck":**
-> Trying everything is actually a pattern — and it suggests you're a person who experiments. The question is not "what did you try?" It's "what did you try consistently for 30 days?" Most things people call "I tried X" lasted 2-3 days before being abandoned.
-
-**When someone feels their purpose keeps changing:**
-> That is not a bug — it is often evidence that you are a person who grows and adapts. Some of the most purposeful people in history changed directions multiple times. The thread connecting your changes is more interesting than any single one of them.
-
-### Atomic Habits and Purpose: Key Takeaways
-
-- Purpose is not found. It is the residue of a hundred small actions that prove an identity.
-- Start with the identity, not the outcome. Who do you want to be? Then ask what votes cast for that person look like.
-- Do not wait to feel like a different person before acting like one. The action precedes the identity — not the other way around.
-- Build habits that are *votes*, not *effort*. Small, consistent actions accumulate into identity in ways that heroic but irregular effort cannot.
-- If you do not know your purpose yet, build the identity of a person who experiments, engages, and shows up. That identity is itself a form of purpose.
+**"My purpose keeps changing":**
+> That is often evidence you are a person who grows and adapts. The thread connecting your changes is more interesting than any single one.
 
 ---
+
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
 
@@ -766,6 +733,46 @@ Money is a tool for sustainability — a way to keep doing what matters without 
 **Monetization without selling out:** Define what you will not do for money before you start making any. Purpose that can't survive contact with money wasn't purpose — it was a hobby. But purpose that sells out to survive isn't purpose either.
 
 **"I'm not expert enough to charge":** You don't need to be the world's best. You need to be one step ahead of someone who's stuck where you were. The person who just figured something out often teaches it better than the expert who's forgotten what it was like to not know.
+
+### The 1000 True Fans Threshold
+
+Kevin Kelly's "1000 true fans" framework: you do not need millions of people. You need 1,000 people who genuinely love what you do and will pay $100/year for access to more of it. That is $100,000/year — sustainable for one person, transformative for most.
+
+**A true fan** is not a casual follower. It is someone who will buy everything you make, recommend you to everyone they know, and feel genuinely richer for having your work in their life. This requires depth, not breadth. Most people who fail at monetization are trying to appeal to everyone. Purpose-driven work earns money by being deeply useful to a specific group — then expanding from there.
+
+### Audience-First vs. Build-and-Hope
+
+The most common failure mode: build something with no audience, hope people show up. The "build it and they will come" myth destroys more purpose-driven projects than any other cause.
+
+| Build-and-Hope | Audience-First |
+|---|---|
+| Build the thing first | Find the people first |
+| Try to find customers | Learn what they need |
+| Hope they come | Build the thing for them |
+| High risk, no feedback | Low risk, continuous signal |
+
+The audience-first approach means: start doing the work in public, build relationships with people who care about what you care about, then create what they actually need. This is uncomfortable for people who want certainty before committing. But people who build in public find their direction faster than people who build in private.
+
+### Pricing Without Apology
+
+When you do start charging, price for the value you provide, not for your insecurity. A $50 course that changes someone's life is underpriced. A $500/month coaching engagement that delivers measurable outcomes is fairly priced.
+
+**The pricing spectrum:**
+- **Craftsman:** hourly or per-project, raise as reputation grows, always be closing at higher price points
+- **Audience:** free content builds trust → paid products/courses/community, price based on transformation not time
+- **Creator:** subscriptions and memberships, lower per-unit price but recurring revenue, price for belonging not content
+
+### What to Do When You Feel Like a Fraud
+
+The "imposter" feeling is not a signal that you shouldn't charge — it is the tax on doing anything worth doing. The person who just figured something out teaches it better than the expert who's forgotten what it was like to not know. You are not claiming to be the world's best. You are claiming to be one step ahead of someone stuck where you were. That is true, and it is enough.
+
+**Warning signs that monetization is distorting purpose:**
+- Creating content that doesn't resonate because you're optimizing for clicks or likes
+- Offering services that drain you because they pay well
+- Performing a version of yourself that feels false because it sells better
+- Saying yes to things that pay but actively make you worse at the thing you care about
+
+If any of these are true, pause and redefine your "what I will not do for money" line before continuing.
 
 → Full content: [references/monetizing-purpose.md](references/monetizing-purpose.md)
 
@@ -851,30 +858,22 @@ Most purpose stories told in retrospect look clean. The actual lived experience 
 ---
 ## Framework: Founder Mode — How Builders Find Direction
 
-Brian Chesky's 2024 essay described how founders who stay close to the work — the product, customers, frontline decisions — find direction through iteration rather than planning. The deeper insight: the process of building is a purpose discovery mechanism. Founders rarely know what they're building at the start. They stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement.
+Brian Chesky's 2024 essay described how founders who stay close to the work find direction through iteration rather than planning. The process of building is a purpose discovery mechanism. Founders stay close to the work, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement — not through planning.
 
 ### Three Principles
 
-1. **Stay close to the work.** The closer you stay to the actual problem — not the org chart, not the title — the more you learn about what you genuinely care about. Direction is found in depth, not elevation.
-2. **Iterate toward what resonates.** Build something, watch what happens, adjust. The adjustment is not failure — it is information. Stop asking "what should I build?" Ask "what have I built that people responded to?"
-3. **Unfinished is not wrong direction.** Most people in the middle of building interpret uncertainty as proof they should stop. MVP of Self: audit existing skills, test one feature at the edge of your ability, measure whether it makes you feel capable and whether others find it valuable.
+1. **Stay close to the work.** The closer you stay to the actual problem — not the org chart, not the title — the more you learn about what you genuinely care about.
+2. **Iterate toward what resonates.** Build something, watch what happens, adjust. The adjustment is not failure — it is information.
+3. **Unfinished is not wrong direction.** Most people in the middle of building interpret uncertainty as proof they should stop. The evidence: are you building something that produces a response?
 
-### Tactics
+### Personal Application
 
-- **Write your job description from scratch** — what you actually do when engaged. Compare to your official one. The gap is information.
-- **Identify what you can't stop thinking about** — that recurring obsession is closer to your direction than any career goal.
-- **Give yourself a 90-day check-in, not a daily evaluation** — daily evaluation produces paralysis.
-- **Track the pattern across what you built, not what you planned** — what shows up repeatedly?
-- **Ship one small thing and watch what happens** — a thing, not a plan. Show it to someone who tells the truth.
-
-### The MVP of Self
-
-You are already an MVP. Audit your existing skills and patterns before building anything new. Add a feature, not a whole product: try one new kind of project, community, or collaboration. Measure: did this make me feel capable? Did others find value? Ship → observe → iterate.
-
-> The founder who builds three failed products and finds the fourth has more durable direction than the person who planned carefully and found the result hollow.
+- **Audit your MVP of self:** What skills do you already have? What would you build if you added one feature to yourself?
+- **Find the obsession:** What problem do you return to even when you shouldn't? That recurring pull is closer to your direction than any planned career path.
+- **90-day check-in, not daily:** Daily evaluation produces paralysis. Track patterns across months, not hours.
+- **Ship one small thing:** Build → show someone honest → observe → iterate.
 
 → Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
-
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
 SDT identifies three **universal psychological needs** that must all be met simultaneously for purpose:
