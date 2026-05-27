@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.84.0
+version: 1.85.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -201,8 +201,17 @@ For the average person using this strategy: maintain a buffer. Don't borrow the 
 2. **Never sell to fund lifestyle.** If you must liquidate, sell the lowest-conviction position first. Hold your highest-conviction positions as long as possible — the compounding on shares you never sold is worth more than any tax saved.
 
 3. **Time major tax events around liquidity.** If you know options are vesting or shares are vesting, plan for the tax bill before it arrives. Don't let a liquidity event surprise you into selling at an inconvenient time.
+### The Execution Intensity Principle
+
+Musk's actual competitive advantage is not intelligence — it is the willingness to sustain extreme effort during the critical window of a new technology. He describes it as *"working like hell"* during periods where the outcome is still uncertain. The insight for wealth-builders: **the highest-return periods of your life are when you are most uncertain about whether the effort is worth it.** These are the invisible years where compounding hasn't started yet — and most people underinvest during exactly this period.
+
+1. **Identify your window of maximum leverage.** For Musk, it was when SpaceX had failed three times and Tesla hadn't shipped yet — maximum uncertainty, maximum potential. For you: the first 2-3 years of a new skill, business, or investment strategy is this window.
+2. **Front-load effort into the uncertain period.** The return on effort is highest before anyone else can see the outcome. After the market has priced in success (when it's obvious), the return on additional effort drops.
+3. **Sustain, don't sprint.** The 120-hour weeks are a symptom of passion, not a prescription. The real principle: *don't stop investing in your highest-conviction opportunity just because the early results are invisible.*
+
 
 4. **Frugality is leverage.** Musk's nearly-zero personal consumption means his entire equity compounds uninterrupted. For normal earners: the less you spend relative to income, the larger the fraction that compounds. A $200K earner who spends $100K and invests $100K builds wealth differently than one who spends $180K and invests $20K.
+
 
 → Full content: [references/musk-frameworks.md](references/musk-frameworks.md)
 ## Bezos-Style Wealth Building: Long-Term Thinking and Compounding
@@ -434,6 +443,29 @@ A solo founder with AI agents now does what previously required a team of 10. Th
 
 > *"The AI revolution transfers wealth from the indecisive to the decisive — the person who commits to a 10-year path with specific knowledge and AI leverage compounds at rates that make previous generations' returns look slow."*
 
+### Naval's Happiness Principles: The Other Half of Wealth
+
+Naval defines happiness as the space between expectations and outcomes. The formula: **happiness = outcomes − expectations**. When expectations are near zero, even modest outcomes produce contentment. When expectations are infinite, outcomes feel like failure regardless of what you achieve.
+
+**The four agreements applied to wealth:**
+- **Be impeccable with your word** — every financial promise you make either builds or destroys your reputation as an counterparty
+- **Don't take anything personally** — a market crash doesn't care about your feelings; a rejection doesn't define your worth
+- **Don't make assumptions** — always verify financial claims rather than assuming the "expert" is right
+- **Always do your best** — consistent small actions compound; perfection is the enemy of the "good enough" that builds wealth over decades
+
+**Naval on reading as wealth-building:** Naval reads for 2-3 hours daily — philosophy, science, history. His argument: reading is the only way to acquire specific knowledge without a formal apprenticeship. The books that compound wealth-building: psychology (understanding human behavior), finance (how capital actually works), history (how systems repeat).
+
+**The Airchat milestone (2023):** Naval co-founded Airchat in 2023 — a voice-first social platform with AI transcription. For a man who built AngelList, Airchat represents a new form of leverage: one person's voice, broadcast globally, with AI removing the friction of writing. The platform reflects Naval's core thesis — judgment, voice, and specific knowledge scaling without permission.
+
+**Naval's updated 10-step wealth path:**
+1. Build specific knowledge (feels like play to you, looks like work to others)
+2. Learn to sell and create belief (negotiation + communication)
+3. Acquire leverage (code, media, capital, labor — in that order of accessibility)
+4. Set accountability (public commitments increase follow-through)
+5. Primordial: if you have specific knowledge + accountability + leverage, you're already wealthy; now protect and compound
+
+**The Naval script for financial decisions:** *"Will this decision still feel right in 10 years? If yes, act. If not, don't."*
+
 **Metastable Capital and Naval's diversified investing framework:**
 
 
@@ -526,65 +558,8 @@ The most powerful tax move is increasing income — higher earners have access t
 
 This section covers the tax strategies that matter most once you're earning significant income or building meaningful assets. Each is legal, well-established, and dramatically underused by people who don't know they exist.
 
-### Backdoor Roth: The Loophole Congress Didn't Close
-
-The Backdoor Roth is a two-step process that lets you contribute to a Roth IRA even when your income exceeds the direct-contribution limit ($161K for single filers, $240K for married in 2026):
-
-1. **Contribute to a Traditional IRA** (no income limit on contributions, only on deductions) — $7,000/year ($8,000 if over 50)
-2. **Convert to Roth IRA** — Pay ordinary income tax on the amount converted; future growth is tax-free forever
-
-**The math:** If you convert $7,000/year at your current marginal rate (say, 24%), you pay ~$1,680 in taxes. That $7,000 growing at 10% for 30 years becomes ~$122,000 — all tax-free, not just the gains, the entire amount. The conversion cost is a one-time premium for permanent tax-free compounding.
-
-**The pro-rata rule (the catch):** If you have existing Traditional IRA balances (including SEP-IRAs and simple IRAs), the conversion is taxed proportionally across all IRA accounts. The fix: retire or roll old IRA balances into a 401(k) before doing the backdoor — this removes them from the pro-rata calculation.
-
-### Tax-Loss Harvesting: Realize Losses Without Changing Your Strategy
-
-Tax-loss harvesting (TLH) is selling an investment at a loss to offset capital gains — reducing your tax bill without changing your actual portfolio strategy. It's one of the few techniques that improves your tax efficiency without altering your investment approach.
-
-**The rules:**
-- Short-term losses (held <1 year) offset short-term gains first, then long-term gains
-- Long-term losses offset long-term gains first, then short-term gains
-- Net losses up to $3,000/year can offset ordinary income
-- Excess losses carry forward indefinitely
-
-**The common mistake:** Wash sales. You cannot buy a "substantially identical" security within 30 days before or after selling at a loss. The workaround: sell VTI, buy VXUS (different enough); or sell, wait 31 days, repurchase.
-
-**The script:** "TLH is like finding money the IRS owes you — it doesn't change your portfolio, it just adjusts the tax treatment. Set a calendar reminder each November to review holdings for unrealized losses."
-
-### QSBS (Section 1202): The 10x Tax Break for Startup Investors
-
-Qualified Small Business Stock (QSBS) under Section 1202 offers potentially transformative tax benefits: **100% exclusion of gains** on the sale of qualified small business stock acquired after September 27, 2010 and held for more than 5 years.
-
-**Qualification requirements:**
-- C-corporation only (S-corps and LLCs don't qualify)
-- Active business with $50M or less in gross assets
-- Must be a US operating company in qualified trades (most except real estate, finance, professional services)
-- Hold period >5 years
-
-**The benefit:** If you invest $100,000 in a qualifying startup and it grows to $1,000,000, you pay **zero** federal capital gains tax on the $900,000 gain. For a founder or early employee, this can be worth millions.
-
-**The risk:** Most startups fail. QSBS only matters if the company succeeds. Don't invest specifically for QSBS — invest in companies you'd back regardless.
-
-### The Donor-Advised Fund: Charity Without the Annual Headache
-
-A Donor-Advised Fund (DAF) lets you contribute assets (cash, appreciated stock, real estate), take an immediate deduction at the full fair-market value, then distribute grants to charities over time — on your own schedule.
-
-**Why it's powerful:**
-- **Immediate deduction at full FMV** — Contribute appreciated stock held 1+ year, deduct the full current value, never pay capital gains
-- **Flexible timing** — Fund now, grant to charity whenever you choose
-- **Anonymity** — Grants can be anonymous; your favorite charity won't spam you
-
-**The numbers:** Donating $10,000 of stock with a $2,000 cost basis (worth $10,000 today) to a DAF saves ~$1,860 in federal taxes (at 24% bracket). That $10,000 goes to charity in full. Selling it and donating cash would trigger $1,860 in capital gains taxes first.
-
-### Estate Planning and Trust Structures: Control Beyond Death
-
-Estate planning is not about death — it's about control over where your assets go during life and after. The core vehicles: revocable living trusts (avoids probate, administrative convenience), irrevocable life insurance trusts (removes insurance proceeds from the taxable estate), and annual exclusion gifts ($18,000/year per recipient without filing in 2026).
-
-For significant wealth, grantor trusts and Intentionally Defective Grantor Trusts (IDGTs) are the most powerful structures — Buffett's Berkshire uses them. An IDGT lets you sell assets to the trust at fair market value; the trust grows faster than the IRS AFR loan rate, and the spread compounds tax-free outside your estate. The grantor (you) pays income taxes on trust income — which is the gift, because you're reducing the trust's tax burden from personal funds so it grows faster.
-
 → Full content: [references/tax-optimization-deep-dive.md](references/tax-optimization-deep-dive.md)
 → Full content: [references/trust-wealth-planning.md](references/trust-wealth-planning.md)
-
 ## Real Estate: Leverage, Cash Flow, Tax Benefits, Appreciation
 
 Real estate combines four mechanisms — **leverage** (borrow 70-80% at 5-7% over 15-30 yrs), **cash flow** (rent minus all expenses, with your tenant paying down your mortgage each month), **tax benefits** (depreciation, deductions, 1031 Exchange to defer capital gains by reinvesting within 180 days), and **appreciation** (3-5%/yr growth in most US markets). Wealth is built over 10-20 years through all four working at once.
