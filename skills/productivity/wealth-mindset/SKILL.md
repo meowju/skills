@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.85.0
+version: 1.86.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -136,19 +136,18 @@ Musk makes big decisions quickly and commits fully. His motto for X/Twitter: "Mu
 
 **4. Iterate Fast on Small Stakes:** Ship, see what breaks, fix, ship again. Take small, reversible financial risks early while downside is limited. Managing money prepares you to manage more.
 
-### Musk's Crisis Decision-Making
+### Musk's Crisis Decision-Making: The Critical Inflection Point
 
-During Tesla's 2008 production hell and SpaceX's early rocket failures — when most entrepreneurs quit — Musk doubled down. He took personal loans, slept on factory floors, and kept going.
+Musk's defining wealth moment: 2008 — Tesla near-bankrupt, SpaceX had failed three launches. Most investors quit. He doubled down — working 120-hour weeks on factory floors, taking personal loans.
 
 > *"When something is important enough, you do it even if the odds are against you."*
 
-**The wealth-building applications:**
+**The applications:**
+- The "almost gave up" moment is the real wealth inflection point. Most people quit the month before their breakthrough.
+- **The 1% test:** Ask "Is this right, or just comfortable?" Comfortable decisions rarely compound.
+- **Full commitment beats partial commitment by 10x.** 90% vs 100% over 10 years compounded isn't 10% more — it's 10x more.
 
-- **The "almost gave up" moment is often the real inflection point.** Most people quit just before their biggest breakthrough. Grit through the valley of despair is the actual competitive advantage.
-- **The 1% test:** Before major financial decisions, ask: "Am I doing this because it's correct, or because it's comfortable?" Comfortable decisions rarely build extraordinary wealth.
-- **No off-switch:** Musk doesn't partially commit. For your wealth: 100% vs 90% commitment over 10 years isn't 10% more result — compound returns make it 10x more.
-
-The pattern: Musk treats every major decision as a bet on a future most people can't see yet. This requires tolerance for social rejection, financial risk, and sustained isolation in conviction. These are learnable — 练 them on small stakes first.
+→ Full content: [references/musk-frameworks.md](references/musk-frameworks.md)
 
 ### Musk on Money (Direct Quotes)
 
@@ -190,9 +189,11 @@ For context: the wealthiest Americans often pay effective rates in single digits
 
 ### The Margin Call Risk Nobody Talks About
 
-The danger of the stock-backed loan strategy is margin calls. If appreciated shares fall more than 50%, lenders can demand repayment. Musk experienced this during Tesla's 2022 decline — Tesla dropped roughly 70% from its peak, and his margin positions were reportedly stressed. His response: borrow more against other assets, never sell shares.
+Borrowing against appreciated stock: a >50% drawdown triggers forced liquidation. Musk survived Tesla's 2022 crash (–70%) through borrowing more against other assets — never selling core positions. His response to every margin stress: more collateral, never a sale at the bottom.
 
-For the average person using this strategy: maintain a buffer. Don't borrow the full margin value — borrow 30–50% of your stock's value so a normal correction doesn't trigger a margin call. The goal is to never be forced to sell during a downturn.
+**The buffer rule:** Borrow 30–50% max of your stock value. A normal correction shouldn't trigger a margin call.
+
+→ Full content: [references/musk-frameworks.md](references/musk-frameworks.md)
 
 ### Tactical Takeaways From Musk's Capital Structure
 
@@ -205,15 +206,33 @@ For the average person using this strategy: maintain a buffer. Don't borrow the 
 
 Musk's actual competitive advantage is not intelligence — it is the willingness to sustain extreme effort during the critical window of a new technology. He describes it as *"working like hell"* during periods where the outcome is still uncertain. The insight for wealth-builders: **the highest-return periods of your life are when you are most uncertain about whether the effort is worth it.** These are the invisible years where compounding hasn't started yet — and most people underinvest during exactly this period.
 
-1. **Identify your window of maximum leverage.** For Musk, it was when SpaceX had failed three times and Tesla hadn't shipped yet — maximum uncertainty, maximum potential. For you: the first 2-3 years of a new skill, business, or investment strategy is this window.
-2. **Front-load effort into the uncertain period.** The return on effort is highest before anyone else can see the outcome. After the market has priced in success (when it's obvious), the return on additional effort drops.
-3. **Sustain, don't sprint.** The 120-hour weeks are a symptom of passion, not a prescription. The real principle: *don't stop investing in your highest-conviction opportunity just because the early results are invisible.*
+1. **Identify your window of maximum leverage.** For Musk: when SpaceX had failed three times and Tesla hadn't shipped yet — maximum uncertainty, maximum potential. For you: the first 2–3 years of a new skill, business, or investment strategy.
+2. **Front-load effort into the uncertain period.** The return on effort is highest before anyone else can see the outcome.
+3. **Sustain, don't sprint.** 120-hour weeks are a symptom of passion, not a prescription. *Don't stop investing in your highest-conviction opportunity just because the early results are invisible.*
+4. **Frugality is leverage.** Musk's nearly-zero personal consumption lets his equity compound uninterrupted. A $200K earner who spends $100K and invests $100K builds differently than one who spends $180K and invests $20K.
 
+**Talent as the real execution multiplier:** One exceptional engineer is worth 100x an average one — and the gap compounds over decades. At SpaceX, Musk personally recruited Tom Mueller (former TRW rocket engineer who knew fuel injection) by flying to his house and arguing for four hours. He convinced JB Straubel to join Tesla at half his market salary with the pitch that building electric vehicles could actually change the world. His recruitment logic: find people more passionate about the problem than the compensation. Equity upside multiplied by shared mission creates leverage no salary can match.
 
-4. **Frugality is leverage.** Musk's nearly-zero personal consumption means his entire equity compounds uninterrupted. For normal earners: the less you spend relative to income, the larger the fraction that compounds. A $200K earner who spends $100K and invests $100K builds wealth differently than one who spends $180K and invests $20K.
+**"Work for equity" at OpenAI and xAI:** Where Musk had no personal equity (OpenAI, 2015–2018), he poached Google and Berkeley researchers with an unusual non-profit equity structure. At xAI (2023–), he offered potential equity upside at SpaceX/spin-off valuations — talent willing to bet on his record at lower cash wages. The lesson: if you can't pay market rates, sell the mission and equity story. People who believe in the problem work harder and quit less.
 
+**Extreme ownership in practice:** During Tesla's 2008 production hell, Musk slept on the factory floor for weeks — personally diagnosing the robot arm timing issue slowing the line. At SpaceX, he reads every engineering review of rocket failures. His managers call him directly at 3 AM when something breaks. The wealth-building translation: if you're building something genuinely new, expect to own every part more deeply than convention suggests.
+
+**The SpaceX cost-structure lever:** Existing aerospace contractors had no incentive to reduce costs — government paid regardless. SpaceX's cultural insight: Musk made one metric visible to everyone — cost per kilogram to orbit — not just reliability. This created bottom-up pressure on every component. For your business: articulate one primary metric above all others and make it everyone's obsession.
+
+**The 2025 DOGE chapter:** In 2025, Musk served as de facto head of the Department of Government Efficiency (DOGE), applying the same operating logic to federal spending. The insight for wealth-builders isn't political — it's about identifying structurally over-resourced systems and finding the right leverage node to cut costs.
+
+**The Tesla Robotaxi inflection (2025–2026):** Tesla's $1 trillion pay package was tied to market cap milestones in autonomous driving and AI. Same Musk pattern: structure incentives around hard technical thresholds. The car-as-robotaxi concept — your Tesla generating income when you're not using it — is the largest single wealth multiplier available to Tesla shareholders.
+
+**Application to personal wealth:**
+- Choose one domain where you can be deeply technical, not broadly general
+- The first 2–3 years will look like underinvestment by most standards — that is the window of maximum leverage
+- Recruit partners more passionate about the problem than the payout
+- Track one metric obsessively and make it visible to your whole team
+
+The compounding return on excellence in a narrow domain beats broad competence every time.
 
 → Full content: [references/musk-frameworks.md](references/musk-frameworks.md)
+
 ## Bezos-Style Wealth Building: Long-Term Thinking and Compounding
 
 Jeff Bezos built Amazon from a garage startup to a multi-trillion dollar company over three decades. His core principle: **long-term compounding beats short-term optimization.** Every decision — staying private, reinvesting over taking profits, accepting decades of near-zero earnings — flows from this one idea.
