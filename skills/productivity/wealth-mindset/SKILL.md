@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.81.5
+version: 1.84.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -240,9 +240,15 @@ Most decisions are Type 2 (reversible, low stakes, 70% confidence). A few are Ty
 
 Bezos keeps an empty desk at Amazon HQ. No executive suite, no impressive office. The message: **trappings of success are Day Two symptoms.** When organizations build impressive spaces, they've implicitly decided the work is done. The desk is a daily visual reset.
 
-**Blue Origin: 50-Year Compounding**
+**Blue Origin: The 50-Year Infrastructure Bet**
 
-~$1B/year into Blue Origin with a 50-year infrastructure payoff. The principle: **the best investments require holding periods that feel professionally uncomfortable.** Most capital can't tolerate these horizons — that's what creates the opportunity. At personal scale: hold through crashes, reinvest dividends, choose compounding careers over maximizing current income.
+Bezos has invested approximately $1 billion per year into Blue Origin since 2000 — that's $25+ billion through 2025 — with a stated payoff horizon of 50+ years. Blue Origin's New Shepard suborbital vehicle first reached space in 2015 and made its first crewed flight in 2021, when Bezos himself flew on NS-16. The company's heavy-lift rocket New Glenn debuted in 2025.
+
+**The wealth-building lesson:** Infrastructure investments have the longest compounding periods of any asset class — and the least appreciation visible on quarterly statements. Blue Origin isn't expected to be profitable on any normal timeline. Yet the rocket and satellite launch market is projected to be worth $40B+ annually by 2030, and the company that built the launch infrastructure during the cheap-money era will own the pricing.
+
+**At personal scale:** Your "Blue Origin" is any skill, asset, or business where you invest consistently for a decade before expecting meaningful returns. A rental property portfolio, a professional network in a new industry, a software product you're building on nights and weekends — these all have multi-year compounding windows where the investment looks like it's doing nothing before the exponential payoff.
+
+**The script:** *"Is this investment aimed at a 10-year payoff? Then quarterly performance reports are noise, not signal."*
 
 **Amazon Compounding Math**
 
@@ -398,6 +404,38 @@ Naval identifies **judgment** as the most important skill in the information age
 **The Naval wealth formula:** *Specific Knowledge + Accountability + Leverage = Wealth*
 
 Without leverage, you trade time for money at best. With the right leverage applied to genuine specific knowledge and genuine accountability, you can build wealth at a rate that pure effort cannot match.
+
+
+### Naval's AI Era Thinking: Wealth in the Age of Automation (2023–2025)
+
+Naval's 2023–2025 thinking adds a new dimension: **judgment becomes more valuable as AI handles execution**. His core thesis: AI has commoditized knowledge — the scarce resource is knowing which problems are worth solving.
+
+> *"The people who win in the AI era are not those who learn to use AI tools — they're the ones who know which problems matter. AI can execute any instruction. It cannot tell you which instruction to give."*
+
+**Naval's updated leverage equation (2024):**
+
+A solo founder with AI agents now does what previously required a team of 10. The bottleneck is no longer execution — it's the quality of your judgment about *what* to build.
+
+- **Updated formula:** *Specific Knowledge + AI agents + 10-year commitment = compounding at rates that dwarf previous generations*
+- *"'Seek wealth, not money' still holds — but now add 'seek judgment, not just knowledge.' AI commoditizes information."*
+- *Reading has become MORE valuable. AI gives answers. Books give you the judgment to know which answers matter."*
+- *Health is now a financial asset. A person with 10 extra healthy years compounds longer than someone burned out at 50."*
+- *Sleep, diet, and exercise compound into cognitive edge that compounds into financial edge.*
+
+**On meaning and autonomy (Naval places above wealth):**
+
+> *"Freedom is the goal. Wealth is the means. Most people confuse the means for the goal and optimize for money instead of the life money was supposed to buy."*
+
+**For younger wealth-builders (Naval's 2024 update to his own advice):**
+
+> *"In 2019, I said learn to sell and learn to build. In 2024, I say: learn to use AI to amplify whatever you're already good at. The leverage changed. The principle — specific knowledge + long-term thinking — didn't."*
+
+**The patience reframe for the AI era:**
+
+> *"The AI revolution transfers wealth from the indecisive to the decisive — the person who commits to a 10-year path with specific knowledge and AI leverage compounds at rates that make previous generations' returns look slow."*
+
+**Metastable Capital and Naval's diversified investing framework:**
+
 
 → Full content: [references/naval-framework.md](references/naval-framework.md) — the complete Naval wealth frameworks: full tweet storm, judgment framework, specific knowledge formula, earn more than you bill, the Naval 10-step wealth path, emotional mastery, and reading as wealth-building tool.
 
@@ -1074,55 +1112,11 @@ If all three are yes, you have an activist thesis. If none are, you're a passive
 
 ## Unstoppable Execution: The Psychology of People Who Can't Be Stopped
 
-Some people build wealth faster than others — not because they have better ideas, but because they execute with a different quality of intensity. The difference between people who achieve extraordinary wealth and people who intend to is almost never talent or intelligence. It is the willingness to do what others refuse to do, repeatedly, for decades.
+Some people build wealth faster than others — not because they have better ideas, but because they execute with a different quality of intensity. The execution gap is not about intelligence; it's about consistency, durability, and self-awareness. The people who build real wealth execute correctly for longer than everyone else.
 
-### The Physics of Extreme Execution
+→ Full content: [references/power-execution-unstoppable.md](references/power-execution-unstoppable.md)
 
-Most people's relationship with effort is a negotiation. The wealthy execution mindset asks: *what is the maximum effort I can sustain without burning out, and how do I make that my baseline?*
-
-Musk slept on the Tesla factory floor for months during production hell and worked 120-hour weeks during SpaceX's early rocket failures. This is not about being superhuman — it is about having a goal so clear that the normal rules of comfort stop applying.
-
-**The wealth application:** Your income ceiling is almost always set by the quality of your execution, not the quality of your ideas. Most people have ideas that would work. They never execute because they negotiate with themselves about effort. The person who outexecutes you with a worse idea still wins.
-
-### Bezos's "Disagree and Commit"
-
-Bezos coined "disagree and commit" as a core Amazon operating principle: once a decision is made, everyone commits fully — even if they disagreed. No sabotage, no passive resistance, no "I told you so" if it fails.
-
-Most people sabotage their own wealth-building by being internally inconsistent — they decide to start a business, then second-guess it; commit to investing, then panic-sell; set a financial goal, then undermine it every time it gets uncomfortable. The fix: once you make a financial decision, commit fully. Update based on new information, but don't reverse just because of discomfort.
-
-### Extreme Ownership
-
-Jocko Willink's principle from *Extreme Ownership*: **you are responsible for everything in your life.** Not blamed — responsible. When you take full ownership of your financial situation, you stop waiting for permission, external validation, or perfect conditions.
-
-**The wealth application:** Not making enough? Responsible for fixing that. Not investing correctly? Responsible for learning. Setback happened? Responsible for recovering. If you are responsible, you are also powerful.
-
-Bezos's first company almost failed in the dot-com crash. He kept building. Musk's first three SpaceX rockets failed to reach orbit. The question is never "did this fail?" but "what does the failure teach me?"
-
-### Building Unbreakable Habits
-
-Wealthy people treat financial habits the way athletes treat training — not as optional extras but as the mechanism that makes everything else possible.
-
-Investing $500/month consistently for 30 years at 10% returns = ~$1.2 million. The person who earns more but spends everything will have less at 65 than the person who invests consistently. The keystone habit: automated investing on payday. Once that habit is set, everything else becomes easier.
-
-### The Rejection Tolerance Stack
-
-Musk was rejected by investors for SpaceX and Tesla repeatedly. Bezos was told Amazon would fail. The ability to keep going after being told no is about having a clear enough internal model of reality that external disapproval becomes less informative than your own analysis.
-
-**Build rejection tolerance:**
-1. **Separate signal from noise.** Rejection often says more about the rejecter than about you
-2. **Update, but don't abandon.** One no doesn't mean the entire market is wrong
-3. **Track attempts made, not rejections received.** Rejections are inputs to the process, not outcomes
-
-### The Compounding of Reputation
-
-Wealthy people protect their reputation like an asset. Bezos is known for customer obsession — not just a value, but a reputation that compounds. When you build a reputation for integrity, follow-through, and quality, those assets compound in relationships, business opportunities, and the willingness of people to bet on you.
-
-**The execution stack:** (1) Pick a problem worth solving for 10 years. (2) Commit to execution before you feel ready. (3) Build rejection tolerance. (4) Own everything in your financial life. (5) Automate the baseline. (6) Protect your reputation — it compounds faster than money.
-
-**The real pattern:** The people who build extraordinary wealth are rarely the smartest people in the room. They are the ones who won't stop.
-
----
-
+**The execution stack:** (1) Pick a problem worth solving for 10 years. (2) Commit to execution before you feel ready. (3) Build rejection tolerance. (4) Own everything in your financial life. (5) Automate the baseline. (6) Protect your reputation — it compounds faster than money. The real pattern: the people who build extraordinary wealth are rarely the smartest people in the room. They are the ones who won't stop.
 
 ## Verification Checklist
 
