@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.49.0
+version: 4.52.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -414,7 +414,6 @@ Post-Traumatic Growth (PTG): **30–70% of people who survive catastrophic event
 
 **The Anti-Nihilism Test (Frankl):** Does this meaning hold up under scrutiny, connect you to something real, and not require denying what happened? Growth integrates the experience.
 
-→ Full content: [references/ptg.md](references/ptg.md)
 → Full content: [references/ptg-deep-dive.md](references/ptg-deep-dive.md)
 
 ## Motivation: The Real Problem
@@ -491,111 +490,48 @@ Career capital is the pre-condition for autonomy. People who demand autonomy bef
 
 ## Framework: Decision Frameworks for Direction
 
-Big life decisions feel overwhelming because they are made in a fog of uncertainty. The problem is not that you lack enough information — it is that you are trying to compute a future that cannot be computed. Severalframeworks help you move forward despite the fog.
+Big life decisions feel overwhelming because they are made in a fog of uncertainty. The problem is not that you lack enough information — it is that you are trying to compute a future that cannot be computed. Several frameworks help you move forward despite the fog.
 
 ### The Regret Minimization Framework (Jeff Bezos)
 
-Jeff Bezos used this framework while working at D.E. Shaw in 1994, debating whether to leave his high-paying job to start Amazon. His test: **"When I am 80, am I going to regret this decision?"**
+Jeff Bezos left D.E. Shaw in 1994 to start Amazon, using this test: **"When I am 80, will I regret not having tried?"** Most regrets are of inaction, not action. Asymmetric: failure teaches; inaction carries the phantom of the road not taken.
 
-The logic is asymmetric. Most regrets are of inaction, not action. If you start something and it fails, you learn something and can try again. If you don't start, you carry the phantom possibility of the road not taken — and that phantom gets louder with age.
+→ Full content: [references/decision-frameworks.md](references/decision-frameworks.md)
 
-Bezos put it plainly: *"I could not think of one instance where, when I was 80, I would regret having tried this."*
+### The "Die With Zero" Perspective (Bill Perkins)
 
-#### How to Use It
+Optimize for experiences and contributions, not accumulation. Purpose often hides in a life that isn't being lived — the question *"what would I start doing if I learned I had 10 years?"* cuts through the fog faster than any introspection.
 
-1. Write out the decision as if it were already made and you were 80 years old looking back.
-2. Ask: **"Will I regret not having tried?"** If yes, the direction is clear even if the path isn't.
-3. The framework does not guarantee success. It guarantees that if it fails, you will not regret the attempt.
-
-> This framework works best for decisions where the cost of inaction is high and the cost of action is recoverable. It is not permission to be reckless — it is permission to stop being paralyzed.
-
-### The "Die With Zero" Perspective
-
-Bill Perkins' *Die With Zero* reframes the purpose question around **experiential living**: optimize your life for experiences and contributions, not for accumulation. The core argument: your money peaks at a certain age (usually around 65), and every dollar saved for a "future you" that never comes is a dollar you could have used living fully.
-
-The "die with zero" philosophy is not about spending everything. It is about treating your future self as a person you owe something to — but who is not more important than the present you.
-
-#### What It Reveals About Purpose
-
-- People who feel they have no purpose often actually have **no clear experiential direction** — they are saving their whole life for a future that keeps receding.
-- The question *"what experiences do I want to have before I die?"* is often more clarifying than *"what is my purpose?"*
-- Purpose often emerges from a life that is actually being lived — from the friction between your intentions and reality, not from introspection in a vacuum.
-
-> The die-with-zero lens: if you learned you had 10 years left, what would you start doing immediately? That answer points to what matters now.
 
 ### Designing Your Life (Burnett & Evans)
 
-Bill Burnett and Dave Evans, both from Stanford's d.school, built a design-thinking approach to life planning around three concepts:
+Generate three life designs: the one you have now, the one you'd have with one change, and the scary one. The act of writing the third option often reveals the direction you already knew you wanted. The **Good Time Journal** (2 weeks of recording flow/energy/attention) surfaces patterns that introspection misses.
 
-**1. Dysfunctional Beliefs — and how to reframe them:**
-- *"I need to find the right answer"* → *"I need to generate many options."*
-- *"My decision is final"* → *"I'm designing a prototype, not a destiny."*
-- *"That career doesn't exist for someone like me"* → *"I haven't tried enough variations."*
-
-**2. Three Life Design Options:**
-- **First life design** — the life you have now (gravity problems and all)
-- **Second life design** — the life you'd have if you changed something
-- **Hypothetical life design** — the wild card version, the thing that scares you a little
-
-Write all three. The act of generating the third option often reveals the direction you already knew you wanted.
-
-**3. The Good Time Journal:**
-
-For two weeks, record activities where you felt:
-- **Flow** (time disappeared)
-- **Energy** (you felt alive and activated)
-- **Attention** (you were completely present)
-
-At the end of two weeks, look for the pattern. Not what you think should matter — what actually felt alive in real-time.
 
 #### Using These Frameworks in Conversation
 
-**When someone says "I don't know what to do with my life":**
-> You don't need one big answer. You need to generate options. Let me walk you through a quick exercise: write down three versions of your life — the one you have now, the one you'd have if you changed one thing, and the one that scares you a little. We'll start there.
-
-**When someone is afraid to make a big decision:**
-> What would you regret not having tried when you're 80? That's not a logic problem — it's a values question. Most people already know the answer. They just don't want to pay the price of acting on it.
-
-**When someone feels their life is on hold:**
-> The 'die with zero' question: if you knew you had 10 years, what would you start doing this week? Don't tell me the theoretical answer. Tell me the actual thing you'd schedule.
+> When someone is paralyzed by a big decision: *"What would you regret not having tried when you're 80?"* Most people already know the answer — they just don't want to pay the price of acting on it.
 
 
-### The Reversal Test: Detecting False Purpose
+### Three Decision Tests for Purpose Clarity
 
-When someone says "my purpose is X," ask: **"Would you still want X if you couldn't be recognized for it?"**
+**1. The Reversal Test — Detecting False Purpose**
+When someone says "my purpose is X," ask: "Would you still want X if you couldn't be recognized for it?" If immediate distress follows, the purpose is recognition, not the activity itself. The deeper test: "Would you pursue this in secret, alone, with no possibility of anyone ever knowing?" If yes: genuine. If no: social validation is doing most of the work.
 
-- *"My purpose is to write"* → *"What if no one ever read your writing?"*
-  - Immediate distress → the purpose is recognition, not writing
-  - "I'd still write, just differently" → eudaimonic territory
-- *"My purpose is to help people"* → *"What if no one knew you were helping them?"*
-  - Frustration → the purpose is status, not service
-  - "I'd find different ways to help" → genuine purpose
+**2. The Two-Cardinal-Virtues Test — What Are You Avoiding?**
+Purpose often hides behind **courage** (doing the scary thing) and **temperance** (not doing what gratifies but harms you). Ask: "What's the courageous thing to do here? What's the temperate thing?" Many people with no clear purpose know what they should do — they're avoiding the courage or temperance cost. The purpose question is often: "What am I avoiding?"
 
-**The deeper version:** "Would you still pursue this in secret, alone, with no possibility of anyone ever knowing?" If yes: real. If no: social validation is doing most of the work.
+**3. The Compound Effect — Commitment Over Perfection**
+Small daily commitments to a direction compound over years into something unrecognizable. 30 minutes a day × 365 days × 10 years = 1,825 hours of compounding interest. The enemy: switching directions before compounding — every change resets the interest clock. **The question:** What one direction could you commit to for 10 years that would compound meaningfully?
 
-### The 10-10-10 Rule (Susan Jeffers)
+**4. The Mortality Shift — Using Time as a Clarifier**
+Ask: "If you had exactly 5 years, what would you stop doing immediately?" The answer reveals the difference between what you currently do and what you actually value. Most people's 5-year answer and their 50-year answer are radically different — that gap is where purpose hiding lives. The **Die With Zero** reframe (Bill Perkins): stop optimizing for the future self you'll never meet. Give your future self experiences, not deferrals.
 
-How will you feel about this decision in 10 minutes, 10 months, 10 years?
+**5. The Values Friction Test — Where Do You Push Back?**
+When someone articulates a direction ("I should go into consulting for the money"), ask: "Where does that friction with your value system occur?" Purpose and friction often appear together — the thing that keeps getting in your way is sometimes the thing you're meant to be doing. **The reframe:** Purpose is rarely comfortable. If a direction produces no friction, it may not be yours.
 
-- **10 minutes:** The anxiety is usually temporary regardless of which direction you choose
-- **10 months:** The decision will have produced real information
-- **10 years:** Will this matter? (Usually the things that feel catastrophic in the moment don't matter at 10 years)
-
-> **The person who gets feedback faster wins.** If you're always gathering more information before deciding, someone who decides and reacts will know more than you by the time you're ready.
-
-### Two-Cardinal-Virtues Test
-
-Purpose often hides behind **courage** (doing the thing that scares you) and **temperance** (delaying gratification on what harms you).
-
-Ask: **"What's the courageous thing to do here? What's the temperate thing to do here?"** Many people with no clear purpose are actually avoiding the courage or temperance cost. The purpose question is often: *"What am I avoiding?"*
-
-### The Compound Effect
-
-Small daily commitments to a direction compound over years into something unrecognizable from the starting point. 30 minutes a day × 365 days × 10 years = 1,825 hours of compounding interest. The enemy: switching directions before compounding — every change resets the interest clock.
-
-> **The question:** What one direction could you commit to for 10 years that would compound meaningfully? Not "what's the perfect direction" — what direction, if you stuck with it, would produce something?
-
-→ Full content: [references/decision-frameworks.md](references/decision-frameworks.md)
+**6. The Person-in-Need Test — Who Benefits?**
+Purpose that doesn't connect to another person's need is half-formed. Ask: "Who specifically benefits from you doing this, and how?" The more specific the answer, the more likely the purpose will survive contact with reality. Vague purpose ("I want to help people") vs. specific purpose ("I help burnt-out doctors redesign their schedules so they can sleep 7 hours") — specificity is the difference between a direction and a directionless life.
 
 ---
 
@@ -686,6 +622,53 @@ Csikszentmihalyi found some people enter flow far more readily than others. He c
 **The dark side:** Flow can become problematic when it functions as escape rather than engagement. Compulsive flow chases the neurological reward, hollowing out everything around it. *The test:* Does the activity connect you to something beyond itself, or does it replace your life?
 
 ---
+
+
+### Self-Directed Flow Training — The Autotelic Path
+
+Csikszentmihalyi's research found that flow is not random — it can be trained systematically. People who score high on **autotelic experience** (the capacity to find goals within an activity itself, not in its outcomes) show measurable improvements in life satisfaction after structured practice. The autotelic self is built, not discovered.
+
+#### Layer 1: Attention Training (Weeks 1–4)
+
+The foundation of flow is the ability to direct attention voluntarily. Most people have trained their attention to flinch away from difficulty — a habit reinforced thousands of times daily by smartphones and notification systems.
+
+**Practice — The 90-Minute Focus Block:**
+- Choose one activity (a craft, a technical skill, a creative discipline)
+- Remove all devices and notifications for 90 minutes
+- When the urge to check something arises, note it and redirect attention back to the activity
+- Each redirection is a rep — you are building the muscle of voluntary attention
+- **Duration:** 4 weeks minimum; measurable effects typically appear by week 3
+
+**The Attention Renovation habit:** Every morning, 15 minutes of single-pointed focus before opening any communication app. This is not meditation — it is deliberate use of attention on a chosen object. The goal is to build the habit of *choosing* where your mind goes, rather than having it chosen for you.
+
+#### Layer 2: Challenge-Skill Rebalancing (Weeks 5–12)
+
+Flow occurs at the boundary between challenge and skill — when the task demands slightly more than you can currently deliver. If challenge exceeds skill: anxiety. If skill exceeds challenge: boredom. Flow sits in the narrow band between.
+
+**Practice — The Calibration Protocol:**
+1. Identify the activity you want to use for flow training
+2. Rate your current skill level honestly (1–10) and the challenge it currently demands (1–10)
+3. If bored: raise the difficulty. If anxious: raise skill first (study, mentorship, deliberate practice) before raising challenge
+4. Track both ratings weekly — the goal is to keep challenge slightly above skill at all times
+5. This calibration reflex, once habitual, generalizes to all domains of life
+
+**The Competence Journal:** At the end of each week, record one moment when you were fully engaged in an activity — what were you doing, what was the challenge level, and how did it feel? This builds a personal taxonomy of flow conditions that can be deliberately reconstructed.
+
+#### Layer 3: Purpose Integration (Months 3–12)
+
+The autotelic self is not just a set of skills — it is a relationship to meaning. This layer connects flow training to the deeper purpose question: *what kind of engagement do I want to organize my life around?*
+
+**Practice — The Meaningful Difficulty Audit:**
+1. List activities where you consistently enter deep engagement
+2. For each: what makes it challenging? Is the challenge connected to something you care about beyond the activity itself?
+3. Identify which flow activities have **purposeful extension** (the activity connects outward to people, problems, or contributions beyond itself) vs. **pure engagement** (the activity is its own reward with no external connection)
+4. Prioritize developing the purposeful extension activities — these are the ones that survive the death of the activity itself
+
+**The Autotelic Self-Test:**
+At any given point in the day, ask: *Am I doing this for the experience itself, or for what it will get me?* The answer is not morally significant — both orientations are legitimate. But the frequency of the second orientation, and how often it replaces the first, tells you something about how close you are to a purpose that can sustain you.
+
+*This subsection on autotelic flow training was expanded in Run 6 (v4.51.0) based on Csikszentmihalyi's longitudinal flow research and the structured intervention protocols developed at the Quality of Life Research Center.*
+
 ## Framework: Identity-Based Habits for Finding Purpose
 
 James Clear's *Atomic Habits* reframes purpose not as a discovery but as the result of hundreds of small decisions that gradually prove a new identity. **You do not change what you do until you first change who you believe you are.**
@@ -717,41 +700,7 @@ When you change identity, outcomes and processes follow naturally. When you focu
 
 **Who you are → What you do → What you get → Who you are (updated)**
 
-The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception.
-
-### The "Who Do You Want to Be?" Exercise
-
-Clear's most practical identity question: **"Who is the person you want to become, and what would they do every day?"**
-
-This works because it externalizes from "what do I want?" to "what would this kind of person do?" The qualities you admire in others are qualities you're already partly living.
-
-**Three-part practice:** (1) Decide who you want to become, (2) identify what that kind of person does daily, (3) start doing those things — one small vote at a time.
-
-### Environment as Identity Architecture
-
-Environment designs behavior more powerfully than motivation. **Make your desired identity the path of least resistance.** Books visible → reader. Writing tools ready → writer. Workout clothes out → active person.
-
-### The "Never Twice" Rule
-
-**Never miss twice.** One lapse is a data point. Two consecutive lapses is the beginning of a pattern. The "never twice" rule prevents a single miss from becoming multi-week drift.
-
-**The reframe:** Failure as information, not identity. You demonstrated that this specific behavior was too burdensome. Adjust the conditions, not the person.
-
-### The Dark Side: Identity Rigidity
-
-Identity can trap as easily as it liberates. When it becomes rigid, you only do things consistent with who you already believe you are — preventing the experimentation genuine development requires.
-
-**The rigidity test:** Would you still do this if it no longer produced the identity reward? If the writing stops when you no longer feel like a writer, the behavior was about the label, not the practice.
-
-### Using Identity in Conversation
-
-**"I don't feel like a [writer/artist/maker]":** You won't feel like one until you've done the things one does. Act as if you already are — then notice what changes.
-
-**"I keep starting and stopping":** The problem isn't you — it's the system. Design the environment so starting is easier than stopping.
-
-**"I don't know who I want to become":** Then describe who you *admire* — not what they achieved, but who they are. The qualities you notice in others are qualities you're already partly yours.
-
-→ Full content: [references/identity-habits-purpose.md](references/identity-habits-purpose.md)
+The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception. → Full content: [references/identity-habits-purpose.md](references/identity-habits-purpose.md)
 
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
@@ -896,13 +845,8 @@ The reason: **you cannot know what you care about until you encounter its absenc
 
 This is not toxic positivity about "failure being good for you." Failure hurts, often appropriately. But the pain of failure often concentrates attention in ways that comfort and routine cannot. The person whose first venture fails often has more clarity about what they actually want than the person whose first venture succeeds — because the failure forced a reckoning that success would have deferred.
 
-### The Founder Mode Problem
 
-The "founder mode" framing from recent startup culture captures something real about direction-finding: founders often discover their real purpose not at the start, but through the **specific problems they cannot stop themselves from solving** — problems that only became visible through the act of building.
-
-The failure mode of founder narrative: startup succeeds, founder cashes out, finds themselves empty. The founder who keeps building through failure often ends up with something more aligned than the founder who succeeded the first time. The iterative engagement with a problem reveals what they actually care about — not what they predicted they would care about.
-
-For the purpose-finder: **the question is not "did you fail?" but "what did the failure teach you about what you can't stop caring about?"** The person who failed and then started again with better targeting has more useful information than the person who never tried.
+→ Full content: [Founder Mode — how builders find direction through iteration rather than planning](references/founder-mode-purpose.md)
 
 ### The Uncertainty Trap
 
@@ -1250,7 +1194,9 @@ Sustained rumination activates the **default mode network (DMN)** — the brain'
 
 
 
-→ Full content: [ikigai neuroscience — prefrontal cortex, DMN, purpose and the brain](references/ikigai-neuroscience.md)Somatic research (Thomas Hanna, Bonnie Bainbridge-Cohen, Peter Levine) confirms: **the body holds emotional and existential information that language cannot access directly.** A person who cannot answer "what do I want?" through talking may find the answer through movement or breath.
+→ Full content: [ikigai neuroscience — prefrontal cortex, DMN, purpose and the brain](references/ikigai-neuroscience.md)
+
+Somatic research (Thomas Hanna, Bonnie Bainbridge-Cohen, Peter Levine) confirms: **the body holds emotional and existential information that language cannot access directly.** A person who cannot answer "what do I want?" through talking may find the answer through movement or breath.
 
 ### Three Entry Points
 
