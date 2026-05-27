@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.81.3
+version: 1.81.5
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -712,6 +712,7 @@ Four modern voices who bridge systematic investing frameworks and behavioral psy
 **Charlie Carlson — Principles-Based Wealth:** Systematic rules rather than prediction: equal-weight asset allocation, rebalancing, low costs. The Carlson system: no forecast required, no manager dependency, tax-efficient, psychologically sustainable.
 
 → Full content: [references/greenblatt-marks-housel.md](references/greenblatt-marks-housel.md)
+→ Full content: [references/investing-frameworks-deep.md](references/investing-frameworks-deep.md) — Lynch Magic Formula, ten-bagger checklist, Marks second-level thinking, Housel behavioral core, Carlson systematic rules.
 
 
 ## The Real Wealth Builders
@@ -895,11 +896,47 @@ When you feel defensive about an investment, ask: *"What is the most accurate ve
 
 The single biggest threat to your wealth isn't bad investments — it's your own decision-making under pressure. Fifty years of behavioral finance research has mapped exactly how human cognition systematically destroys wealth, and the countermeasures that work.
 
-**Core behavioral failures:** Loss aversion (losses feel twice as painful as equivalent gains — Kahneman's prospect theory), overconfidence (85% of drivers think they're above average), confirmation bias (seeking evidence that confirms existing beliefs), and recency bias (recent events dominate probability estimates). Each silently erodes wealth over decades.
+**Core behavioral failures:** Loss aversion (losses feel twice as painful as equivalent gains), overconfidence (85% of drivers think they're above average), confirmation bias (seeking evidence that confirms existing beliefs), and recency bias (recent events dominate probability estimates). Each silently erodes wealth over decades.
 
-**The compounding problem:** These biases compound. A single bad decision triggered by loss aversion during a market crash resets your compounding base. The 2008 financial crisis saw investors who fled equities lock in losses and miss the 60% recovery over the next 3 years. The behavior that felt safe was actually the most dangerous thing.
+**The compounding problem:** These biases compound. A single bad decision during a market crash resets your compounding base. The 2008 crisis saw investors who fled equities lock in losses and miss the 60% recovery over the next 3 years. The behavior that felt safe was the most dangerous.
 
-**Debiasing toolkit:** Pre-commitment (automate decisions before emotions hit — 401k contributions, dollar-cost averaging), inversion (ask "what would cause this to fail?" before acting), SLO framework (define your Specific, Limited, Observable conditions for when to override your system), and seeking the strongest opposing view before making major financial decisions.
+
+### Kahneman's Prospect Theory: Why You Sell Winners Too Early
+
+Prospect Theory (Kahneman & Tversky, 1979): the reference point matters more than the absolute outcome. The **disposition effect** — investors hold losing positions too long and sell winners too quickly — means they systematically sell the wrong assets. Odean (1998) found individual investors sold winning positions at 50% greater rate than losing ones.
+
+**The four-fold probability distortion:**
+| Event | Behavior |
+|-------|----------|
+| Large gain (high prob.) | Risk-averse, take the sure thing |
+| Large loss (high prob.) | Risk-seeking, gamble to avoid loss |
+| Small probability gain | Risk-seeking, lottery ticket effect |
+| Small probability loss | Underweight, under-insure |
+
+When a market decline has 10% probability, people behave as if it's 30-40%. Pre-committed rules (stop-losses, position limits, rebalancing thresholds) execute before distorted estimates kick in.
+
+
+### Thaler and Sunstein: The Nudge Framework
+
+Thaler's Nobel (2017): choice architecture determines outcomes without restricting options. Organ donation opt-in → 10-30% participation; opt-out → 85-99%. Same choice, radically different defaults.
+
+**Wealth-building applications:** 401(k) auto-enrollment at 3% with opt-out → 90%+ participation. Automate savings increases on pay raises — consumption doesn't adjust, wealth builds invisibly. Make the default investment the best option, not the mediocre one. Engineer your environment so the right choice is automatic.
+
+
+### Debiasing Toolkit
+
+**1. Pre-mortem (Gary Klein):** Before any major financial decision, imagine it failed. "One year later this investment is a disaster. Why?" Each failure mode generates a specific mitigation.
+
+**2. Forced travel (Thaler):** Mandatory cooling-off period before any financial decision over $5,000. During cooling off, research one bear case and one bull case before executing.
+
+**3. Decision journal:** Record each financial decision, reasoning at the time, expected outcome, actual outcome. Creates accountability to your past self and prevents hindsight rationalization.
+
+**4. Satisficing over maximizing:** The person who invests in a low-cost index fund tomorrow beats the one who spends 6 months researching the optimal fund.
+
+
+### The Anchoring Trap: Past Prices Are Not Value
+
+Anchoring: relying too heavily on the first piece of information. A stock "trading at $100" feels expensive at $90 — even if it's cheap. Rich people use independent valuation: *At today's price, if I had no position, would I buy this?* If yes, the existing position confirms, it doesn't anchor.
 
 → Full content: [references/behavioral-finance.md](references/behavioral-finance.md)
 
