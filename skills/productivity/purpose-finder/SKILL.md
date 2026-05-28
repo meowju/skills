@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.52.0
+version: 4.59.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -110,7 +110,7 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 
 **The Eudaimonic Flip:** "If no one ever acknowledged this, if I never got paid, if no one ever knew — would I still do it?" If yes: eudaimonic territory. If no: primarily hedonic — and fragile under adversity.
 
-→ Full content: [Eudaimonic vs hedonic frame, with full comparison table](references/ikigai-deep-dive.md)
+→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
 ### The Ikigai Depth Exercise: Three Domains
 
@@ -126,7 +126,7 @@ The goal is not to eliminate the anti-social dimension but to prevent it from be
 
 The goal isn't to find one big purpose — it's to notice small purposes repeatedly and let them compound. At end of each day, write one moment you felt genuinely useful, even briefly. Don't filter for importance. Over weeks, patterns emerge.
 
-→ Full content: [small-purpose practice — daily tracking framework](references/small-purpose-practice.md)
+→ Full content: [references/small-purpose-practice.md](references/small-purpose-practice.md)
 
 ### The Motivation Spectrum
 The other frameworks in this skill map onto ikigai's dimensions:
@@ -144,7 +144,6 @@ Japanese neuroscientist Kenji Katameya found that adults with strong daily ikiga
 
 **The compound effect:** Research on people who start daily ikigai practice at 45 shows measurable brain changes by 55 — not because of age, but because of cumulative engagement. Small daily engagement produces more measurable benefit than an annual retreat. You cannot wait until you're certain; the neurological benefits begin accruing immediately.
 
-→ Full content: [references/ikigai-neuroscience.md](references/ikigai-neuroscience.md)
 
 → Full content: [references/ikigai-lifespan-stages.md](references/ikigai-lifespan-stages.md)
 
@@ -211,7 +210,7 @@ Write one paragraph: **"My ikigai is [small, daily thing] maintained through [pr
 This is not a permanent answer. It is a snapshot of your current understanding. The practice of returning to this inventory quarterly will reveal shifts in direction long before any dramatic change is visible from the outside.
 
 → Return to: [SKILL.md — Framework: The Ikigai Lens](file:///opt/data/skills/productivity/purpose-finder/SKILL.md#framework-the-ikigai-lens)
-→ Full content: [ikigai five dimensions — Japanese longevity research](references/ikigai-five-dimensions.md)
+→ Full content: [references/ikigai-five-dimensions.md](references/ikigai-five-dimensions.md)
 
 ### Anti-Social Ikigai: From Naming to Redirecting
 
@@ -238,7 +237,7 @@ The thing you defer but that draws you back is a signal, not a coincidence. The 
 **Question 3: Who would notice if I stopped?**
 
 Social ikigai requires witness — other people who experience value from your existence. If no one would notice, the current expression of your ikigai may be too private. If many people would notice, that's data about where your social ikigai lives.
-→ Full content: [Okinawa moai groups, hara hachi bu, daily ikigai practice, Blue Zones research](references/ikigai-blue-zones.md)
+→ Full content: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
 
 ---
 
@@ -305,7 +304,6 @@ Frankl described **"Sunday neurosis"** — reaching a goal and finding it empty.
 
 **"After what happened, I can't rebuild"** — the struggle to make sense of it is the engine of growth; late-stage discoverers stopped waiting for safety, connected pre/post-trauma threads, reframed loss as reconfiguration
 
-→ Full content: [references/ptg.md](references/ptg.md)
 
 ### The Space Between: Frankl's Most Practical Tool
 
@@ -319,7 +317,7 @@ Frankl's "between stimulus and response" is his most actionable contribution. Th
 
 **Frankl × Ikigai:** The Okinawan who finds meaning in tending their garden — the person who has lost everything but chooses how to carry it — is practicing logotherapy without knowing the name. Both traditions: meaning is not given. It is found in the stance you take toward what you cannot control.
 
-→ Full content: [Frankl's core concepts — will to meaning, paradoxical intention, logotherapy techniques](references/ptg.md)
+→ Full content: [references/ptg.md](references/ptg.md)
 
 ## Framework: The Purpose Discovery Process
 
@@ -425,6 +423,8 @@ Lack of purpose often looks like lack of motivation. But they are not the same t
 Waiting to feel motivated before starting is like waiting to feel like going to the gym before getting on the treadmill. The feeling comes after you've started moving, not before.
 
 **Key insight:** Most motivation problems are identity transition problems (Kegan), engagement problems (Csikszentmihalyi), or emotion regulation problems (Pychyl). Address the underlying issue, not the symptom.
+
+**Two-minute rule:** When you don't feel like doing anything, do it for 2 minutes. The resistance is to the beginning — once you start, you usually keep going.
 
 → Full content: [references/motivation-and-drive.md](references/motivation-and-drive.md)
 
@@ -533,6 +533,31 @@ When someone articulates a direction ("I should go into consulting for the money
 **6. The Person-in-Need Test — Who Benefits?**
 Purpose that doesn't connect to another person's need is half-formed. Ask: "Who specifically benefits from you doing this, and how?" The more specific the answer, the more likely the purpose will survive contact with reality. Vague purpose ("I want to help people") vs. specific purpose ("I help burnt-out doctors redesign their schedules so they can sleep 7 hours") — specificity is the difference between a direction and a directionless life.
 
+### 7. The OODA Loop Completion
+
+The OODA Loop (Observe, Orient, Decide, Act) solves a specific purpose-finding problem: **people who stay in the orient phase indefinitely, never deciding.**
+
+1. **Observe** — What is actually happening in my life right now?
+2. **Orient** — What does this information mean given my history and values?
+3. **Decide** — Pick one direction, not the perfect direction.
+4. **Act** — Execute and get real feedback. The real world is the only test that matters.
+
+> The person who gets feedback faster wins. What's the minimum you need to know to move forward?
+
+### 8. The Eisenhower Matrix as Purpose Filter
+
+**Quadrant II (Important, Not Urgent)** is where purpose lives. Take your task list and ask: "Which of these would I do even if no one knew?" The gap between your answer and your actual list reveals how much of your life is purpose-driven vs. validation-driven.
+
+### 9. The 10-10-10 Rule (Susan Jeffers)
+
+How will you feel about this decision in 10 minutes, 10 months, 10 years?
+
+- **10 minutes:** The anxiety is usually temporary regardless of which direction you choose
+- **10 months:** The decision will have produced real information — you'll know more than you do now
+- **10 years:** Will this matter at 10 years? Usually the things that feel catastrophic in the moment don't matter at 10 years
+
+This breaks abstract future into tangible time horizons.
+
 ---
 
 ## Framework: Flow States and Purpose
@@ -626,48 +651,16 @@ Csikszentmihalyi found some people enter flow far more readily than others. He c
 
 ### Self-Directed Flow Training — The Autotelic Path
 
-Csikszentmihalyi's research found that flow is not random — it can be trained systematically. People who score high on **autotelic experience** (the capacity to find goals within an activity itself, not in its outcomes) show measurable improvements in life satisfaction after structured practice. The autotelic self is built, not discovered.
+Csikszentmihalyi's research found that flow can be trained systematically through three progressive layers:
 
-#### Layer 1: Attention Training (Weeks 1–4)
+**Layer 1: Attention Training (Weeks 1–4)** — Build voluntary attention through 90-minute focus blocks with no devices. Each redirection of attention back to the task is a rep that strengthens the attention muscle. The Attention Renovation habit: 15 minutes of single-pointed focus each morning before opening any communication app.
 
-The foundation of flow is the ability to direct attention voluntarily. Most people have trained their attention to flinch away from difficulty — a habit reinforced thousands of times daily by smartphones and notification systems.
+**Layer 2: Challenge-Skill Rebalancing (Weeks 5–12)** — Flow sits between anxiety (task too hard) and boredom (task too easy). The Calibration Protocol: rate skill (1–10) and challenge (1–10) weekly. If bored, raise difficulty. If anxious, raise skill first. Keep challenge slightly above skill. The Competence Journal: log one moment of deep engagement per week, noting the challenge level and conditions.
 
-**Practice — The 90-Minute Focus Block:**
-- Choose one activity (a craft, a technical skill, a creative discipline)
-- Remove all devices and notifications for 90 minutes
-- When the urge to check something arises, note it and redirect attention back to the activity
-- Each redirection is a rep — you are building the muscle of voluntary attention
-- **Duration:** 4 weeks minimum; measurable effects typically appear by week 3
+**Layer 3: Purpose Integration (Months 3–12)** — Connect flow training to deeper purpose. The Meaningful Difficulty Audit distinguishes between flow activities with **purposeful extension** (connected outward to people, problems, contributions) vs. **pure engagement** (reward is the activity itself). Prioritize purposeful extension activities — these sustain meaning beyond the activity's death. The Autotelic Self-Test: *Am I doing this for the experience itself, or for what it will get me?*
 
-**The Attention Renovation habit:** Every morning, 15 minutes of single-pointed focus before opening any communication app. This is not meditation — it is deliberate use of attention on a chosen object. The goal is to build the habit of *choosing* where your mind goes, rather than having it chosen for you.
+→ Full content: [references/flow-autotelic-training.md](references/flow-autotelic-training.md)
 
-#### Layer 2: Challenge-Skill Rebalancing (Weeks 5–12)
-
-Flow occurs at the boundary between challenge and skill — when the task demands slightly more than you can currently deliver. If challenge exceeds skill: anxiety. If skill exceeds challenge: boredom. Flow sits in the narrow band between.
-
-**Practice — The Calibration Protocol:**
-1. Identify the activity you want to use for flow training
-2. Rate your current skill level honestly (1–10) and the challenge it currently demands (1–10)
-3. If bored: raise the difficulty. If anxious: raise skill first (study, mentorship, deliberate practice) before raising challenge
-4. Track both ratings weekly — the goal is to keep challenge slightly above skill at all times
-5. This calibration reflex, once habitual, generalizes to all domains of life
-
-**The Competence Journal:** At the end of each week, record one moment when you were fully engaged in an activity — what were you doing, what was the challenge level, and how did it feel? This builds a personal taxonomy of flow conditions that can be deliberately reconstructed.
-
-#### Layer 3: Purpose Integration (Months 3–12)
-
-The autotelic self is not just a set of skills — it is a relationship to meaning. This layer connects flow training to the deeper purpose question: *what kind of engagement do I want to organize my life around?*
-
-**Practice — The Meaningful Difficulty Audit:**
-1. List activities where you consistently enter deep engagement
-2. For each: what makes it challenging? Is the challenge connected to something you care about beyond the activity itself?
-3. Identify which flow activities have **purposeful extension** (the activity connects outward to people, problems, or contributions beyond itself) vs. **pure engagement** (the activity is its own reward with no external connection)
-4. Prioritize developing the purposeful extension activities — these are the ones that survive the death of the activity itself
-
-**The Autotelic Self-Test:**
-At any given point in the day, ask: *Am I doing this for the experience itself, or for what it will get me?* The answer is not morally significant — both orientations are legitimate. But the frequency of the second orientation, and how often it replaces the first, tells you something about how close you are to a purpose that can sustain you.
-
-*This subsection on autotelic flow training was expanded in Run 6 (v4.51.0) based on Csikszentmihalyi's longitudinal flow research and the structured intervention protocols developed at the Quality of Life Research Center.*
 
 ## Framework: Identity-Based Habits for Finding Purpose
 
@@ -677,11 +670,41 @@ The core move: **identity first, then evidence.** Traditional goal-setting sets 
 
 The **builder identity** (I engage, I build, I contribute) puts purpose in the present. The **finder identity** (I am looking for my calling; once I discover it, I will act) puts purpose in the future, always deferred. The builder identity is available immediately.
 
-**The two-stage exercise:** (1) Define the identity you're moving toward — *who do you want your best friend to describe you as a year from now?* (2) Prove it daily through small votes — actions that are votes, not effort.
+### The Identity Audit: Discovering What You Actually Want
 
-For people from enmeshed or codependent family systems, standard identity work has a hidden prerequisite: the person needs enough of a self to want things before building identity around them. If the best-friend exercise produces an answer that sounds like what someone else needed, they may be building around the adaptation rather than the genuine self.
+Before you can build a purpose identity, you need to know whose identity you are building. This exercise surfaces the difference between your genuine self and the one you perform for others.
 
-→ Full content: [Identity habits reference](references/identity-habits-purpose.md)
+**The Three Masks Exercise (30 minutes):**
+
+1. **The Mask You Wear:** Write who you are when performing for others — what you emphasize, what you hide. This is the adapted self.
+2. **The Mask You Crave:** Write who you would be if no one was watching. The version that feels most like home.
+3. **The Mask That Survives:** Write who you are when all the performing stops — exhausted, alone, unobserved.
+
+The gap between Mask 2 and Mask 1 is your direction. The gap between Mask 3 and Mask 1 is the cost of your adaptation. Both gaps are useful data.
+
+**The "Unknown Self" Test:** If you could be completely unknown — no reputation, no family expectations — who would you try to become? Would I still pursue this if no one in the world ever knew? That answer is your genuine identity.
+
+**The Family-of-Origin Complication:** For people from enmeshed or codependent family systems, the "who do I want to become" exercise has a trap: the answer that emerges may be the family adaptation, not the genuine self. See the Family-of-Origin section for differentiation work before this framework functions as intended.
+
+### The Evidence Ledger
+
+Purpose seekers accumulate data about their direction but rarely organize it as evidence. The Evidence Ledger converts scattered behavior into proof of identity.
+
+**Format:** A log, updated weekly. Two columns: **What I did** and **What identity that voted for** ("I am someone who builds," "I am someone who tries").
+
+Labeling each behavior as a vote makes the invisible visible. Most purpose-seekers are already casting votes — they just don't recognize them as evidence. After 30 days, re-read the ledger: the pattern of labels is your direction.
+
+**The 100-Vote Threshold:** Clear's research suggests roughly 100 votes of the same type before your brain accepts the new identity. Before 100, the identity feels false. After 100, continuing as the old self feels false.
+
+### The Small Vote Catalogue for Purpose-Seekers
+
+- **"I am someone who makes things" →** Finished one small thing today
+- **"I am someone who experiments" →** Tried one thing for the first time
+- **"I am someone who engages" →** Actively participated rather than consumed
+- **"I am someone who contributes" →** Did one thing for someone else's benefit, no return expected
+- **"I am someone who grows" →** Did one uncomfortable thing that wasn't required
+
+One vote is nothing. Thirty days is a pattern. A year is proof. The person casting one vote daily will have more evidence at year-end than the person who spent a decade contemplating who they want to be.
 
 ### James Clear's Identity Architecture: Three Layers
 
@@ -846,7 +869,6 @@ The reason: **you cannot know what you care about until you encounter its absenc
 This is not toxic positivity about "failure being good for you." Failure hurts, often appropriately. But the pain of failure often concentrates attention in ways that comfort and routine cannot. The person whose first venture fails often has more clarity about what they actually want than the person whose first venture succeeds — because the failure forced a reckoning that success would have deferred.
 
 
-→ Full content: [Founder Mode — how builders find direction through iteration rather than planning](references/founder-mode-purpose.md)
 
 ### The Uncertainty Trap
 
@@ -1082,8 +1104,18 @@ A 2018 study confirmed: **ideal-related regrets (not following dreams, not becom
 
 **活过** (huóguò) = "having truly lived" — not just existed, but lived with such full engagement that death feels like arrival, not loss. The opposite: **白活** (bái huó) = to have lived in vain, to reach the end and feel you inhabited none of it.
 
-The活过 test: at the end of today, did you genuinely inhabit it — not just survive it, but live it? This reframes purpose from an abstract noun to a quality of daily engagement.
+**The活过 test:** At day's end ask: did I genuinely inhabit today — not just survive it, but live it? Reframe purpose from "what is my calling?" to a quality of daily engagement.
 
+**Evening Audit (2 min):** Write one sentence — *"Today I truly lived when..."* Cannot answer: the gap is data, not failure. Patterns across weeks reveal where life is already alive.
+
+**The Borrowed Day:** Imagine borrowing someone else's life for a day — their relationships, constraints, work. What would you protect? Change? Answers clarify yours vs. habit.
+
+**Friday Three-Domain Check:**
+1. *Craft:* Did I do at least one thing where I was fully absorbed?
+2. *Connection:* Did I show up for someone in a way that was real?
+3. *Contribution:* Did I give something I thought had value?
+
+All three: a full 活过. Two of three: direction is working. One or zero: the gap is the map — where purpose has gone quiet.
 ### Using Mortality in Conversation
 
 **"I'm afraid of wasting my life":** The fact that you're asking means you haven't. The person who truly wasted their life doesn't ask. If you had one year, what would you start doing today?
@@ -1103,7 +1135,7 @@ The活过 test: at the end of today, did you genuinely inhabit it — not just s
 
 ## Framework: Character Strengths and Virtues (Peterson & Seligman)
 
-The VIA Classification (Peterson & Seligman, 2004) maps 24 character strengths across six virtues. Purpose takes one of these forms — knowing which is more actionable than abstract ideals.
+The VIA Classification (Peterson & Seligman, 2004) maps 24 character strengths across six virtues. Purpose takes one of these forms — knowing which virtue your purpose serves makes the abstract concrete.
 
 ### The Six Virtues and Their Purpose Connections
 
@@ -1116,38 +1148,37 @@ The VIA Classification (Peterson & Seligman, 2004) maps 24 character strengths a
 | **Temperance** | Forgiveness, humility, prudence, self-regulation | Prevents purpose from becoming obsession |
 | **Transcendence** | Appreciation, gratitude, hope, humor, spirituality | Connects struggle to meaning |
 
-A scientist's purpose is heavy on Wisdom and Temperance; a social activist's on Courage and Justice; a teacher's on Humanity and Transcendence.
+A scientist maps to Wisdom and Temperance; a social activist to Courage and Justice; a teacher to Humanity and Transcendence.
 
-### Signature Strengths: The VIA Framework
+### The Shadow of Every Virtue
 
-Your top five **signature strengths** — qualities that feel most authentically you across contexts — are the entry point for purpose discovery. Take the free assessment at [viacharacter.org](https://www.viacharacter.org). Purpose is most accessible where 2–3 signature strengths activate simultaneously in service of something you genuinely value.
+Each virtue has a defensive form — ego dressed as virtue:
 
-### The Strengths-Virtue Matching Exercise
+- **Wisdom →** Sophistry, endless analysis with no application
+- **Courage →** Recklessness, performative risk
+- **Humanity →** Martyrdom, compulsive caretaking
+- **Justice →** Self-righteousness, rigid ideology
+- **Temperance →** Procrastination disguised as prudence
+- **Transcendence →** Spiritual bypass, comfortable narrative over hard truth
 
-1. Take the VIA at [viacharacter.org](https://www.viacharacter.org) — 20 minutes
-2. Map your top 3 strengths to the six virtues
-3. Ask: which strength, if taken away, would I feel like a different person?
-4. Ask: where can I deploy this strength at a level that stretches me, in service of something I genuinely value?
+Sound virtue passes the test: holds up without defense or denial.
 
-The answer to question 4 is usually closer to your purpose than any abstract life goal.
+### Signature Strengths: The Entry Point
 
-### Using Character Strengths in Conversation
+Your top five **signature strengths** are the most actionable entry point. Take the free assessment at [viacharacter.org](https://www.viacharacter.org). Purpose is most accessible where 2–3 signature strengths activate simultaneously in service of something you genuinely value.
 
-**"I don't know what my strengths are":**
-> VIA takes 20 minutes. Start there — what you rate highest is where meaning is most accessible.
+**The key question:** Which of your signature strengths, deployed in service of something you care about, produces absorption? The *in service of* is the meaning component — not just having the strength, but pointing it at something real.
 
-**"I'm good at things but nothing feels meaningful":**
-> Strength without values activation is just competence. Which of your strengths, deployed in service of something you care about, produces absorption? The *in service of* is the meaning component.
+### Using VIA in Conversation
 
-**"I took the VIA and my top strengths don't seem to fit any career":**
-> Most purposes don't require a specific career. The matching question is not "which career matches my strengths" but "which environments let me activate my top strengths most days?"
+**"I don't know what my strengths are":** VIA takes 20 minutes (viacharacter.org). Start there — your highest-rated strengths are where meaning is closest.
 
-**"I score high in a strength I don't feel good about":**
-> VIA measures frequency, not value. The question is not "do I have this strength?" but "is this strength pointed at something generative or defensive?"
+**"I'm good at things but nothing feels meaningful":** Strength without values activation is just competence. Which strength, deployed in service of something you care about, produces the zone — not the feeling, the absorption?
+
+**"I took the VIA and my top strengths don't seem to fit any career":** The question is not "which career fits my strengths" but "which environments activate my top strengths most days?"
 
 → Full content: [references/character-strengths-virtues.md](references/character-strengths-virtues.md)
 
----
 
 ## Common Pitfalls
 
@@ -1194,7 +1225,7 @@ Sustained rumination activates the **default mode network (DMN)** — the brain'
 
 
 
-→ Full content: [ikigai neuroscience — prefrontal cortex, DMN, purpose and the brain](references/ikigai-neuroscience.md)
+→ Full content: [references/ikigai-neuroscience.md](references/ikigai-neuroscience.md)
 
 Somatic research (Thomas Hanna, Bonnie Bainbridge-Cohen, Peter Levine) confirms: **the body holds emotional and existential information that language cannot access directly.** A person who cannot answer "what do I want?" through talking may find the answer through movement or breath.
 
@@ -1281,6 +1312,7 @@ Suggest therapy, a career coach, or a support group when:
 - [ ] Offer professional support when clinical depression or dissociation is present
 - [ ] Quick Scripts: all items current and paired to their frameworks
 - [ ] Reference files linked in SKILL.md with → Full content: links
+- [ ] V2 malformed links fixed (6 links: bare filenames now prefixed with references/)
 - [ ] **Pre-patch size gate:** file > 80k chars → compute combined delta before writing; sequential patches accumulate invisible byte drift near the limit
 - [ ] **WSL size rule:** use Python `pathlib.read_text()` for size (terminal `wc -c` can be 2x stale); Python is authoritative
 - [ ] **Orphan audit:** after creating a references/ file, verify the `→ Full content:` link appears in SKILL.md immediately
