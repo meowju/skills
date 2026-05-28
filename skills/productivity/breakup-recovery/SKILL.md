@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.38.0
+version: 4.39.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -1189,6 +1189,18 @@ Signs to watch: self-harm thoughts or statements, complete social withdrawal las
 > *"I'm not going anywhere. Take as long as you need."*
 
 The core principle: presence is not passive. Sitting with someone in pain without trying to fix it, rush them, or make them comfortable is one of the most difficult and most valuable forms of help. Your job is not to help them stop feeling. Your job is to be there while they feel it.
+
+### Enhanced Long-Term Check-In: Weeks 2-52
+
+Most people check in hard in week one and disappear by week three. The second and third weeks — when shock wears off and real adjustment begins — are often harder than the first.
+
+- **Week 1:** Every two days, low-pressure.
+- **Weeks 2-3:** Every 3-4 days with a concrete offer. *"I'm showing up Sunday with groceries — don't argue."*
+- **Weeks 4-8:** Weekly touchpoint on a fixed day.
+- **After 3 months:** Monthly — grief that deep doesn't resolve in 30 days.
+- **After 6 months:** Stay proactive. Consistency beats replies.
+
+**When Your Friend Doesn't Reply:** No response after a week is usually paralysis, not rejection. Low-pressure contact eventually breaks through.
 
 → Full content: [references/helping-friend.md](references/helping-friend.md)
 → Full content: [references/anger-support.md](references/anger-support.md)
