@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.39.0
+version: 4.40.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -150,19 +150,16 @@ Your attachment style — formed in early childhood but carrying into adult rela
 
 ### The Memory Distortion Effect (Why You Can't Stop Idealizing Them)
 
-Your brain edits memories of relationships the same way a film editor edits a documentary — it removes the boring parts, the fights, the loneliness, and keeps the highlight reel. This is called **rosy retrospection** — a documented cognitive bias. You are not missing *them*. You are missing a curated, false version your brain constructed to make the relationship feel coherent.
+Your brain edits memories of relationships the same way a film editor edits a documentary — it removes the boring parts, the fights, the loneliness, and keeps the highlight reel. This is called **rosy retro## Earned Secure Attachment — The Most Hopeful Finding in Attachment Research
 
-**What actually happens:** Brain amplifies positive memories, suppresses negative ones. You forget the specific难受 of fighting about the same thing for the 20th time. You remember the trip to Paris, forget the 3 days of silence that preceded it. The more you ruminate, the stronger the distortion gets.
+People are not fixed into their attachment style for life. Longitudinal studies show adults can *change* their attachment classification through sustained corrective emotional experiences: a secure relationship, focused therapeutic work, or a meaningful friendship (Waters et al., 2000; Davila & Cobb, 2003).
 
-**The antidote:** Write down 10 specific, real things that were wrong — not vague generalizations, specific events. Read that list every time you feel the urge to reach out.
+**The mechanism:** A consistent experience of safety updates your **internal working model** — the brain's invisible map of how attachment works. A childhood map saying *"people leave when you need them"* gets a new entry: *"but sometimes they don't."* The old map is not erased — it's expanded.
 
-## Earned Secure Attachment — The Most Hopeful Finding in Attachment Research
+→ Full content: [references/attachment-styles.md](references/attachment-styles.md) — earned secure attachment, the four-way map of breakup wounds, attachment injury patterns, the repetition compulsion
+→ Full content: [references/earned-secure-pathways.md](references/earned-secure-pathways.md) — four pathways to earned security: corrective emotional experiences, mentalization-based therapy (MBT), AEDP, and somatic/bottom-up approaches
 
-People are not fixed into their attachment style for life. Longitudinal studies — the Berkeley Adult Development Study and related attachment cohorts — show that adults can *change* their attachment classification over time, particularly through sustained corrective emotional experiences: a relationship with a secure partner, focused therapeutic work, or a sustained meaningful friendship (Waters, Merrick, Treboux, Crowell & Albersheim, 2000; Davila & Cobb, 2003).
-
-**The mechanism:** A consistent experience of safety updates your **internal working model** — the brain's invisible map of how attachment works. If your childhood map said *"people leave when you need them"*, a new corrective experience adds: *"but sometimes they don't."* This does not erase the old map. It adds to it.
-
-→ Full content: [references/attachment-styles.md](references/attachment-styles.md) — earned secure attachment, the four-way map of breakup wounds, attachment injury patterns, the repetition compulsion (why you keep choosing the same type), and Fisher's neuroscience of prolonged grief
+**What this means for breakup recovery:** Anxious attachers — every time you sit with the urge to reach out and *don't act*, you practice a new neural pathway. Avoidant attachers — every time you let yourself feel the grief instead of suppressing it, you build capacity for intimacy your childhood taught you wasn't safe. The breakup itself, survived without being destroyed, is a corrective emotional experience.earned secure attachment, the four-way map of breakup wounds, attachment injury patterns, the repetition compulsion (why you keep choosing the same type), and Fisher's neuroscience of prolonged grief
 
 ### What This Means for Breakup Recovery
 
@@ -172,7 +169,7 @@ Anxious attachers — every time you sit with the urge to reach out and *don't a
 
 > *"People don't just return to baseline after heartbreak — many emerge stronger, clearer, and more fully themselves than before the relationship."*
 
-Post-traumatic growth (PTG) research, pioneered by psychologists Richard Tedeschi and Lawrence Calhoun, documents how many people experience measurable psychological growth following adversity — including relationship endings. This isn't toxic positivity or denial; it's a documented phenomenon where the struggle to rebuild produces genuine, lasting strengths.
+Post-traumatic growth (PTG) research (Tedeschi & Calhoun) documents measurable psychological growth following adversity — including relationship endings. This is not toxic positivity; the struggle to rebuild produces genuine, lasting strengths.
 
 **The five domains of PTG following breakup:**
 
@@ -184,33 +181,24 @@ Post-traumatic growth (PTG) research, pioneered by psychologists Richard Tedesch
 | **Appreciation of life** | Greater gratitude for ordinary moments | Not taking presence for granted; more present in daily life |
 | **Spiritual/existential** | Deeper sense of meaning or purpose | New questions about what matters, deeper connection to values |
 
-**The PTG paradox:** Growth requires the pain. You cannot experience post-traumatic growth without the trauma. Suppressing grief to avoid the pain also suppresses the growth.
+**The PTG paradox:** Growth requires the pain. Suppressing grief to avoid the pain also suppresses the growth.
 
 ### The Dual-Process Model: How Grief and Growth Oscillate
 
-The Dual-Process Model (Stroebe & Schut) describes healthy grief as an oscillation between:
-- **Loss-orientation:** Ruminating on the pain, missing them, the grief itself
-- **Restoration-orientation:** Building new identity, developing new routines, focusing on the future
+Healthy grief oscillates between **loss-orientation** (processing the pain, missing them) and **restoration-orientation** (building new identity, developing new routines, focusing on the future). Neither mode alone produces resolution — the natural oscillation between both is the mechanism of recovery. Self-compassion when you swing too heavily to one side is not weakness; it's the practice.
 
-Neither mode alone produces resolution. The person who only grieves never builds anything new. The person who only focuses on restoration never processes the loss. Successful breakup recovery involves spontaneous, natural oscillation between both modes — and self-compassion when you swing to one side too heavily.
+**Practical:** Grief spike → go into it deliberately for 20 minutes, then shift to restoration. Over-focused on rebuilding → schedule 15 minutes of deliberate grief. The oscillation is the work, not a failure of discipline.
 
-**Practical application:** If you're in a grief spike, go into it deliberately for 20 minutes, then shift to restoration. If you're over-focused on rebuilding (productive but avoidant of grief), schedule a deliberate 15-minute grief session. The oscillation is the mechanism, not a failure of discipline.
+### What Predicts Who Grows — Key Findings
 
-### What Actually Predicts Who Grows — Evidence-Based Findings
-
-Research on who experiences post-traumatic growth after breakup identifies several predictors:
-
-**1. Pre-existing secure attachment.** Secure attachers have the relational infrastructure to process grief without it destabilizing identity completely. They grieve, integrate, and rebuild.
-
-**2. Social support, not just any social contact.** Quantity of friends matters less than quality. One person who allows you to express grief without fixing it is more predictive of growth than 20 people who tell you to "just move on."
-
-**3. Active meaning-making.** People who ask *"what does this breakup teach me about what I need?"* recover better than those who ask *"why did this happen to me?"* The first question leads somewhere; the second loops.
-
-**4. Some prior experience with loss.** Counterintuitively, people who have navigated prior significant losses often recover better from new heartbreak. The grief pathway has been walked before — the nervous system has practice.
-
-**5. Tolerance for emotional complexity.** People who can hold two truths simultaneously ("I'm in pain" AND "something new is becoming possible") grow more than those who need to resolve contradictions immediately.
+1. **Pre-existing secure attachment** — the relational infrastructure to process grief without identity destabilization
+2. **Social support quality** — one person who lets you express grief without fixing it beats 20 who tell you to move on
+3. **Active meaning-making** — *"what does this teach me about what I need?"* beats *"why did this happen to me?"* (loops vs. leads)
+4. **Prior loss experience** — the grief pathway has been walked before; the nervous system has practice
+5. **Emotional complexity tolerance** — holding two truths simultaneously ("I'm in pain AND something new is becoming possible") predicts growth
 
 → Full content: [references/resilience-research.md](references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG research findings, dual-process model, and evidence-based resilience tactics
+→ Full content: [references/earned-secure-pathways.md](references/earned-secure-pathways.md) — four pathways to earned security: corrective emotional experiences, mentalization-based therapy (MBT), AEDP, and somatic/bottom-up approaches(references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG research findings, dual-process model, and evidence-based resilience tactics
 
 
 ## The Internal Working Model — Your Brain's Invisible Map
@@ -1110,25 +1098,10 @@ Skipping straight to acceptance or forgiveness without anger completing first gu
 **Signs your anger is not yet complete:** Check whether the specific story of what happened still triggers a surge of physiological arousal (racing heart, heat, tensing) even though you've thought about it many times. The memory still activating you = anger still active. Grief is quieter. Grief activates sadness, not heat.
 
 
-### Forgiveness and Resentment
 
-> *"Forgiveness is not about condoning what happened. It's about refusing to let what happened keep taking from you."* — David Augsburger
-
-**What forgiveness is NOT:** condoning, reconciliation, forgetting, or excusing. Forgiveness is the deliberate decision to stop using energy to maintain resentment. **Premature forgiveness** — rushing to "get past it" before feeling what happened — produces false forgiveness: a thin surface of acceptance over unprocessed resentment that eventually surfaces in other relationships or health symptoms.
-
-The sequence must be: **anger → grief → forgiveness → peace**. Not anger → forgiveness → peace.
-
-→ Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md)
 → Full content: [references/forgiveness.md](references/forgiveness.md)
 
-is without acting on it — and can I be kind to myself in the gap between feeling and acting?"
-
-→ Full content: [references/self-compassion.md](references/self-compassion.md)
-→ Full content: [references/self-compassion-phase.md](references/self-compassion-phase.md)
-→ Full content: [references/anger-phase.md](references/anger-phase.md)
-
 ---
-
 
 
 ## Rebuilding Identity After a Breakup
@@ -1257,6 +1230,22 @@ Letting go is not a single decision — it is a gradual withdrawal of energy fro
 → Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md) — the letting-go sequence, emotional completion, and the forgiveness-resistance map.
 → Full content: [references/forgiveness.md](references/forgiveness.md) — what forgiveness actually is and isn't, and the practice of releasing resentment.
 
+
+## Forgiveness — What It Actually Is and Isn't
+
+Forgiveness is commonly mistaken for condoning, reconciling, or deciding the relationship was worth the pain. None of these are it.
+
+**What it is:** Releasing resentment so it stops consuming your present — not because they deserve it, but because you deserve to stop being controlled by what they did.
+
+**Two dimensions:**
+1. **Decisional forgiveness** — the choice to stop maintaining resentment. Under your direct control; can happen relatively quickly.
+2. **Emotional forgiveness** — the felt sense of peace or neutrality. Not under direct control; takes longer. Practice without forcing it.
+
+**Why unforgiveness is costly:** Chronic resentment activates the sympathetic nervous system, elevates cortisol, impairs sleep. The person who wronged you may be sleeping fine; you're paying the physiological price.
+
+**Self-forgiveness paradox:** Most forgive an ex more easily than themselves. Self-blame keeps the wound open. Self-forgiveness doesn't mean you were right — it means you're willing to stop punishing yourself for being human.
+
+→ Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md) — self-forgiveness vs. other-forgiveness, the physiological cost of unforgiveness, and the Hoelterhof reframing exercise
 ## Quick Scripts
 
 → Full content: [references/research-ground-truth.md](references/research-ground-truth.md) — neurological basis of breakup grief, attachment style differences, timeline research, and extended hard-moment scripts.
