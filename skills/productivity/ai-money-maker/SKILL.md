@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 3.7.5
+version: 3.9.0
 author: Hermes Agent
 license: MIT
 metadata:
@@ -2333,10 +2333,9 @@ Month 3：收第一笔钱
 
 **ROI表达3方式：** 类型C（安全感型：先用¥3万试效果，不满意可停）> 类型B（类比型：同行XX工厂案例）> 类型A（精确财务型）。**决策时间线：** <¥7万=2-4周；¥7-35万=1-3月；>¥140万=6-12月。
 
-
 ## 三十七、情感AI与陪伴AI：下一个$10亿市场
 
-> 第十五次迭代新增（Run 15）。AI情感陪伴赛道的变现机会、文化差异、和具体案例。
+> Run 40 深化（v3.8→v3.9）。AI情感陪伴赛道的变现机会、文化差异、和具体案例。整合 ai-mental-health-emotion-economy.md 最新数据。
 
 ### 核心数字（必须记住）
 
@@ -2350,24 +2349,50 @@ Month 3：收第一笔钱
 
 **三大变现模式：** 订阅制（Replika Pro $99.99/年）、B2B情感AI解决方案（$50k-$500k/年）、虚拟礼物/道具（创作者月入$1k-10k）。
 
----
+### 中国路径：EAP+政府买单为主
+
+**市场数字：** 中国EAP市场¥50亿/年，年增长率25%+，正处于2015年SaaS的类似早期阶段。外企500强有EAP预算，国内企业意识正在觉醒。
+
+**三条可行路径：**
+
+| 路径 | 启动成本 | 年收入天花板 | 关键动作 |
+|------|---------|------------|---------|
+| 企业EAP代理 | ¥5,000-30,000 | ¥300-1,000万 | 找EAP供应商合作，拿15-25%佣金 |
+| 社区筛查服务 | ¥10,000-50,000 | ¥500-2,000万 | 对接街道/社区，提供AI筛查+报告 |
+| 内容+内训 | ¥1,000-5,000 | ¥50-500万 | 知识付费+企业内训（无需资质） |
+
+**监管窗口期：** 2025-2026年是入场黄金期，届时资质认证要求将大幅提高。
+
+→ 完整内容：[references/ai-mental-health-emotion-economy.md](references/ai-mental-health-emotion-economy.md)
 
 ### 验证清单
 
 - [ ] 记住了情感AI市场规模（CAGR 23.4%）
 - [ ] 记住了中西市场路径差异
 - [ ] 找到了适合自己的变现模式（订阅/B2B/虚拟礼物）
-- [ ] 评估了监管风险（中国市场特别注意）
+- [ ] 记住了中国路径：政府买单+企业EAP为主，B2C受限于资质要求
 
 ## 三十八、AI Agent 商业化：自主智能体引爆 B2B 变现浪潮
 
-> 第十六次迭代新增（Run 16）。AI Agent = AI自己干活不要人盯着 vs AI工具 = 人操控AI省时间。
+> Run 40 深化（v3.8→v3.9）。AI Agent = AI自己干活不要人盯着 vs AI工具 = 人操控AI省时间。
 
 **核心公式：** AI工具帮员工提速30%；AI Agent替代某个岗位职能，企业直接削减人力成本——企业为「替代人力」付钱，不为「AI技术」付钱。
 
 **5种正在赚钱的Agent：** AI SDR（$500-15k/月）| AI客服Agent（$1k-10k/月）| 运营Agent（$300-2k/月）| 法律Agent（$2k-20k/月）| 招聘Agent（按入职佣金）
 
-**真实数据：** Clay $50M ARR | 11x.ai $20M ARR | Artisan $10M ARR（18个月0→$10M）
+**真实数据（2025更新）：** Clay $50M ARR | 11x.ai $20M ARR | Artisan $10M ARR（18个月0→$10M）| Manus AI内测估值$1B+ | Browserbase Operator $5M ARR
+
+### 2025新 Agent 浪潮：谁在赚钱
+
+| Agent 类型 | 定价区间 | 目标客户 | 真实案例 |
+|-----------|---------|---------|---------|
+| AI SDR（销售开发） | $500-15k/月 | 中大B2B | 6sense $100M ARR |
+| 运营Agent（客服/销售） | $300-5k/月 | 电商/SaaS | Bland AI语音Agent |
+| 法律Due Diligence | $2k-20k/月 | 律所/VC | Harvey AI $1B+估值 |
+| 招聘Agent（猎头） | 按入职15-25% | 中大企业 | 猎头佣金替代 |
+| 财务Agent（报销/发票） | $200-2k/月 | 中小企业 | 月省40-60小时 |
+
+**按替代成本定价，而非按功能定价。** 客户原来雇人花¥8000/月，你收¥4000/月，节省¥4000让客户无法拒绝。比价失效。
 
 → 完整内容：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
 
