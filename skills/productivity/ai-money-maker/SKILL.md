@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 3.28.0  # Run 133: Fix 57× V2 malformed ref links (+627 chars) · Condense sec44 (−1,297 chars, → ref link) · Update sec14 (+34 chars, added 2 cases to summary)
+version: 3.29.0  # Run 134: Add sec76 subsection 六 AI Agent monetization (+767 chars) · New ref ai-agent-monetize-2025.md
 author: Hermes Agent
 license: MIT
 metadata:
@@ -3880,3 +3880,30 @@ Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换�
 | 小红书 | 有审美/垂直赛道 | 3-6个月 | ¥30万/月 | ⚠️ 需特色 |
 | 知乎 | 有专业背景 | 3-6个月 | ¥20万/月 | ⚠️ 需深度 |
 | B站 | 有创作热情 | 6-12个月 | ¥10万/月 | ⚠️ 长线 |
+
+
+---
+
+### 六、AI Agent 变现：2025 年最具性价比的 B2B 赛道
+
+**核心逻辑：** AI Agent = 替代某个岗位，让企业直接削减人力成本。客户为「省一个员工」付钱，不为「AI技术」付钱。
+
+**三种已在赚钱的模式：**
+
+**① 专业岗位自动化 Agent（最快变现，1-2月见收入）** — 把会计/律师/设计师的重复工作封装成 Agent，按月收费 ¥2,000-10,000/月。深圳某会计工作室接入报税 Agent 后每月处理单量从 30→200 票，收入 3 倍，人力成本不变。
+
+**② AI 虚拟员工（企业买单意愿最强）** — 定位成「虚拟员工」而非软件工具，对标人力月薪 × 3-6 倍定价。广州某电商引入后客服团队从 5 人减至 2 人，年省人力成本约 ¥54 万，AI 年费仅 ¥7.2 万。
+
+**③ AI Agent 外包站（平台思维，天花板最高）** — 建「AI 虚拟员工市场」按订阅抽佣，先用 n8n 搭 2-3 个 Agent 验证需求再扩充。
+
+**模式对比：**
+
+| 模式 | 启动速度 | 技术门槛 | 收入天花板 |
+|------|---------|---------|-----------|
+| 岗位 Agent | 1-2月 | 低 | ¥5-30万/月 |
+| 虚拟员工 | 3-6月 | 中 | ¥10-100万/月 |
+| Agent 平台 | 6月+ | 高 | 无上限 |
+
+**避坑：** ❌ 卖「省了多少人力成本」而非「AI技术」；❌ 先验证付费意愿再投入开发
+
+→ 完整内容：[references/ai-agent-monetize-2025.md](references/ai-agent-monetize-2025.md)
