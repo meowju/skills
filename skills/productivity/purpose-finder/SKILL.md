@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.59.0
+version: 4.60.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -147,260 +147,39 @@ Japanese neuroscientist Kenji Katameya found that adults with strong daily ikiga
 
 → Full content: [references/ikigai-lifespan-stages.md](references/ikigai-lifespan-stages.md)
 
+### Japan Blue Zones Deepening: What the Longest-Lived People on Earth Actually Do
+
+The Blue Zones research (Buettner) identified five longevity hotspots where people routinely live past 100 with full cognitive function and reported high ikigai. The popular narrative treats Blue Zones as a diet or exercise story. It is not. The purpose-related findings are more specific and more useful:
+
+**Okinawa (Japan):** The *taco-tori* factor. Okinawan elders describe their ikigai as specific, small, and relational — "tending the family garden," "watching grandchildren play," "walking to the sea with a friend." None of these are grand. None require retirement or financial freedom. The question they teach children: *nanchō* (what is your reason to get up each morning?). This is asked literally from age five.
+
+**Kōki:** The Japanese concept of genuine attachment to others. Okinawan centenarians averaged 6–8 hours per week in community gathering practices — not passive socializing, but active mutual aid and shared work. This is structural, not incidental. Sardinia (Italy) shows the same pattern: men past 90 who remain in the village social structure, with a defined role and daily contact with 3+ generations.
+
+**The Retirement Ikigai Trap:** In all five Blue Zones, ikigai does not retire. The Samburu herders (Kenya), the Seventh-day Adventists (California), and the Nicoya Peninsula (Costa Rica) elders all maintain an active purpose structure past the age when Western people typically begin to "wind down." The purpose doesn't shift from work to leisure — it shifts from earning to mentoring and maintaining. This is a purpose architecture, not a job.
+
+**The Three-Generation Test for Purpose:** Ask an elder in a Blue Zone community what they do. Their answer consistently includes reference to at least three generations: what they do for their grandchildren, what they learned from their grandparents, what they are leaving for future generations. Purpose that spans three generations is more durable than purpose anchored in a single generation's achievement.
+
+
+
 
 ## The Five Dimensions of Ikigai — Beyond the Venn Diagram
 
 The popular four-circle ikigai diagram is a Western invention. The more useful frame comes from Japanese longevity research and the Blue Zones project, identifying **five dimensions** that distinguish people with strong, durable purpose:
 
-**1. Self (Jiko, 自己):** What you do that makes you feel genuinely alive — not entertained or validated, but alive. A specific activity where time disappears and you feel most like yourself. For most people this is a craft, a practice, or a form of creative work that has nothing to do with career.
+**1. Self (Jiko, 自己):** What you do that makes you feel genuinely alive — not entertained or validated, but alive. A specific activity where time disappears and you feel most like yourself.
 
-**2. Health (Kenko, 健康):** A body that allows you to show up. Not athletic performance — basic physical capacity. Blue Zones research shows that physical capability in the 60s and 70s predicts whether purpose remains accessible or becomes theoretical. Purpose requires a body that can execute.
+**2. Health (Kenko, 健康):** A body that allows you to show up. Blue Zones research shows that physical capability in the 60s and 70s predicts whether purpose remains accessible or becomes theoretical.
 
-**3. Environment (Kankyō, 環境):** The physical and social contexts where you spend your time. Okinawa elders have specific places they return to — a garden, a café, a walking path. These places anchor identity. People in stimulating environments develop more varied and resilient purpose than people in depleted ones.
+**3. Environment (Kankyō, 環境):** The physical and social contexts where you spend your time. Okinawa elders have specific places they return to — a garden, a café, a walking path. These places anchor identity.
 
-**4. Social (Shakai, 社会):** The quality of your relationships and your contribution to others. The strongest ikigai predictors in longevity research: having someone to wake up for, and having something to contribute beyond yourself. Social ikigai is the most reliable source — but only when genuine, not performed.
+**4. Social (Shakai, 社会):** The quality of your relationships and your contribution to others. The strongest ikigai predictors: having someone to wake up for, and having something to contribute beyond yourself.
 
-**5. Legacy (Keishin, 精神):** What you leave behind. Not monuments — small transmissions. Teaching someone what you know, modeling a way of being, contributing to something that outlasts you. Legacy doesn't require fame; it requires intention. The question: who will remember you, and for what?
+**5. Legacy (Keishin, 精神):** What you leave behind — not monuments, but small transmissions. Teaching someone what you know, modeling a way of being, contributing to something that outlasts you.
 
-**The Balance Question:** Most people over-index on one or two dimensions and neglect others. The most common imbalance: strong Self, weak Social. The highest ikigai scorers in the Blue Zones had all five dimensions activated — not in equal measure, but all present. Which of the five is most neglected in your current life?
+**The Balance Question:** Most people over-index on Self and neglect Social. The highest ikigai scorers in Blue Zones had all five dimensions activated. *Which of the five is most neglected in your current life?*
 
-**The Longing Dimension:** Japanese gerontologist Kenji K Awai found that many Japanese elders described their ikigai not in terms of activity but in terms of *natsukashii* — a tender, nostalgic longing for something that continues to matter. This is a different purpose vector: not "what energizes me" but "what would I miss if it disappeared?" Longing clarifies what you are already connected to. The things you would miss define your ikigai more reliably than the things you're currently doing. Ask: what do you already know you couldn't live without? That is closer to your ikigai than any optimization framework.
-
-
-
-→ Related: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
-
----
-
-## The Ikigai Field Guide: 7-Day Practice for Purpose Discovery
-
-This is a practice derived from the Japanese mental health tradition, adapted for Western purpose-seekers who need more structure than "just tend your garden."
-
-### Day 1–2: The Social Ikigai Inventory
-
-Ask yourself each day:
-- What did I do today that someone else found genuinely useful?
-- Where did I show up and it mattered that I was there?
-- What would actually be missed if I weren't here?
-
-Write 3 specific examples per day. Look for patterns across the two days.
-
-### Day 3–4: The Non-Social Ikigai Inventory
-
-Ask yourself each day:
-- What did I do today that I would do even if no one knew?
-- What practice, when I am doing it, makes the rest of the world feel less urgent?
-- Where did I feel the quiet satisfaction of getting better at something hard?
-
-This is often harder for people who have never had a private practice. If you cannot answer, this is the gap. Finding or developing a non-social ikigai activity — something that is yours alone — is often the single highest-leverage intervention for people who feel empty despite having social success.
-
-### Day 5–6: The Anti-Social Ikigai Audit
-
-Ask yourself honestly:
-- Is any part of my stated purpose actually about proving something?
-- Is there a resentment or old wound that seems to be driving me?
-- Do I want success partly to make someone else wrong?
-
-This is not a moral test. It is a clarity test. Anti-social ikigai will mobilize you and eventually consume you. The goal is not to eliminate it — it is to be conscious of it and redirect it where possible.
-
-### Day 7: Integration
-
-Write one paragraph: **"My ikigai is [small, daily thing] maintained through [private practice], contributing [social value], without [anti-social distortion]."**
-
-This is not a permanent answer. It is a snapshot of your current understanding. The practice of returning to this inventory quarterly will reveal shifts in direction long before any dramatic change is visible from the outside.
-
-→ Return to: [SKILL.md — Framework: The Ikigai Lens](file:///opt/data/skills/productivity/purpose-finder/SKILL.md#framework-the-ikigai-lens)
 → Full content: [references/ikigai-five-dimensions.md](references/ikigai-five-dimensions.md)
 
-### Anti-Social Ikigai: From Naming to Redirecting
-
-Anti-social ikigai is present when "what would success look like?" includes someone else being wrong, diminished, or proven inferior. The Recognition Test: Does your stated purpose contain a "stick it to" element?
-
-1. Name it: "I am pursuing this in part because I want someone to be wrong."
-2. Ask: "Would I still do this if that person were never wrong?" — if yes, the purpose is real; if no, it is reactive.
-3. Redirect the energy: use the motivation to build something — not to tear down.
-
-→ 提示词已内置上方，直接使用
-
-### The Ikigai Audit: Three Questions for Daily Practice
-
-Unlike abstract "purpose discovery," the Okinawan ikigai practice treats purpose as a daily behavioral routine — something you do, not something you find. Answering Question 1 daily is the intervention itself.
-
-**Question 1: What did I do today that made getting up worth it?**
-
-Not what you planned or meant to do — what did you actually do that had value beyond your own consumption? The moai (lifelong peer groups) compounds this: when 10 people do this daily for 40 years, the social reinforcement makes the practice durable in a way individual intention cannot.
-
-**Question 2: What small thing am I avoiding that I keep returning to?**
-
-The thing you defer but that draws you back is a signal, not a coincidence. The pattern of return is the evidence — not dramatic single decisions.
-
-**Question 3: Who would notice if I stopped?**
-
-Social ikigai requires witness — other people who experience value from your existence. If no one would notice, the current expression of your ikigai may be too private. If many people would notice, that's data about where your social ikigai lives.
-→ Full content: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
-
----
-
-## Framework: The Psychology of Meaning (Viktor Frankl)
-
-Viktor Frankl survived four Nazi concentration camps, including Auschwitz. His wife, parents, and brother died there. From that experience, he developed **logotherapy** — the proposition that the primary human drive is not pleasure (Freud) or power (Adler), but **meaning**.
-
-> "It is not we who should ask what the meaning of life is, but we should realize that it is we who are being asked. Life interrogates us, not we interrogate life."
-> — Viktor Frankl, *Man's Search for Meaning*
-
-### Frankl's Three Sources of Meaning
-
-Frankl identified three ways meaning is available to every person — no matter the circumstances:
-
-1. **Creative values** — what you give to the world (work, contribution, creation)
-2. **Experiential values** — what you receive from the world (love, beauty, nature, art)
-3. **Attitudinal values** — the stance you take toward unavoidable suffering
-
-The third one is the most counter-intuitive and the most powerful: **how you respond to suffering is itself a meaning.** You cannot control what happens to you. You can control what it means to you.
-
-### Meaning vs. Happiness
-
-> **Meaning is not the same as happiness.** People endure great unhappiness in service of meaning. Soldiers, parents, caregivers, activists — many live with exhaustion, grief, and difficulty because they have a "why" that makes it bearable.  \
-> \
-> The pursuit of happiness as the primary goal often produces the opposite. The pursuit of meaning tends to produce fulfillment as a side effect.
-
-### Meaning Is Retrospective
-
-Frankl observed that people rarely understand their life's meaning in real-time. They understand it looking backward:
-
-> Life is never made unbearable by circumstances, but only by lost meaning.
-
-This means: **you don't need to understand your whole story right now.** You are in the middle of it. Keep living in a way that creates meaning now — the retrospective clarity will come.
-
-### "Between Stimulus and Response"
-
-Frankl's most quoted line: between any event and your reaction to it, there is a space. In that space is your freedom to choose your response. That space is where meaning is made.
-
-> The last of human freedoms: to choose one's attitude in any given set of circumstances.
-
-This is not toxic positivity. It is not "everything happens for a reason." It is: the suffering is real and unchosen, but your response to it is yours.
-
-### Using Frankl in Conversation
-
-**When someone says "what's the point":**
-> Not knowing the point is not proof there is no point. It is proof you are in the middle of the story, not at the end. Keep going. The point will clarify.
-
-**When someone compares their chapter to someone else's whole book:**
-> You cannot copy someone else's meaning. Their meaning only makes sense in their story. Your meaning only makes sense in yours.
-
-**When someone says "everything feels meaningless":**
-> The harder question is not "what is the meaning of everything?" It is "what is the meaning of this specific moment, this specific situation?" Start there.
-
-**When someone is in acute crisis:**
-> This framework is not for emergencies. If someone is in a dark place right now, the first move is not to find meaning — it is to find human connection and professional support. Come back to this when they are safe.
-
-### The "Sunday Neurosis" and Post-Traumatic Growth
-
-Frankl described **"Sunday neurosis"** — reaching a goal and finding it empty. Purpose is not a summit; it is continuous engagement.
-
-**Post-traumatic growth (PTG)** — Tedeschi & Calhoun found 30–70% of crisis survivors report positive transformation: new strength, new possibilities, deeper relationships, renewed purpose. Growth coexists with grief.
-
-> **Sound meaning passes Frankl's test:** it holds up under scrutiny, connects you to something real, and does not require denying what happened.
-
-**"After what happened, I can't rebuild"** — the struggle to make sense of it is the engine of growth; late-stage discoverers stopped waiting for safety, connected pre/post-trauma threads, reframed loss as reconfiguration
-
-
-### The Space Between: Frankl's Most Practical Tool
-
-Frankl's "between stimulus and response" is his most actionable contribution. The space is not mystical — it is a **pause** trainable through three practices:
-
-1. **The Micro-Journal (30 sec/day):** Notice one point where you exercised genuine choice in what felt automatic. Write one sentence. After two weeks, re-read: the pattern is your attitudinal vocabulary.
-
-2. **The Clarifying Question:** When facing difficulty, ask *what would make this meaningful?* — not "why is this happening to me?" but "what opportunity is hidden here?" This forces agency, not victimhood.
-
-3. **The Three Sources Recalibration:** When purposeless, check which of Frankl's three sources you are neglecting. Creative (what could I contribute)? Experiential (what beauty or connection is available)? Attitudinal (how could I meet this with dignity)? Most "nothing matters" states are attitudinal crises — meaning is blocked, not absent.
-
-**Frankl × Ikigai:** The Okinawan who finds meaning in tending their garden — the person who has lost everything but chooses how to carry it — is practicing logotherapy without knowing the name. Both traditions: meaning is not given. It is found in the stance you take toward what you cannot control.
-
-→ Full content: [references/ptg.md](references/ptg.md)
-
-## Framework: The Purpose Discovery Process
-
-### Stage 1: Attention (Know Thyself Honestly)
-
-Before you can find direction, you need honest self-knowledge.
-
-#### The Energy Audit
-
-For 2 weeks: carry a small notebook. At the end of each day, write:
-- **What exhausted me today?**
-- **What energized me today?**
-- **What did I think about when I wasn't being paid to think about anything?**
-
-After 2 weeks, read it back. Patterns will emerge that your brain is too close to see in the moment.
-
-#### The Core Inventory
-
-Answer these without lying to yourself:
-
-1. When am I most absorbed (flow state)? Not "passionate about" — when do I lose track of time?
-2. What do I complain about constantly? **Complaints are desires in disguise.** If you complain that no one is doing X well, you might be the person meant to do X.
-3. What would I do even if it paid nothing? (Don't say "I don't know." That's a deflection.)
-4. What would I regret not trying when I'm 80?
-5. What do the people around me consistently lean on me for — the thing they'd actually miss if I weren't here?
-
----
-
-
-### Stage 2: Experiment (Try Before You Commit)
-
-> **You cannot think your way to purpose. You can only act your way there.**
-
-Purpose is not a conclusion. It is a direction. And you find directions by moving.
-
-#### The Micro-Experiment Rule
-
-**Do not bet your life on it. Try it in a weekend.**
-
-Pick something you might care about and do the smallest possible version:
-- Think you might like writing? Write 3 pieces this week. Publish one.
-- Think you might want to start a business? Talk to 5 people who did it. Not 50 — 5.
-- Think you might want to change careers? Shadow someone in that job for half a day. Actually show up.
-
-The goal is not to succeed. The goal is to **learn whether you care about this at all.**
-
-#### The 3-Month Test
-
-If a micro-experiment is promising, give it 3 months of serious effort before deciding it isn't for you. Skill acquisition takes 20 hours to get "not terrible." Stopping before that is not a verdict — it is quitting.
-
-> Rule: **You are allowed to quit after 3 months of real effort.**  
-> You are not allowed to quit after 3 days.
-
----
-
-### Stage 3: Refinement (Purpose Is a Practice)
-
-Most people who find a sense of purpose describe a shift from **"what can this do for me?"** to **"who am I when I'm doing this?"**
-
-#### The Identity Shift
-
-Purpose is not a noun. It is a verb. It is something you **practice**, not something you **find**.
-
-> "I am a person who makes things" is more generative than "I am a person who found their calling."  
-> The first statement invites action. The second invites waiting.
-
-#### Meaning Through Contribution
-
-The most reliable purpose generators in research:
-1. **Mastery** — getting genuinely good at something hard
-2. **Connection** — doing work that matters to other people
-3. **Autonomy** — having real control over your time and decisions
-
-Most "I feel like my life has no meaning" problems are actually "I am not doing any of these three things consistently" problems.
-
-#### The "Contribution First" Reversal
-
-> Stop asking "what is my purpose?"  
-> Ask instead: "what does the world need that I am uniquely suited to provide?"
-
-Your purpose is where your specific combination of experiences, abilities, and sensitivities meets something that actually helps people. That intersection is different for everyone and impossible to find by staring inward.
-
----
 
 ## Framework: Post-Traumatic Growth — Finding Purpose Through Crisis
 
