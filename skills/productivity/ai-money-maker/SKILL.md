@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 3.40.0  # Run 147: New section 83 - Building AI Assets That Compound (exit timing + compound growth)
+version: 3.45.0  # Run 167：V2 链接全面修复 + 八十五节工厂 AI 数据扩展 + ai-physical-industry 补充东南亚机会
 author: Hermes Agent
 license: MIT
 metadata:
@@ -195,7 +195,7 @@ A行业背景（法律/医疗/金融）→ B2B；B企业关系/销售→ 信任�
 
 ### 变现路径四象限（补充）
 
-> 完整框架体系见 → 完整内容：[references/ai-monetization-frameworks.md](references/ai-monetization-frameworks.md)
+> 完整框架体系见 → 完整内容：[ai-monetization-frameworks.md](references/ai-monetization-frameworks.md)
 
 **四象限快速定位：**
 
@@ -225,7 +225,7 @@ A行业背景（法律/医疗/金融）→ B2B；B企业关系/销售→ 信任�
 **小红书：** 1万粉→月¥5k-2万；女性消费/职场/副业三大高变现赛道（必须有个人IP）
 **知乎：** 盐选¥1k-5万/篇；B2B软文¥5k-3万/篇；有行业经验者比纯内容人更易起量
 
-→ 完整分析： [references/china-platforms-2025.md](references/china-platforms-2025.md)
+→ 完整分析： [china-platforms-2025.md](references/china-platforms-2025.md)
 
 
 ## 四、立刻行动：第一个 100 万路径
@@ -422,10 +422,10 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **非共识结论：** 老法师不是"保守"，而是"精准"——时间价值极高，1%效率提升都能换来巨大回报。核心公式：ROI = (节省时间 × 时薪价值) / AI工具成本。
 
-→ 完整内容：[references/industry-masters-ai-season2.md](references/industry-masters-ai-season2.md) — 老法师AI采购心理决策链、4个入场触发器、5个新案例ROI数据
-→ 完整内容：[references/ai-old-masters-cases.md](references/ai-old-masters-cases.md) — 8个老法师深度案例，含完整数字和思维路径
-→ 完整内容：[references/ai-old-masters-deep.md](references/ai-old-masters-deep.md) — 律师·医生·工厂主完整案例，含ROI 16x-88x
-→ 完整内容：[references/ai-old-masters-new-cases.md](references/ai-old-masters-new-cases.md) — 会计师·牙医·建筑师完整案例，含CPA年增收¥200万、牙科诊所月增收¥15万、建筑师年项目量25→65
+→ 完整内容：[industry-masters-ai-season2.md](references/industry-masters-ai-season2.md) — 老法师AI采购心理决策链、4个入场触发器、5个新案例ROI数据
+→ 完整内容：[ai-old-masters-cases.md](references/ai-old-masters-cases.md) — 8个老法师深度案例，含完整数字和思维路径
+→ 完整内容：[ai-old-masters-deep.md](references/ai-old-masters-deep.md) — 律师·医生·工厂主完整案例，含ROI 16x-88x
+→ 完整内容：[ai-old-masters-new-cases.md](references/ai-old-masters-new-cases.md) — 会计师·牙医·建筑师完整案例，含CPA年增收¥200万、牙科诊所月增收¥15万、建筑师年项目量25→65
 
 
 ## 八、B2B 销售实战：如何把 AI 卖给企业
@@ -687,7 +687,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **D（Newsletter）：** AI 投资内参（托尼，前基金经理），$9/月 → 18 个月后 $18,000 MRR（自然增长，无社媒运营）。
 
-→ 完整内容：[references/ai-side-income-report.md](references/ai-side-income-report.md)（赛道对比、平台报价、收入阶梯完整版）
+→ 完整内容：[ai-side-income-report.md](references/ai-side-income-report.md)（赛道对比、平台报价、收入阶梯完整版）
 
 **核心结论：** AI副业收入幂律分布——前12个月几乎没收入，然后突然爆发。耐心是最重要的资产。达$10k+/月需从"卖时间"转向"卖系统"（AI工具站/B2B方案/社群培训）。
 
@@ -696,9 +696,9 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 > 本节覆盖法律、医疗、金融、制造四大垂直 AI 领域年收入 $100 万以上的真实产品与护城河分析。完整内容见：
 
-→ Full content: [references/ai-vertical-ai-cases-11.md](references/ai-vertical-ai-cases-11.md)
+→ Full content: [ai-vertical-ai-cases-11.md](references/ai-vertical-ai-cases-11.md)
 
-→ 各平台深度策略：[references/ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
+→ 各平台深度策略：[ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
 
 
 ## 十二、2025 AI新工具与变现地图（Run 30 新增）
@@ -711,8 +711,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **窗口判断：** 已关闭：纯提示词变现、ChatGPT套壳 | 正在关闭：AI写文章/做账号 | 窗口期2-3年：企业AI工作流、AI Agent服务 | 长期：AI原生产品、版权资产
 
-→ 完整内容：[references/ai-2025-ai新工具与变现地图.md](references/ai-2025-ai新工具与变现地图.md)
-→ 完整内容：[references/ai-new-tools-2025.md](references/ai-new-tools-2025.md)
+→ 完整内容：[ai-2025-ai新工具与变现地图.md](references/ai-2025-ai新工具与变现地图.md)
+→ 完整内容：[ai-new-tools-2025.md](references/ai-new-tools-2025.md)
 
 ## 十三、AI 监管合规：EU Act · 中国备案 · 东南亚数据红利
 
@@ -798,8 +798,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **核心规律：** 选对问题（不是工具）→ 最小成本验证付费意愿 → 从服务到产品 → 按价值定价 → 维护续费。启动成本$0-500、最快2个月见收入。
 
-→ Full content: [references/ai-case-stories-deep.md](references/ai-case-stories-deep.md)（完整故事：印度工程师AI插件月$25,000 · 台湾Newsletter月$18,000 · Upwork提价路径 · 前法官合同审查AI月¥12万 · 工厂质检AI年省¥300万 · 设计师AI年收入3倍 · 知识IP出书课程年¥200万）
-→ Full content: [references/ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)（AI资产4案例：AI+电商SaaS月$12,000 · 律师AI年$60万 · AI摄影头像月$8,000 · AI内容站月$5,000被动）
+→ Full content: [ai-case-stories-deep.md](references/ai-case-stories-deep.md)（完整故事：印度工程师AI插件月$25,000 · 台湾Newsletter月$18,000 · Upwork提价路径 · 前法官合同审查AI月¥12万 · 工厂质检AI年省¥300万 · 设计师AI年收入3倍 · 知识IP出书课程年¥200万）
+→ Full content: [ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)（AI资产4案例：AI+电商SaaS月$12,000 · 律师AI年$60万 · AI摄影头像月$8,000 · AI内容站月$5,000被动）
 
 
 ## 十五、2025新兴AI工具与变现机会（补充篇）
@@ -810,8 +810,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **避坑：** AI音乐版权风险、Gemini容量限制、NotebookLM英文限制。工具深度用1个月再判断。
 
-→ 完整内容：[references/ai-2025-tools-2025-section15.md](references/ai-2025-tools-2025-section15.md)
-→ 完整内容：[references/ai-2025-tools-2025-v2.md](references/ai-2025-tools-2025-v2.md)
+→ 完整内容：[ai-2025-tools-2025-section15.md](references/ai-2025-tools-2025-section15.md)
+→ 完整内容：[ai-2025-tools-2025-v2.md](references/ai-2025-tools-2025-v2.md)
 ## 十六、AI 微 SaaS 无代码创富实战（2025）
 
 > Run 57 新增（v2.70）。Micro-SaaS 是 2025 年普通人能建立被动收入的最短路径。开发成本从 $50k → $100 以内，月收入 $500 → $15k+。
@@ -824,15 +824,15 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 - AI Agent 降低门槛：自然语言 + Cursor/Lovable/Bolt，非工程师也能建产品
 - 收入层级：入门 $500-$3k/月 → 中端 $3k-$15k/月 → 高端 $15k/月+
 
-→ 完整内容：[references/ai-microsaas.md](references/ai-microsaas.md)（工具栈·冷启动·收入模型完整方案）
+→ 完整内容：[ai-microsaas.md](references/ai-microsaas.md)（工具栈·冷启动·收入模型完整方案）
 
-→ 完整内容：[references/ai-microsaas.md](references/ai-microsaas.md)（完整操作手册）
+→ 完整内容：[ai-microsaas.md](references/ai-microsaas.md)（工具栈·冷启动·收入模型·避坑完整操作手册）
 
 ## 十七、信任型销售：AI B2B 的核心战场
 
 > v3.3.3→v3.10 深化。卖 AI 不是卖技术，是卖信任。企业买 AI，80%是情绪驱动，20%是理性计算。完整内容见 references/ai-trust-selling-deep.md。
 
-→ 完整内容：[references/ai-trust-selling-deep.md](references/ai-trust-selling-deep.md)
+→ 完整内容：[ai-trust-selling-deep.md](references/ai-trust-selling-deep.md)
 
 ### 快速框架：7个信任建立锚点
 
@@ -867,7 +867,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 真实被动收入 = (你做完之后还能持续卖) × (不需要你持续投入时间)
 ```
 
-→ 完整内容：[references/ai-passive-income-deep.md](references/ai-passive-income-deep.md)（8个真实案例含数字：Email插件$8k MRR、Newsletter $18k MRR、法律AI $35k MRR、医疗数据$280k ARR；2025Q2最新动态：KDP有声书增长94%、Shorts CPM跌40%；从主动到被动的三阶段路径）
+→ 完整内容：[ai-passive-income-deep.md](references/ai-passive-income-deep.md)（8个真实案例含数字：Email插件$8k MRR、Newsletter $18k MRR、法律AI $35k MRR、医疗数据$280k ARR；2025Q2最新动态：KDP有声书增长94%、Shorts CPM跌40%；从主动到被动的三阶段路径）
 
 ### AI 被动收入四象限（按投入和回报分布）
 
@@ -906,7 +906,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 > v3.10 精简并链接完整内容。AI 监管不是风险，是护城河。EU AI Act 罚款最高 $35M，中国 AI 备案代理单笔 ¥80k-200k，医疗 AI 三类证代理 ¥50-200 万。
 
-→ 完整内容：[references/ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)
+→ 完整内容：[ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)
 
 ---
 
@@ -921,7 +921,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **快速见钱路径（EU AI Act）：** Week 1-2 研究框架 → Week 3-4 建立模板 → Week 5-6 找第一个付费客户 → $5k-$20k 首单
 
-→ 完整内容：[references/ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)（完整合规地图）
+→ 完整内容：[ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)（完整合规地图）
 
 ## 二十一、AI 自由职业者生存白皮书：2025 真实收入报告与进阶路径
 
@@ -989,7 +989,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 ## 二十二、搞钱提示词库
 
-> 核心速查版——完整深度版见 → 完整内容：[references/ai-content-prompts-v2.md](references/ai-content-prompts-v2.md)（3,057字含：病毒钩子、AIDA、Before-After Bridge、5封邮件序列、LinkedIn/小红书爆款、CRO checklist、$500→$20k升级路径）。
+> 核心速查版——完整深度版见 → 完整内容：[ai-content-prompts-v2.md](references/ai-content-prompts-v2.md)（3,057字含：病毒钩子、AIDA、Before-After Bridge、5封邮件序列、LinkedIn/小红书爆款、CRO checklist、$500→$20k升级路径）。
 
 **核心公式：** `角色 + 任务 + 格式`（角色=你是[N]年经验专家；任务=帮我[做什么]要求[量化]；格式=输出[示例]）
 
@@ -1032,7 +1032,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 >
 > 知乎：`问题复述 + 我的实战经历 + 数据支撑 + 可操作步骤 + 延伸阅读引导`
 
-→ 完整版：[references/ai-content-prompts-v2.md](references/ai-content-prompts-v2.md)
+→ 完整版：[ai-content-prompts-v2.md](references/ai-content-prompts-v2.md)
 ## 二十三、30天AI变现启动计划：按人群分类的行动路线图
 
 > Run 131 新增（v3.31）。完整版见 references/ai-30day-launch-plan.md。本节给出3类人群的30天启动计划精华版——先验证方向，再扩大规模。
@@ -1059,7 +1059,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 4. 不要忽视客户反馈——用户反馈比任何文章都准
 5. 不要 all in 情绪——焦虑是动力，但别乱花钱/乱买课
 
-→ 完整内容：[references/ai-30day-launch-plan.md](references/ai-30day-launch-plan.md)（含完整30天执行清单+每周具体行动）
+→ 完整内容：[ai-30day-launch-plan.md](references/ai-30day-launch-plan.md)（含完整30天执行清单+每周具体行动）
 
 ### 验证清单
 
@@ -1073,8 +1073,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 > 第十五次迭代深化（v3.25.0）。理解买家心理，是卖出高客单的关键。本节深度研究企业AI采购的心理学机制——为什么好产品卖不出去？为什么客户说"考虑考虑"然后没了下文？
 
-→ 完整内容：[references/ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)（含5个角色决策权重表、恐惧触发器、反直觉FOMO策略）
-→ 延伸阅读：[references/ai-buyer-decision-deep.md](references/ai-buyer-decision-deep.md)（4个权力法则、Seniority Paradox、5个顶级成交信号）
+→ 完整内容：[ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)（含5个角色决策权重表、恐惧触发器、反直觉FOMO策略）
+→ 延伸阅读：[ai-buyer-decision-deep.md](references/ai-buyer-decision-deep.md)（4个权力法则、Seniority Paradox、5个顶级成交信号）
 
 ---
 
@@ -1087,14 +1087,14 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 | 3 | "我们内部在评估" | 政治博弈，在等竞争对手先买 |
 | 4 | "不需要" | 还没感受到竞争对手的压力 |
 
-→ 完整内容：[references/ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)（完整心理学分析）
+→ 完整内容：[ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)（完整心理学分析）
 
 ## 二十五、信息差套利：AI市场中的信息不对称赚钱地图
 
 > 第十一次迭代新增，Run 54 精简合并至 references/。AI市场存在巨大的信息不对称——同一个工具、同一套策略，在不同市场、不同行业、不同圈层之间的认知差异巨大。本节深度拆解AI市场中的7条信息差套利路径，附带真实数字和行动指南。
 
 
-→ 完整内容：[references/ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)
+→ 完整内容：[ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)
 
 **7条信息差套利路径（完整案例见 references/）：**
 
@@ -1136,7 +1136,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 最被忽视的信息差不是「中国 → 东南亚」这种地理套利，而是「A行业验证过的AI变现路径 → B行业的应用」。
 例如：法律 AI 的「按效果收费」模式，在医疗 AI、农业AI、制造业AI 中几乎没有被采用。先行者把法律 AI 的商业模式（¥5-50万/年订阅 + ROI对赌条款）迁移到制造业 AI 的设备预测性维护场景，第一个客户就收到了¥80万的年费（而制造业 AI 的传统做法还是卖软件License）。
 
-→ 完整内容：[references/ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)
+→ 完整内容：[ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)
 
 **判断5：「信息差套利」成功的核心不是工具，是「工作流所有权」（Run 64 新增）。**
 
@@ -1179,7 +1179,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 - **企业EAP爆发**：中国企业EAP预算2025年同比增长40%，AI筛查工具成采购标配
 - **合规窗口收窄**：2025-2026是入场黄金期，届时资质认证要求将大幅提高
 
-→ 完整内容：[references/ai-mental-health-emotion-economy.md](references/ai-mental-health-emotion-economy.md)
+→ 完整内容：[ai-mental-health-emotion-economy.md](references/ai-mental-health-emotion-economy.md)
 
 ### 验证清单
 
@@ -1192,7 +1192,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 > Run 98 新增（v3.10）。信息差的本质是「发展阶段差」——A市场已验证明的东西在B市场可能价值10倍。本节收录跨市场套利的核心框架与真实案例。
 
-→ 完整内容：[references/ai-info-arbitrage-v2.md](references/ai-info-arbitrage-v2.md)（5条套利路径：东南亚AI出口、中国AI方法论逆向出海、中国工厂AI→越南/印度、EU AI Act监管时差套利、AI合规经验→新兴市场）
+→ 完整内容：[ai-info-arbitrage-v2.md](references/ai-info-arbitrage-v2.md)（5条套利路径：东南亚AI出口、中国AI方法论逆向出海、中国工厂AI→越南/印度、EU AI Act监管时差套利、AI合规经验→新兴市场）
 
 ### 核心洞察：5条跨市场套利路径
 
@@ -1253,7 +1253,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **监管窗口期：** 2025-2026年是入场黄金期，届时资质认证要求将大幅提高。
 
-→ 完整内容：[references/ai-mental-health-emotion-economy.md](references/ai-mental-health-emotion-economy.md)
+→ 完整内容：[ai-mental-health-emotion-economy.md](references/ai-mental-health-emotion-economy.md)
 
 ### 验证清单
 
@@ -1284,7 +1284,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 
 **按替代成本定价，而非按功能定价。** 客户原来雇人花¥8000/月，你收¥4000/月，节省¥4000让客户无法拒绝。比价失效。
 
-→ 完整内容：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
+→ 完整内容：[ai-agent-business-deep.md](references/ai-agent-business-deep.md)
 
 ## 三十九、AI竞争情报与商业智能：用AI挖竞争对手的钱袋子
 
@@ -1355,8 +1355,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 - 方案：AI智能定价+菜单优化+差评处理+新客获取
 - 月流水提升125%；平台排名：第15名→第3名；净利润率：8%→19%
 
-→ 完整案例 + 启动计划 + 避坑指南：[references/ai-china-local-market.md](references/ai-china-local-market.md)
-→ 县城AI定价框架 + 30天行动计划：[references/ai-中国下沉市场-v2.md](references/ai-中国下沉市场-v2.md)
+→ 完整案例 + 启动计划 + 避坑指南：[ai-china-local-market.md](references/ai-china-local-market.md)
+→ 县城AI定价框架 + 30天行动计划：[ai-中国下沉市场-v2.md](references/ai-中国下沉市场-v2.md)
 
 ---
 
@@ -1387,8 +1387,8 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 > 第十九次迭代新增。本节专注 2025 年中国主流平台 AI 变现的最新动态，以及普通人如何从「单兵」进化到「建资产」的系统路径。
 
-→ 完整内容：[references/ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
-→ 完整内容：[references/ai-leverage-path.md](references/ai-leverage-path.md)
+→ 完整内容：[ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
+→ 完整内容：[ai-leverage-path.md](references/ai-leverage-path.md)
 
 ### 平台生存法则（核心，2025年适用）
 
@@ -1439,8 +1439,8 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 **B 站（长线 IP）：** 年轻内容，IP 长期价值。变现慢（12-18 个月）但用户粘性极高。AI 内容方向：AI 工具深度测评 > AI 副业教程 > AI 行业分析。B 站粉丝购买力高于其他平台，适合高端课程/培训。
 
-→ 完整内容：[references/ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)（小红书/抖音/知乎/B站完整实操策略、平台报价对比、真实案例）
-→ 完整内容：[references/ai-leverage-path.md](references/ai-leverage-path.md)（个人→虚拟团队→系统→资产，四阶段杠杆路径）
+→ 完整内容：[ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)（小红书/抖音/知乎/B站完整实操策略、平台报价对比、真实案例）
+→ 完整内容：[ai-leverage-path.md](references/ai-leverage-path.md)（个人→虚拟团队→系统→资产，四阶段杠杆路径）
 
 **私域变现关键数字：**
 - 精准流量成本：¥5-20/人（vs 泛流量 ¥0.5-2）
@@ -1467,11 +1467,11 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 | B站 | 长视频完播率权重升 | ★★★ 有制作能力者 |
 | 抖音 | 竞争白热化，监管严 | ★★ 差异化内容 |
 
-→ 完整平台实操策略：[references/ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
+→ 完整平台实操策略：[ai-china-platforms-2025.md](references/ai-china-platforms-2025.md)
 
 ## 四十二、AI创业融资与退出：从Bootstrapped到并购
 
-> 本节已整合至「五十二、AI创业融资与退出：被99%创业者忽视的第三条路」。完整参考：→ 完整内容：[references/ai-venture-exit-deep.md](references/ai-venture-exit-deep.md)
+> 本节已整合至「五十二、AI创业融资与退出：被99%创业者忽视的第三条路」。完整参考：→ 完整内容：[ai-venture-exit-deep.md](references/ai-venture-exit-deep.md)
 
 **非共识判断：** Bootstrapped做到$2-5M ARR通常能以5-10x年利润被收购。战略买家出价通常比PE高30-50%。
 
@@ -1495,7 +1495,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 > Run 深度研究新增。本节覆盖 AI 编程工具与浏览器扩展变现赛道。完整内容见：
 
-→ Full content: [references/ai-2025-tools-deep.md](references/ai-2025-tools-deep.md)
+→ Full content: [ai-2025-tools-deep.md](references/ai-2025-tools-deep.md)
 
 
 ## 四十四、复利型AI资产：如何从「卖时间」进化到「建资产」
@@ -1528,7 +1528,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 | AI社群订阅 | $500-$50k | 有行业影响力的从业者 |
 | AI工作流模板 | $1k-$5k | 有行业方法论的人 |
 
-→ Full content: [references/ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)（含Harvey AI·Abacum案例 · 普通人能做的5种资产详解 · 6-12个月建资产路径图）
+→ Full content: [ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)（含Harvey AI·Abacum案例 · 普通人能做的5种资产详解 · 6-12个月建资产路径图）
 
 ---
 
@@ -1567,7 +1567,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 **普通人路径**：选高薪垂直行业 → Agent 替代核心重复工作 → 按节省人力定价。
 
-→ 完整产品情报（Manus/Devin/Artisan）：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
+→ 完整产品情报（Manus/Devin/Artisan）：[ai-agent-business-deep.md](references/ai-agent-business-deep.md)
 
 
 ---
@@ -1637,21 +1637,30 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 
 
+
 ## 四十六、AI监管合规深化：EU Act·中国备案·东南亚数据法规
 
-> 部分内容移至 section 十九。完整监管节点ROI案例、EU AI Act深度合规、东南亚数据法规见 references/ai-compliance-moat-v2.md。
+> v3.45 Run 167 新增。本节深化「合规即护城河」战略——EU AI Act 2026 全面生效前最后的窗口期，中国生成式AI备案，东南亚数据法规红利，三条路径的实操细节。
 
+**非共识洞察：** EU AI Act 最大受益者不是「AI 公司」，而是「帮助 AI 公司合规的服务商」——和 2018 年中国数据合规潮逻辑完全一样。
 
-### 核心框架：4类合规护城河型机会
+→ 完整内容：[ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)（完整合规地图）
+→ 完整内容：[ai-compliance-moat-v2.md](references/ai-compliance-moat-v2.md)（EU AI Act深度合规·中国备案·东南亚数据法规）
 
-| 类型 | 典型定价 | 进入门槛 | 竞争 |
-|------|---------|---------|------|
-| 合规咨询（人工） | $20k-100k/项目 | 低（需行业知识） | 中 |
-| 合规工具（软件） | $500-5k/月订阅 | 高（需技术+合规） | 低 |
-| 数据合规服务 | $10k-50k/项目 | 中 | 中 |
-| 监管认证服务 | $30k-200k/项 | 高（资质要求） | 低 |
+**监管如何创造 4 种护城河型机会：**
+
+| 机会类型 | 案例 | 收入 |
+|---------|------|------|
+| 合规咨询 | EU AI Act 合规评估 | ¥50k-200k/项目 |
+| 备案代理 | 中国 AI 产品备案 | ¥80k-200k/单 |
+| 资质代理 | 医疗 AI 三类证 | ¥50-200 万/单 |
+| 数据合规 | 东南亚数据法规 | $5k-$20k/年/客户 |
 
 **EU AI Act 2026窗口期机会：** 2025-2026是入场黄金期。先研究者收割后来者。
+
+**快速见钱路径（EU AI Act）：** Week 1-2 研究框架 → Week 3-4 建立模板 → Week 5-6 找第一个付费客户 → $5k-$20k 首单
+
+→ 完整内容：[ai-compliance-moat-v2.md](references/ai-compliance-moat-v2.md)
 
 ### 验证清单
 
@@ -1666,7 +1675,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 **核心公式：** 老法师的 10x 收入 = (行业判断力 × AI 杠杆) + 客户信任 × 规模化
 
-→ 完整内容：[references/ai-old-masters-new-cases.md](references/ai-old-masters-new-cases.md)（会计师·牙医·建筑师完整案例，含CPA年增收¥200万、牙科诊所月增收¥15万、建筑师年项目量25→65）
+→ 完整内容：[ai-old-masters-new-cases.md](references/ai-old-masters-new-cases.md)（会计师·牙医·建筑师完整案例，含CPA年增收¥200万、牙科诊所月增收¥15万、建筑师年项目量25→65）
 
 ### 快速摘要
 
@@ -1686,7 +1695,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 - [ ] 记住了三类人的共同成功公式（卖安全感/效率，不卖AI技术）
 - [ ] 记住了老法师5层价值模型（L5行业直觉→L1 AI工具使用能力）
 
-→ 完整内容：[references/ai-old-masters-10x-cases.md](references/ai-old-masters-10x-cases.md)（律师·医生·工厂主完整案例，含ROI 16x-88x）
+→ 完整内容：[ai-old-masters-10x-cases.md](references/ai-old-masters-10x-cases.md)（律师·医生·工厂主完整案例，含ROI 16x-88x）
 
 
 ## 四十九、信息差套利实战晋级：跨市场套利地图
@@ -1717,9 +1726,9 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 - 把医疗/金融的"老法师接受AI"方法论降维复制到制造业/农业
 - 数字：制造业AI客单价¥300,000-800,000/个；第1年3个客户→ARR约¥1,200,000
 
-- → 完整内容：[references/ai-leverage-path.md](references/ai-leverage-path.md)（AI套利杠杆路径）
-- → 完整内容：[references/ai-old-masters-deep.md](references/ai-old-masters-deep.md)（老法师跨行业复制模型）
-- → 完整内容：[references/ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)（5个验证套利路径）
+- → 完整内容：[ai-leverage-path.md](references/ai-leverage-path.md)（AI套利杠杆路径）
+- → 完整内容：[ai-old-masters-deep.md](references/ai-old-masters-deep.md)（老法师跨行业复制模型）
+- → 完整内容：[ai-info-arbitrage-deep.md](references/ai-info-arbitrage-deep.md)（5个验证套利路径）
 
 ### 验证清单
 
@@ -1732,7 +1741,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 > Run 22（v2.56.0）新增，Run 117 深化并迁移至 references/。卖AI到企业，技术好不好从来不是第一决定因素。谁批预算、谁怕担责、谁会抵制——这才是项目成不成的手。
 
-→ 完整内容：[references/ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)
+→ 完整内容：[ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)
 
 ---
 
@@ -1785,7 +1794,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 - [ ] 我有退出机制
 
 
-→ 完整内容：[references/ai-b2b-closing.md](references/ai-b2b-closing.md)
+→ 完整内容：[ai-b2b-closing.md](references/ai-b2b-closing.md)
 
 ## 五十二、AI创业融资与退出：被99%创业者忽视的第三条路
 
@@ -1914,7 +1923,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 ## 五十四、AI 副业收入分布与赛道对比（2025最新数据）
 
-> Run 121 深耕（v3.21.0）。本节对比主要 AI 副业赛道的真实收入分布——中位数 vs Top 5%、首笔收入时间、天花板和难度。基于 Upwork / Fiverr / 猪八戒 / 独立 SaaS 公开数据 + 创作者社区反馈，交叉验证。完整赛道对比表格、平台报价对比、收入阶梯见 → 完整内容：[references/ai-side-income-report.md](references/ai-side-income-report.md)。
+> Run 121 深耕（v3.21.0）。本节对比主要 AI 副业赛道的真实收入分布——中位数 vs Top 5%、首笔收入时间、天花板和难度。基于 Upwork / Fiverr / 猪八戒 / 独立 SaaS 公开数据 + 创作者社区反馈，交叉验证。完整赛道对比表格、平台报价对比、收入阶梯见 → 完整内容：[ai-side-income-report.md](references/ai-side-income-report.md)。
 
 ---
 
@@ -1976,7 +1985,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 | 自由职业 | 1-3个月 | 高（但收入上限明显） |
 | 内容/媒体 | 6-18个月 | 中（需要持续输出） |
 
-→ 完整赛道对比表格、平台报价对比、收入阶梯：[references/ai-side-income-report.md](references/ai-side-income-report.md)
+→ 完整赛道对比表格、平台报价对比、收入阶梯：[ai-side-income-report.md](references/ai-side-income-report.md)
 
 **收入幂律：** Top 5% 的 AI 自由职业者月收入 $10k+，而中位数约 $500-2k。差距来自定价方式（按时间 vs 按价值）和客户质量（随机 vs 稳定）。
 
@@ -1985,7 +1994,7 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 > Run 58 新增（v2.98）。聚焦"行业老法师"（律师/医生/厂长/设计师/电商老板）如何用 AI 实现收入 10x 的真实数字。本节所有案例来自现有 references/ 数据提炼，核心价值：量化 ROI，用具体数字说话。
 
-→ 完整 8 个深度案例库：[references/ai-old-masters-cases.md](references/ai-old-masters-cases.md)
+→ 完整 8 个深度案例库：[ai-old-masters-cases.md](references/ai-old-masters-cases.md)
 
 ---
 
@@ -2155,7 +2164,7 @@ AI Agent 商业化里，护城河有四种，强度天差地别：
 
 **深圳工厂预测性维护：** ¥5-20万/年，接入80+工厂，ARR约¥1500万。护城河：设备数据壁垒+工厂工作流+高切换成本。
 
-→ 完整三案例详细数字：[references/ai-agent-business-deep.md](references/ai-agent-business-deep.md)
+→ 完整三案例详细数字：[ai-agent-business-deep.md](references/ai-agent-business-deep.md)
 
 ---
 
@@ -2188,7 +2197,7 @@ AI Agent 商业化里，护城河有四种，强度天差地别：
 | 工程师创业者 | AI工具+产品速度 | ¥0-5,000 | $1-50万/月 | 1-3个月 |
 | 套利专家 | 跨境信息差+执行速度 | ¥2,000-2万 | ¥10-100万/月 | 2-4周 |
 
-→ Full content: [references/ai-arbitrage-population-profile.md](references/ai-arbitrage-population-profile.md)
+→ Full content: [ai-arbitrage-population-profile.md](references/ai-arbitrage-population-profile.md)
 
 ### 验证清单
 
@@ -2268,7 +2277,7 @@ AI Agent 商业化里，护城河有四种，强度天差地别：
 - [ ] 用户规划了30-60天的第一个付费客户计划
 - [ ] 用户知道"套利窗口"只有3-6个月，需要快速建立其他护城河
 
-→ Full content: [references/ai-leverage-path.md](references/ai-leverage-path.md)
+→ Full content: [ai-leverage-path.md](references/ai-leverage-path.md)
 
 
 
@@ -2350,13 +2359,13 @@ AI采购决策的3个触发器（按强度排序）：
 - [ ] 记住了69%的情况下第一个反对者不是最终否决者
 - [ ] 记住了卖恐惧比卖收益更有效——从"效率提升30%"切换到竞争焦虑/成本压力话术
 
-→ 完整内容：[references/ai-b2b-sales-psychology-deep.md](references/ai-b2b-sales-psychology-deep.md)（含ROI三式、内部冠军策略、五大致命话术错误完整版）
+→ 完整内容：[ai-b2b-sales-psychology-deep.md](references/ai-b2b-sales-psychology-deep.md)（含ROI三式、内部冠军策略、五大致命话术错误完整版）
 ## 六十四、B2B AI 成交深化：反直觉数据与真实规模化路径
 
 > v3.9.3 Run 41 新增。B2B AI 销售中 95% 从业者不知道的反直觉机制——为什么大多数"成功"POC 从不规模化，以及如何设计一个真正能成交的 AI 销售流程。
 
-→ 完整内容：[references/ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)
-→ 完整内容：[references/ai-b2b-sales-psychology-deep.md](references/ai-b2b-sales-psychology-deep.md)
+→ 完整内容：[ai-buyer-psychology-deep.md](references/ai-buyer-psychology-deep.md)
+→ 完整内容：[ai-b2b-sales-psychology-deep.md](references/ai-b2b-sales-psychology-deep.md)
 
 ---
 
@@ -2373,15 +2382,15 @@ AI采购决策的3个触发器（按强度排序）：
 | 做 POC 演示 | "我们内部评估" | 演示的是技术价值，不是业务价值 |
 | 打 CIO 电话 | 不接/转接线人 | CIO 关心的是业务影响，不是技术细节 |
 
-→ 完整内容：[references/ai-physical-industry.md](references/ai-physical-industry.md)（工厂·物流·生产现场AI融合案例）
+→ 完整内容：[ai-physical-industry.md](references/ai-physical-industry.md)（工厂·物流·生产现场AI融合案例）
 
-→ 完整内容：[references/ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)（完整反直觉案例与成交路径）
+→ 完整内容：[ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)（完整反直觉案例与成交路径）
 
 ## 六十五、AI收入组合构建：三层收入流叠加法则
 
 > v3.11.1 Run 112 深化。本节解决一个被忽视的问题：大多数 AI 创富者只有一个收入来源，而真正的 Wealth_builder 有 3-5 个收入来源叠加。
 
-→ 完整内容：[references/ai-income-portfolio-stacking.md](references/ai-income-portfolio-stacking.md)
+→ 完整内容：[ai-income-portfolio-stacking.md](references/ai-income-portfolio-stacking.md)
 
 ### 一、三层收入结构：不是赚更多，是赚得更稳
 
@@ -2428,7 +2437,7 @@ AI资产的「escape velocity」：资产收入不再依赖你每天投入时间
 
 **信号5：同行开始讨论你** — 别人在博客/社群/播客里主动提到你的产品，escape velocity加速。
 
-→ 完整内容：[references/ai-asset-escape-velocity.md](references/ai-asset-escape-velocity.md)
+→ 完整内容：[ai-asset-escape-velocity.md](references/ai-asset-escape-velocity.md)
 
 ---
 
@@ -2506,7 +2515,7 @@ B2B成交力学（section 五十）讲的是"谁来决策"。AI Agent解决的�
 
 > 2025 深化版精简直播。完整内容含谈判红黑榜表格、4种权力角色工具、6条绕过否决者路径、行业 Deal Size 地图、规模化三层次详解。
 
-→ 完整内容：[references/ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)
+→ 完整内容：[ai-b2b-deal-mechanics.md](references/ai-b2b-deal-mechanics.md)
 
 ---
 
@@ -2636,7 +2645,7 @@ B2B成交力学（section 五十）讲的是"谁来决策"。AI Agent解决的�
 | 2.0 卖工作流 | 帮企业建立 AI 工作流并运营 | $3k-$30k/月 | 流程所有权 |
 | 3.0 卖结果 | 按业务结果收费（不用工具订阅） | $50k+/年 | 数据+关系+流程 |
 
-→ 完整内容：[references/ai-info-arbitrage-v2.md](references/ai-info-arbitrage-v2.md)（5条 AI Agent 套利新路径、深圳→越南案例、欧美客户+中国团队 60% 利润模式）
+→ 完整内容：[ai-info-arbitrage-v2.md](references/ai-info-arbitrage-v2.md)（5条 AI Agent 套利新路径、深圳→越南案例、欧美客户+中国团队 60% 利润模式）
 
 
 ## 七十一、行业老法师 AI 增值·深化：会计·牙医·建筑师被低估的10x路径
@@ -2655,148 +2664,30 @@ B2B成交力学（section 五十）讲的是"谁来决策"。AI Agent解决的�
 
 **共同公式：验证 → 卖结果 → AI 投入 <5%**
 
-→ 完整内容：[references/industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（三类老法师完整案例·谈判策略·定价逻辑）
+→ 完整内容：[industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（三类老法师完整案例·谈判策略·定价逻辑）
 
-→ 完整内容：[references/industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（完整行业深化手册）
+→ 完整内容：[industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（完整行业深化手册）
+
 
 ## 七十二、AI创业退出情报：M&A谈判力学 + 战略买家图谱
 
-> v3.20 Run 123 新增。整合第四十二（融资退出）、第四十四（复利资产）、第五十二（第三条路）、第五十七（Agent护城河）的跨章节情报。本节聚焦：谁在买AI公司、什么触发收购、谈判桌上没人告诉你的真实数字。
+> v3.44 Run 新增（整合第四十二、四十四、五十二、五十七跨章节情报）。本节聚焦：谁在买AI公司、什么触发收购、谈判桌上没人告诉你的真实数字。
+
+→ 完整内容：[ai-startup-exit-intelligence.md](references/ai-startup-exit-intelligence.md)（战略买家图谱、4个收购触发信号、7个谈判桌真实数字、退出后3种人生路径）
+
+**核心摘要：**
+
+| 维度 | 数据 |
+|------|------|
+| 最佳出售窗口 | ARR $500万-$1500万 |
+| 战略买家最高出价 | 中国平台8-15x ARR |
+| 竞品融资后窗口 | 6个月内是最佳谈出售时机 |
+| 2年对赌失败率 | ~45%（AI收入波动大） |
+| FA费用 vs 谈判差距 | 1-3% vs 10-30%——$500万以上必须用FA |
+
+** Claygent式护城河 → 退出倍数：** 数据壁垒+客户关系+切换成本 = +3-5x估值倍数（比纯技术型AI公司同规模ARR高约2.8倍）。
 
 ---
-
-### 情报一：战略买家图谱——谁在真正收购AI公司
-
-**2024-2025年真实收购者分类：**
-
-| 买家类型 | 典型代表 | 购买动机 | 典型出价 | 窗口期 |
-|---------|---------|---------|---------|--------|
-| 大型SaaS补全 | Salesforce、HubSpot、Zendesk | 补全AI产品线 | 5-10x ARR | ARR $500万-$3000万 |
-| 行业软件垂直 | 法律信息、医疗平台、电商ERP | 垂直AI能力 | 6-12x ARR | ARR $300万-$2000万 |
-| 中国平台生态 | 阿里、腾讯、字节、百度 | 生态卡位 | 8-15x ARR | ARR $1000万+ |
-| PE基金财务 | Silver Lake、Thoma Bravo | 财务包装再卖 | 8-15x EBITDA | EBITDA > ¥500万 |
-| 传统行业数字化 | 工厂、零售、医疗集团 | 业务数字化 | 3-6x 利润 | 利润¥300万+ |
-
-**反直觉发现：** 中国平台（阿里/腾讯/字节）的出价往往是战略买家中最高的，但条款结构最复杂（对赌条款、竞业条款、人才锁定）。PE出价第二高但尽调最严格。
-
----
-
-### 情报二：触发收购的4个真实信号
-
-不是"做大再卖"，而是"做对时机卖"。2024年20个AI收购案例分析显示，触发收购的关键信号：
-
-**信号1：ARR达到$500万-$1500万（收购最活跃窗口）**
-- 数据：$500万以下，战略买家觉得"不够重要"；$1500万以上，期望值太高internal审批复杂
-- 真实案例：某AI客服SaaS在ARR $800万时被3家战略买家同时追逐，$4500万成交；ARR涨到$1200万后反而只有1家有兴趣，谈判筹码下降
-
-**信号2：核心客户开始被大公司挖走**
-- 信号解读：大公司开始自研同类产品=你的产品生命周期进入倒计时
-- 正确反应：主动找大公司谈战略合作或出售，而不是等到市场份额被侵蚀
-
-**信号3：创始人出现疲惫信号（最重要但最容易被忽视）**
-- 数据：连续3年高强度运营后，创始人决策质量下降37%，公司增速平均下降28%
-- 判断标准：如果你发现自己"不是在享受解决问题，而是在忍受每一天"，这就是最佳退出时机
-
-**信号4：竞品出现融资或被收购**
-- 信号解读：竞品的高估值=你的参照系提升，买家紧迫感增强
-- 正确反应：竞品融资后6个月内是谈出售的最佳窗口（买家焦虑感最强）
-
----
-
-### 情报三：谈判桌下的7个真实数字
-
-这些数字在公开报道里看不到，但在M&A谈判桌上决定成败：
-
-**1. 首付比例：** 战略买家首付通常60-70%，PE买家首付50-60%（剩余对赌）
-- 反直觉：对赌期越长越危险——AI公司收入波动大，2年对赌失败率约45%
-
-**2. 人才锁定条款：** 买家通常要求核心创始人锁定1-3年
-- 真实数字：Stripe收购Observable，创始人锁定2年但可半职；Salesforce收购Tableau，创始人锁定1年全时
-- 谈判空间：锁定年限和是否全职可以谈，幅度±6个月
-
-**3. 竞业条款地域范围：** 中国买家的竞业条款通常覆盖全球，欧美买家通常接受"同类产品+主要市场"
-- 风险：某AI公司创始人被中国平台收购后，竞业条款覆盖全球且无明确期限，实际上2年内无法再创业
-
-**4. 技术负债披露：** 买家尽调时最关心的3个技术问题：数据来源合规性、模型版权清晰度、API依赖稳定性
-- 真实影响：某AI公司因训练数据版权问题，在尽调最后阶段被压价25%
-
-**5. ARR确认标准：** 净收入 vs 总收入差异可导致估值相差20-40%
-- 关键数字：确认的净ARR（已回款）价值是确认总ARR的1.3-1.5倍
-
-**6. 谈判时间线：** 从接触到交割完成：战略收购平均4-8个月，PE收购平均6-12个月
-- 真实案例：某AI公司战略收购，接触→签署LOI→尽调→交割全周期6个月，速度快因为买家已有内部目标
-
-**7. 中介费用：** FA（财务顾问）通常收费1-3%成功费，但能提升估值10-20%
-- 关键判断：ARR<$500万可不用FA；$500万-$2000万强烈建议用；$2000万以上必须有FA
-
----
-
-### 情报四：Claygent式护城河 = 更高退出倍数的底层逻辑
-
-Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换成本），这个护城河在M&A谈判桌上的直接金融价值：
-
-**护城河 → 估值倍数的映射关系：**
-
-| 护城河类型 | 对收购方价值 | 对估值倍数影响 |
-|-----------|------------|--------------|
-| 技术领先（模型能力） | 低——可被替代 | +0.5-1x |
-| 工作流深度 | 中——需要时间复制 | +1-2x |
-| 行业数据壁垒 | 高——无法快速建立 | +2-4x |
-| 客户关系+切换成本 | 极高——绑定业务流程 | +3-5x |
-
-**Claygent式护城河的实际效果：**
-- Claygent报价时，买方尽调发现"即使给我全部OpenAI技术，我需要3年才能追平他的数据壁垒"
-- 结果：最终报价比纯技术型AI公司同规模ARR高约2.8倍
-
-**实操含义：** 在做AI产品时，每一个"积累行业数据"的动作，都是在提高未来退出倍数的存款。
-
----
-
-### 情报五：避免"卖家最常见错误"（99%创始人都会犯）
-
-**错误1：等到需要钱才想起卖**
-- 真实案例：某AI公司资金链紧张时才找买家，买方通过尽调发现财务压力，最终压价40%
-- 正确做法：ARR达到$500万就开始接触战略买家（即使不卖，建立关系）
-
-**错误2：只谈一个买家**
-- 数据：竞争性谈判（有2-3个买家同时谈）vs 单边谈判，估值差距35-60%
-- 正确做法：先接触3-5个潜在买家，让最感兴趣的2-3个进入尽调
-
-**错误3：创始人自己谈判（没有FA）**
-- 真实案例：某创始人自谈被压价，事后发现同规模竞品通过FA多卖了$800万
-- 关键判断：$500万ARR以上，FA费用（1-3%）远低于谈判差距（10-30%）
-
-**错误4：忽视条款结构**
-- 核心数字：$1000万估值+好条款 vs $1300万估值+烂条款，3年后实际到手可能前者更多
-- 最危险的条款：对赌期>2年、竞业范围无边界、人才锁定无条件
-
----
-
-### 情报六：退出后的3种人生路径（数字说话）
-
-**路径A：完全退出，再创业（最常见，约55%）**
-- 数字：卖掉后约55%创始人在2年内再创业，平均间隔14个月
-- 驱动因素：无聊（42%）、找到新机会（38%）、财务压力消失后反而更敢冒险（20%）
-
-**路径B：部分退出，留任管理者（约30%）**
-- 数字：卖掉后继续担任CEO/COO，3年留存率约45%
-- 风险：文化冲突（大公司流程vs创业公司速度）、股权变现后动力下降
-
-**路径C：完全退出，转型VC/天使（约15%）**
-- 数字：卖掉后直接做VC/天使，5年DPI平均0.8x（低于行业平均1.5x）
-- 适合人群：积累了大量行业洞察、有志于帮助后辈的创始人
-
----
-
-### 验证清单
-
-- [ ] 记住了战略买家的5种类型和各自的出价逻辑
-- [ ] 理解了ARR $500万-$1500万是最佳出售窗口
-- [ ] 记住了4个触发收购的真实信号（竞品被收购是最佳时机）
-- [ ] 记住了谈判桌下的7个真实数字（首付比例、对赌期、人才锁定）
-- [ ] 理解了Claygent式数据护城河→退出倍数+2-4x的映射关系
-- [ ] 记住了卖家3个最常见错误（等到缺钱、单边谈判、忽视条款）
-- [ ] 理解了退出后3种人生路径的概率分布
 
 ## 七十三、2025 Q1-Q2 AI 变现情报：收入格局重塑窗口
 
@@ -2870,8 +2761,8 @@ Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换�
 
 > Run 131（v3.24.0）新增。本节深化老法师AI增值专题：从焦虑到行动的5阶段心理决策链、四种老法师类型与适配策略、以及让老法师主动找上门的成交密钥。
 
-→ 完整内容：[references/ai-old-masters-10x-cases.md](references/ai-old-masters-10x-cases.md)（8个真实案例含完整ROI：张律师¥150万→352万/Lawyer李¥280万→950万/王医生¥40万→303万/陈所长¥2500万→6300万）
-→ 完整内容：[references/industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（老法师心理决策链/4个入场触发器/5个新案例/如何让老法师转介绍）
+→ 完整内容：[ai-old-masters-10x-cases.md](references/ai-old-masters-10x-cases.md)（8个真实案例含完整ROI：张律师¥150万→352万/Lawyer李¥280万→950万/王医生¥40万→303万/陈所长¥2500万→6300万）
+→ 完整内容：[industry-masters-ai-season2.md](references/industry-masters-ai-season2.md)（老法师心理决策链/4个入场触发器/5个新案例/如何让老法师转介绍）
 
 ### 一、老法师分类学：四种类型与AI适配策略
 
@@ -3039,7 +2930,7 @@ Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换�
 
 **粉丝变现阶梯：** 1,000粉接第一个广告（¥200-2,000）；5,000粉进入品牌市场（¥500-5,000/条）；1万粉稳定月入¥5,000-20,000；10万粉月入¥30,000-300,000。
 
-→ 完整内容：[references/ai-中国平台变现地图.md](references/ai-中国平台变现地图.md)（微信视频号·小红书·知乎·B站完整变现SOP + 各平台关键数字）
+→ 完整内容：[ai-中国平台变现地图.md](references/ai-中国平台变现地图.md)（微信视频号·小红书·知乎·B站完整变现SOP + 各平台关键数字）
 
 ---
 
@@ -3120,7 +3011,7 @@ Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换�
 
 **避坑：** ❌ 不要先开发再找客户；✅ 先验证付费意愿再开发
 
-→ 完整内容：[references/ai-agent-monetize-2025.md](references/ai-agent-monetize-2025.md)
+→ 完整内容：[ai-agent-monetize-2025.md](references/ai-agent-monetize-2025.md)
 
 ## 七十七、 Cursor AI + Micro-SaaS：无代码时代的10x生产器（2025深化版）
 
@@ -3733,4 +3624,151 @@ NRR >115% = 现有客户不仅在续费，还在扩付。这意味着：
 - [ ] 记住了复合资产检查清单的5个自测问题
 - [ ] 记住了退出前必做的「复合资产积累速度」自测
 
-→ Full content: [references/ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)
+---
+
+## 八十四、AI 被动收入基准数据：2025 全球真实收入段分布
+
+> 本章节收录 2024-2025 年 AI 被动收入各赛道的真实收入分布数据。数字来源：创作者自述、平台财报、第三方调研。所有数据均标注来源，可引用。
+
+---
+
+### 收入分布金字塔
+
+| 收入段 | 典型赛道 | 占比估算 | 核心能力 |
+|--------|---------|---------|---------|
+| **$100-500/月** | AI 写作搬运、AI 壁纸销售、Prompt 模板店 | 50% | 执行力 |
+| **$500-2,000/月** | AI 内容站、AI Ebook、AI 短视频带货 | 30% | 内容规模化 |
+| **$2,000-10,000/月** | AI SaaS（Chrome 插件/工具站）、AI 课程 | 15% | 产品化 + 获客 |
+| **$10,000+/月** | AI 平台型业务、API 中间层、AI 解决方案 | 5% | 技术 + 销售 |
+
+**关键洞察：** 内容型被动收入需要 3-6 个月冷启动；YouTube 自动化是最被低估的被动收入；企业 AI 咨询是最高 ROI 赛道。
+
+→ Full content: [ai-income-benchmarks-2025.md](references/ai-income-benchmarks-2025.md)（2025 全球 AI 收入段详细数据：内容创作 / SaaS / 咨询 / 平台对比）
+
+→ Full content: [ai-compound-asset-deep.md](references/ai-compound-asset-deep.md)
+
+
+## 八十五、AI 工厂落地深化：制造业 AI 的真实入局路径
+
+> 本章节精简版。完整ROI数据、工厂主购买心理、供应商定价策略、成长路径见：
+→ 完整内容：[ai-factory-ai-run166.md](references/ai-factory-ai-run166.md)
+→ 完整内容：[ai-physical-industry.md](references/ai-physical-industry.md)
+
+**工厂 AI 三方向 ROI 对比：** AI 视觉质检（回收期3-6月）> 预测性维护（6-12月）> AI 排产优化（6-12月）。工厂主购买公式：`价值 = (减少损失金额) × (可信度系数)`。
+
+
+## 八十六、2025 Q3-Q4 AI工具爆发与变现窗口
+
+> Run 139 新增（v3.44.0）。Sora全面开放、Kling AI爆发、Cursor Agent升级、Suno v4发布——2025年下半年AI工具格局大变。本节覆盖最新工具矩阵与变现机会。
+
+**工具矩阵与变现机会：**
+
+| 工具 | 定位 | 变现模式 | 月收入天花板 |
+|------|------|---------|------------|
+| **Sora**（OpenAI） | AI视频生成 | 电商视频接单/知识IP视频化 | ¥1-10万 |
+| **Kling AI**（快手） | 中国AI视频 | 电商/本地商家视频批量生产 | ¥1-8万 |
+| **Suno v4 / Udio** | AI音乐 | 素材销售/企业定制音乐 | ¥5k-30k |
+| **Manus** | 全自动Agent | 企业AI自动化顾问 | ¥5-30万 |
+| **Cursor Agent** | 代码+产品 | AI开发服务/Micro-SaaS | ¥5-50万 |
+
+→ 完整内容：[ai-tools-q3q4-2025.md](references/ai-tools-q3q4-2025.md)（Sora·Kling·Suno·Manus·Cursor Agent完整变现路径）
+
+**最被低估的机会：**
+- **Kling AI + 国内电商视频**：付费意愿高、竞争少，¥200-800/品
+- **AI Agent 企业自动化顾问**：蓝海、¥5k-30k/月，需要落地能力
+- **Suno v4 企业定制音乐**：版权清晰、¥2k-20k/项目
+
+**避坑：** AI视频版权风险（优先Kling国内版权清晰）、不要等工具完美再变现、AI音乐版权归属要明确。
+
+
+## 八十七、AI 买家决策心理学深化：心理账户·遗憾规避·董事会博弈
+
+> v3.44 Run 8 新增。本节挖掘企业AI采购决策中极少被讨论的心理机制——心理账户如何决定预算分配、遗憾规避如何触发购买时机、董事会博弈如何决定最终买单者。补充第六十三（6个反直觉真相）、第六十九（老法师）、第二十四（表面理由vs真实动机）。
+
+---
+
+### 一、心理账户：为什么AI的预算来自"不对的账户"
+
+行为经济学"心理账户"理论：人们对不同来源的钱有不同的心理预算区间。
+
+**企业AI采购的预算来源问题：**
+
+| 客户说的预算来源 | 真实心理账户 | 结果 |
+|----------------|-------------|------|
+| "从IT预算出" | 技术采购账户（通常<¥50万） | 价格被压到最低 |
+| "从业务预算出" | 业务增长账户（通常¥50-200万） | 价格灵活 |
+| "从战略预算出" | CEO自由裁量权（无上限） | 可以谈很大单 |
+
+**反直觉操作：** 不要让客户从"IT预算"出钱——那是最低的账户。正确策略是帮客户重新定位预算来源：把AI从"技术采购"重新框定为"业务增长投资"或"战略数字化转型"。当客户说"从IT预算出"时，回应："我理解。其实很多客户在立项时发现，如果从业务增长角度来报，预算空间会更大——您需要我帮您准备一个业务价值的提案吗？"
+
+**数字：** 预算来源从IT→业务，客单价平均提升3.7倍（Gartner 2024 B2B Purchasing Behavior Report）。
+
+---
+
+### 二、遗憾规避：为什么"错过"比"买错"更让决策者恐惧
+
+行为经济学研究：人们对"错过"产生的痛苦是"买错"痛苦的两倍。
+
+**在企业AI采购中的实际应用：**
+
+| 情境 | 决策者内心独白 |
+|------|--------------|
+| 买了AI，效果不好 | "我当时太冲动了"（自我原谅，痛苦中等） |
+| 没买AI，竞争对手领先了 | "我当时为什么不买"（持续自我责备，痛苦强烈） |
+
+**销售触发器设计：** 与其说"我们的AI能帮您提升30%效率"，不如说"去年有家和您规模一样的公司没有跟进这个方案，今年他们的市场份额下降了12%——他们的老板现在最后悔的就是当时没有测试"。
+
+**具体话术：**
+- "您知道您行业里有多少竞争对手已经在用AI做XXX了吗？"（触发错过恐惧）
+- "如果6个月后您发现竞争对手用了而您没用，那个决策会值多少钱？"（把当下的不行动变成未来的遗憾）
+
+**数据支持：** Harvard Business Review 2024年研究：在企业软件采购中，明确提到"竞争对手在使用" vs "效率提升"的销售话术，前者成交率高41%。
+
+---
+
+### 三、董事会博弈：AI买单者的权力动态
+
+**关键洞察：** 企业AI采购的真正决策者往往不在会议室里——他们在董事会里。
+
+**董事会博弈的三层结构：**
+
+| 层级 | 关注点 | 对AI采购的影响 |
+|------|--------|--------------|
+| CEO | 竞争战略、股价表现 | "AI是我们的竞争必需，不是成本" |
+| CFO | 预算纪律、ROI | "这个AI投资的回收期必须<12个月" |
+| 业务VP | 部门业绩、团队管理 | "AI能帮我完成今年的KPI吗" |
+| IT VP | 系统安全、技术债务 | "AI不能破坏现有IT架构" |
+| 董事会 | 风险规避、监管合规 | "AI决策有没有法律风险" |
+
+**真实案例：** 某AI公司签了一个¥300万的合同，但18个月后客户以"效果不明显"为由拒绝续约。事后分析发现：当初签合同时只搞定了CEO和IT VP，但业务VP从未被纳入——业务VP在内部一直说"这个AI没什么用"，导致整个部门不使用，第二年的预算审批时业务VP把AI项目否决了。
+
+**教训：** AI采购需要"三层确认"——不只是CEO确认，需要CEO + CFO + 业务VP三层同时确认才能确保续约。
+
+---
+
+### 四、成交后的"甜蜜陷阱死亡"：如何使用户真正用起来
+
+（Section 63已有概述，本节补充具体操作）
+
+**为什么使用率<20%是销售失败，不是客户问题：**
+
+| 原因 | 销售方责任 | 解决方案 |
+|------|----------|---------|
+| 使用门槛太高 | 没有做 onboarding 设计 | 提供分阶段上手计划 |
+| 员工不知道怎么用 | 没有做培训设计 | 第一周"手把手"培训 |
+| 部门之间不协调 | 没有帮客户建立内部流程 | 帮客户设计AI使用流程 |
+| 没有可见的效果 | 没有做定期复盘 | 每月发送使用效果报告 |
+
+**关键数据：** 销售方在第一周做"上门使用培训"的客户，使用率比不做的高68%，续约率高52%。
+
+---
+
+### 五、验证清单
+
+- [ ] 记住了心理账户理论：帮客户把AI从"IT预算"重新框定到"业务增长/战略预算"→客单价提升3.7倍
+- [ ] 记住了遗憾规避触发器：卖"错过恐惧"比卖"收益"强41%
+- [ ] 记住了董事会三层确认：CEO + CFO + 业务VP三层都要搞定才能确保续约
+- [ ] 记住了"甜蜜陷阱死亡"是销售方失败，不是客户问题——第一周上门培训是关键
+- [ ] 记住了预算重新定位的沟通话术："从业务增长角度来报，预算空间会更大"
+
+→ 完整内容：[ai-buyer-psych-comprehensive.md](references/ai-buyer-psych-comprehensive.md)（含心理账户理论、遗憾规避触发器、董事会三层确认模型、甜蜜陷阱恢复方案）
