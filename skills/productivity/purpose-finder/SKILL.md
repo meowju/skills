@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.68.0
+version: 4.69.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -171,6 +171,23 @@ Three Japanese frameworks that complement ikigai and offer distinct purpose entr
 **Kaizen:** Continuous, small improvements. The 1% daily compounding. Purpose as daily maintenance, not a singular discovery event. The question: am I showing up to the practice today?
 
 → Full content: [japanese-purpose-frameworks.md](references/japanese-purpose-frameworks.md)
+
+### Cross-Cultural Purpose: How Western Culture Distorts the Search
+
+Western culture frames purpose as something you *find* — a latent truth waiting to be discovered. This creates three systematic distortions:
+
+**1. The Passion Mentality.** "Follow your passion" assumes you have a pre-existing passion buried inside you. This is a modern Western invention. Most people discover purpose through engagement, not before it. You don't find passion; you build it through mastery.
+
+**2. Singular Purpose.** Western narratives search for *the one* purpose — the grand calling. Japanese ikigai is more modest: a reason to get up today. Multiple ikigai across domains is normal, not an identity crisis.
+
+**3. The Hero's Journey Frame.** Western storytelling positions purpose as a destination: you struggle, discover your calling, and emerge transformed. Real purpose discovery is iterative, unglamorous, and often accidental.
+
+**The Western Distortion in Practice:**
+- "I need to find my purpose before I commit" → delays engagement indefinitely
+- "If I don't feel passionate, it's not my calling" → filters out everything hard
+- "Purpose should feel meaningful all the time" → rejects the mundane reality of purpose work
+
+The antidote: treat purpose as a practice, not a revelation. Show up to something with enough regularity that the practice itself generates the meaning — not the other way around.
 
 ### The Two-Minute Rule
 
