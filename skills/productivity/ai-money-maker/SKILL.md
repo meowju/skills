@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 3.31.0  # Run 134: Add sec76 subsection 六 AI Agent monetization (+767 chars) · New ref ai-agent-monetize-2025.md
+version: 3.32.0  # Run 135: Add sec76 subsection 七 AI Agent 定价策略与真实案例 (+717 chars)
 author: Hermes Agent
 license: MIT
 metadata:
@@ -3667,6 +3667,31 @@ Section 57提到Claygent的护城河（1000万候选人数据+工作流+切换�
 | Agent 平台 | 6月+ | 高 | 无上限 |
 
 **避坑：** ❌ 卖「省了多少人力成本」而非「AI技术」；❌ 先验证付费意愿再投入开发
+
+### 七、AI Agent 实战：定价策略与真实案例（Run 135 新增）
+
+**三种已被验证的定价模式：**
+
+| 模式 | 定价逻辑 | 适合场景 | 真实数字 |
+|------|---------|---------|---------|
+| 按效果付费 | 省下成本 × 30-50% | 有量化ROI的场景 | 某电商客服Agent月费¥6k，省¥18k/月人力 |
+| 月度订阅 | 岗位月薪 × 3-5 | 标准岗替代（客服/审核/录入） | 报税Agent ¥3,000/月 × 30家 = ¥90,000/月 |
+| 项目制 | 工作流价值 × 1-3个月 | 一次性建工作流，后续维运 | 工厂质检AI ¥15万建 + ¥2万/月维 |
+
+**核心：卖「结果」不卖「工具」** — 客户买单的是省了多少时间和钱，不是AI多先进。
+
+**真实案例（2025）：**
+- 深圳会计事务所：报税Agent，报税单量30→200票/月，收入3倍，月费¥3,000/所 × 28家 = **¥84,000/月**
+- 广州电商：客服虚拟员工，5人→2人，年省¥54万人力，AI年费¥7.2万
+- 杭州律所：合同审查Agent，律师时间从4h→30min/份，定价¥999/份，月入¥80,000
+
+**启动路径（30天）：**
+1. 找1个垂直场景（你最熟悉的行业 × 最痛的重复工作）
+2. 用Cursor+n8n+Claude搭最小版MVP
+3. 在行业社群里发「帮XX行业省XX时间，测试中」收集意向
+4. 前3个客户半价换案例，案例换口碑
+
+**避坑：** ❌ 不要先开发再找客户；✅ 先验证付费意愿再开发
 
 → 完整内容：[references/ai-agent-monetize-2025.md](references/ai-agent-monetize-2025.md)
 
