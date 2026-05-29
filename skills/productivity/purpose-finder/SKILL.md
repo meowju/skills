@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.66.0
+version: 4.68.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -94,7 +94,7 @@ Westerners treat ikigai as a grand, singular life purpose — the thing you'll b
 > The question is not "what is my ikigai?"  
 > The question is "what makes getting up worth it — today?"
 
-→ Full content: [→ Full content: ikigai-cultural-roots.md](references/ikigai-cultural-roots.md) — post-war Japanese meaning reconstruction; how ikigai emerged from national trauma and what that means for finding purpose in difficulty.
+→ Full content: [ikigai-cultural-roots.md](references/ikigai-cultural-roots.md) — post-war Japanese meaning reconstruction; how ikigai emerged from national trauma and what that means for finding purpose in difficulty.
 
 ### Using Ikigai in Conversation
 
@@ -106,7 +106,7 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 4. **Check for anti-social ikigai.** Revenge or resentment-based purpose is brittle. Name it, then re-aim it at something generative.
 5. **Sustain, don't discover.** Purpose is maintenance, not a one-time discovery. What practice do you return to?
 
-→ Full content: [→ Full content: ikigai-five-dimensions.md](references/ikigai-five-dimensions.md) — five dimensions beyond the Venn diagram: Self, Social, Social Contribution, Social Recognition, and Spiritual/Physical.
+→ Full content: [ikigai-five-dimensions.md](references/ikigai-five-dimensions.md) — five dimensions beyond the Venn diagram: Self, Social, Social Contribution, Social Recognition, and Spiritual/Physical.
 
 ### The Eudaimonic Well-Being Frame
 
@@ -235,6 +235,7 @@ You do not lack discipline. You are surrounded by environments that make the def
 > The question is not "how do I get motivated?" — it is "why am I avoiding this particular thing, and what would make the alternative more appealing?"
 
 → Full content: [motivation-and-drive.md](references/motivation-and-drive.md)
+
 ## Framework: The Psychology of Meaning — Viktor Frankl's Logotherapy
 
 Viktor Frankl survived Auschwitz and developed **logotherapy** — psychotherapy centered on meaning rather than survival, pleasure, or power. His foundational text *Man's Search for Meaning* (1946) sold 10+ million copies. His evidence was his own life: having lost everything that mattered, he concluded that meaning was the primary human drive, not happiness.
@@ -282,7 +283,7 @@ A purposeful life is not a comfortable life. It is an *engaged* life. The person
 **"I lost something important and can't find direction":**
 > Loss is one of the most reliable amplifiers of meaning — because it reveals what you cared about through its absence. The grief is not the problem. It is the data.
 
-→ Full content: [→ Full content: ptg-deep-dive.md](references/ptg-deep-dive.md) — post-traumatic growth research: how crisis reorganizes time perception, the seismic shift effect, and why adversity can deepen purpose rather than destroy it.
+→ Full content: [ptg-deep-dive.md](references/ptg-deep-dive.md) — post-traumatic growth research: how crisis reorganizes time perception, the seismic shift effect, and why adversity can deepen purpose rather than destroy it.
 
 **"What if my situation can't give me meaning?":**
 > Frankl's answer: meaning is always available — if you look at what your specific situation, with its specific constraints and demands, is actually asking. Purpose is not in the circumstances. It is in the response you choose.
@@ -589,7 +590,9 @@ When you change identity, outcomes and processes follow naturally. When you focu
 
 **Who you are → What you do → What you get → Who you are (updated)**
 
-The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception. → Full content: [identity-habits-purpose.md](references/identity-habits-purpose.md)
+The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception.
+
+→ Full content: [identity-habits-purpose.md](references/identity-habits-purpose.md)
 
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
