@@ -1,7 +1,7 @@
 ---
 name: ai-money-maker
 description: "深度AI创富 — 高价值、非共识、真正可积累的AI变现策略。Use when user wants high-value AI monetization paths, compound income assets, or non-consensus strategies beyond basic ChatGPT prompts."
-version: 3.36.2  # Run 139: Fix compliance duplicate ref links; add ai-compliance-moat-deep.md to section 十九 + ai-passive-income-cases.md to section 二十一
+version: 3.36.3  # Run 143: Fixed section 二十一 reference link corruption (full-width paren in ai-freelance-advanced.md link + duplicate ai-ai自由职业实战手册.md link)
 author: Hermes Agent
 license: MIT
 metadata:
@@ -922,6 +922,7 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 **快速见钱路径（EU AI Act）：** Week 1-2 研究框架 → Week 3-4 建立模板 → Week 5-6 找第一个付费客户 → $5k-$20k 首单
 
 → 完整内容：[references/ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)（完整合规地图）
+
 ## 二十一、AI 自由职业者生存白皮书：2025 真实收入报告与进阶路径
 
 > Run 57 新增（v2.74）。AI 自由职业是大多数人入局的第一个台阶——市场正在急剧分化。2025 年实现收入分化的关键不是「做得多」，而是「方向对」。
@@ -939,9 +940,8 @@ MBA背景，32岁，用n8n+Zapier+ChatGPT API搭标准化方案。定价$3k-20k/
 → 完整内容：[ai-ai自由职业实战手册.md](references/ai-ai自由职业实战手册.md)（含提案结构、客户定位五步法、¥10万+高价单操作路径）
 → 完整内容：[ai-fh.md](references/ai-fh.md)（含$100→$10K/月能力升级路径）
 → 完整内容：[ai-passive-income-cases.md](references/ai-passive-income-cases.md)（含AI Ebook $3k/月·SaaS $8k/月·Newsletter $6k/月真实案例）
-→ 完整内容：[ai-freelance-advanced.md](references/ai-freelance-advanced.md）
+→ 完整内容：[ai-freelance-advanced.md](references/ai-freelance-advanced.md)（完整进阶指南）
 
-→ 完整内容：[references/ai-ai自由职业实战手册.md](references/ai-ai自由职业实战手册.md)（完整案例库）
 
 ## 二十二、搞钱提示词库
 
