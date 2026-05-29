@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.40.0
+version: 4.49.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -23,95 +23,52 @@ Heartbreak is one of the most physically and emotionally painful experiences. Un
 
 ## 🚨 The Comparison Spiral — When Exes Move On Faster Than You
 
-> *This is the wound nobody talks about. Not just "they left me" — but "they found someone better, got married, had a baby, bought a house… and I'm still here." This section exists because standard breakup advice doesn't address the specific agony of watching your exes live the life you thought you'd have with them.*
+> *This is the wound nobody talks about. Not just "they left me" — but "they found someone better, got married, had a baby… and I'm still here." Standard breakup advice doesn't address the specific agony of watching your exes live the life you thought you'd have with them.*
 
-### Why This Pain Is Different
-
-Standard breakup grief is about loss. The comparison spiral is about **loss + inadequacy + futility + envy + shame** — all at once. You're not just grieving the relationship. You're grieving the life trajectory you assumed was yours. And the cruelest part: you didn't just lose one person — you're watching multiple exes succeed at the thing you still can't move past.
-
-The specific combinations that cut deepest:
-- **Ex has a new bf/gf and seems happy** → "I was the bridge to someone else's life"
-- **Ex-ex got married** → "I was a chapter before someone else's whole book"
-- **Ex-ex got pregnant / had a baby** → "I was the ur-beat to someone else's existence"
-
-Each one lands differently. Each one has to be processed differently.
+Standard breakup grief is about loss. The comparison spiral is about **loss + inadequacy + futility + envy + shame** — all at once. You are grieving the life trajectory you assumed was yours.
 
 ### The Three Layers of the Comparison Spiral
 
-**Layer 1: The Raw Envy** — not "I want what they have," but "I was supposed to have that." You planned a life with this person. Now someone else is living it — in a timeline you thought was yours. Envy at this depth is grief. You're mourning a future that won't exist. Feel it as grief, not weakness.
+**Layer 1: Raw Envy** — not "I want what they have," but "I was supposed to have that." This is grief. Feel it as grief, not weakness.
 
-**Layer 2: The Self-Questioning** — *Why them and not me? Am I less valuable? Did I do something wrong?* This is the dangerous part. This is where people spiral into "there's something wrong with me" — which leads to bad decisions (staying with someone who treats you poorly just to have someone), bad self-talk, and frozenness.
+**Layer 2: Self-Questioning** — *Why them and not me? Am I less valuable? Did I do something wrong?* This is the dangerous part — it leads to bad decisions and frozenness.
 
-**Layer 3: The Timeline Panic** — "Marriage and kids have a deadline. I'm running out of time. Everyone else is ahead of me." This is real in the sense that biology has constraints. It is distorted in assuming other people's timelines are the correct ones and your path must look identical to theirs. Almost always, it's a comparison with people on their path, not yours.
+**Layer 3: Timeline Panic** — "I'm running out of time. Everyone else is ahead of me." Real in its concerns, distorted in its comparisons. Almost always you are comparing your chapter 3 to their chapter 10.
 
-### The Layered Hit — When Multiple Exes Advance Simultaneously
+### When Multiple Exes Hit Simultaneously
 
-The comparison spiral cuts deepest when **two different exes hit two different milestones at once** — your ex has a new bf; your ex-ex is married and pregnant. You're not just comparing — you're being shown your romantic life is simultaneously behind on multiple fronts.
-
-The two wounds activate differently:
-- From the ex: *"I was the bridge — I got them ready for someone else."* (identity wound)
-- From the ex-ex: *"I'm watching someone else live the life I thought was mine."* (timeline wound)
-
-They can fire at different hours — fine at 10am, ambushed at 11pm when both arrive at once.
-
-**The protocol when both hit at once:**
-1. Name which wound is active right now — bridge or timeline. Process one at a time.
-2. Apply the 24-hour rule to both. Not at 11pm.
-3. Find one concrete thing today that is *yours* — not progress against them.
-4. If frozen: start with one wound. You don't have to carry both simultaneously.
-
-### The Time-Zone Metaphor
-
-> *Every person is on their own timeline. Someone getting married at 25 doesn't mean you're failing at 30. They are on their time zone. You are on yours. Comparing your chapter 3 to their chapter 10 is not a measurement — it's a category error.*
-
-The time-zone metaphor removes the moral dimension from "being behind." You're not behind — you're on a different clock. If you want marriage and kids and you're not on a path toward that: move toward it with more intention, not less. Envy from stagnation is a signal to act, not a reason to freeze.
+The comparison spiral cuts deepest when two different exes hit two different milestones at once. Protocol: name which wound is active (bridge or timeline), process one at a time, apply the 24-hour rule, find one concrete thing today that is *yours*.
 
 ### What Your Brain Tells You vs. What's Actually True
 
 | **Your brain says:** | **The truth:** |
 |---|---|
-| "They're happier than me" | You are seeing a curated highlight reel, not reality. All relationships have hard chapters. |
-| "I was the trial run / stepping stone" | You were a real person in a real relationship. You weren't a warm-up act. |
-| "I'll never find someone as good" | You found someone good enough to love once. You'll find it again — differently. |
+| "They're happier than me" | You're seeing a curated highlight reel. All relationships have hard chapters. |
+| "I was the trial run" | You were real. You weren't a warm-up act. |
+| "I'll never find someone this good" | You loved well once. You'll do it again — differently. |
 | "Everyone else is ahead of me" | You're comparing your inside to their outside. You don't know their inside. |
-| "I'm running out of time" | Time is not linear the way anxiety makes it feel. Opportunities arrive on their own schedule, not on a comparison calendar. |
-| "I should've found someone faster" | You can't outrun your own timeline. Rushing produces the wrong results. |
 
-### The Specific Protocol for Comparison Spiraling
+### The Protocol When You're Spiraling
 
-When you find yourself scrolling and landing on proof that an ex is further along than you:
+1. **Close the tab.** Not when you've finished looking. Close it now.
+2. **Name what you're feeling.** "I'm feeling envy, grief, and panic. This is real pain."
+3. **Use the 24-hour rule.** Do not process or make meaning from what you saw for 24 hours.
+4. **Find one data point of your own progress.** One thing today that moved your life forward.
+5. **Reframe the comparison.** "Am I comparing my chapter 3 to their chapter 10?" If yes — that is an optical illusion, not a measurement.
 
-1. **Close the tab immediately.** Not when you've finished looking. Not after one more scroll. Close it. This is not weakness — it's triage.
+### The Bridge Person Wound
 
-2. **Name what you're feeling.** "I'm feeling envy and grief and panic right now. This is real pain. I'm not broken for feeling this." Say it out loud to yourself.
+"I was temporary. A stepping stone."
 
-3. **Use the 24-hour rule.** Whatever you saw — do not respond to it, process it, or make meaning from it for 24 hours. The version of you that saw their new life at 11pm is not the version of you that should be making meaning from it. The 11pm version is in acute pain. Let the 24-hour-later version handle it with more stability.
+The reframe: Every relationship has a duration. People arrive in sequence. You do not get erased — you get integrated into what they learned. The time-zone metaphor removes the moral dimension from "being behind." You are not behind — you are on a different clock. Envy from stagnation is a signal to act, not a reason to freeze.
 
-4. **Find one data point of your own progress.** Not someone else's progress — yours. What did you do today that moved your life forward? One thing. Write it down. Your brain needs evidence that time is passing for you too.
+### Why You Cannot Stop Looking
 
-5. **Reframe the comparison.** Ask: "Am I comparing my chapter 3 to their chapter 10?" If yes, stop. That's not a measurement. That's an optical illusion.
+The comparison spiral is a form of self-harm — the digital equivalent of pressing on a bruise. Social media algorithms prioritize content that triggers emotional arousal (envy, grief, shame) because engagement goes up. The algorithm is structurally incapable of being your friend. Remove its access to you.
 
-6. **If the spiral has a specific flavor — address it directly:**
-   - *Ex has a new bf and seems happy* → The new bf didn't replace you. He was always going to be there for someone. That it wasn't you is not proof of your inadequacy — it's proof of a path that didn't match.
-   - *Ex-ex got married* → You were in love with a specific person, not a generic "marriage." The fact that they're married to someone else means the relationship ran its course. It doesn't mean you failed.
-   - *Ex-ex got pregnant* → This is the one that creates the deepest panic because it feels irreversible. Witness the grief: you are mourning the loss of a future you assumed. That grief is legitimate. But the pregnancy is not evidence that your future is smaller — it just means that future is going to arrive on a different timeline and in a different shape.
+→ Full content: [comparison-spiral.md](references/comparison-spiral.md) — the layered hit protocol, the three-layer model, and the time-zone reframe.
+→ Full content: [comparison-spiral-deep.md](references/comparison-spiral-deep.md) — algorithm mechanics, rosy retrospection, and the full comparison protocol.
 
-### Why You Can't Stop Looking (And Why It Keeps Hurting)
-
-The comparison spiral is a specific kind of self-harm — the digital equivalent of pressing on a bruise. The pain feels like it has information in it. It doesn't. Closing the tab is the teaching. The algorithm is not your friend: social media shows their highlight reel, not their 2am arguments or private doubts. You are comparing your raw, unedited inside to their produced, polished outside. That is not a fair fight.
-
-### The "Bridge Person" Wound — When You Were a Bridge to Someone Else
-
-The **bridge person wound** is the specific pain of an ex finding someone new quickly and seeming happy — you got them to the next chapter, and then they left you for it.
-
-What it makes you feel: "I was temporary. A stepping stone. The person they were with until the real person showed up."
-
-The reframe: Every relationship has a duration. You were not temporary — you were real for the time you had. The person they found next is not the "real" person — they are the next person in line, arriving after you taught them something about what they actually wanted. People arrive in sequence. You don't get erased — you get integrated into what they learned.
-
-→ Full content: [references/comparison-spiral.md](references/comparison-spiral.md) — the layered hit protocol, the three-layer model, and the time-zone reframe.
-→ Full content: [references/comparison-spiral-deep.md](references/comparison-spiral-deep.md) — algorithm mechanics, the layered-hit protocol, and the time-zone reframe.
-
----
 
 ## The Science of Heartbreak
 
@@ -137,33 +94,61 @@ The pain is not in your head. It is *in your brain*, which means it is real, mea
 
 ### The Four Attachment Styles (and How They Affect Breakup Recovery)
 
-Your attachment style — formed in early childhood but carrying into adult relationships — determines how you *grieve* a breakup as much as how you *love*.
+Your attachment style — formed in early childhood but carrying into adult relationships — determines how you *grieve* a breakup as much as how you *love*. Bowlby's research shows that the internal working model formed in childhood becomes a template for how you expect relationships to work, and this template is reactivated when relationships end.
 
-| Style | What it looks like | Breakup recovery |
-|---|---|---|
-| **Secure** | Comfortable with intimacy, can manage conflict without spiraling | Most efficient — processes grief without pursuing or fleeing. ~50% improvement by week 4. |
-| **Anxious** | Chronic insecurity, needs lots of reassurance, monitors partner's actions | *Most acute grief.* Nervous system reads breakup as abandonment. No-contact is non-negotiable — any contact restarts the attachment cycle. Slower start, complete recovery once system settles. |
-| **Avoidant** | Values independence, minimizes emotional needs, redirects to achievement/sex | *Appears fine for weeks — then crashes.* Grief is deferred, not absent. Watch for dismissing your own pain as "not a big deal." Normal, not weakness. |
-| **Disorganized** | Chaotic mix of needing and fearing closeness, often rooted in childhood trauma | Oscillates between wanting contact and fearing it. Slower, more complex. Professional support especially valuable. |
+| Style | Core wound | Breakup grief pattern | Recovery path |
+|---|---|---|---|
+| **Secure** | None — earned through consistent care | Processes grief without chasing or fleeing. Grief waves shorten naturally. ~50% improvement by week 4. | None needed — just time and support |
+| **Anxious** | Inconsistent caregiver — love was unpredictable | *Most acute initial pain.* Reads breakup as abandonment. No-contact is non-negotiable — any contact restarts the attachment cycle. Grief spikes are intense but complete once system settles. | Earned security through corrective relational experiences |
+| **Avoidant** | Emotional neglect — needs deemed not welcome | *Appears fine for weeks — then crashes hard.* Grief deferred, not absent. Tends to intellectualize pain or redirect to achievement/sex. Normal, not weakness. | Must allow grief deliberately; intellectual bypass delays recovery |
+| **Disorganized** | Fear-based caregiving — safety was also a source of danger | Oscillates between wanting contact and fearing it. Most complex recovery. Professional support especially valuable. | Polyvagal-informed therapy; internal working model must be rebuilt |
 
-> **Your attachment style is not your fault. But it is your responsibility.** Anxious attachers: don't act on the urge to reach out. Avoidant attachers: don't suppress grief when it surfaces.
+**The four pathways to earned secure attachment (Siegel, 1999; Wallin, 2015):**
+
+1. **Corrective emotional experiences** — A new relationship (friendship, therapy, partnership) where attachment needs are met consistently enough to overwrite the old template. Not perfection — *consistency*.
+
+2. **Mentalization-based therapy (MBT)** — Learning to understand your own and others' minds under stress. Develops the capacity to pause before acting on attachment panic. Particularly effective for anxious and disorganized styles.
+
+3. **Accelerated experiential dynamic psychotherapy (AEDP)** — Works through the body and emotion directly, not just cognition. Transforms the *felt sense* of relationships, not just the *thought about* them.
+
+4. **Somatic/bottom-up approaches** — The body holds the injury. Breathwork, EMDR, polyvagal-informed therapy, and somatic experiencing help complete the nervous system's threat response that talk therapy alone cannot reach.
+
+> **Your attachment style is not your fault. But it is your responsibility.** Anxious attachers: don't act on the urge to reach out — it will always reset the cycle. Avoidant attachers: don't suppress grief when it surfaces — it doesn't go away on its own.
+### Key Research Foundations
+
+The scientific backbone of breakup recovery draws on several landmark studies. **Fisher et al. (2005)** identified dopamine-driven romantic addiction using fMRI — love activates the same reward circuitry as cocaine. **Sbarra & Hazan (2017)** documented the 30-day acute grief peak and 90-day neurochemical stabilization window. **Stroebe & Schut's Dual-Process Model (1999)** established the loss/restoration oscillation as the mechanism of healthy grief. **Tedeschi & Calhoun's PTG research (1996)** demonstrated measurable post-adversity growth across five domains. **Bowlby's attachment theory (1969)** showed the same neural systems processing infant-caregiver separation process romantic loss. **Pennebaker (1997)** found expressive writing (15–20 min/session) produces measurable immune and mood improvements.
+
+
+
+→ Full content: [earned-secure-pathways.md](references/earned-secure-pathways.md) — four pathways to earned security, attachment injury repair, and window of tolerance widening.
 
 ### The Memory Distortion Effect (Why You Can't Stop Idealizing Them)
 
-Your brain edits memories of relationships the same way a film editor edits a documentary — it removes the boring parts, the fights, the loneliness, and keeps the highlight reel. This is called **rosy retro## Earned Secure Attachment — The Most Hopeful Finding in Attachment Research
+Your brain edits memories of relationships the same way a film editor edits a documentary — it removes the boring parts, the fights, the loneliness, and keeps the highlight reel. This is called **rosy retrospection** — a documented cognitive bias. You are not missing *them*. You are missing a curated, false version your brain constructed to make the relationship feel coherent.
 
-People are not fixed into their attachment style for life. Longitudinal studies show adults can *change* their attachment classification through sustained corrective emotional experiences: a secure relationship, focused therapeutic work, or a meaningful friendship (Waters et al., 2000; Davila & Cobb, 2003).
+**What actually happens post-breakup:**
+- Your brain amplifies positive memories and suppresses negative ones
+- You forget the specific pain of fighting about the same thing for the 20th time
+- You remember the trip to Paris, forget the 3 days of silence that preceded it
+- The more you ruminate, the stronger the positive distortion gets
 
-**The mechanism:** A consistent experience of safety updates your **internal working model** — the brain's invisible map of how attachment works. A childhood map saying *"people leave when you need them"* gets a new entry: *"but sometimes they don't."* The old map is not erased — it's expanded.
+**The antidote:** Write down 10 specific, real things that were wrong. Not vague generalizations — specific events. Read that list every time you feel the urge to reach out.
 
-→ Full content: [references/attachment-styles.md](references/attachment-styles.md) — earned secure attachment, the four-way map of breakup wounds, attachment injury patterns, the repetition compulsion
-→ Full content: [references/earned-secure-pathways.md](references/earned-secure-pathways.md) — four pathways to earned security: corrective emotional experiences, mentalization-based therapy (MBT), AEDP, and somatic/bottom-up approaches
+### The Repetition Compulsion — Why You Keep Choosing the Same Type
 
-**What this means for breakup recovery:** Anxious attachers — every time you sit with the urge to reach out and *don't act*, you practice a new neural pathway. Avoidant attachers — every time you let yourself feel the grief instead of suppressing it, you build capacity for intimacy your childhood taught you wasn't safe. The breakup itself, survived without being destroyed, is a corrective emotional experience.earned secure attachment, the four-way map of breakup wounds, attachment injury patterns, the repetition compulsion (why you keep choosing the same type), and Fisher's neuroscience of prolonged grief
+If every relationship ends the same way, the variable is not them — it's the pattern. The repetition compulsion: the tendency to recreate the emotional conditions of early attachment, even when those conditions were painful. Bowlby's insight: we are drawn to what is familiar, even when familiar means unsafe.
 
-### What This Means for Breakup Recovery
+**The three-step pattern check:**
+1. What attachment style did my primary caregiver have? (yours shapes your template)
+2. What attachment style do my romantic partners tend to have? (do they match?)
+3. Where does my nervous system feel most "at home"? (familiarity reads as love)
 
-Anxious attachers — every time you sit with the urge to reach out and *don't act*, you practice a new neural pathway. Avoidant attachers — every time you let yourself feel the grief instead of suppressing it, you build capacity for intimacy your childhood taught you wasn't safe. The breakup itself, survived without being destroyed, is one of the most powerful earned-security-building experiences available.
+If the answer to #3 is anxiety, chaos, or emotional unavailability — that's the repetition compulsion. It is not love. It is the nervous system seeking what it knows, even when what it knows is harmful.
+
+→ Full content: [repetition-compulsion.md](references/repetition-compulsion.md) — the three-step pattern check, attachment injury, and how earned security disrupts the repetition cycle.
+
+→ Full content: [brain-chemistry-breakup.md](references/brain-chemistry-breakup.md) — Fisher's neuroscience of love, dopamine-oxytocin withdrawal, fMRI findings on heartbreak.
+
 
 ## Building Resilience Through Post-Traumatic Growth
 
@@ -197,8 +182,6 @@ Healthy grief oscillates between **loss-orientation** (processing the pain, miss
 4. **Prior loss experience** — the grief pathway has been walked before; the nervous system has practice
 5. **Emotional complexity tolerance** — holding two truths simultaneously ("I'm in pain AND something new is becoming possible") predicts growth
 
-→ Full content: [references/resilience-research.md](references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG research findings, dual-process model, and evidence-based resilience tactics
-→ Full content: [references/earned-secure-pathways.md](references/earned-secure-pathways.md) — four pathways to earned security: corrective emotional experiences, mentalization-based therapy (MBT), AEDP, and somatic/bottom-up approaches(references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG research findings, dual-process model, and evidence-based resilience tactics
 
 
 ## The Internal Working Model — Your Brain's Invisible Map
@@ -217,8 +200,8 @@ Research (Siegel, Porges, van der Kolk) converges on three simultaneous tracks:
 
 **If you've done a lot of therapy and journaling but still feel stuck:** the missing piece is usually somatic. The body needs to complete its threat response — not through understanding, but through physical completion. Add somatic work and relational witness.
 
-→ Full content: [references/somatic-practices.md](references/somatic-practices.md) — vagus-nerve mechanics, EMDR research, cold-water dive reflex protocol, and polyvagal grounding techniques.
-→ Full content: [references/attachment-styles.md](references/attachment-styles.md) — earned secure attachment, attachment injury, window of tolerance widening protocols, and the four-style descriptions with recovery trajectories.
+→ Full content: [somatic-practices.md](references/somatic-practices.md) — vagus-nerve mechanics, EMDR research, cold-water dive reflex protocol, and polyvagal grounding techniques.
+→ Full content: [attachment-styles.md](references/attachment-styles.md) — earned secure attachment, attachment injury, window of tolerance widening protocols, and the four-style descriptions with recovery trajectories.
 
 ### The Window of Tolerance
 
@@ -228,6 +211,9 @@ Polyvagal theory (Porges, 2001): breakup grief narrows your **window of toleranc
 
 **Grief anniversaries:** Breakup date, first date, the day they left — predictable triggers that can reactivate acute grief even months later. Mark them on a calendar. On those days, tell yourself: *my nervous system is completing an anniversary pattern. It will pass.*
 
+→ Full content: [internal-working-model.md](references/internal-working-model.md) — Bowlby's IWM theory, attachment model updating, mentalization-based therapy, and the self-concept inventory exercise.
+→ Full content: [mentalization.md](references/mentalization.md) — the three mentalization failure modes (psychic equivalence, pretend mode, teleological), and how to practice mentalizing under emotional stress.
+
 ## Why Breakups Are Hardest at Night: Sleep Disruption, 3AM Spiraling & the Insomnia-Grief Cycle
 
 > *The 3am hour after a breakup is a unique kind of torture. Not because the pain is worse at night — but because the absence of distraction makes it impossible to ignore. This section exists because no one tells you that the worst hour of your day will be 2 to 4 in the morning, and that this is neurologically normal, not a sign that you're falling apart.*
@@ -236,7 +222,7 @@ Nighttime is when the grief that was suppressed by daylight surfaces without com
 
 The cruelest part of the 3AM problem is that the more you worry about not sleeping, the more alert you become, the less you sleep, the worse you feel the next day. The cycle self-reinforces. Standard sleep hygiene is the foundation; for breakup-specific strategies — including the sleep pressure method, the middle-of-the-night intrusive thought protocol, and the daytime/nighttime cycle — see the full reference.
 
-→ Full content: [references/nighttime-grief.md](references/nighttime-grief.md)
+→ Full content: [nighttime-grief.md](references/nighttime-grief.md)
 
 ---
 
@@ -269,7 +255,7 @@ This skill guides emotional processing and recovery from romantic grief — but 
 - **Complex trauma presentations (CPTSD, trauma from previous abuse)** — Requires a trained therapist. Grief support skill is not sufficient.
 - **Raw trauma from recent abuse** — If someone is in acute trauma response, the skill should be used gently and alongside a recommendation for professional support.
 
-→ Full content: [references/should-you-stay-or-go.md](references/should-you-stay-or-go.md) — full red flags checklist, trauma bond inventory, and safety planning resources.
+→ Full content: [should-you-stay-or-go.md](references/should-you-stay-or-go.md) — full red flags checklist, trauma bond inventory, and safety planning resources.
 
 ## The Breakup Recovery Framework
 
@@ -347,7 +333,8 @@ You did not fail. You were not inadequate. You were simply with someone who coul
 
 **Daily practice:** Each morning, write down 1 thing you did yesterday that had nothing to do with your ex. A real thing. A small thing. "I went for a walk" counts. You are rebuilding the muscle of existing as yourself.
 
-→ Full content: [references/self-worth.md](references/self-worth.md) — the three self-worth injuries, self-compassion break-up letter protocol, and full self-trust rebuild.
+→ Full content: [self-worth.md](references/self-worth.md) — the three self-worth injuries, self-compassion break-up letter protocol, and full
+→ Full content: [self-compassion.md](references/self-compassion.md) — why self-criticism is almost universal post-breakup, the neuroscience of self-compassion, and the break-up letter protocol. Also see: [self-compassion-phase.md](references/self-compassion-phase.md) — building self-trust after betrayal. self-trust rebuild.
 
 ---
 
@@ -398,7 +385,6 @@ Research (Sbarra & Hazan, 2017): the first 30 days carry the highest symptom con
 
 Most acute grief resolves within 6–8 weeks. Red flags: no symptom reduction after 6 weeks, persistent suicidal ideation, complete inability to function, self-harm behaviors.
 
-→ Full content: [references/research-ground-truth.md](references/research-ground-truth.md)
 ## Building Resilience Through Breakup Recovery
 
 > *"The wound is the place where the Light enters you."* — Rumi
@@ -459,7 +445,7 @@ Research on post-traumatic growth (PTG, Tedeschi & Calhoun, 1996, 2004) shows ma
 
 ### Evidence-Based Resilience Tactics
 
-1. **Co-ruminating is the enemy.** Talking through pain with friends is good. Obsessively analyzing the relationship for 6 hours straight is not. Set a time limit, then shift. → Full content: [references/rumination.md](references/rumination.md)
+1. **Co-ruminating is the enemy.** Talking through pain with friends is good. Obsessively analyzing the relationship for 6 hours straight is not. Set a time limit, then shift. → Full content: [rumination.md](references/rumination.md)
 2. **Physical movement is not optional.** Cortisol is metabolized through physical activity. Walk 30 minutes a day — it is about processing the chemistry of stress, not getting fit.
 3. **Name the feeling to tame the feeling.** Neuroscience research on emotional labeling (fMRI) shows that simply naming an emotion reduces its intensity.
 4. **Build micro-routines of competence.** Do one thing each day that requires skill or completion. Laundry counts. Anything that reminds you that you can do things.
@@ -489,7 +475,7 @@ Research on prolonged grief disorder (PGD, added to DSM-5-TR in 2022) shows ~10%
 
 **If these apply:** This skill is not enough. Recommend professional therapy (specifically Complicated Grief Treatment, CGT). Do not pathologize normal grief — but do not minimize when it crosses into clinical territory.
 
-→ Full content: [references/resilience-research.md](references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG domain mechanisms, all 6 predictor research citations with journal references, PGD diagnostic criteria, resilience vs. bypassing distinction.
+→ Full content: [resilience-research.md](references/resilience-research.md) — full Kübler-Ross stage breakdown, PTG domain mechanisms, all 6 predictor research citations with journal references, PGD diagnostic criteria, resilience vs. bypassing distinction.
 
 ---
 
@@ -588,7 +574,7 @@ One of the most common post-breakup regrets is the "one last conversation" — t
 
 The last conversation is not a closing. It is a reopening.
 
-→ Full content: [references/communication-scripts.md](references/communication-scripts.md)
+→ Full content: [communication-scripts.md](references/communication-scripts.md)
 
 ### What to Say When Someone Asks "Are You Okay?"
 
@@ -655,10 +641,6 @@ You cannot control what your ex says to mutual friends, or what mutual friends d
 ---
 
 ---
-
-**The remaining communication scenarios** — grief anniversary urges, the last conversation trap, responding to "Are you okay?", ex badmouthing, reaching out by message type, graceful exits, mutual friends, no-contact boundary scenarios, "I want you back" messages, and responding to new relationships — are in the full reference:
-
-→ Full content: [references/communication-scripts.md](references/communication-scripts.md)
 
 ## When Reconciliation Is — and Isn't — Worth It
 
@@ -766,9 +748,9 @@ The research (Nolen-Hoekriksema, 2009): people who suppress rumination don't rec
 
 The trap is seeking meaning from the other person. They can give you their narrative (fact layer), but they cannot give you your meaning or your identity. Those are yours to construct through time and reflection.
 
-→ Full content: [references/closure-illusion.md](references/closure-illusion.md) — why "why" questions keep rumination active, the internal closure model, and the one conversation script if you genuinely need one.
+→ Full content: [closure-illusion.md](references/closure-illusion.md) — why "why" questions keep rumination active, the internal closure model, and the one conversation script if you genuinely need one.
 
-→ Full content: [references/reconciliation.md](references/reconciliation.md) — on-again/off-again statistics, neurochemistry of reunion, full conversation scripts.
+→ Full content: [reconciliation.md](references/reconciliation.md) — on-again/off-again statistics, neurochemistry of reunion, full conversation scripts.
 
 ---
 
@@ -791,7 +773,7 @@ Social media checking after breakup operates on the same reinforcement loop as a
 
 **The compulsion to check is not love. It is habit. Habit operates in a different part of the brain than love.
 
-→ Full content: [references/neuroscience-social-media-stalking.md](references/neuroscience-social-media-stalking.md) — the three-neurological-system activation model and why willpower advice fails.**
+→ Full content: [neuroscience-social-media-stalking.md](references/neuroscience-social-media-stalking.md) — the three-neurological-system activation model and why willpower advice fails.**
 
 ### The Digital Detox Framework
 
@@ -1011,9 +993,8 @@ Green flags are not "nothing is wrong." They are: problems arise and get address
 
 **The litmus test:** Can you say "no" to something they want without the relationship going dark? Every healthy relationship has survived at least one real conflict where both held their ground and neither felt diminished.
 
-→ Full content: [references/green-flags.md](references/green-flags.md)
-→ Full content: [references/repetition-compulsion.md](references/repetition-compulsion.md) — why you keep choosing the same type, the three-layer compulsion model, and how to interrupt the cycle.
-→ Full content: [references/stay-or-go.md](references/stay-or-go.md) — extended patterns, DARVO breakdown with real examples, the full decision tree, and trauma bond mechanics.
+→ Full content: [green-flags.md](references/green-flags.md)
+→ Full content: [stay-or-go.md](references/stay-or-go.md) — extended patterns, DARVO breakdown with real examples, the full decision tree, and trauma bond mechanics.
 
 ---
 
@@ -1044,7 +1025,7 @@ The acute neurochemical crisis peaks in the first weeks but largely resolves wit
 
 Grief disrupts sleep; disrupted sleep amplifies grief. High cortisol at night prevents the parasympathetic nervous system from activating, which is what allows the brain to process emotional content during REM sleep. Without adequate REM processing, emotional memories remain raw and intrusive — the brain can't complete the natural extinction process. This creates a self-reinforcing loop: poor sleep → elevated cortisol → impaired emotional processing → rawer grief memories → harder sleep. This is why sleep hygiene, reducing evening screen time, and not drinking to excess are not optional wellness advice — they are direct interventions in the grief processing system.
 
-→ Full content: [references/neurobiology-breakup.md](references/neurobiology-breakup.md) — full neurochemical breakdown, the prediction error problem, memory encoding disruption, and the attachment system chemistry.
+→ Full content: [neurobiology-breakup.md](references/neurobiology-breakup.md) — full neurochemical breakdown, the prediction error problem, memory encoding disruption, and the attachment system chemistry.
 
 ---
 
@@ -1059,17 +1040,27 @@ Anger is the most misunderstood phase of breakup recovery. Most people try to sk
 
 **The self-anger trap:** The most damaging post-breakup anger is directed inward — *"I should have seen it coming."* This is rumination that prevents grief from completing. Redirect: *"I am allowed to be angry at what happened without needing to be the cause of it."*
 
-**Anger as protector:** Most anger after breakup is a secondary emotion — a def## The Anger Phase — Why It's Necessary and How to Work With It
-
-Anger is the most misunderstood phase of breakup recovery. Most people try to skip it — suppressing it or trying to "move past it" before it has run its course. Anger is not the opposite of healing. It is part of it.
-
-**Healthy vs. unhealthy anger:** Healthy anger is temporary and act-specific — it increases energy, leads to insight, makes space for grief. Unhealthy anger is persistent and diffuse — it depletes energy, fuels rumination, becomes a background state. Healthy anger has a trajectory and subsides. Unhealthy anger doesn't.
-
-**Anger and the grief sequence:** Anger does not always come first. Many people move between denial, anger, and bargaining in unpredictable order. What matters is not when anger arrives but that you let it complete. A feeling that is not completed does not resolve — it waits, at the cost of your present.
-
-**The self-anger trap:** The most damaging post-breakup anger is directed inward — *"I should have seen it coming."* This is rumination that prevents grief from completing. Redirect: *"I am allowed to be angry at what happened without needing to be the cause of it."*
-
 **Anger as protector:** Most anger after breakup is a secondary emotion — a defense against deeper, more vulnerable pain (hurt, fear, shame). The anger says: *something was done to me that was not okay.* Let it say that before you move through it.
+
+### Anger Journaling — Writing to Heal
+
+Anger on the page works differently than anger in the head. In the head, anger loops — the same violation replayed with the same ending. On the page, the prefrontal cortex engages: language, sequencing, and meaning-making calm the amygdala's threat activation. Research on expressive writing (Pennebaker, 1997) finds that writing about emotional experiences for 15–20 minutes across several sessions produces measurable improvements in immune function, mood, and processing speed — not by analyzing what happened, but by completing the emotional response in language.
+
+**The angry letter you will never send** is the most direct form. Write exactly what they did, how it affected you, what you wish had happened instead. Be specific. Be furious. The goal is not eloquence — it is completion.
+
+**What makes anger journaling effective (Pennebaker's findings):**
+- Writing about *what happened and how you felt* beats writing about *why it happened* — analysis without emotion does not complete the circuit
+- Specificity beats generality — "they said X at Y moment" activates more processing than "they were controlling"
+- Writing for 15–20 minutes at a sitting, 3–4 sessions minimum, produces the most durable effects
+- The third or fourth session is often when insight arrives — not the first
+
+**The filter question:** Before you write, ask — *Am I writing to complete this feeling, or to stay in it?* Completion moves toward release. Staying keeps the wound open. If you feel less activated in the days after writing — that is the signal it worked.
+
+**The boundary list as anger-to-wisdom conversion:** Take the heat of the anger and convert it into a document: a specific, non-negotiable list of what you will not tolerate again. Not a revenge plan — a values map. The anger says *this was wrong.* The list says *and here is what I will do differently.*
+
+Example: *"I will never again accept being dismissed when I raise a concern. One conversation where my concern is actually heard is the minimum. If that cannot happen, there is nothing to discuss."*
+
+**The somatic anger checklist — what the body needs:** Anger mobilizes cortisol and adrenaline that need a physical exit. Before writing, rate your body's activation (0–10). After writing, rate it again. If the number has dropped, the writing worked. If it has not, the body needs movement — run, lift, swim, or do progressive muscle release (tense for 5 seconds, fully release, repeat 3–5 times). Cognitive and somatic work together beat either alone.
 
 ### Why Suppressing Anger Creates Physical Symptoms
 
@@ -1095,11 +1086,37 @@ The sequence works like this:
 
 Skipping straight to acceptance or forgiveness without anger completing first guarantees the grief surfaces later — often in the next relationship, at an unexpected moment, or as a body symptom.
 
-**Signs your anger is not yet complete:** Check whether the specific story of what happened still triggers a surge of physiological arousal (racing heart, heat, tensing) even though you've thought about it many times. The memory still activating you = anger still active. Grief is quieter. Grief activates sadness, not heat.
+**Signs your anger is not yet complete:** Check whether the specific story of what happened still triggers a surge of physiological arousal (racing heart, heat, tensing) even though you've thought about it many times. The memory still activating you = anger still active. Grief is quieter. Grief activates sadness, not heat.*
+
+### The Window of Tolerance for Grief — Why Grief Can't Arrive Until Anger Leaves
+
+There is a neurological explanation for why grief cannot fully arrive until anger has run its course — and it has to do with your autonomic nervous system's two branches.
+
+Your sympathetic nervous system (SNS) activates during threat or emotional intensity. Anger is an SNS state — it mobilizes cortisol, elevates heart rate, primes muscles for action. Your parasympathetic nervous system (PNS) activates during safety, rest, and vulnerability. Grief — true grief, the kind that actually processes loss — requires PNS dominance. The body must feel safe enough to surrender into sadness.
+
+When anger is still active, SNS remains elevated. You cannot be in fight-or-flight mode and simultaneously in the rest-and-digest state that grief requires. This is not a metaphor — it is autonomic physiology. The anger system is guarding the wound. Grief cannot enter the building while the guard is still standing.
+
+**The window of tolerance concept (Siegel, 1999; Van der Kolk, 2014):** Each person has a zone of optimal arousal — a window within which they can feel intense emotions without losing function or collapsing. Within the window, emotions can be felt, processed, and completed. Outside the window — either hyperaroused (panic, rage) or hypoaroused (numb, dissociated) — the nervous system is no longer processing; it is protecting.
+
+Breakup grief that never fully completes often has a narrow window at its root. People who cannot complete grief have often not yet widened their window enough to hold the full weight of the loss.
+
+**What widens the window:**
+
+- **Titration** — exposing yourself to grief in small, contained doses rather than all at once. Ten minutes of intentional crying with a physical boundary (home, private space) is more effective than waiting for grief to flood you randomly.
+
+- **Co-regulation** — another person sitting with you in your grief without trying to fix it. A friend who can be present in your pain without making it about their discomfort widens your window by proxy. This is why therapy works — the therapist's regulated nervous system helps co-regulate yours.
+
+- **Somatic resources** — the window of tolerance is partly held in the body. Breathwork (slow exhale activates PNS), gentle movement, and progressive muscle relaxation all widen the window before grief work begins.
+
+**The anger-first sequence, neurologically:** Anger mobilizes the SNS → anger is felt and completed → SNS deactivation → PNS comes online → grief becomes possible. This is why jumping straight to "I forgive them" or "I'm at peace" before anger completes produces neither forgiveness nor peace — it produces bypass, and bypass does not resolve.
+
+**Practical application:** Before grief-focused work, rate your anger on a 0–10 scale. If it is above 3, the anger is still running and will guard the grief. Use anger-journaling or somatic discharge first. When the anger score drops below 3, then grief work becomes possible — and more productive.
 
 
+→ Full content: [anger-phase.md](references/anger-phase.md) — healthy vs. unhealthy anger expression, somatic anger processing, rage journaling techniques, and when anger signals something deeper.
+→ Full content: [anger-support.md](references/anger-support.md) — what to say to a friend in anger vs. what makes it worse, active listening scripts, and how to support without minimizing.
+→ Full content: [somatic-anger-compendium.md](references/somatic-anger-compendium.md) — where anger lives in the body, somatic discharge techniques, and why cognitive approaches alone often fail to fully resolve anger.
 
-→ Full content: [references/forgiveness.md](references/forgiveness.md)
 
 ---
 
@@ -1118,8 +1135,8 @@ When you're in a relationship, the "we" slowly starts to replace the "I." When i
 
 **Phase 3: Reconstruction (Months 3–9)** — Develop your own preferences, take one new identity experiment (something the relationship didn't have space for), and build a self that doesn't depend on a partner.
 
-→ Full content: [references/identity-reconstruction.md](references/identity-reconstruction.md) — excavation framework, long-term relationship disentangling, PTG-identity bridge, and the self-concept inventory exercise.
-→ Full content: [references/dating-after-breakup.md](references/dating-after-breakup.md) — rebound science, readiness benchmarks, and green flags for new relationship readiness.
+→ Full content: [identity-reconstruction.md](references/identity-reconstruction.md) — excavation framework, long-term relationship disentangling, PTG-identity bridge, and the self-concept inventory exercise.
+→ Full content: [dating-after-breakup.md](references/dating-after-breakup.md) — rebound science, readiness benchmarks, and green flags for new relationship readiness.
 
 ## Helping a Friend Through a Breakup
 
@@ -1141,42 +1158,33 @@ Supporting a friend through breakup grief is its own skill. The instinct to fix,
 - *"At least you can move on now."* — Implies they should be past it.
 - *"I told you so."* — Even if you did. Not the moment.
 - *Sharing your own anger at their ex* — Activates co-rumination.
-- *Telling them to forgive* — Forgiveness can't come before anger and grief have run their course.
+- *Telling them to forgive* — Forgiveness cannot come before anger and grief have run their course.
 - *"I know exactly how you feel."* — "I'm so sorry, I can't imagine" is better than false solidarity.
 
 ### Active Listening
 
 **Reflect back, don't redirect.** "It sounds like what hurt most was the lying" > "But you shouldn't have stayed if they were lying." **Use emotional labels.** "That sounds like it felt really humiliating" > "That's awful, let's talk about something else." **Don't fill silence** — the pause after they finish is where they process.
 
-### Recognizing When They Need Professional Support
-
-Signs to watch: self-harm thoughts or statements, complete social withdrawal lasting more than 2 weeks, grief not reducing in intensity after 8+ weeks, dissociation ("I feel unreal"), recurring patterns of the same type of relationship ending badly. You can say: *"I think a therapist might be really helpful here — not because you're broken, but because grief this heavy deserves real support."*
-
 ### Scripts
 
 > *"I'm not trying to fix anything. I'm just here."*
 > *"I can't imagine how painful this is. I'm so sorry."*
 > *"You're not overreacting. What happened was genuinely wrong."*
-> *"Do you want to talk about it again, or do you just need to be distracted for a while?"*
 > *"You don't have to make sense of this right now. You just have to feel it."*
-> *"I'm not going anywhere. Take as long as you need."*
 
-The core principle: presence is not passive. Sitting with someone in pain without trying to fix it, rush them, or make them comfortable is one of the most difficult and most valuable forms of help. Your job is not to help them stop feeling. Your job is to be there while they feel it.
+### Long-Term Check-In That Actually Helps
 
-### Enhanced Long-Term Check-In: Weeks 2-52
-
-Most people check in hard in week one and disappear by week three. The second and third weeks — when shock wears off and real adjustment begins — are often harder than the first.
+Most people check in hard in week one and disappear by week three. The second and third weeks — when shock wears off — are often harder than the first.
 
 - **Week 1:** Every two days, low-pressure.
-- **Weeks 2-3:** Every 3-4 days with a concrete offer. *"I'm showing up Sunday with groceries — don't argue."*
-- **Weeks 4-8:** Weekly touchpoint on a fixed day.
-- **After 3 months:** Monthly — grief that deep doesn't resolve in 30 days.
+- **Weeks 2–3:** Every 3–4 days with a concrete offer. *"I'm showing up Sunday with groceries — don't argue."*
+- **Weeks 4–8:** Weekly touchpoint on a fixed day.
+- **After 3 months:** Monthly — grief that deep does not resolve in 30 days.
 - **After 6 months:** Stay proactive. Consistency beats replies.
+- **When they don't reply:** No response after a week is usually paralysis, not rejection. Low-pressure contact eventually breaks through.
 
-**When Your Friend Doesn't Reply:** No response after a week is usually paralysis, not rejection. Low-pressure contact eventually breaks through.
+→ Full content: [helping-friend.md](references/helping-friend.md) — extended scripts, active listening deep dive, and signs your friend needs professional support.
 
-→ Full content: [references/helping-friend.md](references/helping-friend.md)
-→ Full content: [references/anger-support.md](references/anger-support.md)
 
 ## Secondary Grief — When You're Grieving More Than the Relationship
 
@@ -1196,7 +1204,7 @@ This is called **anticipatory loss** layered with **secondary loss** — you los
 
 **Anniversary waves:** Secondary grief anniversaries differ from primary ones — ambushes come from the ex's wedding date, the child due date, the date you would have moved in. Mark these. They're predictable.
 
-→ Full content: [references/secondary-grief.md](references/secondary-grief.md)
+→ Full content: [secondary-grief.md](references/secondary-grief.md)
 
 ---
 
@@ -1227,8 +1235,8 @@ Letting go is not a single decision — it is a gradual withdrawal of energy fro
 
 **The readiness signal:** You're ready to let go when the thought of them generates not pain but just recognition — a person you knew, a chapter that closed. Not indifference (that sometimes means you're still protected) but平静 — the quiet that comes after the storm has moved through and the air has cleared.
 
-→ Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md) — the letting-go sequence, emotional completion, and the forgiveness-resistance map.
-→ Full content: [references/forgiveness.md](references/forgiveness.md) — what forgiveness actually is and isn't, and the practice of releasing resentment.
+→ Full content: [forgiveness.md](references/forgiveness.md) — what forgiveness actually is and isn't, and the practice of releasing resentment.
+→ Full content: [letting-go.md](references/letting-go.md) — the two types of letting go, the readiness signal, and how to recognize completion.
 
 
 ## Forgiveness — What It Actually Is and Isn't
@@ -1245,10 +1253,10 @@ Forgiveness is commonly mistaken for condoning, reconciling, or deciding the rel
 
 **Self-forgiveness paradox:** Most forgive an ex more easily than themselves. Self-blame keeps the wound open. Self-forgiveness doesn't mean you were right — it means you're willing to stop punishing yourself for being human.
 
-→ Full content: [references/forgiveness-phase.md](references/forgiveness-phase.md) — self-forgiveness vs. other-forgiveness, the physiological cost of unforgiveness, and the Hoelterhof reframing exercise
+→ Full content: [forgiveness-phase.md](references/forgiveness-phase.md) — self-forgiveness vs. other-forgiveness, the physiological cost of unforgiveness, and the Hoelterhof reframing exercise
 ## Quick Scripts
 
-→ Full content: [references/research-ground-truth.md](references/research-ground-truth.md) — neurological basis of breakup grief, attachment style differences, timeline research, and extended hard-moment scripts.
+→ Full content: [research-ground-truth.md](references/research-ground-truth.md) — neurological basis of breakup grief, attachment style differences, timeline research, and extended hard-moment scripts.
 
 **When they say "I can't stop thinking about them":**
 > That's because your brain is still running attachment chemistry. That's not love — that's withdrawal. The thoughts will quiet down when you stop feeding them. The way out is through, not through more rumination.
@@ -1265,7 +1273,7 @@ Forgiveness is commonly mistaken for condoning, reconciling, or deciding the rel
 **When they say "My ex is married / pregnant / seemingly ahead of me":
 > You're comparing your chapter 3 to their chapter 10. That's not a measurement — it's an optical illusion. Their life progressing does not mean you failed. It means the path diverged. Close the tab. Feel the grief. Then find one thing today that is yours and move toward it.
 
----
+→ Full content: [quick-scripts-reference.md](references/quick-scripts-reference.md) — research basis, extended hard-moment scripts, and the dual-process model applied to communication under stress.
 
 ## When to Recommend Professional Support
 
