@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.103.0
+version: 1.110.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -252,6 +252,13 @@ Bezos has invested approximately $1 billion per year into Blue Origin since 2000
 
 $10K in Amazon's 1997 IPO → $1.7M by 2023 (36% annual vs ~10% S&P 500). Critical variable: **holding period.** Early withdrawal destroys exponential backend growth. Those who held through the 80% drawdown made 170x. Staying invested matters more than timing entry. Compounding is non-linear at the backend.
 
+
+
+**"Disagree and commit":** When a team can't reach consensus, Bezos asks: "Are you willing to commit and execute even though you disagree?" If yes, full speed ahead. If no, escalate. This prevents endless debate while preserving psychological safety. A good decision made and executed beats a perfect decision debated indefinitely.
+
+**The two-pizza rule:** If a team can't be fed with two pizzas, it's too large. Small teams move faster, communicate better, and create accountability. Bezos deliberately kept Amazon's leadership structure flat — he directly managed only a handful of executives.
+
+**Working backwards product process:** Before building anything, teams write a fake press release and FAQ as if the product already succeeded. This forces clarity: who is the customer, what problem does this solve, what makes it different? If you can't write a compelling press release, the product isn't ready.
 → Full content: [bezos-frameworks.md](references/bezos-frameworks.md) — Regret Minimization Framework script, Day One desk anecdote, Customer Obsession principle, Amazon's reinvestment model and compounding math, Disagree and Commit scripts, Day Two wealth destroyers checklist, Washington Post principle, and the long-term vs short-term comparison table.
 
 ## Buffett-Style Wealth Building: The Oracle's Mental Models
@@ -317,8 +324,21 @@ Despite being one of the richest people alive, Buffett has lived in the same Oma
 Greg Abel, 62, succeeded Buffett as CEO in early 2026. Abel ran BNSF Railway, MidAmerican Energy, and Berkshire Hathaway Energy for 25+ years — all consistently outperformed benchmarks across a $400B+ portfolio.
 
 **The wealth insight:** Build income-producing assets that eventually don't require your daily presence. The best succession is one where your replacement is already fully trained before you announce.
+### Berkshire Hathaway's Moat: How the Machine Compounds
 
+The Berkshire Hathaway model is the most documented wealth-creation machine in history: 19.8% compound annual growth rate from 1965 to 2023 vs. 10.2% for the S&P 500. The compounding engine has four parts: the insurance float provides cheap capital, holding companies generate cash, the conglomerate structure enables tax-efficient capital reallocation, and retained earnings compound at rates shareholders can't match individually.
 
+**The four capital allocation rules:**
+1. Float only has value if deployed at high rates of return — cheap capital poorly deployed is a liability
+2. Every dollar of retained earnings must create at least one dollar of market value
+3. If returns fall below cost of capital, return cash to shareholders via buybacks or dividends
+4. Excess cash at parent level is best deployed acquiring whole businesses
+
+**The insurance float:** ~$169B by 2023 — permanent, interest-free capital. Buffett collects premiums upfront and pays claims later, holding that float at near-zero cost. Personal application: minimize insurance cost relative to float generated. High-deductible health plans with HSA create your own float. Negotiate umbrella policy terms; shop disability insurance.
+
+**Capital allocation analogy:** Your savings rate is your float — the capital available for investment before spending. The rule: if your retained earnings (savings rate × return on investments) don't exceed what you could distribute, retain less and compound more.
+
+**Buffett's compounding demonstration (2020 letter):** A 20-year-old who invests $100/month at 10% has ~$2.3M by age 60. Same $100 at 2% = ~$59,000. The 5× difference from compounding starting 10 years earlier is larger than the total amount invested.
 
 ### Buffett's 2025 Shareholder Letter: The Final Lessons
 
@@ -502,8 +522,6 @@ Eric Jorgenson collected Naval's public writings (tweets, essays, podcast appear
 
 The book has become one of the most widely shared modern texts on wealth and meaning. The key insight from the curation itself: Naval's wealth philosophy and his happiness philosophy are the same framework, just applied to different domains. The person who internalizes one has the blueprint for the other.
 
-→ Full content: [naval-framework.md](references/naval-framework.md)
-
 ## Charlie Munger Mental Models: The Art of Better Thinking
 
 Charlie Munger (1924–2023) was Buffett's partner at Berkshire Hathaway for 45 years and the "architect" of its modern philosophy. His mental models span psychology, economics, law, physics, and biology. His core principle: a single interdisciplinary framework is dangerous — you need many models from many disciplines to accurately understand the world.
@@ -674,7 +692,8 @@ The income-expense gap — not expense reduction alone — determines wealth tra
 - *Research anchor:* "Market data shows the 50th percentile is [range]; my contributions exceed median, so [top of range] is appropriate."
 - *When they say no:* "What would I need to demonstrate to get to [target] in [timeframe]? Can we document that?"
 
- — income ceiling analysis, salary negotiation scripts, credential ROI table, and the full side business validation system.
+
+→ Full content: [income-acceleration-tactics.md](references/income-acceleration-tactics.md) — income ceiling analysis, salary negotiation scripts, credential ROI table, and the full side business validation system.
 
 ## Risk and Probability Thinking: How the Wealthy Think About Uncertainty
 
@@ -720,6 +739,23 @@ If the 10x scenario is meaningful AND the 10% scenario is recoverable AND I'm in
 
  -- extended risk frameworks, Taleb's barbell strategy, Howard Marks' second-level thinking, and the complete probability frameworks reference.
 
+## Negotiating Under Leverage: Scripts That Actually Work
+
+One successful salary negotiation can equal 1–3 years of raises. The frame: you're not asking — you're presenting market data showing your compensation is misaligned with your value.
+
+**When you have leverage — offer, track record, competing opportunity:**
+- *"Market data shows the 50th percentile for this role is $[X]; the 75th is $[Y]. My results exceed median. I'd like to discuss reaching the top of range."*
+- *"What would I need to demonstrate to reach [target] by [timeframe]? Can we document that?"*
+- *"I'm committed here but also evaluating options. I'd like a conversation about a path forward before deciding."*
+
+**Counteroffer leverage (even without intending to leave):** A genuine competing offer creates 10–30% counteroffer leverage. You must actually have the option — a bluff detected destroys more leverage than it creates.
+
+**When leverage is asymmetric (they hold it):** Script: *"I understand we're not in a position to revisit now. Can we schedule a conversation for [timeframe]?"* Don't negotiate from weakness — negotiate from strength by building alternatives first.
+
+**The income ceiling:** Most people earn 2–5% annual raises — linear, never compound. Breaking through requires the income stack by leverage: specific knowledge (5–10 year build, nearly impossible to replicate) → negotiation (one negotiation can equal years of raises) → side business (validate with $1,000/month test) → strategic career hops (20–40% increases with title advancement).
+
+**Geographic arbitrage:** Same skill, different market. A developer earning $80K earning $180K in another market isn't 2x smarter — market pricing differs. Location arbitrage is an immediate leverage move available before any credential build.
+
 ## Advanced Income Acceleration: The Middle-Class Wealth Multiplier
 
 This section covers the tactical playbook for income acceleration — career capital moves, negotiation architecture, credential stacking, and consumption trap awareness. Full tactical detail and scripts at the reference link.
@@ -736,7 +772,6 @@ A 30% income increase compounded at 10% over 20 years produces more wealth than 
 
 ### Side Business Validation, Credential Stack, Geographic Arbitrage, Negotiation Architecture
 
-- → Full content: [income-acceleration-tactics.md](references/income-acceleration-tactics.md) — income ceiling analysis, salary negotiation scripts, credential ROI table, and the full side business validation system.
 
 ---
 
@@ -792,29 +827,20 @@ The people who accumulate lasting wealth share learnable behavioral patterns —
 Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in history. Assets grew from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do.
 
 **The core framework:**
-- **Invest in what you know** — Can you explain this to a 10-year-old? Do you use the product? Lynch found retailers and consumer brands years before Wall Street.
-- **The story must hold** — Every investment is a story. Know which one you're betting on and when the facts invalidate it.
-- **Tenbagger hunting** — Small ambitious companies can return 10x. Lynch held hundreds of small-cap positions because asymmetric upside covers failures.
-- **P/E as a compass** — A high P/E isn't automatically expensive if growth is high. Use PEG (P/E divided by growth rate) to normalize across sectors.
+- **Invest in what you know** — Can you explain this to a 10-year-old? Do you use the product?
+- **The story must hold** — Every investment is a story. Know which one you're betting on and when it breaks.
+- **Tenbagger hunting** — Small companies can return 10x. Asymmetric upside covers inevitable failures.
+- **P/E as compass** — Use PEG (P/E ÷ growth rate). PEG ≤ 1.0 potentially undervalued; >1.5 you're overpaying.
 
-**The Lynch category taxonomy:**
-- **Slow grower** — Large, old, modest growth. OK as anchor position.
-- **Stalwart** — Steady, predictable. Good defensive positions.
-- **Fast grower** — Small, expanding. The tenbagger engine. Lynch's core hunting ground.
-- **Asset play** — Hidden balance sheet assets (land, brand, IP).
-- **Turnaround** — Distressed company with recovery potential. Needs catalyst and timing.
-- **Cyclical** — Earnings rise and fall with economy. Buy low on the cycle.
+**The six stock categories:** Fast grower (tenbagger engine), Stalwart (hold decades), Slow grower (anchor), Asset play (hidden balance sheet), Turnaround (needs catalyst), Cyclical (buy low on the cycle).
 
-**The discipline checklist:**
-1. Can I explain why I own this in one sentence?
-2. Has the story changed — or is the company still executing?
-3. Does management own stock?
-4. Is P/E reasonable relative to growth (PEG < 1.5)?
-5. What's the worst case — will the company survive it?
+**Your two institutional advantages — that Lynch actively exploited:**
+1. No redemption pressure — you can hold through 3–5 year lulls no professional can survive
+2. Direct observation edge — you use the products before Wall Street notices. Full parking lots + happy employees = company doing well
 
-**Lynch's individual investor edge:** Institutions can't own small companies too small for a $14B fund. You can. You won't face redemption risk or quarterly reporting pressure. You can hold through 3-5 year lulls. Lynch actively leveraged this — he made more money in small-caps where Fidelity couldn't move the needle.
+**Before buying script:** *Do I use this product? Is the company gaining or losing share? Is the balance sheet healthy? Can I hold this 10 years if nothing happens?*
 
-**The practical script:** *"Before buying: Do I use this product? Is the company gaining or losing share? Is the balance sheet healthy? Can I hold this for 10 years if nothing happens?"*
+**The discipline checklist:** (1) Can I explain why I own this in one sentence? (2) Has the story changed? (3) Does management own stock? (4) PEG < 1.5? (5) Will the company survive its worst case?
 
 → Full content: [lynch-frameworks.md](references/lynch-frameworks.md)
 
@@ -949,7 +975,7 @@ Anchoring: past prices or purchase points create false reference points. A stock
 
 Loss aversion test: Would you accept a 50/50 gamble that pays $150 if you win but loses $100 if you lose? Most say no — revealing loss aversion bias. Recency bias test: When you think about the stock market, do you assume the last year's trend continues? Confirmation bias scan: What's your current investment thesis? Now ask: what evidence would prove it wrong?
 
-→ Full content: [behavioral-finance.md](references/behavioral-finance.md)→ Full content: [behavioral-finance.md](references/behavioral-finance.md)
+→ Full content: [behavioral-finance.md](references/behavioral-finance.md)
 
 
 ## Financial History: What the Big Crashes Actually Taught
@@ -1037,7 +1063,9 @@ Suggest seeing a financial advisor or planner when:
 
 
 → Full content: [research-cycle.md](references/research-cycle.md)
+→ Full content: [cyclical-research-pattern.md](references/cyclical-research-pattern.md)
 
+**Version history:** v1.110.0: Condensed Unstoppable Execution; added Negotiating Under Leverage section.
 
 ## The Activist Wealth Model: How Icahn and Ackman Build Power Through Ownership
 
@@ -1053,57 +1081,19 @@ Most investors buy stock and wait. Activist investors buy stock and *change the 
 
 ## Unstoppable Execution: The Psychology of People Who Can't Be Stopped
 
-Some people build wealth faster than others — not because they have better ideas, but because they execute with a different quality of intensity. The execution gap is not about intelligence; it's about consistency, durability, and self-awareness. The people who build real wealth execute correctly for longer than everyone else.
+Some people build wealth faster than others — not because they have better ideas, but because they execute with different intensity. The execution gap is about consistency, durability, and self-awareness. Three pillars: identity (architect, not employee), decision velocity (act at 70%), rejection tolerance (separate signal from noise).
 
-### The Identity Shift: From Worker to Architect
+**The identity shift:** Move from *"I work for a company"* to *"I build systems that generate income."* Script: *"I'm moving from earning my living to building my wealth."*
 
-The first and most critical shift is identity. People who build real wealth stop identifying as employees who get paid, and start identifying as architects who build systems.
+**Decision velocity at 70%:** Certainty is a trap. Make the best decision with available information, then update. Script: *"I'm not waiting for complete certainty. I'm making the best call I can and adjusting."*
 
-- **Employee identity:** "I work for a company. My income comes from my employer. My financial security depends on my job."
-- **Architect identity:** "I build systems that generate income. My job is one system. I am always building, maintaining, and improving my systems."
+**Rejection tolerance:** Musk was rejected repeatedly. Bezos was told Amazon would fail. The difference: they asked one more time or differently. The internal model must be clear enough that external disapproval becomes less informative than your own analysis.
 
-This identity shift changes everything. Architects spend time building assets, leverage, and residual income. Employees trade hours for money. The execution difference is total.
+**The brutal middle:** Months 4–6 of any difficult project is where most people quit. Script: *"The results I'm not seeing yet are still being built. I am in the investment phase of a long-term compounding strategy."* — The fear of difficulty is almost always worse than the difficulty itself.
 
-**Script for the identity transition:** *"I'm moving from earning my living to building my wealth. That requires different behaviors — investing rather than just saving, building rather than just working, and making decisions from the owner's perspective rather than the employee's."*
-
-### Decision Velocity: 70% and Go
-
-Wealth-building requires constant decisions: when to invest, when to start something, when to leave, when to double down. Most people delay until they feel certain — which means they almost never act.
-
-The wealthy make decisions at 70% information and adjust as data comes in, rather than waiting for 100% certainty that almost never arrives.
-
-**Bezos's "disagree and commit":** Once a decision is made at Amazon, everyone commits fully — even if they disagreed. No sabotage, no second-guessing, no passive resistance if it doesn't immediately work. Most people sabotage their own wealth-building by being internally inconsistent — they decide to start a business, then second-guess it; commit to investing, then panic-sell; set a financial goal, then undermine it every time it gets uncomfortable.
-
-**Script:** *"I'm not waiting until I have complete information to act. I'm making the best decision I can with what I know, then updating as I learn. The person who acts at 70% confidence and corrects beats the person who waits for 90%."*
-
-### Rejection Tolerance: The Stack
-
-Musk was rejected by investors for SpaceX and Tesla repeatedly. Bezos was told Amazon would fail. The ability to keep going after being told no comes from having a clear enough internal model of reality that external disapproval becomes less informative than your own analysis.
-
-Build rejection tolerance:
-1. **Separate signal from noise.** Rejection often says more about the rejecter than about you
-2. **Update, but don't abandon.** One no doesn't mean the entire market is wrong
-3. **Track attempts made, not rejections received.** Rejections are inputs, not outcomes
-
-**Script:** *"Every one of these was told no first — Musk, Bezos, Sara Blakely. The difference between them and people who stop is that they asked one more time, or differently."*
-
-### The Execution Stack: How to Not Quit
-
-The distribution of outcomes in any wealth-building effort looks like exponential decay. Every person starting a business, investment plan, or wealth-building program hits a wall around months 3–6 where the gap between effort and visible results is widest. This is the waiting period before compounding kicks in.
-
-**Pre-commitment strategy:** Model your downside before any investment — pre-commit so emotional selling under pressure becomes harder. Keep 12+ months of liquidity to prevent forced sales at the wrong time.
-
-**The keystone habit:** Automated investing on payday. $500/month at 10% for 30 years = ~$1.2 million. The person who earns more but spends everything will have less at 65 than the person who invests consistently.
-
-How to survive the wall:
-- Pre-commit publicly (accountability makes quitting more costly)
-- Track inputs, not just outputs ("I executed" beats "I feel behind")
-- Find peers in the game (isolation makes quitting easier)
-
-**The real pattern:** The people who build extraordinary wealth are rarely the smartest people in the room. They are the ones who won't stop.
+**10-year window:** Buffett has held Coke 30+ years. Bezos said most decisions should be reversible — but compounding, relationships, health cannot be unmade. Script: *"I am playing a 10-year game. This difficulty is the cost of entry."*
 
 → Full content: [power-execution-unstoppable.md](references/power-execution-unstoppable.md)
-
 ## Verification Checklist
 
 
@@ -1124,6 +1114,7 @@ How to survive the wall:
 - [ ] Covered tax-loss harvesting and backdoor Roth IRA basics
 - [ ] Gave the "unstoppable execution" framework (automation, ownership, decision velocity)
 - [ ] Addressed income acceleration through negotiation and leverage
+- [ ] Gave the Grit and Growth Mindset framework (passion + perseverance for long-term goals, Atomic Habits systems, identity-based habit model)
 
 ## Morgan Housel's "Same as Ever": Timeless Lessons That Never Change
 
