@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.65.0
+version: 4.66.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -156,6 +156,24 @@ Your attachment style — formed in early childhood but updated by every signifi
 
 **Self-diagnosis check:** Ask yourself three questions — (1) what attachment style did my primary caregiver have? (2) what attachment style do my romantic partners tend to have? (3) where does my nervous system go when connection feels uncertain? Your answers map to your pattern.
 
+### Attachment Injury — Why Some Breakups Feel Existentially Dangerous
+
+Not all heartbreak is equal. Some activate what therapists call an **attachment injury** — a rupture so fundamental that the nervous system responds to the breakup as genuine survival threat. If you've had this kind of breakup before, you know immediately. If you haven't, the description sounds exaggerated. It isn't.
+
+**Three pathways that create attachment injuries:**
+1. Early childhood loss combined with unreliable caregiving — the breakup reactivates the original template, not just the current relationship
+2. A relationship that felt traumatically unsafe — repeated threats to leave, deception, betrayal combined with isolation from support
+3. A relationship that briefly became your entire world before being removed
+
+**The disorganized attachment difference:** Anxious and disorganized styles can look similar — both involve reaching out, fear of abandonment. But disorganized attachment has an additional quality: the nervous system oscillates between pursuing connection and fearing it simultaneously. With disorganized attachment, love itself becomes coded as dangerous.
+
+**The reactivation pattern:** If your first experience of this kind of loss was with a caregiver, the current breakup reactivates the original wound at full intensity. Your prefrontal cortex knows this person is not your parent. Your limbic system responds as if they are, because the template was set there. This is why a 6-month relationship can feel indistinguishable from a 10-year marriage — relationship length matters less than when the template was set.
+
+**Why standard no-contact isn't always enough:** Standard grief responds to time and no-contact. Attachment injury requires the nervous system to complete a threat response that grief processing alone doesn't resolve. People with attachment injuries sometimes describe breakup as "like I was going to die" — not metaphorically. This is the disorganized attachment system registering real danger.
+
+**What helps specifically:** Bottom-up somatic approaches (EMDR, somatic experiencing, AEDP) work on the limbic-level threat response that talk therapy cannot reach. If you suspect attachment injury, seek a therapist trained in attachment-based trauma work, not just grief support.
+
+→ Full content: [attachment-injury.md](references/attachment-injury.md)
 
 ## Why Breakups Are Hardest at Night: Sleep Disruption, 3AM Spiraling & the Insomnia-Grief Cycle
 
