@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.70.0
+version: 4.75.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -68,7 +68,7 @@ This is why the micro-experiment philosophy outperforms the planning principle:
 
 You are not searching for your purpose while you work — you practice your purpose while you search.
 
-→ Full content: [references/paradox-intentional-purpose.md](references/paradox-intentional-purpose.md)
+→ Full content: [paradox-intentional-purpose.md](references/paradox-intentional-purpose.md)
 
 ---
 
@@ -94,7 +94,7 @@ Westerners treat ikigai as a grand, singular life purpose — the thing you'll b
 > The question is not "what is my ikigai?"  
 > The question is "what makes getting up worth it — today?"
 
-→ Full content: [references/ikigai-cultural-roots.md](references/ikigai-cultural-roots.md) — post-war Japanese meaning reconstruction; how ikigai emerged from national trauma and what that means for finding purpose in difficulty.
+→ Full content: [ikigai-cultural-roots.md](references/ikigai-cultural-roots.md) — post-war Japanese meaning reconstruction; how ikigai emerged from national trauma and what that means for finding purpose in difficulty.
 
 ### Using Ikigai in Conversation
 
@@ -106,7 +106,7 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 4. **Check for anti-social ikigai.** Revenge or resentment-based purpose is brittle. Name it, then re-aim it at something generative.
 5. **Sustain, don't discover.** Purpose is maintenance, not a one-time discovery. What practice do you return to?
 
-→ Full content: [references/ikigai-five-dimensions.md](references/ikigai-five-dimensions.md) — five dimensions beyond the Venn diagram: Self, Social, Social Contribution, Social Recognition, and Spiritual/Physical.
+→ Full content: [ikigai-five-dimensions.md](references/ikigai-five-dimensions.md) — five dimensions beyond the Venn diagram: Self, Social, Social Contribution, Social Recognition, and Spiritual/Physical.
 
 ### The Eudaimonic Well-Being Frame
 
@@ -114,7 +114,6 @@ When someone is stuck on "finding their purpose" in an abstract, paralyzing way:
 
 **The Eudaimonic Flip:** "If no one ever acknowledged this, if I never got paid, if no one ever knew — would I still do it?" If yes: eudaimonic territory. If no: primarily hedonic — and fragile under adversity.
 
-→ Full content: [references/ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
 ### The Ikigai Depth Exercise: Three Domains
 
@@ -130,128 +129,106 @@ The goal is not to eliminate the anti-social dimension but to prevent it from be
 
 The goal isn't to find one big purpose — it's to notice small purposes repeatedly and let them compound. At end of each day, write one moment you felt genuinely useful, even briefly. Don't filter for importance. Over weeks, patterns emerge.
 
-→ Full content: [references/small-purpose-practice.md](references/small-purpose-practice.md)
+→ Full content: [small-purpose-practice.md](references/small-purpose-practice.md)
 
 ### The Motivation Spectrum
-The other frameworks in this skill map onto ikigai's dimensions:
+
+The other frameworks in this skill map onto ikigai's three dimensions:
+
 - **Craftsman mindset (Newport)** → social ikigai: rare and valuable skill that others find genuinely useful
-- **Flow (Csikszentmihalyi)** → non-social ikigai: private absorption in something demanding that the world doesn't see but that makes life worth living
+- **Flow (Csikszentmihalyi)** → non-social ikigai: private absorption in something demanding that makes life worth living
 - **Identity habits (Clear)** → how you sustain ikigai over time through daily small actions
 
-> Ikigai is the underlying frame; the other frameworks fill it in with specific practices. The person who practices all of them has an ikigai — a reason for being they tend daily.
+→ Full content: [ikigai-deep-dive.md](references/ikigai-deep-dive.md)
 
-### The Neuroscience of Ikigai — Why Practice Changes the Brain
+### Natsukashii — Longing as a Purpose Signal
 
-Japanese neuroscientist Kenji Katameya found that adults with strong daily ikigai practices show distinct neurological patterns: higher prefrontal cortex activation (sustained attention, stress recovery) and reduced default mode network (DMN) baseline — the brain region associated with rumination and self-referential anxiety.
+**Natsukashii** (恋しいしい) — a bittersweet longing for something that has passed or is passing — is the dimension most Western purpose frameworks miss. The things you would genuinely miss if they disappeared are often a more reliable purpose signal than future-oriented passion mapping.
 
-**The mechanism is attentional.** Daily purposeful engagement reduces idle self-referential time. When attention is directed at something outside yourself — a craft, a practice, other people — the brain has less downtime for the anxiety loop. Purpose works partly by redirecting attention away from the self-referential loop.
+**The longing test:** What would you miss *being present for* — not being known for? A morning routine, a relationship, a place, a practice. Longing, not passion, is the more accurate signal.
 
-**The compound effect:** Research on people who start daily ikigai practice at 45 shows measurable brain changes by 55 — not because of age, but because of cumulative engagement. Small daily engagement produces more measurable benefit than an annual retreat. You cannot wait until you're certain; the neurological benefits begin accruing immediately.
+→ Full content: [natsukashii-purpose.md](references/natsukashii-purpose.md)
 
-### Japan Blue Zones Deepening: What the Longest-Lived People on Earth Actually Do
+### The Neuroscience of Ikigai
 
-The Blue Zones research (Buettner) identified five longevity hotspots where people routinely live past 100 with full cognitive function and reported high ikigai. The popular narrative treats Blue Zones as a diet or exercise story. It is not. The purpose-related findings are more specific and more useful:
+Daily purposeful engagement reduces idle self-referential time. When attention is directed outside yourself — a craft, a practice, other people — the brain has less downtime for the anxiety loop. Purpose works partly by redirecting attention away from the self-referential loop.
 
-**Okinawa:** Strong **moai** — informal social contract groups from childhood. Purpose is embedded in social role and obligation. No retirement concept — people die while still useful.
-- **Ikigai practice is communal**, not private — embedded in cooking, gardening, and elder care rhythms.
-- **Daily movement**: walking, tending, handwork keeps people physically and socially engaged without requiring a gym.
+Adults with strong daily ikigai practice show higher prefrontal cortex activation (sustained attention, stress recovery) and reduced default mode network baseline. Small daily engagement produces more measurable benefit than an annual retreat.
 
-**The moai as purpose infrastructure.** Moai groups provide daily social ikigai anchors — people who expect you, people you show up for. Purpose that depends only on private motivation collapses under adversity. Purpose that is structurally embedded in community is durable.
 
-→ Full content: [references/ikigai-lifespan-stages.md](references/ikigai-lifespan-stages.md)
+### Japan Blue Zones and the Moai as Purpose Infrastructure
 
-### Wabi-Sabi, Shokunin, and Kaizen: Japanese Purpose Frameworks Beyond Ikigai
+The Blue Zones research identified social infrastructure — not diet or exercise — as the primary driver of both longevity and reported ikigai. In Okinawa, **moai** groups (informal social contract groups from childhood) provide daily social ikigai anchors: people who expect you, people you show up for. Purpose embedded in community is durable; purpose that depends only on private motivation collapses under adversity.
 
-Three Japanese frameworks that complement ikigai and offer distinct purpose entry points:
+→ Full content: [ikigai-lifespan-stages.md](references/ikigai-lifespan-stages.md)
 
-**Wabi-sabi:** Beauty in imperfection and impermanence — the cracked glaze on a tea bowl is evidence of history, not a flaw. For those paralyzed by perfectionism: purpose does not require polish. Begin in the rough.
+### Wabi-Sabi, Shokunin, and Kaizen
 
-**Shokunin:** The craftsman's ethic — mastery through lifelong dedication to a single discipline, for the love of the craft itself. For those who feel behind: the discipline IS the purpose, not the recognition.
+Three Japanese frameworks that complement ikigai:
+- **Wabi-sabi:** Beauty in imperfection — purpose does not require polish. Begin in the rough.
+- **Shokunin:** The craftsman's ethic — mastery through lifelong dedication to a single discipline for the love of the craft itself. The discipline IS the purpose, not the recognition.
+- **Kaizen:** Continuous small improvements — purpose as daily maintenance, not a singular discovery event.
 
-**Kaizen:** Continuous, small improvements. The 1% daily compounding. Purpose as daily maintenance, not a singular discovery event. The question: am I showing up to the practice today?
-
-→ Full content: [references/japanese-purpose-frameworks.md](references/japanese-purpose-frameworks.md)
+→ Full content: [japanese-purpose-frameworks.md](references/japanese-purpose-frameworks.md)
 
 ### Cross-Cultural Purpose: How Western Culture Distorts the Search
 
-Western culture frames purpose as something you *find* — a latent truth waiting to be discovered. This creates three systematic distortions:
+Western culture frames purpose as something you *find* — creating three systematic distortions:
 
-**1. The Passion Mentality.** "Follow your passion" assumes you have a pre-existing passion buried inside you. This is a modern Western invention. Most people discover purpose through engagement, not before it. You don't find passion; you build it through mastery.
+1. **Passion Mentality:** "Follow your passion" assumes a pre-existing passion buried inside. Most people discover purpose through engagement, not before it.
+2. **Singular Purpose:** Western narratives search for *the one* calling. Japanese ikigai is more modest: a reason to get up today. Multiple ikigai across domains is normal.
+3. **Hero's Journey Frame:** Purpose framed as a destination — struggle, discover, transform. Real purpose discovery is iterative, unglamorous, and often accidental.
 
-**2. Singular Purpose.** Western narratives search for *the one* purpose — the grand calling. Japanese ikigai is more modest: a reason to get up today. Multiple ikigai across domains is normal, not an identity crisis.
-
-**3. The Hero's Journey Frame.** Western storytelling positions purpose as a destination: you struggle, discover your calling, and emerge transformed. Real purpose discovery is iterative, unglamorous, and often accidental.
-
-**The Western Distortion in Practice:**
-- "I need to find my purpose before I commit" → delays engagement indefinitely
-- "If I don't feel passionate, it's not my calling" → filters out everything hard
-- "Purpose should feel meaningful all the time" → rejects the mundane reality of purpose work
-
-The antidote: treat purpose as a practice, not a revelation. Show up to something with enough regularity that the practice itself generates the meaning — not the other way around.
+The antidote: treat purpose as a practice, not a revelation.
 
 ### The Two-Minute Rule
 
-When you don't feel like doing anything: do the thing for 2 minutes. Only 2. After 2 minutes, you are allowed to stop.
+When blocked by inertia: commit to exactly 2 minutes of the task, then stop if desired. The resistance is to the *beginning*, not the activity itself. Most tasks continue naturally once started.
 
-The trick: once you start, you usually keep going. The resistance is to the *beginning*, not the *activity*. The nervous system protests the unknown before it has data about the activity itself.
+→ Full content: [two-minute-rule.md](references/two-minute-rule.md)
 
-### The Drive Dichotomy: Intrinsic vs. Extrinsic
+### The Drive Dichotomy: Intrinsic vs. Extrinsic Motivation
 
-Psychologists distinguish two types of motivation:
-
-**Extrinsic motivation** — driven by external rewards or punishments (pay, grades, praise, fear). Powerful but fragile: it works while the reward is present and collapses when it's withdrawn.
-
-**Intrinsic motivation** — driven by the inherent satisfaction of the activity itself (curiosity, interest, challenge). Produces more sustained engagement and more meaning, but requires the activity itself to be engaging.
-
-The transfer problem: behaviors that started extrinsic can become intrinsic over time if the activity proves engaging. Conversely, behaviors that started intrinsic can become extrinsic if you start doing them for money — and the intrinsic drive can collapse when the money stops.
+**Extrinsic motivation** — driven by external rewards or punishments — is powerful but fragile: it works while the reward is present and collapses when withdrawn. **Intrinsic motivation** — driven by the inherent satisfaction of the activity itself — produces more sustained engagement.
 
 **The self-concordance test:** Would you pursue this goal if no one ever knew about it and you received no external reward? If yes: self-concordant. If no: the goal is primarily extrinsic and motivation will be fragile.
 
 ### The Autonomy Paradox
 
-Autonomy does not mean freedom from constraints. It means acting from inside a value rather than from external pressure, even under limitation:
+Autonomy does not mean freedom from constraints. It means acting from inside a value rather than from external pressure, even under limitation. The burned-out executive following a script is not autonomous; the prisoner practicing stoicism is.
 
-- The prisoner practicing stoicism is autonomous
-- The burned-out executive following a script is not
-- Entrepreneurs with extreme constraints who love their work are more autonomous than people with total freedom who feel trapped
+When someone says "I should be motivated but I'm not" — ask: does this feel like *your* choice, or like something imposed on you?
 
-When someone says "I should be motivated but I'm not" — ask: does this feel like *your* choice, or like something imposed on you? If imposed, motivation will not come, regardless of how "correct" the goal is.
+### Procrastination as Emotion Regulation
 
-### Procrastination: The Emotion Regulation Problem
+Procrastination is not a time-management failure — it is an emotion-regulation failure. People procrastinate to escape discomfort (anxiety, self-doubt, perfectionism), not because they are lazy or disorganized. Address the emotion, not the schedule.
 
-Tim Pychyl and Piercarlo Valasak found that procrastination is not a time management problem — it is an **emotion regulation problem**. People procrastinate not because they're lazy but because they want to feel better *right now*, and avoiding the task produces immediate mood repair, even though it produces worse long-term outcomes.
+→ Full content: [procrastination-emotion-regulation.md](references/procrastination-emotion-regulation.md)
 
-**The mechanism:**
-1. Task triggers mild negative emotion (frustration, anxiety, uncertainty)
-2. To feel better immediately, you avoid the task
-3. Short-term mood improves
-4. Long-term anxiety about the task grows
-5. Next time the task appears, the accumulated anxiety makes avoidance even more rewarding
+### The Zeigarnik Effect: Unfinished Mental Loops
 
-The fix: break the emotion-regulation loop — reduce the task's perceived size (2-minute rule), increase the emotional cost of avoiding (self-compassion pause: "this is hard, I'm not broken, I can start"), eliminate the mood-repair reward of avoidance by making the alternative less appealing (environment design).
+Unfinished tasks create mental loops that drain cognitive resources. Completing — or formally closing — an unfinished loop frees attention for purpose-driven work.
 
-### The Zeigarnik Effect: Unfinished Tasks as Mental Loops
-
-Uncompleted tasks are held in working memory at higher activation than completed ones. They create a mental loop that does not resolve until the task is done or deliberately abandoned.
-
-**The practical test:** Make a list of everything you've started and not finished. For each: either complete it, formally close it ("I tried this, it's not for me, I'm done with it"), or schedule a specific time to return. The "formally close" step is underrated — it's the only way to resolve the Zeigarnik loop without finishing.
+→ Full content: [zeigarnik-effect.md](references/zeigarnik-effect.md)
 
 ### Rest as a Motivation Strategy
 
-Most "I can't get motivated" people are also "I haven't had a real day off in months" people. Deliberate rest (non-screen, non-consumption downtime) restores dopamine sensitivity that depletes during intensive cognitive work.
+Rest is not the absence of purpose — it is the restoration rhythm that makes sustained purpose possible. Deliberate rest rebuilds the dopamine sensitivity that productive drive depends on.
+
+→ Full content: [rest-motivation-strategy.md](references/rest-motivation-strategy.md)
 
 ### Environment Design Over Willpower
 
-You do not lack discipline. You are surrounded by environments that make the default choice the easy, draining one:
+You do not lack discipline — you are surrounded by environments that make the default choice the draining one:
 
-- **Remove friction** from the actions that matter (leave your book open on the desk)
-- **Add friction** to the time-sinks (phone in another room, social apps deleted)
+- **Remove friction** from actions that matter (leave your book open on the desk)
+- **Add friction** to time-sinks (phone in another room, social apps deleted)
 - **Sleep first** — many motivation problems are sleep problems in disguise
 - **Move your body** — even a 20-minute walk beats any productivity system
 
 > The question is not "how do I get motivated?" — it is "why am I avoiding this particular thing, and what would make the alternative more appealing?"
 
-→ Full content: [references/motivation-and-drive.md](references/motivation-and-drive.md)
+→ Full content: [motivation-and-drive.md](references/motivation-and-drive.md)
 
 ## Framework: The Psychology of Meaning — Viktor Frankl's Logotherapy
 
@@ -300,7 +277,7 @@ A purposeful life is not a comfortable life. It is an *engaged* life. The person
 **"I lost something important and can't find direction":**
 > Loss is one of the most reliable amplifiers of meaning — because it reveals what you cared about through its absence. The grief is not the problem. It is the data.
 
-→ Full content: [references/ptg-deep-dive.md](references/ptg-deep-dive.md) — post-traumatic growth research: how crisis reorganizes time perception, the seismic shift effect, and why adversity can deepen purpose rather than destroy it.
+→ Full content: [ptg-deep-dive.md](references/ptg-deep-dive.md) — post-traumatic growth research: how crisis reorganizes time perception, the seismic shift effect, and why adversity can deepen purpose rather than destroy it.
 
 **"What if my situation can't give me meaning?":**
 > Frankl's answer: meaning is always available — if you look at what your specific situation, with its specific constraints and demands, is actually asking. Purpose is not in the circumstances. It is in the response you choose.
@@ -308,7 +285,7 @@ A purposeful life is not a comfortable life. It is an *engaged* life. The person
 **"I just want to be happy":**
 > Happiness is a byproduct — of meaning, of engagement, of showing up fully. Chasing happiness directly produces neither. Chasing meaning is the reliable path.
 
-→ Full content: [references/frankl-meaning-purpose.md](references/frankl-meaning-purpose.md)
+→ Full content: [frankl-meaning-purpose.md](references/frankl-meaning-purpose.md)
 
 ---
 
@@ -370,7 +347,7 @@ Career capital is the pre-condition for autonomy. People who demand autonomy bef
 **"Stuck in a job I hate but can't leave":**
 > You don't leave by finding your passion. You leave by building career capital that gives you options. Every week spent getting genuinely better at something rare and valuable is a week invested in your freedom.
 
-→ Full content: [references/career-capital-newport.md](references/career-capital-newport.md)
+→ Full content: [career-capital-newport.md](references/career-capital-newport.md)
 
 ## Framework: Decision Frameworks for Direction
 
@@ -380,7 +357,7 @@ Big life decisions feel overwhelming because they are made in a fog of uncertain
 
 Jeff Bezos left D.E. Shaw in 1994 to start Amazon, using this test: **"When I am 80, will I regret not having tried?"** Most regrets are of inaction, not action. Asymmetric: failure teaches; inaction carries the phantom of the road not taken.
 
-→ Full content: [references/decision-frameworks.md](references/decision-frameworks.md)
+→ Full content: [decision-frameworks.md](references/decision-frameworks.md)
 
 ### The "Die With Zero" Perspective (Bill Perkins)
 
@@ -543,7 +520,7 @@ Csikszentmihalyi's research found that flow can be trained systematically throug
 
 **Layer 3: Purpose Integration (Months 3–12)** — Connect flow training to deeper purpose. The Meaningful Difficulty Audit distinguishes between flow activities with **purposeful extension** (connected outward to people, problems, contributions) vs. **pure engagement** (reward is the activity itself). Prioritize purposeful extension activities — these sustain meaning beyond the activity's death. The Autotelic Self-Test: *Am I doing this for the experience itself, or for what it will get me?*
 
-→ Full content: [references/flow-autotelic-training.md](references/flow-autotelic-training.md)
+→ Full content: [flow-autotelic-training.md](references/flow-autotelic-training.md)
 
 
 ## Framework: Identity-Based Habits for Finding Purpose
@@ -609,7 +586,7 @@ When you change identity, outcomes and processes follow naturally. When you focu
 
 The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception.
 
-→ Full content: [references/identity-habits-purpose.md](references/identity-habits-purpose.md)
+→ Full content: [identity-habits-purpose.md](references/identity-habits-purpose.md)
 
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
@@ -636,7 +613,7 @@ The reframe: genuine helping leaves you energized. Caretaking leaves you deplete
 
 If someone has worked through the purpose frameworks and still cannot locate a self separate from their family adaptation → refer to family systems therapy, Codependents Anonymous, or individual therapy focused on differentiation.
 
-→ Full content: [references/family-purpose-formation.md](references/family-purpose-formation.md)
+→ Full content: [family-purpose-formation.md](references/family-purpose-formation.md)
 
 ---
 
@@ -680,7 +657,7 @@ Clarity arrives during action, not before it. The absence of certainty is the pe
 
 **"I'm afraid of wasting time":** The person who runs 12 experiments in a year has more useful data than one who reads 12 books about how to find direction.
 
-→ Full content: [references/experimentation-purpose.md](references/experimentation-purpose.md)
+→ Full content: [experimentation-purpose.md](references/experimentation-purpose.md)
 
 ---
 
@@ -738,7 +715,7 @@ The "imposter" feeling is not a signal that you shouldn't charge — it is the t
 
 If any of these are true, pause and redefine your "what I will not do for money" line before continuing.
 
-→ Full content: [references/monetizing-purpose.md](references/monetizing-purpose.md)
+→ Full content: [monetizing-purpose.md](references/monetizing-purpose.md)
 
 ## Framework: Failure, Uncertainty, and Late-Stage Purpose Discovery
 
@@ -820,29 +797,62 @@ Different failure types require different interpretations:
 
 > Most people apply the wrong interpretation to their failures. They treat a timing failure as a skill failure and quit the right thing.
 
-→ Full content: [references/failure-purpose.md](references/failure-purpose.md)
+→ Full content: [failure-purpose.md](references/failure-purpose.md)
 
 ## Framework: Founder Mode — How Builders Find Direction
 
-Brian Chesky's 2024 essay described how founders who stay close to the work find direction through iteration rather than planning. The process of building is itself a purpose discovery mechanism — stay close to the actual problem and observe what angers you, what you cannot stop thinking about.
+Brian Chesky's 2024 essay described how founders who stay close to the work find direction through iteration rather than planning. The process of building is itself a purpose discovery mechanism — founders don't usually know what they're building at the start. They stay close to the actual problem, observe what resonates, what angers them, what they cannot stop thinking about. Direction clarifies through sustained engagement, not planning.
 
-### 1. Stay Close to the Work (Not the Title)
+### The Three Principles
 
-Most career advice tells you to climb the ladder, delegate, manage. This produces competent but purposeless mid-career professionals. Founder mode inverts this: the closer you stay to the actual problem, the more you learn about what you genuinely care about. Ask: where is the work I cannot stop thinking about? Where do I keep returning even without obvious reward? That recurring draw is a signal. Most people ignore it because it doesn't look like "progress."
+**1. Stay Close to the Work (Not the Title)**
 
-### 2. Iterate Toward What Resonates
+Most career advice tells you to climb the ladder — get promoted, delegate, manage. This produces competent but purposeless mid-career professionals. They are technically accomplished and personally vacant. Founder mode inverts this: the closer you stay to the actual work, the more you learn about what you genuinely care about. Direction is found in depth, not elevation.
 
-The founder builds a version, observes what works, adjusts. The standard approach says: figure out what you want, build a plan, execute. If the plan fails, you're told to try harder. Founder mode says: build something, watch what happens, adjust. The purpose that survives contact with reality is the real one — not the one theorized in advance.
+> Ask: where is the work I cannot stop thinking about? Where do I keep returning even without obvious reward? That recurring draw is a signal. Most people ignore it because it doesn't look like "progress."
 
-### 3. The Unfinished Founder Problem
+**2. Iterate Toward What Resonates**
 
-The trap: people building something and not yet seeing results interpret their uncertainty as proof they should stop. They haven't "found" their purpose because they haven't iterated enough to test it. *Unfinished is not the same as wrong direction.* You don't know if you're on the wrong track until you've given the iteration enough time to complete the test. Most people give up before the test is done.
+The founder builds a version, observes what works, adjusts. The standard approach says: figure out what you want, build a plan, execute. If the plan fails, you're told to try harder. Founder mode says: build something, watch what happens, adjust. The adjustment is not failure — it is information.
+
+> Stop asking "what should I build?" and start asking "what have I built that people responded to?" Your past successes — even small ones, even ones you didn't pursue — contain signal about what will sustain you.
+
+**3. The Unfinished Founder Problem**
+
+People building something and not yet seeing results interpret their uncertainty as proof they should stop. They haven't "found" their purpose because they haven't iterated enough to test it. *Unfinished is not the same as wrong direction.* You don't know if you're on the wrong track until you've given the iteration enough time to complete the test. Most people give up before the test is done.
+
+### Real Builders: How Direction Emerged
+
+**Stewart Butterfield** was building a video game. The game failed. The real-time communication technology the game needed turned out to be what people actually wanted. He pivoted to Flickr (real-time photo sharing), then to Slack. Each pivot was not confusion — it was the process of discovering, through building, what the world actually needed from him. The purpose signal was not in the original plan. It was in the response to what he built.
+
+**Brian Chesky** and Joe Gebbia could not afford rent. They put an air mattress in their living room and made a website. The original purpose was financial survival. The real purpose — changing how communities form, what hospitality means — emerged through the iteration, not before it.
+
+### The MVP of Self
+
+Apply the minimum viable product principle to purpose discovery:
+
+- **You are already an MVP.** Audit existing skills, existing patterns of engagement — before building anything new.
+- **Add a feature, not a whole product.** Try one new kind of project, one new community, one new type of collaboration. Watch what happens.
+- **Measure what matters.** Not "did this make me happy?" (that adapts too fast). Ask: did this make me feel capable? Did others find it valuable? Did this give me something to return to tomorrow?
+- **Give yourself a 90-day check-in, not a daily evaluation.** Founders don't evaluate their direction every day. The daily evaluation produces the paralysis that prevents any real iteration from completing.
 
 ### The Founder Mode Paradox
 
-The paradox: the more seriously you take building, the more real the thing you create — and the more exposed you are to failure. The person who never builds never fails, and never discovers what they actually care about. The purpose discovered through building has been tested against reality; the purpose theorized in advance has only been tested against imagination. Reality is the only reliable source of long-term meaning.
+The more seriously you take building, the more real the thing you create — and the more exposed you are to failure. The person who never builds never fails, and never discovers what they actually care about. The purpose discovered through building has been tested against reality; the purpose theorized in advance has only been tested against imagination. *Reality is the only reliable source of long-term meaning.*
 
-→ Full content: [references/founder-mode-purpose.md](references/founder-mode-purpose.md)
+### Synthesis: Founder Mode + Career Capital
+
+Cal Newport's career capital framework and founder mode are the same insight from different angles. Together they produce a coherent model:
+
+1. Build rare and valuable skills through deliberate practice (career capital)
+2. Apply those skills to problems you genuinely care about (founder mode engagement)
+3. Observe what resonates with other people (the signal)
+4. Iterate toward what produces both meaning and value (the convergence)
+5. Use accumulated career capital to claim autonomy when you've built something real
+
+The person who follows this sequence is not searching for purpose. They are building conditions under which purpose can emerge.
+
+→ Full content: [founder-mode-purpose.md](references/founder-mode-purpose.md)
 
 ## Framework: Self-Determination Theory (Deci & Ryan)
 
@@ -858,13 +868,13 @@ SDT identifies three **universal psychological needs** that must all be met for 
 
 > **SDT is the scaffold; the other frameworks fill in the practice.** Craftsman (competence), Identity (autonomy), Flow (real-time competence), Attitudinal values (autonomy within constraint).
 
-→ Full content: [references/self-determination-theory.md](references/self-determination-theory.md)
+→ Full content: [self-determination-theory.md](references/self-determination-theory.md)
 
 ### Service and Contribution as Purpose Architecture
 
 Purpose without contribution to others is half-formed. SDT's relatedness need — genuine human connection — is one of the three universal psychological requirements for sustained meaning. Service is the most direct route to relatedness satisfaction: you cannot serve someone without being in genuine relation to them.
 
-→ Full content: [references/service-contribution-purpose.md](references/service-contribution-purpose.md)
+→ Full content: [service-contribution-purpose.md](references/service-contribution-purpose.md)
 
 ## Framework: Philosophy, Religion, and Major Wisdom Traditions
 
@@ -878,7 +888,7 @@ Key threads:
 
 The traditions disagree on metaphysics but converge on practice: engage, serve, show up, persist.
 
-→ Full content: [references/philosophy-traditions-purpose.md](references/philosophy-traditions-purpose.md)
+→ Full content: [philosophy-traditions-purpose.md](references/philosophy-traditions-purpose.md)
 
 ## Framework: Range and the Generalist Path (David Epstein)
 
@@ -902,7 +912,7 @@ Most purpose frameworks assume a **wedge model**: narrow in fast, extract meanin
 
 **"I should have specialized by now":** For most fields — especially the ones that pay off in meaning and impact — the generalist advantage is growing, not shrinking.
 
-→ Full content: [references/range-generalist.md](references/range-generalist.md)
+→ Full content: [range-generalist.md](references/range-generalist.md)
 
 ## Framework: The Philosophy of Enough
 
@@ -932,7 +942,7 @@ One of the least-examined causes of purposelessness is not a lack of direction �
 - **The 10-year test** — will you regret not having tried this in 10 years?
 - **Die with zero** — the cost of not starting is measured in time you cannot earn back
 
-→ Full content: [references/enoughness-philosophy.md](references/enoughness-philosophy.md) — Stoic voluntary discomfort, sociometer theory, 10-year mortality lens, Buddhist economics (Schumacher), hedonic adaptation research.
+→ Full content: [enoughness-philosophy.md](references/enoughness-philosophy.md) — Stoic voluntary discomfort, sociometer theory, 10-year mortality lens, Buddhist economics (Schumacher), hedonic adaptation research.
 
 ## Framework: Loneliness, Belonging, and Purpose
 
@@ -970,7 +980,7 @@ Purpose does not emerge from isolation. It emerges from the friction between you
 
 **"I don't know anyone who understands me":** Most people need one person, not many. One is achievable. Are you in spaces where you might find that one person?
 
-→ Full content: [references/loneliness-and-purpose.md](references/loneliness-and-purpose.md) — the neurobiology of social pain, attachment theory and purpose, belonging research (Baumeister, Leary), and building connection practices.
+→ Full content: [loneliness-and-purpose.md](references/loneliness-and-purpose.md) — the neurobiology of social pain, attachment theory and purpose, belonging research (Baumeister, Leary), and building connection practices.
 
 Loneliness and purpose are deeply interconnected. **Chronic loneliness — the subjective feeling of social disconnection — is one of the most reliable destroyers of meaning.** The research is consistent: isolated people with strong social bonds report more purpose than highly accomplished people who are socially disconnected. The mechanism is SDT's relatedness need: when relatedness is satisfied, autonomy and competence produce sustained meaning. When it is absent, even high competence produces emptiness.
 
@@ -978,7 +988,6 @@ Loneliness and purpose are deeply interconnected. **Chronic loneliness — the s
 
 **The Reconnection Paradox:** People in deep loneliness often pull away from the very connections that would restore meaning. The reconnection starts with one small genuine interaction — one real conversation, one act of service for someone else. The belonging follows the action, not the other way around.
 
-→ Full content: [references/loneliness-and-purpose.md](references/loneliness-and-purpose.md)
 
 ---
 
@@ -1026,16 +1035,16 @@ All three: a full 活过. Two of three: direction is working. One or zero: the g
 
 **"I'm putting off what matters until I secure myself":** Security is a moving target. The habits of deferral tend to persist. Begin doing what matters within your current constraints, not after a condition that keeps receding.
 
-→ Full content: [references/mortality-purpose.md](references/mortality-purpose.md) — complete deathbed regret data, TMT's 5 key findings, Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter),活过 framework, One-Year Letter template, Eulogy Draft.
+→ Full content: [mortality-purpose.md](references/mortality-purpose.md) — complete deathbed regret data, TMT's 5 key findings, Stoic negative visualization (Seneca's nightly review, Epictetus's morning filter),活过 framework, One-Year Letter template, Eulogy Draft.
 
-→ Related: [→ Full content: legacy-and-mortality.md](references/legacy-and-mortality.md) — Kintsugi reframe, Erikson's generativity concept, narrative coherence problem.
-→ Related: [→ Full content: existential-anxiety.md](references/existential-anxiety.md) — existential anxiety treatment approaches.
+→ Related: [legacy-and-mortality.md](references/legacy-and-mortality.md) — Kintsugi reframe, Erikson's generativity concept, narrative coherence problem.
+→ Related: [existential-anxiety.md](references/existential-anxiety.md) — existential anxiety treatment approaches.
 
 ### The Legacy Design Protocol
 
 Legacy is not what you leave when you die. It is who shows up differently in the world because you existed. McAdams's generativity research shows that shifting from acquisition mode to transmission mode — building for others and the future — is the central purpose transition of adulthood. The three mechanisms: direct transmission (mentoring, teaching), institutional transmission (building systems that outlast you), and cultural transmission (modeling values that others internalize).
 
-→ Full content: [references/legacy-architecture-purpose.md](references/legacy-architecture-purpose.md)
+→ Full content: [legacy-architecture-purpose.md](references/legacy-architecture-purpose.md)
 
 ---
 
@@ -1083,7 +1092,7 @@ Your top five **signature strengths** are the most actionable entry point. Take 
 
 **"I took the VIA and my top strengths don't seem to fit any career":** The question is not "which career fits my strengths" but "which environments activate my top strengths most days?"
 
-→ Full content: [references/character-strengths-virtues.md](references/character-strengths-virtues.md)
+→ Full content: [character-strengths-virtues.md](references/character-strengths-virtues.md)
 
 
 ## Common Pitfalls
@@ -1108,6 +1117,10 @@ Your top five **signature strengths** are the most actionable entry point. Take 
 10. **"I've read every framework but haven't tried any of them."** — Reading about purpose is not the same as discovering it. Each framework you consume without testing produces the sensation of progress without the substance. The cure: pick one exercise from whichever framework you just read and do it this week — not after the next article or skill. A 20-minute inventory you actually complete beats five frameworks you only read.
 11. **"I'm in the right tree, patching the right file."** — `skill_view` on an in-repo skill returns a preview; `patch` edits the user-local tree. After patching, compare the `version:` field in both trees. If they diverge, you edited the wrong file. Use Python `pathlib` directly for in-repo skills.
 
+12. **"I need to check headroom before expanding."** — The skill is large and close to the 100k limit. Before adding new content, always run the size gate: `headroom = 100_000 - len(pathlib.Path(skill_path).read_text())`. If headroom < 2,000, migrate a section to `references/` first, then add. Never patch blind on a near-limit file.
+13. **Natsukashii misread as backward-looking.** *Natsukashii* — bittersweet longing for what has passed — is a genuine purpose signal, but only when it points forward. The longing test (what would you genuinely miss if it disappeared?) is reliable not because the past is the destination, but because what you cling to reveals what genuinely matters. The insight is about *what you would choose again*, not about returning to what was.
+14. **Identity without behavior.** James Clear's identity framework is about becoming the kind of person who does X — not just believing you are that kind of person. Each small action aligned with emerging purpose is a vote for the identity that purpose requires. "I know who I am" never substitutes for "I did the thing today.".
+
 
 ## Framework: Values Clarification (ACT-Inspired)
 
@@ -1119,7 +1132,7 @@ Values differ from goals: a **goal** is achieved and done (motivation fades on a
 
 > Values are not meant to be understood. They are meant to be enacted. Acting imperfectly in the direction of your values moves you forward.
 
-→ Full content: [references/values-clarification.md](references/values-clarification.md)
+→ Full content: [values-clarification.md](references/values-clarification.md)
 
 ## Framework: The Body and Movement — Purpose Through Physical Engagement
 
@@ -1131,7 +1144,7 @@ Sustained rumination activates the **default mode network (DMN)** — the brain'
 
 
 
-→ Full content: [references/ikigai-neuroscience.md](references/ikigai-neuroscience.md)
+→ Full content: [ikigai-neuroscience.md](references/ikigai-neuroscience.md)
 
 Somatic research (Thomas Hanna, Bonnie Bainbridge-Cohen, Peter Levine) confirms: **the body holds emotional and existential information that language cannot access directly.** A person who cannot answer "what do I want?" through talking may find the answer through movement or breath.
 
@@ -1159,7 +1172,7 @@ Most people waiting for mental clarity before acting have the sequence backwards
 
 **"I'm completely in my head all day":** The DMN is overactivated from years of cognitive work with no physical discharge. Bilateral movement (walking, swimming, martial arts) is the specific antidote — not meditation, not more thinking.
 
-→ Full content: [references/body-movement-purpose.md](references/body-movement-purpose.md)
+→ Full content: [body-movement-purpose.md](references/body-movement-purpose.md)
 
 ## Quick Scripts
 
@@ -1183,7 +1196,7 @@ Most people waiting for mental clarity before acting have the sequence backwards
 
 **"I feel numb / disconnected":** Numbness is a protection mechanism. Your system decided you needed to shut down to survive something. It's not permanent. What's one small thing you could notice — not feel, just notice — about what's around you right now? The numbness usually thins when we make small contact with the present.
 
-→ Full content: [references/quick-scripts-purpose.md](references/quick-scripts-purpose.md) — expanded conversation library with crisis scripts, advanced patterns, and 25+ additional response templates.
+→ Full content: [quick-scripts-purpose.md](references/quick-scripts-purpose.md) — expanded conversation library with crisis scripts, advanced patterns, and 25+ additional response templates.
 
 ## When to Recommend Professional Support
 
