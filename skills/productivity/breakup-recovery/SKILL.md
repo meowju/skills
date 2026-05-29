@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.66.0
+version: 4.68.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -846,6 +846,20 @@ The goal is to create enough friction that checking becomes effortful. Effort re
 - [ ] Remove tag approval for yourself on all platforms
 - [ ] Block if you have genuinely zero reason for contact (no shared kids, workplace)
 
+### Processing the Grief of Digital Memories
+
+Shared playlists, saved conversations, and photo albums are not just data. They are **grief objects** — external storage for emotional experience your nervous system encoded as real and valuable. Deleting them feels like a second loss.
+
+**Why this grief is distinct from practical cleanup:** The shared playlist holds a specific emotional state (Esch, 2014 — music activates dopaminergic reward circuits directly). Saved conversations are a record of when they still chose you. Photos are evidence to *you* that it was real. Joint subscriptions represent the small daily intimacies of a shared life.
+
+**The three-phase approach:** (1) Acknowledge what the object means before touching it. (2) Don't delete in acute grief — move to a hidden folder, decide at day 90. (3) Delete as ceremony, not erasure — the final acknowledgment that the relationship is over.
+
+> *The deletion of digital artifacts is not the loss itself. It is the acknowledgment that the loss has already occurred.*
+
+→ Full content: [digital-memory-grief.md](references/digital-memory-grief.md)
+
+
+
 ---
 
 ## Should You Stay or Go? Red Flags, Trauma Bonds & Unhealthy Love Patterns
@@ -929,6 +943,16 @@ Anger is the most misunderstood phase of breakup recovery. Most people try to sk
 → Full content: [anger-first-cycle.md](references/anger-first-cycle.md) — the first anger cycle: why week 1–3 are the most dangerous, nervous system activation patterns, and how anger protects grief from arriving
 → Full content: [social-anger.md](references/social-anger.md) — social anger: when your friends hate your ex, how to let them, why mutual friends are complicated, and when to let others feel it for you
 → Full content: [somatic-anger-compendium.md](references/somatic-anger-compendium.md) — somatic anger practices: bilateral stimulation, breathwork, movement-based discharge, micro-adjustments in the nervous system for managing acute anger activation
+
+### The Neuroscience of Anger — Why It Consumes You
+
+Anger after breakup is a neurological event. The threat cascade (Fisher 2005; Gortmaker 2021): amygdala fires within seconds → ACC adds the moral dimension → PFC attempts regulation but is functionally overpowered in acute grief. Telling yourself to "calm down" is asking your PFC to override your amygdala — neurologically near-impossible during acute grief.
+
+The critical mistake: trying to do cognitive processing during peak sympathetic activation. **Discharge first, then meaning-make.** The order matters.
+
+→ Full content: [anger-neuroscience.md](references/anger-neuroscience.md)
+
+ — the threat-response cascade, autonomic anger signatures (sympathetic/dorsal/ventral), rumination vs. repetition, grief-anger sequencing, and physical anchoring during acute activation.
 
 ### The Chronic Anger Trap — When Anger Stays Past Its Welcome
 
