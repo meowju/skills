@@ -163,3 +163,15 @@ Buffett's most underappreciated wealth mechanism is Berkshire Hathaway's insuran
 - *"The most important thing to do if you find yourself in a hole is to stop digging."*
 - *"Never lose money."* (Rule #1)
 - *"Rule #2: Never forget Rule #1."*
+
+---
+
+## Concentration vs. Diversification
+
+*"Diversification is protection against ignorance."* If you've done rigorous analysis, concentration reduces risk. Index funds are rational for people who haven't. Rule: only hold more than 5 positions if you can explain why each beats your next-best alternative. Concentration without conviction is gambling, not investing.
+
+---
+
+## Berkshire's Tax Efficiency: The Permanent Tax Deferral Engine
+
+Berkshire holds stocks and never sells — the IRS cannot tax unrealized gains. Personal application: maximize tax-advantaged accounts (401k, IRA, HSA); hold index funds long-term to defer capital gains; consider direct indexing when taxable accounts exceed $500K. Minimize annual tax drag on compounding.

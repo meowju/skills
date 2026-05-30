@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.110.0
+version: 1.121.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -31,20 +31,9 @@ Money is not happiness. But financial stress is a happiness killer, and financia
 - User has never been taught basic financial literacy
 
 **Don't use for:** Acute financial crisis (homelessness, food insecurity) — navigate sensitively and point to emergency resources. This skill is for people with some baseline stability who want to build.
-
 ## The Money Mindset Problem
 
-### Scarcity vs. Abundance
-
-> **Scarcity mindset:** "There is only so much. Someone else's gain is my loss. Money is for special people. Asking for money is greedy. I don't deserve wealth."
-
-> **Abundance mindset:** "Money is a tool. Resources can be created and expanded. More money in one person's pocket does not reduce mine. I am allowed to build wealth."
-
-The scarcity mindset is often inherited — from parents, from culture, from early experiences with money. It does not mean you are bad with money. It means you were taught a broken model of how money works.
-
-**The reframe:** Money is not a fixed pie. It is a renewable resource that compounds. Every dollar you invest or save is a worker that earns more dollars. The more you understand how money actually works, the less scary it becomes.
-
----
+→ Full content: [money-mindset-problem.md](references/money-mindset-problem.md)
 
 ## Framework: Building Wealth From Here
 
@@ -78,7 +67,10 @@ The abundance mindset is not positive thinking — it is a rigorous framework fo
 
 ## Musk-Style Wealth Building
 
-Elon Musk went from $10M after the Zip2 sale in 1999 to an estimated $828 billion in 2026 (Forbes). The scale is extreme, but the mental frameworks he uses are applicable at any level. His approach to wealth building is not about budgeting or cutting costs — it is about solving hard problems with leverage and compounding the results over decades. In 2024, Musk became the largest donor in a U.S. presidential election, supporting Donald Trump. He served as Senior Advisor to the President and de facto head of the Department of Government Efficiency (DOGE) in 2025 before departing in May 2025 after a public feud with Trump, returning full-time to his companies. He also established xAI as a subsidiary of SpaceX in 2026. His approach to wealth follows the same pattern: identify massive problems most people think unsolvable, build toward them across decades, and accept the turbulence as part of the process.
+Elon Musk went from $10M after the Zip2 sale in 1999 to an estimated $828 billion in 2026 (Forbes). His approach to wealth building is not about budgeting or cutting costs — it is about solving hard problems with leverage and compounding the results over decades. He identifies massive problems most people think unsolvable, builds toward them across decades, and accepts the turbulence as part of the process.
+
+→ Full content: [musk-tactical-deep-dive.md](references/musk-tactical-deep-dive.md) — first principles thinking, 120-hour work week intensity, capital structure tactics, tax strategy, recruitment, and execution frameworks.
+
 
 ### First Principles Thinking: The Core Framework
 
@@ -201,64 +193,74 @@ Musk's capital structure framework: use leverage — margin loans, collaterized 
 5. **Model downside before any investment** — pre-commitment strategy reduces emotional selling under pressure
 6. **Plan for tax events before they arrive** — options/RSU vesting windows need提前规划
 
-→ Full content: [musk-tactical-deep-dive.md](references/musk-tactical-deep-dive.md)
-
 ## Bezos-Style Wealth Building: Long-Term Thinking and Compounding
 
-Jeff Bezos built Amazon from a garage startup to a multi-trillion dollar company over three decades. His core principle: **long-term compounding beats short-term optimization.** Every decision — staying private, reinvesting over taking profits, accepting decades of near-zero earnings — flows from this one idea.
+Jeff Bezos built Amazon from a garage startup to $284B over three decades. His core principle: **long-term compounding beats short-term optimization.** Every decision — staying private, reinvesting over taking profits, accepting decades of near-zero earnings — flows from this one idea.
 
 **The Regret Minimization Framework**
 
-Bezos's personal tool for life-defining moments: visualize yourself at 80 and ask what you'd regret not having tried. If the answer is "not trying," act. Fear of inaction usually outweighs fear of action. The cost of trying and failing is often lower than never trying. Work backward from future clarity, not forward from fear. This applies to career bets, investments, and relationships. When downside is manageable and upside is transformative, default to action.
+Bezos's personal tool for life-defining moments: visualize yourself at 80 and ask what you'd regret not having tried. If the answer is "not trying," act. Fear of inaction usually outweighs fear of action. Work backward from future clarity, not forward from fear. The script: *"Will I regret not having done this when I'm 80?"* If yes, the fear is the signal to act, not retreat.
 
 **"Day One" Mentality**
 
-*"Day 2 is stasis. Followed by irrelevance. Followed by a long, painful decline."* Day One traits: customer obsession, curiosity, bias for action, willingness to be misunderstood. Day Two behaviors: prioritizing process over outcomes, copying competitors, optimizing for near-term efficiency. Success is never a final state — every year must be fought for. The moment you believe you've "made it," your wealth starts eroding.
-
-**The 1997 Letter: A 30-Year Commitment**
-
-Bezos wrote one letter in 1997 that defined Amazon's trajectory. He committed to long-term market leadership over short-term earnings, accepted that large bets wouldn't always pay off, and told investors to expect high valuations with low near-term returns. Investors who read it and held made 170x. Those fixated on P/E ratios sold during the dot-com bust. The letter was a filter for time horizons — it worked perfectly.
+*"Day 2 is stasis. Followed by irrelevance. Followed by a long, painful decline."* Day One traits: customer obsession, curiosity, bias for action, willingness to be misunderstood. Day Two behaviors: prioritizing process over outcomes, copying competitors, optimizing for near-term efficiency. Success is never a final state — every year must be fought for. The reframe: *"It's always Day One. What would I do if I were starting today with the knowledge I have now?"*
 
 **Customer Obsession vs. Competitor Obsession**
 
-*"If you compete on features, you'll have every feature. If you're customer-obsessed, you'll find what customers actually need."* Amazon built AWS, Prime, and Fulfillment because they solved real pain, not because competitors had them. Wealth follows genuine value creation, not positioning. Build what people actually want.
+*"If you compete on features, you'll have every feature. If you're customer-obsessed, you'll find what customers actually need."* Amazon built AWS, Prime, and Fulfillment because they solved real pain, not because competitors had them. Wealth follows genuine value creation, not positioning. Build what people actually want — then make them want what you built.
 
-**Type 1 vs. Type 2 Decisions**
+**The 1997 Letter: A 30-Year Commitment**
 
-Most decisions are Type 2 (reversible, low stakes, 70% confidence). A few are Type 1 (irreversible, high stakes). Most people over-deliberate reversible decisions. Separate reversible from irreversible first, then calibrate process to type. Career changes, portfolio rebalancing, major purchases — mostly Type 2. Make them faster.
-
-**Bezos's Time Practices**
-
-- **8 hours sleep** — cognitive quality requires it
-- **Raw data over summaries** — reads what's actually happening
-- **"Wandering" time** — unscheduled thinking where insights originate
-- **Ruthless no's** — protects focus from expansion pressure
+Bezos wrote one letter in 1997 that defined Amazon's trajectory. He committed to long-term market leadership over short-term earnings, accepted that large bets wouldn't always pay off, and told investors to expect high valuations with low near-term returns. Investors who read it and held made 170x. Those fixated on P/E ratios sold during the dot-com bust. The letter was a filter for time horizons — it worked perfectly. **The wealth-building parallel:** Before making any major investment or career decision, write down your 10-year thesis. If you can't articulate why you're holding for a decade, you have no business holding through a 30% drawdown.
 
 **The Empty Desk: Anti-Success Signal**
 
-Bezos keeps an empty desk at Amazon HQ. No executive suite, no impressive office. The message: **trappings of success are Day Two symptoms.** When organizations build impressive spaces, they've implicitly decided the work is done. The desk is a daily visual reset.
+Bezos keeps an empty desk at Amazon HQ. No executive suite, no impressive office. The message: **trappings of success are Day Two symptoms.** When organizations build impressive spaces, they've implicitly decided the work is done. At personal scale: the moment you believe you've "made it," your wealth starts eroding. The desk is a daily visual reset.
+
+**The 70/20/10 Talent Model**
+
+Amazon allocates talent investment as: 70% on the core business, 20% on adjacent opportunities, 10% on speculative bets. This is a personal portfolio model. Apply 70% of your energy to what pays the bills today, 20% to what builds optionality for 3–5 years out, and 10% to experiments that could transform your trajectory in a decade. Most people's 10% is zero — fully invested in maintaining the present.
+
+**Working Backwards: The PR/FAQ Process**
+
+Before building anything, Amazon teams write a fake press release and FAQ as if the product already succeeded. This forces clarity: who is the customer, what problem does this solve, what makes it different? If you can't write a compelling press release, the product isn't ready. **For your own wealth-building:** Before starting any business, investment, or major financial commitment, write the press release first. *"After 5 years, customers/users/investors describe this as..."* If you can't write one, the idea isn't clear enough to compound.
 
 **Blue Origin: The 50-Year Infrastructure Bet**
 
-Bezos has invested approximately $1 billion per year into Blue Origin since 2000 — that's $25+ billion through 2025 — with a stated payoff horizon of 50+ years. Blue Origin's New Shepard suborbital vehicle first reached space in 2015 and made its first crewed flight in 2021, when Bezos himself flew on NS-16. The company's heavy-lift rocket New Glenn debuted in 2025.
-
-**The wealth-building lesson:** Infrastructure investments have the longest compounding periods of any asset class — and the least appreciation visible on quarterly statements. Blue Origin isn't expected to be profitable on any normal timeline. Yet the rocket and satellite launch market is projected to be worth $40B+ annually by 2030, and the company that built the launch infrastructure during the cheap-money era will own the pricing.
-
-**At personal scale:** Your "Blue Origin" is any skill, asset, or business where you invest consistently for a decade before expecting meaningful returns. A rental property portfolio, a professional network in a new industry, a software product you're building on nights and weekends — these all have multi-year compounding windows where the investment looks like it's doing nothing before the exponential payoff.
-
-**The script:** *"Is this investment aimed at a 10-year payoff? Then quarterly performance reports are noise, not signal."*
+Bezos invested ~$1B/year into Blue Origin since 2000 — $25B+ through 2025 — with a 50+ year payoff horizon. Infrastructure investments have the longest compounding periods of any asset class. **Your "Blue Origin":** Any skill, asset, or business where you invest consistently for a decade before expecting meaningful returns. A rental property portfolio, a professional network in a new industry, a software product — these all have multi-year compounding windows where the investment looks like it's doing nothing before the exponential payoff. The script: *"Is this investment aimed at a 10-year payoff? Then quarterly performance reports are noise, not signal."*
 
 **Amazon Compounding Math**
 
-$10K in Amazon's 1997 IPO → $1.7M by 2023 (36% annual vs ~10% S&P 500). Critical variable: **holding period.** Early withdrawal destroys exponential backend growth. Those who held through the 80% drawdown made 170x. Staying invested matters more than timing entry. Compounding is non-linear at the backend.
+$10K in Amazon's 1997 IPO → $1.7M by 2023 (36% annual vs ~10% S&P 500). Critical variable: **holding period.** Early withdrawal destroys exponential backend growth. Those who held through the 80% drawdown made 170x. Compounding is non-linear at the backend — the last 5 years produce more than the first 15. Staying invested matters more than timing entry.
+
+**Disagree and Commit**
+
+When a team can't reach consensus, Bezos asks: *"Are you willing to commit and execute even though you disagree?"* If yes, full speed ahead. If no, escalate. This prevents endless debate while preserving psychological safety. A good decision made and executed beats a perfect decision debated indefinitely. **For personal finance:** Most financial decisions are Type 2 (reversible). Stop over-deliberating reversible decisions. Make them faster, learn faster.
+
+**Two-Pizza Rule**
+
+If a team can't be fed with two pizzas, it's too large. Small teams move faster, communicate better, and create accountability. **For personal productivity:** Apply the two-pizza rule to your own attention. If a project or commitment requires more attention than two pizzas can feed, you're over-extended. Cut what you can.
+
+**The Washington Post Principle**
+
+In 2013, Bezos bought the Post for $250M — considered high at the time. He made it free online, invested in journalism, and it became profitable within 3 years. **The principle:** Buy assets that produce value above their cost for years, not months. Every purchase is either an asset (produces value over time) or a liability (costs you over time). Ask: *"What does this give me in 3 years?"* before *"What does this cost today?"*
+
+**Time Practices**
+
+- **8 hours sleep** — cognitive quality requires it
+- **Raw data over summaries** — reads what's actually happening, not what subordinates want him to see
+- **"Wandering" time** — unscheduled thinking where insights originate
+- **Ruthless no's** — protects focus from expansion pressure
 
 
+**PR/FAQ: Write the Press Release First**
 
-**"Disagree and commit":** When a team can't reach consensus, Bezos asks: "Are you willing to commit and execute even though you disagree?" If yes, full speed ahead. If no, escalate. This prevents endless debate while preserving psychological safety. A good decision made and executed beats a perfect decision debated indefinitely.
+Amazon teams write a fake press release before building anything — forces clarity on who the customer is and what problem this solves. If you can't write a compelling PR, the idea isn't clear enough to compound. **Wealth application:** Before any business or investment, write: *"After 5 years, investors describe this as..."* If you can't finish it, there's no compounding thesis.
 
-**The two-pizza rule:** If a team can't be fed with two pizzas, it's too large. Small teams move faster, communicate better, and create accountability. Bezos deliberately kept Amazon's leadership structure flat — he directly managed only a handful of executives.
+**Your "Blue Origin": The Decade-Long Bet**
 
-**Working backwards product process:** Before building anything, teams write a fake press release and FAQ as if the product already succeeded. This forces clarity: who is the customer, what problem does this solve, what makes it different? If you can't write a compelling press release, the product isn't ready.
+Bezos invested ~$1B/year into Blue Origin since 2000 with a 50+ year horizon. Infrastructure has the longest compounding periods. **Your "Blue Origin":** Skills, assets, or businesses invested for 10+ years before expecting returns. The script: *"Am I investing for a 10-year payoff? Then quarterly reports are noise, not signal."*
+
 → Full content: [bezos-frameworks.md](references/bezos-frameworks.md) — Regret Minimization Framework script, Day One desk anecdote, Customer Obsession principle, Amazon's reinvestment model and compounding math, Disagree and Commit scripts, Day Two wealth destroyers checklist, Washington Post principle, and the long-term vs short-term comparison table.
 
 ## Buffett-Style Wealth Building: The Oracle's Mental Models
@@ -349,178 +351,102 @@ Buffett's 2025 annual letter (his 41st) was his most direct commentary on the en
 - **On what he's most proud of:** Not the returns — the people and culture. *"The right culture compounds. The wrong one compounds negatively and does it faster than you think possible."*
 
 → Full content: [buffett-frameworks.md](references/buffett-frameworks.md)
+→ Full content: [buffett-concentration-tax.md](references/buffett-concentration-tax.md)
 
 
 
+
+### Buffett's Time Allocation: The Thinking Business
+
+*"I insist on a lot of time being spent, almost every day, to just sit and think."* Buffett dedicates ~80% of his workday to reading and thinking. 500 pages per day — books, annual reports, industry analyses. Pattern recognition from decades of deliberate reading is the actual edge. For wealth building: protect 60-90 minutes daily of uninterrupted reading on your chosen field.
+
+**Decision delay as structural advantage:** Wait 48 hours before any major financial decision. Most people rush to action before analysis is complete. The market rewards conviction, not activity.
+
+### The Five Qualities Buffett Looks For in Any Investment
+
+From his partnership letters (1950–1969), refined across 70 years:
+
+1. **Business is simple and understandable** — complexity hides risk, not opportunity
+2. **Stable long-term prospects** — not dependent on a single product cycle or management stroke
+3. **History of profitability** — past performance is the best predictor of management quality
+4. **No large institutional ownership** — avoids "smart money" crowding out returns
+5. **Price determines the investment** — the best businesses are not always the best buys
 
 ## Naval Ravikant: How to Get Rich Without Getting Lucky
 
-Naval Ravikant is the co-founder of AngelList and one of the most influential thinkers on wealth and decision-making. His "How to Get Rich Without Getting Lucky" tweet storm (2019) became the definitive meditation on wealth in the internet era. Unlike Buffett who built wealth primarily through investing, Naval built wealth as an entrepreneur and angel investor (Uber, Twitter, Yammer) while becoming a philosopher about the process. His core insight: in an information-abundant world, **judgment** is the scarce resource — and wealth flows to those who develop it.
+Naval Ravikant co-founded AngelList and is one of the most influential thinkers on wealth and decision-making. His "How to Get Rich Without Getting Lucky" tweet storm (2019) became the definitive modern meditation on wealth. His core insight: **judgment** is the scarce resource in an information-abundant world — wealth flows to those who develop it.
 
-### Seek Wealth, Not Money or Status
+
+
+### The Four-Part Wealth Definition
+
+Naval's system starts with precise definitions:
+
+1. **Wealth** — assets, businesses, or investments that generate income while you sleep. The goal is not money. Money is a transfer mechanism for wealth. Most people confuse the two.
+
+2. **Income** — the active component: salary, consulting, services. Income fuels the investment cycle but is not wealth in itself.
+
+3. **Money** — the transfer mechanism. Useful for flexibility, but not the goal.
+
+4. **Status** — your place in the social hierarchy. The zero-sum game: someone else's win diminishes yours. The lowest-return activity for your time.
 
 > *"Wealth is assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy."*
 
-**The wealth hierarchy (Naval's framework):**
-- **Wealth:** Assets that generate income without your direct involvement — businesses, investments, intellectual property, systems that run themselves
-- **Income:** The active component — salary, consulting fees, services. Income fuels the investment cycle
-- **Money:** The transfer mechanism — useful for negotiating and flexibility, but not the goal
-- **Status:** The zero-sum game — someone else's win diminishes yours. The lowest-return activity for your time
-
-The shift: stop trying to earn more money and start building assets. A $500K salary is still trading time for money. Wealth means the assets generate more than your expenses without you working.
-
-### The Judgment Framework: Decisions That Compound
-
-Naval identifies **judgment** as the most important skill in the information age — knowing the long-term consequences of decisions while everyone else optimizes for short-term tactics.
-
-**The three-step process:**
-1. **Define the problem in one sentence** — most people argue solutions before agreeing on the problem. If you can't state the problem clearly, you don't understand it well enough to decide.
-2. **Ask the reversibility question:** Reversible → decide at 70% confidence and adjust. Irreversible → take more time, gather more input, think carefully.
-3. **Ask the people question:** *"Would I trade places with the key person in this arrangement for 10 years? If not, don't enter it."* The quality of your decisions is determined by the quality of the people you deal with.
-
-**The Antidisposition Framework:** Don't let emotional state determine decisions. If panicked after a crash, that's the worst time to decide about your portfolio. If euphoric after a big win, that's the worst time to change course. Write decision criteria when calm and follow them when emotional — not the other way around.
-
-### The Specific Knowledge Formula: Your Unfair Advantage
-
-> *"Specific knowledge cannot be taught, but it can be learned. It is found by pursuing your genuine curiosity and talent. It feels like play to you but looks like work to others."*
-
-**The specific knowledge formula:**
-- **Accountability** amplifies it — being the person who says "I'll take responsibility for this outcome" commands a premium. Most people avoid accountability — that's why there's a premium for it.
-- **Leverage** multiplies it — code and media are the modern forms (scale without permission), capital is the traditional form.
-- **Specific knowledge** is the core — know more about a specific domain than anyone else in your domain. This becomes your unfair advantage.
-
-**Practical path:** Read what genuinely interests you. Develop genuine expertise that feels like play to you but looks like work to others. Find the people who will pay for exactly your specific combination of knowledge, background, and interest.
-
-### The Leverage Formula for Building Wealth
-
-> *"The three types of leverage: Labor (people work for you), Capital (money works for you), and Code/Media (products that scale without permission)."*
-
-**The Naval wealth formula:** *Specific Knowledge + Accountability + Leverage = Wealth*
-
-Without leverage, you trade time for money at best. With the right leverage applied to genuine specific knowledge and genuine accountability, you can build wealth at a rate that pure effort cannot match.
-
-
-### Naval's AI Era Thinking: Judgment Becomes the Scarce Resource (2023–2025)
+### AI Era Update: Judgment Becomes the Multiplier
 
 AI has commoditized knowledge — the scarce resource is now knowing which problems are worth solving. Naval's updated thesis: **judgment is the multiplier for AI leverage.**
 
 > *"AI can execute any instruction. It cannot tell you which instruction to give."*
 
-**Updated formula:** *Specific Knowledge + AI agents + 10-year commitment = compounding at rates that dwarf previous generations.* The bottleneck has shifted from execution to decision quality.
+**Updated formula:** *Specific Knowledge + AI agents + 10-year commitment = compounding at rates that dwarf previous generations.*
 
-**Key updates from Naval (2023–2025):**
+Key updates from Naval (2023–2025):
 - Reading has become MORE valuable — books give judgment, AI gives answers
 - Health is now a financial asset — 10 extra healthy years compounds longer than burnout at 50
 - Solo founders with AI agents now do what previously required teams of 10
-- The leverage changed; the principle — specific knowledge + long-term thinking — did not
+- The leverage of code + media is now accessible to individuals without a company
 
+### Naval's Wealth-Building Architecture
 
- — the complete Naval wealth frameworks: full tweet storm, judgment framework, specific knowledge formula, earn more than you bill, the Naval 10-step wealth path, emotional mastery, and reading as wealth-building tool.
+The three-part wealth formula:
 
-### Naval's Complete Tweet Storm: The Full Wealth Building System
+- **Specific knowledge** — deeply know one thing better than almost anyone. Feels like play to you, work to others. Cannot be taught, only learned through genuine curiosity and sustained effort.
 
-Naval's 2019 tweet storm "How to Get Rich Without Getting Lucky" is the most-cited modern meditation on wealth-building. Collected and expanded by Eric Jorgenson into *The Almanack of Naval Ravikant*, it distills Naval's thinking into a complete system. The core structure:
+- **Accountability** — take personal responsibility for outcomes. Nobody gets paid for generic effort. The willingness to be accountable for results is the rarest and highest-paid trait in business.
 
-**The four-part wealth definition:**
-1. **Wealth** — assets, businesses, or investments that generate income while you sleep. The goal is not money; money is the transfer mechanism.
-2. **Money** — how you transfer time and wealth. Useful as a negotiating tool and for flexibility, but not the objective.
-3. **Income** — the active component. Salary, consulting, or services. Fuels the investment cycle.
-4. **Status** — your rank in a social hierarchy. Zero-sum. Someone else's win diminishes yours.
+- **Leverage** — apply specific knowledge and accountability at scale. The three modern forms: code (software scales without permission), media (content compounds forever), and capital (money makes money).
 
-> *"The most powerful form of freedom is the ability to say no."* Naval places autonomy above wealth as the terminal goal — wealth is the means, freedom is the end.
+### Naval Decision Scripts
 
-**The 14-part tweet storm structure (full sequence):**
+**Any financial decision:** *"Will this still feel right in 10 years?"*
 
-1. Seek wealth, not money or status
-2. Play long-term games with all the people involved
-3. Give the market what it wants that you're naturally good at
-4. The three types of leverage: labor, capital, code/media
-5. Specific knowledge is found by pursuing genuine curiosity
-6. Accountability amplifies specific knowledge
-7. Building judgment is the highest-leverage activity in the AI era
-8. Read for understanding, not for completion
-9. The "armor" of emotional mastery: don't compare, don't envy, don't react
-10. Set and enforce personal prices (negotiate everything)
-11. The four agreements applied to financial life
-12. Building a career vs. building a business (career = trading time, business = asset)
-13. The retirement formula: sufficient passive income > expenses
-14. The meaning reframe: freedom is the goal, not wealth
+**Career or job:** *"Would I trade places with this person for 10 years? If not, the compensation doesn't matter."*
 
-### Naval's Specific Investment Philosophy
+**Business or investment:** *"Can this be disrupted by a well-funded competitor in 18 months? If yes, avoid it."*
 
-Naval builds wealth as an angel investor, not a stock picker. His portfolio includes Uber, Twitter, Yammer, Postmates, and others. Key investment principles from his public statements and The Almanack:
+**When you feel envious:** *"Envy is the tax on being born in the same era as exceptional people."*
 
-**The venture model:** Early-stage investing in startups where one success (10-100x) covers all failures. The math of venture capital: don't optimize for not losing, optimize for finding the outliers.
-
-**The MetaStable Capital framework:** Naval co-founded MetaStable Capital (2014), a cryptocurrency hedge fund, applying his long-term compounding thesis to a new asset class before many traditional investors took it seriously.
-
-**The Spearhead model (2017):** Naval launched Spearhead — a fund that gives founders capital to angel invest. This creates a network effect: founders become better investors (they understand startups from the inside), and Naval's portfolio benefits from their deal flow. The alignment: founders investing in companies they'll refer to each other.
-
-**The personal portfolio approach:** Naval's portfolio is concentrated in companies he understands deeply (tech, software, platforms), with a long hold period. He avoids public markets for his primary wealth-building — not because they're bad, but because his comparative advantage is evaluating private company founders and market timing.
-
-> *"I don't own any ETFs. I own individual companies. The reason is: I know the people who run them, or I know the product. That gives me an edge that I can actually act on."*
-
-**On public markets:** Naval has said he would buy broad indices only if he can't evaluate individual businesses. The index fund is the default for people without specific knowledge in public markets — which is most people, and that's fine.
-
-### Naval on Happiness and the Meaning Frame
-
-Naval's happiness framework is inseparable from his wealth framework. He defines happiness as:
+### The Happiness Formula Applied to Wealth
 
 > **Happiness = Outcomes − Expectations**
 
-The formula explains why wealthy people are often miserable (high expectations, outcomes feel insufficient) and why modest earners find contentment (low expectations, modest outcomes feel abundant). The leverage is in lowering expectations, not just raising outcomes.
+This formula explains why wealthy people are often miserable (high expectations) and modest earners find contentment (low expectations). The leverage is in lowering expectations — specifically, the comparison to others.
 
-**The three components of a Naval happy life:**
-- **Clarity of purpose** — knowing what you're doing and why. Not floating through someone else's plan.
-- **Equanimity** — not being shaken by outcomes. A market crash, a business failure, a rejection — none of these should change your identity.
-- **Freedom of time** — the ultimate luxury. Money buys time and options, not happiness itself.
+**Practical application:** The person who earns $150K, saves $50K, and never compares to billionaires builds wealth faster than the person earning $300K who compares to billionaires every day. The gap in savings rate matters more than the gap in income for most of the population.
 
-**The specific knowledge = happiness bridge:** Naval's most important insight is that specific knowledge is not just a wealth strategy — it's a happiness strategy. When you build expertise that feels like play to you, you're never "working" in the traditional sense. The person who finds their work genuinely interesting has essentially won life, regardless of the financial outcome.
+### Naval's Investment Philosophy
 
-**The autonomy hierarchy:**
-1. Financial independence (assets generate more than expenses)
-2. Control over your time (no obligation to any particular person or organization)
-3. Control over your environment (where and with whom you work)
-4. Purpose (something you do for its own sake, regardless of outcome)
+Naval builds wealth as an angel investor (Uber, Twitter, Yammer, Postmates) — not a stock picker. His approach: early-stage investing where one 10–100x success covers all failures. The math of venture capital: don't optimize for not losing, optimize for finding the outliers.
 
-Naval places purpose at the top — but argues that financial independence is the prerequisite for getting there. Without the first three, you're forced into someone else's purpose.
+> *"In venture, the winners pay for all the losers. You need to find the companies that can return 100x."*
 
-### Naval's Reading System: How He Actually Learns
+**For individual investors:** Naval's personal portfolio strategy is similar in spirit — hold high-conviction positions for long periods, don't over-diversify, and accept that most investments will fail. The goal is asymmetric upside, not eliminating all downside.
 
-Naval reads 2-3 hours per day. His reading is not recreational — it's structural. The books that compound for wealth-building, in order of priority:
+### Eric Jorgenson's Almanack
 
-**Psychology first:** Understanding human behavior is the foundation of every business and market. Naval reads Darwin, Thucydides, Jocko Willink, and Viktor Frankl — not for the history, but for the patterns of human behavior that repeat in business and markets.
+Eric Jorgenson curated Naval's public writings into *The Almanack of Naval Ravikant* (2020) — the most complete distillation of Naval's system. It covers wealth, happiness, reading, decision-making, and philosophy. Naval's system is internally consistent: his wealth principles and his happiness principles point in the same direction — toward doing work you love with people you respect, for long enough that compounding works.
 
-**Finance and economics second:** Understanding how capital works — risk, return, liquidity, leverage, time value of money. Naval's specific recommendation: read everything Buffett and Munger have written. The investment frameworks are timeless.
-
-**Science third:** Evolution, biology, physics — the models that explain how systems actually work. Naval's first principles thinking comes from reading physics and understanding that every system has constraints that define what's possible.
-
-**Philosophy last:** Nietzsche, Schopenhauer, the Stoics — the foundational questions about meaning, suffering, and how to live. Naval argues that philosophy is the most important but least immediately practical. Start with psychology and finance, layer in science, return to philosophy when you have a base.
-
-> *"Reading is the one form of specific knowledge acquisition that doesn't require someone else's permission or apprenticeship. You can read anything ever written. The leverage is infinite."*
-
-### The Naval Decision Scripts (Practical Application)
-
-**When making any financial decision:**
-> *"Will this still feel right in 10 years?"*
-
-**When evaluating a career or job:**
-> *"Would I trade places with this person for 10 years? If not, the compensation doesn't matter."*
-
-**When evaluating a business or investment:**
-> *"Can this be disrupted by a well-funded competitor in 18 months? If yes, avoid it."*
-
-**When you feel envious:**
-> *"Envy is the tax on being born in the same era as exceptional people. The antidote is specific knowledge — once you're genuinely good at something, comparison with others loses its power."*
-
-**When evaluating a new opportunity:**
-> *"Is this a one-time bet or does it compound? Am I building specific knowledge or just buying an asset? Is this reversible if I'm wrong?"*
-
-### Eric Jorgenson's Almanack: How the Book Was Built
-
-Eric Jorgenson collected Naval's public writings (tweets, essays, podcast appearances, interviews) and organized them into *The Almanack of Naval Ravikant* (2020). The book exists because Naval gave permission and Jorgenson did the curation work — no formal writing from Naval, just the full archive of his public thinking.
-
-The book has become one of the most widely shared modern texts on wealth and meaning. The key insight from the curation itself: Naval's wealth philosophy and his happiness philosophy are the same framework, just applied to different domains. The person who internalizes one has the blueprint for the other.
+**One-sentence summary:** *Seek wealth (assets that earn while you sleep), not money or status. Apply specific knowledge + accountability + leverage, use judgment as the multiplier, and be patient enough for decades of compounding to work.*
 
 ## Charlie Munger Mental Models: The Art of Better Thinking
 
@@ -639,20 +565,21 @@ The key requirements: the investment must be in a QOZ, you must invest gains wit
 → Full content: [trust-wealth-planning.md](references/trust-wealth-planning.md)
 ## Real Estate: Leverage, Cash Flow, Tax Benefits, Appreciation
 
-Real estate combines four mechanisms — **leverage** (borrow 70-80% at 5-7% over 15-30 yrs), **cash flow** (rent minus all expenses, with your tenant paying down your mortgage each month), **tax benefits** (depreciation, deductions, 1031 Exchange to defer capital gains by reinvesting within 180 days), and **appreciation** (3-5%/yr growth in most US markets). Wealth is built over 10-20 years through all four working at once.
+Real estate builds wealth through four simultaneous mechanisms: **leverage** (borrow 70-80% at 5-7% over 15-30 years), **cash flow** (rent covering all expenses and the mortgage), **tax benefits** (depreciation, 1031 Exchange to defer capital gains), and **appreciation** (3-5%/year). All four compound together over 10-20 years — that's where real wealth is built.
 
-**The Filters:**
-- **1% Rule:** Monthly rent ≥ 1% of purchase price. $200K property needs $2,000+/month minimum. **Cap Rate:** NOI ÷ Purchase Price. Target 6-8%. Below 5% means you're betting on appreciation with negative cash flow. **50% Rule:** ~50% of rent goes to non-mortgage expenses. On $2,000 rent, expect $1,000. If mortgage is $1,400, you're underwater.
+**Before any deal, apply three filters:**
+- **1% Rule:** Monthly rent ≥ 1% of purchase price ($200K → $2,000+/month). Below this you're gambling on appreciation.
+- **Cap Rate:** NOI ÷ Purchase Price. Target 6-8%. Below 5% means negative cash flow.
+- **50% Rule:** ~50% of rent goes to non-mortgage costs. If mortgage + expenses exceed rent, you're underwater.
 
-**Starter Strategies:**
-- **House Hacking:** Buy a 2-4 unit, live in one, rent the others. 4-unit at $400K, 3.5% FHA ($14K down), three units at $800/month = $2,400 income vs ~$2,200 mortgage. Move out after 2 years, repeat.
-- **BRRRR:** Buy at 60-70% ARV, renovate, rent, refi out capital, repeat. Best markets: Texas, Georgia, Tennessee, Florida (strong landlord laws, growing populations — not coastal cities where cash flow is usually negative).
+**Two proven starter strategies:**
+- **House Hacking:** Buy 2-4 units, live in one, rent the rest. 4-unit at $400K, 3.5% FHA ($14K down), three units at $800/month ≈ $2,400 income vs ~$2,200 mortgage. Move out after 2 years, repeat.
+- **BRRRR:** Buy at 60-70% ARV, renovate, rent, refi out capital, repeat. Best markets: Texas, Georgia, Tennessee, Florida — strong landlord laws, growing populations.
 
-**Five pitfalls:** (1) Emotion instead of math. (2) Underestimating repairs — budget 1-1.5%/yr of property value. (3) Not screening tenants — costs $3K-10K. (4) Over-leveraging — keep 6 months expenses per property as buffer. (5) Ignoring the 1031 Exchange — leaves 15-20% of profit with the IRS.
+**Five beginner wipeouts:** (1) Emotional decisions over math. (2) Underestimating repairs — budget 1-1.5%/yr of property value. (3) Not screening tenants — $3K-10K eviction cost. (4) Over-leveraging — keep 6 months reserves. (5) Ignoring the 1031 Exchange — leaving 15-20% of profit with the IRS.
 
 → Full content: [realestate-wealth-building.md](references/realestate-wealth-building.md)
 
----
 
 ## Arnold Schwarzenegger: The Visionary's Path to Wealth and Power
 
@@ -695,85 +622,31 @@ The income-expense gap — not expense reduction alone — determines wealth tra
 
 → Full content: [income-acceleration-tactics.md](references/income-acceleration-tactics.md) — income ceiling analysis, salary negotiation scripts, credential ROI table, and the full side business validation system.
 
+
+
+**Income velocity scripts:**
+- *Chasing a raise:* "I've delivered [specific result]. Market data shows 75th percentile for this role is [X]. I'm targeting [X+20%] given my contributions."
+- *Switching companies:* "My lever is not salary alone — it's role scope and equity. I'm looking for [level] where my [specific skill] directly impacts [metric]."
+- *Building side income:* Validate before scaling. One paying customer proves the model; ten proves the market.
+
+**The specific knowledge insight:** Most people think "more experience = more money." The wealthy think "more specific knowledge = more money." Specific knowledge is found, not acquired — follow what you find genuinely interesting and difficult. Your "boring" is someone else's too-hard.
 ## Risk and Probability Thinking: How the Wealthy Think About Uncertainty
 
 The wealthy don't avoid risk — they price it. Every investment, career, and business decision is a bet with probabilities attached. The skill is not eliminating uncertainty but calculating it accurately and positioning accordingly.
 
-**Core probability frameworks:**
+**Core probability frameworks:** Expected value thinking (probability × payoff, asymmetric bets), fat tails and black swans (protect downside first), base rate neglect (ask "what percentage of similar investments succeed?"), and second-order effects (what happens because others respond to the same information).
 
-- **Expected value thinking:** Every decision has a probability × payoff. Even a 70% failure rate can be worth it if the upside is 10x the downside. Buffett's margin of safety is essentially this: when the probability of ruin is near zero and the upside is asymmetric, bet big.
-- **Fat tails and black swans:** Most people underestimate the probability of extreme events. In normal distributions, events 3 standard deviations from the mean almost never happen. In real markets, they happen every decade. The wealthy protect downside first.
-- **Asymmetric betting:** The optimal strategy is finding situations where downside is capped and upside is uncapped. Options, founding a company, developing a skill with wide application — these offer this asymmetry.
-- **Base rate neglect:** Most people reason from the specific case, not from base rates. "Will this investment succeed?" vs. "What percentage of similar investments succeed?" The second question is more answerable and more accurate.
-- **Second-order effects:** The first-order consequence of a decision is obvious. The second and third-order effects — what happens because others respond to the same information — are where the money is made.
+**The Antifragile Principle (Nassim Taleb):** Some things gain from disorder — the human body grows stronger from stress. The wealthy build systems that *benefit* from volatility: fragile things break under stress; antifragile things grow. Barbell strategy: go to extremes on both ends (90% maximum safety, 10% maximum upside). Via negativa: the fastest way to improve your financial position is often to remove fragility — cut guaranteed losses, eliminate debt, simplify your portfolio.
 
-**The Antifragile Principle (Nassim Taleb):**
+**The Taleb-Buffett Risk Synthesis:** Buffett's margin of safety and Taleb's barbell are complementary — always maintain a buffer (cash, low-correlation assets) for catastrophic left-tail events while taking calculated upside bets when the math favors it.
 
-The most important insight from Taleb's *Antifragile*: some things gain from disorder. The human body grows stronger from stress. Muscles need tearing to rebuild bigger. Taleb's core argument: the wealthy don't just manage risk — they build systems that *benefit* from volatility and shocks.
+**The 10x/10% Rule:** Before any major decision: (1) What's the 10x scenario? (2) What's the 10% scenario — can I recover in under 2 years? (3) Is this my area of competence? All three align → act. Otherwise, pass.
 
-- **Fragile vs. antifragile:** A fragile thing breaks under stress. An antifragile thing grows. A career dependent on one employer is fragile. A career with portable skills, side income, and investment returns is antifragile.
-- **Barbell strategy:** Go to extremes on both ends. Invest 90% in maximum safety (bonds, cash) and 10% in maximum upside (speculative, options, startups). Avoid the middle — that's where "moderate" risk lives and delivers neither safety nor upside.
-- **Skin in the game:** Never take risks with other people's money if you don't have your own capital at stake. Managers who risk other people's capital without personal consequences make dangerous bets. Taleb's rule: *no skin in the game, no wisdom.*
-- **Via Negativa:** The fastest way to improve your financial position is often to remove fragility — cut guaranteed losses, eliminate debt, simplify your portfolio — rather than add new opportunities. Every problem you remove is a gain.
-
-**The Taleb-Buffett Risk Synthesis:**
-
-Buffett's margin of safety and Taleb's barbell aren't contradictory — they're complementary:
-
-- Buffett: calculate the downside, price it in, act when the probability of permanent loss is near zero
-- Taleb: protect against catastrophic left-tail events (black swans) that Buffett's models tend to underestimate
-
-The wealthy person who internalizes both: always maintains a buffer (cash, low-correlation assets) for when the "unthinkably bad" happens, while taking calculated upside bets when the math favors it.
-
-**The 10x/10% Rule for Risk Assessment:**
-
-Before any major financial decision, apply this filter:
-
-1. **What's the 10x scenario?** If this goes well, does it change my financial trajectory? (If no, the upside isn't worth the risk)
-2. **What's the 10% scenario?** If this goes badly, can I recover in under 2 years? (If no, the downside is too large even if it's low probability)
-3. **Is this my area of competence?** Am I pricing the risk from actual knowledge or from media narrative?
-
-If the 10x scenario is meaningful AND the 10% scenario is recoverable AND I'm in my circle of competence → act. Otherwise, pass.
-
-**Decision framework:** For any bet, ask: (1) What's the worst case? (2) Is it recoverable? (3) What's the probability-weighted upside? (4) Is this a once-in-a-decade opportunity? When all four align, bet big. When the downside is recoverable and the upside is asymmetric, the rational choice is to act.
-
- -- extended risk frameworks, Taleb's barbell strategy, Howard Marks' second-level thinking, and the complete probability frameworks reference.
-
+→ Full content: [risk-probability-thinking.md](references/risk-probability-thinking.md)
 ## Negotiating Under Leverage: Scripts That Actually Work
 
-One successful salary negotiation can equal 1–3 years of raises. The frame: you're not asking — you're presenting market data showing your compensation is misaligned with your value.
-
-**When you have leverage — offer, track record, competing opportunity:**
-- *"Market data shows the 50th percentile for this role is $[X]; the 75th is $[Y]. My results exceed median. I'd like to discuss reaching the top of range."*
-- *"What would I need to demonstrate to reach [target] by [timeframe]? Can we document that?"*
-- *"I'm committed here but also evaluating options. I'd like a conversation about a path forward before deciding."*
-
-**Counteroffer leverage (even without intending to leave):** A genuine competing offer creates 10–30% counteroffer leverage. You must actually have the option — a bluff detected destroys more leverage than it creates.
-
-**When leverage is asymmetric (they hold it):** Script: *"I understand we're not in a position to revisit now. Can we schedule a conversation for [timeframe]?"* Don't negotiate from weakness — negotiate from strength by building alternatives first.
-
-**The income ceiling:** Most people earn 2–5% annual raises — linear, never compound. Breaking through requires the income stack by leverage: specific knowledge (5–10 year build, nearly impossible to replicate) → negotiation (one negotiation can equal years of raises) → side business (validate with $1,000/month test) → strategic career hops (20–40% increases with title advancement).
-
-**Geographic arbitrage:** Same skill, different market. A developer earning $80K earning $180K in another market isn't 2x smarter — market pricing differs. Location arbitrage is an immediate leverage move available before any credential build.
-
+→ Full content: [negotiating-under-leverage.md](references/negotiating-under-leverage.md)
 ## Advanced Income Acceleration: The Middle-Class Wealth Multiplier
-
-This section covers the tactical playbook for income acceleration — career capital moves, negotiation architecture, credential stacking, and consumption trap awareness. Full tactical detail and scripts at the reference link.
-
-### The Income Multiplier: Why 30% More Income Beats 30% Better Returns
-
-A 30% income increase compounded at 10% over 20 years produces more wealth than a 30% better return on a smaller base. Every $1 increase in monthly income, if invested, becomes roughly $6.70 at 10% over 20 years. The income multiplier effect is most powerful when you invest the incremental income rather than spend it — most people who get raises also increase their lifestyle.
-
-### Career Capital Framework: Three Moves That Compound
-
-1. **Level up before you get promoted** — work at the next level, document results, then negotiate title and compensation simultaneously
-2. **Build professional capital through reputation** — be known for delivering difficult projects, mentoring junior colleagues, and clear under-pressure communication
-3. **Use job offers as leverage** — even without intending to leave; the competing offer creates 10-30% counter-offer leverage
-
-### Side Business Validation, Credential Stack, Geographic Arbitrage, Negotiation Architecture
-
-
----
 
 ## Lifestyle Design and the Sustainable Wealth Framework
 
@@ -796,13 +669,15 @@ Four modern voices who bridge systematic investing frameworks and behavioral psy
 
 **Joel Greenblatt (Gotham Capital, ~50% gross / ~30% net annual returns 1985–1994):** Started with $7M, returned all outside capital by 1995 after delivering 30% net annual returns. Greenblatt's edge: *special situations* — spinoffs, mergers, bankruptcies, corporate restructurings — where institutional investors can't move fast enough to price things correctly. His Magic Formula (earnings yield + return on capital ranking) is the systematic implementation of Lynch's GARP. Key lesson: *"You can be right about value but early — that costs you."* The spacing between being right and being proven right is where performance is made or lost.
 
-**Howard Marks (Oaktree Capital, ~19% net annual returns over decades, $150B AUM):** Buffett reads Marks's memos before anything else. Marks's core concept: **second-level thinking** — everyone knows "buy low, sell high," which makes it already priced in. The second-level question is: *what do I know that the market doesn't?* Marks focuses on risk and cycle positioning: the key advantage is not predicting which economic regime is coming, but building a portfolio that survives every regime. His framework: own assets with asymmetric risk profiles — bounded downside, significant upside.
+**Howard Marks (Oaktree Capital, ~19% net annual returns over decades, $150B AUM):** Co-chairman of Oaktree Capital, the world's largest distressed-securities investor. Buffett reads Marks's memos before anything else — "When I see memos from Howard Marks in my mail, they're the first thing I open and read." Marks's core concept: **second-level thinking** — everyone knows "buy low, sell high," which makes it already priced in. The second-level question is: *what do I know that the market doesn't?* His central insight on cycles: the key advantage is not predicting which economic regime is coming, but building a portfolio that survives every regime. His framework: own assets with asymmetric risk profiles — bounded downside, significant upside. Marks's most important principle: *\"A good business at a fair price is not an investment; a fair business at a good price might be.\"* The margin of safety is everything — not just a buffer, but the mechanism that makes second-level bets viable. His second-level thinking checklist: (1) What do I believe that the consensus does NOT believe? (2) What does the consensus believe that I might be wrong about? (3) Is the current price reflecting the consensus view or my non-consensus view? (4) Will I hold when I'm alone in being right?
 
-**Morgan Housel — Behavioral Finance:** Financial success is 80% psychology, 20% technical knowledge. The key behaviors: compounding requires silence; the room to be wrong is the point; saving is more powerful than returns. See also the dedicated Housel sections in this skill.
+**Morgan Housel — Behavioral Finance:** Two books — *The Psychology of Money* (2020) and *Same as Ever* (2023) — define modern behavioral finance. Housel's core thesis: financial success is 80% psychology, 20% technical knowledge. The key behaviors: compounding requires silence; the room to be wrong is the point; saving is more powerful than returns; the highest returns go to those with the highest behavioral tolerance. His core insight: the way to understand the future is to study the past — not the financial past, but human nature's past. Markets transfer money from the active to the patient. The best investment is one your neighbors think is stupid. Before any major financial move, ask: *"Will this feel the same in 10 years as it does today?"* If you're buying because "this time is different," it almost never is. See also the dedicated Housel sections in this skill.
 
 **Charlie Carlson — Principles-Based Wealth:** Write your financial rules *before* panic sets in — willpower cannot override emotion at the moment of crisis. Carlson's four-part filter: (1) Is this consistent with my written principles? (2) Do I understand the downside? (3) Am I comfortable if this decision is public knowledge? (4) Is this reversible? The equal-weight system (no over-weighting recent winners), annual rebalancing, and sub-0.20% fees means no forecast is required and no manager dependency. The discipline *is* the edge.
 
-→ Full content: [investing-frameworks-deep.md](references/investing-frameworks-deep.md) — Lynch Magic Formula, ten-bagger checklist, Marks second-level thinking, Housel behavioral core, Carlson systematic rules.
+→ Full content: [investing-frameworks-deep.md](references/investing-frameworks-deep.md) — Lynch Magic Formula, ten-bagger checklist, Marks second-level thinking, Housel behavioral core, Carlson system.
+
+→ Full content: [greenblatt-carlson-deep-dive.md](references/greenblatt-carlson-deep-dive.md) — Greenblatt's special situations edge, Gotham Capital's ~30% net annual returns methodology, Magic Formula mechanics, and Carlson's rules-based system: equal-weight allocation, annual rebalancing, fee minimization, and pre-commitment filters.atic rules.
 
 
 ## The Real Wealth Builders
@@ -824,25 +699,10 @@ The people who accumulate lasting wealth share learnable behavioral patterns —
 
 ## Peter Lynch: Invest in What You Know
 
-Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in history. Assets grew from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do.
-
-**The core framework:**
-- **Invest in what you know** — Can you explain this to a 10-year-old? Do you use the product?
-- **The story must hold** — Every investment is a story. Know which one you're betting on and when it breaks.
-- **Tenbagger hunting** — Small companies can return 10x. Asymmetric upside covers inevitable failures.
-- **P/E as compass** — Use PEG (P/E ÷ growth rate). PEG ≤ 1.0 potentially undervalued; >1.5 you're overpaying.
-
-**The six stock categories:** Fast grower (tenbagger engine), Stalwart (hold decades), Slow grower (anchor), Asset play (hidden balance sheet), Turnaround (needs catalyst), Cyclical (buy low on the cycle).
-
-**Your two institutional advantages — that Lynch actively exploited:**
-1. No redemption pressure — you can hold through 3–5 year lulls no professional can survive
-2. Direct observation edge — you use the products before Wall Street notices. Full parking lots + happy employees = company doing well
-
-**Before buying script:** *Do I use this product? Is the company gaining or losing share? Is the balance sheet healthy? Can I hold this 10 years if nothing happens?*
-
-**The discipline checklist:** (1) Can I explain why I own this in one sentence? (2) Has the story changed? (3) Does management own stock? (4) PEG < 1.5? (5) Will the company survive its worst case?
+Peter Lynch ran Fidelity's Magellan Fund from 1977–1990, averaging **29.2% annual return** — the best-performing mutual fund in history, growing assets from $18M to $14B. His edge: individual investors encounter great businesses in daily life before analysts do. His key frameworks — invest in what you know, hunt tenbaggers, use PEG as a compass — all flow from this observation.
 
 → Full content: [lynch-frameworks.md](references/lynch-frameworks.md)
+
 
 ## Ray Dalio: How the Economic Machine Works
 
@@ -1042,30 +902,9 @@ Markets crash. People who understand why make better decisions when fear takes o
 
 → Full content: [naval-framework.md](references/naval-framework.md) — complete Naval wealth frameworks: full tweet storm, judgment framework, specific knowledge formula, Naval's 10-step wealth path, emotional mastery, and reading as wealth-building tool.
 ---
-
 ## When to Recommend Professional Support
 
-Suggest seeing a financial advisor or planner when:
-- User has complex finances (multiple income streams, business ownership, significant assets)
-- User is close to retirement with limited savings
-- User has significant debt they can't create a repayment plan for
-- User has a history of financial decisions that consistently backfire
-
-**Free resources to point to:** r/personalfinance (Reddit), r/financialindependence, the book *The Simple Path to Wealth* by JL Collins.
-
----
-
-
-
-→ Full content: [dalio-frameworks.md](references/dalio-frameworks.md) — Dalio's economic machine (productivity, debt cycles, All Weather portfolio, radical truth), Morgan Housel's 20 behavior lessons (Psychology of Money), and Rockefeller/Carnegie's industrial empire frameworks.
-
----
-
-
-→ Full content: [research-cycle.md](references/research-cycle.md)
-→ Full content: [cyclical-research-pattern.md](references/cyclical-research-pattern.md)
-
-**Version history:** v1.110.0: Condensed Unstoppable Execution; added Negotiating Under Leverage section.
+→ Full content: [when-recommend-professional-support.md](references/when-recommend-professional-support.md)
 
 ## The Activist Wealth Model: How Icahn and Ackman Build Power Through Ownership
 
@@ -1078,22 +917,117 @@ Most investors buy stock and wait. Activist investors buy stock and *change the 
 **Personal finance application:** (1) Read your proxy statements — you vote on executive compensation and board composition. (2) Concentrate before you diversify — 3–5 deeply researched positions beats 30 random ones. (3) Identify the ownership gap: management compensated on revenue growth while shareholders benefit from margin improvement = the activist's target. The thinking model — treating yourself as an owner with agency, not a passive holder — applies to every investment decision.
 
 → Full content: [activist-wealth-icahn.md](references/activist-wealth-icahn.md)
-
 ## Unstoppable Execution: The Psychology of People Who Can't Be Stopped
 
-Some people build wealth faster than others — not because they have better ideas, but because they execute with different intensity. The execution gap is about consistency, durability, and self-awareness. Three pillars: identity (architect, not employee), decision velocity (act at 70%), rejection tolerance (separate signal from noise).
+Some people build wealth faster than others — not because they have better ideas, but because they execute with a different quality of intensity. The difference between people who achieve extraordinary wealth and people who intend to is almost never talent or intelligence. It is the willingness to do what others refuse to do, repeatedly, for decades.
 
-**The identity shift:** Move from *"I work for a company"* to *"I build systems that generate income."* Script: *"I'm moving from earning my living to building my wealth."*
+---
 
-**Decision velocity at 70%:** Certainty is a trap. Make the best decision with available information, then update. Script: *"I'm not waiting for complete certainty. I'm making the best call I can and adjusting."*
+**The Physics of Extreme Execution**
 
-**Rejection tolerance:** Musk was rejected repeatedly. Bezos was told Amazon would fail. The difference: they asked one more time or differently. The internal model must be clear enough that external disapproval becomes less informative than your own analysis.
+Most people's relationship with effort is a negotiation. The wealthy execution mindset asks: *what is the maximum effort I can sustain without burning out, and how do I make that my baseline?*
 
-**The brutal middle:** Months 4–6 of any difficult project is where most people quit. Script: *"The results I'm not seeing yet are still being built. I am in the investment phase of a long-term compounding strategy."* — The fear of difficulty is almost always worse than the difficulty itself.
+Musk slept on the Tesla factory floor for months during production hell and worked 120-hour weeks during SpaceX's early rocket failures. This is not about being superhuman — it is about having a goal so clear that the normal rules of comfort stop applying.
 
-**10-year window:** Buffett has held Coke 30+ years. Bezos said most decisions should be reversible — but compounding, relationships, health cannot be unmade. Script: *"I am playing a 10-year game. This difficulty is the cost of entry."*
+> *"The problem is that when you're working 120-hour weeks, you're actually less efficient than if you worked fewer hours. But the thing I learned is that most people give up too early. They work for a week or two and nothing happens, so they stop. The people who build extraordinary things work for years."* — Elon Musk
+
+**The wealth application:** Your income ceiling is almost always set by the quality of your execution, not the quality of your ideas. The person who outexecutes you with a worse idea still wins.
+
+---
+
+**Bezos's "Disagree and Commit"**
+
+Bezos coined "disagree and commit" as a core Amazon operating principle: once a decision is made, everyone commits fully — even if they disagreed. No sabotage, no passive resistance, no "I told you so" if it fails.
+
+Most people sabotage their own wealth-building by being internally inconsistent — they decide to start a business, then second-guess it; commit to investing, then panic-sell. The fix: once you make a financial decision, commit fully. Update based on new information, but don't reverse just because of discomfort.
+
+---
+
+**Jocko Willink's Extreme Ownership**
+
+Jocko Willink's principle from *Extreme Ownership*: **you are responsible for everything in your life.** Not blamed — responsible. When you take full ownership of your financial situation, you stop waiting for permission, external validation, or perfect conditions.
+
+**The wealth application:** Not making enough? Responsible for fixing that. Not investing correctly? Responsible for learning. Setback happened? Responsible for recovering. If you are responsible, you are also powerful.
+
+---
+
+**Building Unbreakable Habits**
+
+Wealthy people treat financial habits the way athletes treat training — not as optional extras but as the mechanism that makes everything else possible.
+
+Investing $500/month consistently for 30 years at 10% returns = ~$1.2 million. The person who earns more but spends everything will have less at 65 than the person who invests consistently. The keystone habit: automate investing on payday.
+
+---
+
+**The Rejection Tolerance Stack**
+
+Musk was rejected by investors for SpaceX and Tesla repeatedly. Bezos was told Amazon would fail. The ability to keep going after being told no is about having a clear enough internal model of reality that external disapproval becomes less informative than your own analysis.
+
+**Build rejection tolerance:**
+1. **Separate signal from noise.** Rejection often says more about the rejecter than about you
+2. **Update, but don't abandon.** One no doesn't mean the entire market is wrong
+3. **Track attempts made, not rejections received.** Rejections are inputs to the process, not outcomes
+
+---
+
+**Why Most People Quit (And How to Not Be Most People)**
+
+Every person who starts a business, investment plan, or wealth-building program hits a wall around months 3-6 where the gap between effort and visible results is widest. This is not a sign you're doing something wrong — it is the waiting period before compounding kicks in.
+
+**How to survive the wall:**
+- Pre-commit to your goal publicly (accountability makes quitting more costly)
+- Track inputs, not just outputs ("I executed" beats "I feel behind")
+- Find peers who are also in the game (isolation makes quitting easier)
+- Celebrate small wins (reinforce the behavior, not just the outcome)
+
+---
+
+**The Identity Shift: From Worker to Architect**
+
+People who build real wealth stop identifying as employees who get paid, and start identifying as architects who build systems.
+
+- **Employee identity:** "I work for a company. My income comes from my employer."
+- **Architect identity:** "I build systems that generate income. My job is one system. I am always building, maintaining, and improving my systems."
+
+This identity shift changes how you spend your time. Architects spend time building assets and leverage. Employees spend time maintaining employment.
+
+---
+
+**The Compound Effect of Showing Up**
+
+Darren Hardy, author of *The Compound Effect*: **consistency in small positive actions over time creates extraordinary results.**
+
+- Read 10 pages of a financial book per day → ~30 books per year
+- Save $200 more per month → ~$395,000 after 30 years at 10%
+- Make one additional sales call per day → 250+ additional opportunities per year
+- Say no to one discretionary purchase per week → $2,000-5,000/year redirected to investments
+
+**Script:** *"I am in the investment phase of a long-term compounding strategy."* Automate investing on payday — the keystone habit.
 
 → Full content: [power-execution-unstoppable.md](references/power-execution-unstoppable.md)
+
+## Time as a Lever: How the Wealthy Think About Time
+
+Time is the most powerful lever available to wealth-builders — and most people use it on linear rather than logarithmic tasks. Einstein reportedly called compound interest "the eighth wonder of the world." The wealthy convert time into assets that compound over decades. Most people convert time into a paycheck that stops the moment they stop.
+
+**The compounding asymmetry:** A dollar invested at age 20 is worth approximately 76x at age 65 at 10% annual return. A dollar invested at age 35 is worth approximately 16x. Those 15 years aren't just 15x better — they're 5x better. Time compounds geometrically, not arithmetically.
+
+**Four time-leverage patterns the wealthy use:**
+
+1. **Asset time**: Convert hours into ownership stakes (stocks, real estate, businesses) — hours invested generate returns long after the work stops. Employee time stops generating value the moment employment ends. Investor time can generate returns indefinitely.
+
+2. **Leverage time via others**: Hiring, outsourcing, and delegating converts personal hours into multiplied output. The $20/hour assistant frees the $200/hour expert to do $200/hour work. The wealthy never do $20/hour work when they could do $200/hour work.
+
+3. **Systems time**: Automated savings, dividend reinvestment, and systematic investing convert time into compounding with zero ongoing effort. The investor who automates $1,000/month into index funds in their 20s beats the investor who starts manual investing at 40 with higher income.
+
+4. **Information time**: Skills and knowledge that compound — learning to negotiate once applies to every salary review, every purchase, every contract. The wealthy invest in skills with compounding returns, not just skills with hourly rates.
+
+**The visibility problem:** The first $500K accumulates invisibly. Between $500K-$1M, progress feels slow. The final $1M arrives in years 20-30. Most people quit during the invisible years — this is the single most expensive decision in personal finance.
+
+**Action:** Automate before you feel ready. The gap between "comfortable enough to invest" and "started 10 years ago" is the entire gap.
+
+→ Full content: [time-leverage-wealth.md](references/time-leverage-wealth.md) — detailed frameworks for time as an asymmetric wealth lever.
+
 ## Verification Checklist
 
 
@@ -1115,21 +1049,18 @@ Some people build wealth faster than others — not because they have better ide
 - [ ] Gave the "unstoppable execution" framework (automation, ownership, decision velocity)
 - [ ] Addressed income acceleration through negotiation and leverage
 - [ ] Gave the Grit and Growth Mindset framework (passion + perseverance for long-term goals, Atomic Habits systems, identity-based habit model)
+- [ ] Covered Ray Dalio's economic machine framework (productivity, debt cycles)
+- [ ] Ran orphan audit on references/ files
+
+---
 
 ## Morgan Housel's "Same as Ever": Timeless Lessons That Never Change
 
-In *Same as Ever* (2023), Housel distills 23 lessons from history's most consistent wealth builders — lessons that hold across every market, era, and economic condition. The core premise: the way to understand the future is to study the past — not the financial past, but human nature's past.
+Morgan Housel distills 23 lessons from history's most consistent wealth builders in *Same as Ever* (2023): compounding works invisibly for decades before going vertical; envy destroys more portfolios than recessions; the hardest skill is stopping your goalposts from moving; small shortages create irrational panics; flexibility — never needing to sell at the bottom — is the most valuable asset; modeling good financial behavior to children beats passing down money; "this time is different" are the most expensive words in finance; and the best investment is one your neighbors think is stupid.
 
-**Key wealth-building lessons from *Same as Ever*:**
+Housel's core insight: the way to understand the future is to study the past — not the financial past, but human nature's past. Markets transfer money from the active to the patient. The highest returns go to those with the highest behavioral tolerance. Peace of mind — needing less — is richer than needing more.
 
-- **Compounding hates attention.** Warren Buffett's portfolio is 99% invisible until the final few years. The tortoise always wins — you just can't see it until the end.
-- **Envy is the entry fee to mediocrity.** Watching neighbors get rich destroys more portfolios than any recession. The best investment you can make is one your neighbors think is stupid.
-- **The hardest financial skill is getting the goalposts to stop moving.** Every raise brings new expenses. Every milestone brings new comparison groups. The person who dies richest is often not the highest earner but the most content.
-- **Small shortages create big panics.** Supply chain breakdowns, housing shortages, labor shortages — minor constraints produce irrational market behavior. Recognize panic as a supply signal, not a fundamental failure.
-- **The most important asset is flexibility.** The investor who survives every crash is the one who never needed to sell at the bottom. Liquidity is an option that compounds in value exactly when you need it most.
-- **The best inheritance is modeling, not money.** Housel's richest subjects learned habits of curiosity, resilience, and deferred gratification. The money transfers; the mindset compounds.
-- **"History doesn't repeat, but it rhymes"** — understanding these rhymes is the edge. Interest rates, housing bubbles, speculative manias all follow patterns embedded in human nature.
+**Decision filter:** Before any major financial move, ask: *"Will this feel the same in 10 years as it does today?"* If you're buying because "this time is different," it almost never is.
 
-**Housel's decision filter:** Before any major financial decision, ask: *"Will this feel the same in 10 years as it does today?"* If you're buying because "this time is different," it almost never is.
-
-→ Full content: [psychology-of-money.md](references/psychology-of-money.md) — Morgan Housel's complete Psychology of Money + Same as Ever frameworks.
+→ Full content: [psychology-of-money.md](references/psychology-of-money.md) — Morgan Housel's complete Psychology of Money (20 lessons).
+→ Full content: [same-as-ever.md](references/same-as-ever.md) — all 23 lessons from Same as Ever with Housel's decision filter and key quotes.
