@@ -644,8 +644,6 @@ B2B销售AI的核心：决策链 > 技术 > 价格。AI产品的买单者（CXO�
 - AI Agent 降低门槛：自然语言 + Cursor/Lovable/Bolt，非工程师也能建产品
 - 收入层级：入门 $500-$3k/月 → 中端 $3k-$15k/月 → 高端 $15k/月+
 
-→ 完整内容：[ai-microsaas.md](references/ai-microsaas.md)（工具栈·冷启动·收入模型完整方案）
-
 → 完整内容：[ai-microsaas.md](references/ai-microsaas.md)（工具栈·冷启动·收入模型·避坑完整操作手册）
 
 ## 十七、信任型销售：AI B2B 的核心战场
@@ -742,6 +740,7 @@ B2B销售AI的核心：决策链 > 技术 > 价格。AI产品的买单者（CXO�
 **快速见钱路径（EU AI Act）：** Week 1-2 研究框架 → Week 3-4 建立模板 → Week 5-6 找第一个付费客户 → $5k-$20k 首单
 
 → 完整内容：[ai-compliance-moat-deep.md](references/ai-compliance-moat-deep.md)（完整合规地图）
+→ 完整内容：[ai-compliance-moat.md](references/ai-compliance-moat.md)（EU Act·中国备案·东南亚全景）
 
 ## 二十一、AI 自由职业者生存白皮书：2025 真实收入报告与进阶路径
 
@@ -853,6 +852,7 @@ B2B销售AI的核心：决策链 > 技术 > 价格。AI产品的买单者（CXO�
 > 知乎：`问题复述 + 我的实战经历 + 数据支撑 + 可操作步骤 + 延伸阅读引导`
 
 → 完整版：[ai-content-prompts-v2.md](references/ai-content-prompts-v2.md)
+→ 完整内容：[ai-content-prompts.md](references/ai-content-prompts.md)（病毒钩子·销售文案·社媒批量生成完整模板）
 ## 二十三、30天AI变现启动计划：按人群分类的行动路线图
 
 > Run 131 新增（v3.31）。完整版见 references/ai-30day-launch-plan.md。本节给出3类人群的30天启动计划精华版——先验证方向，再扩大规模。
@@ -1845,6 +1845,8 @@ A：不要问"你愿意付多少钱"，要问"你现在这个问题，每年让�
 
 ---
 
+→ 完整内容：[ai-old-masters-season6.md](references/ai-old-masters-season6.md)（物流·本地生活·美容美发·婚庆·农业合作社真实10x路径）
+
 ### 验证清单
 
 - [ ] 记住了5个老法师AI增值案例的关键数字（投入 vs 回报）
@@ -2696,6 +2698,7 @@ B2B成交力学（section 五十）讲的是"谁来决策"。AI Agent解决的�
 - 知乎：专业内容洼地，变现路径最清晰（盐选→咨询→带货）
 - B站：长线积累，6-12个月，适合工具测评类内容
 
+→ 完整内容：[ai-china-platforms-2025-deep.md](references/ai-china-platforms-2025-deep.md)（微信视频号·小红书·知乎·B站完整SOP）
 
 ## 七十七、 Cursor AI + Micro-SaaS：无代码时代的10x生产器（2025深化版）
 
@@ -3262,6 +3265,7 @@ NRR >115% = 现有客户不仅在续费，还在扩付。这意味着：
 
 **避坑：** AI视频版权风险（优先Kling国内版权清晰）、不要等工具完美再变现、AI音乐版权归属要明确。
 
+→ 完整内容：[ai-pricing-strategy-v2.md](references/ai-pricing-strategy-v2.md)（锚定效应·套餐设计·7个暴利模型完整版）
 
 ## 八十七、AI 买家决策心理学深化：心理账户·遗憾规避·董事会博弈
 
@@ -3616,7 +3620,7 @@ NRR >115% = 现有客户不仅在续费，还在扩付。这意味着：
 - [ ] 记住了3个退出信号和3种非共识策略
 
 
-version: 3.52.0  # Run 169：深挖第九十三节垂直AI案例，新增法律/医疗/制造/金融AI真实ARR数据+退出倍数
+version: 3.52.1  # Run 169：深挖第九十三节垂直AI案例，新增法律/医疗/制造/金融AI真实ARR数据+退出倍数
 author: Hermes Agent
 license: MIT
 metadata:
