@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.76.0
+version: 4.79.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -510,33 +510,33 @@ Csikszentmihalyi found some people enter flow far more readily than others. He c
 ---
 
 
-### Self-Directed Flow Training — The Autotelic Path
-
- Csikszentmihalyi's research found that flow can be trained through three layers: attention renovation (Weeks 1–4), challenge-skill rebalancing (Weeks 5–12), and purpose integration (Months 3–12). The full protocol — including the Calibration Protocol, Competence Journal, and Autotelic Self-Test — is in the reference file.
+→ Full content: [Flow Autotelic Training](references/flow-autotelic-training.md) — three-layer protocol: attention renovation (Weeks 1–4), challenge-skill rebalancing (Weeks 5–12), purpose integration (Months 3–12); includes Calibration Protocol, Competence Journal, and Autotelic Self-Test.
 
 ### Flow Access Obstacles — Why Flow Won't Arrive and What to Do About It
 
-Csikszentmihalyi's research identified four obstacles that prevent people from accessing flow even when they have the skills and motivation. Each has a precise fix.
+Four obstacles prevent people from accessing flow even with the skills and motivation:
 
-**1. The Comparison Loop.** Most people cannot enter flow because they are monitoring their performance from the outside — constantly comparing what they're doing to some external standard or other people's results. The monitoring produces self-consciousness, which is the primary flow-blocker. The fix: redirect attention back to the activity itself. Csikszentmihalyi called this "merging action and awareness" — when you stop watching yourself from the outside and just do the thing, flow arrives.
+**1. The Comparison Loop.** Self-consciousness from monitoring performance against external standards is the primary flow-blocker. Fix: redirect attention back to the activity itself — when you stop watching yourself from the outside and just do the thing, flow arrives.
 
-**2. The False Difficulty Calibration.** People stuck in boredom assume the problem is the activity itself. Usually the problem is that the challenge has been held constant while skills grew. The task that was challenging at level 2 is boring at level 10. The fix is not to quit — it is to add constraints, deadlines, or scope that raise the challenge back to the edge. Boredom is a signal: your skill has outpaced the challenge. Raise it.
+**2. The False Difficulty Calibration.** Boredom signals your skill has outpaced the challenge — not that you lack motivation. Fix: raise the difficulty. Add constraints, deadlines, or scope until the task is at the edge of your current ability.
 
-**3. Unrealistic Time Expectations.** Flow requires sustained, uninterrupted time blocks — typically 60–90 minutes minimum. Most people schedule work in 20-minute fragments between meetings and obligations. With that setup, flow is structurally impossible. Fix: identify one daily 90-minute window and protect it absolutely.
+**3. Unrealistic Time Expectations.** Flow requires 60–90 minutes minimum of sustained, uninterrupted time. Most people schedule work in 20-minute fragments. Structurally impossible to enter flow in that setup. Fix: identify one daily 90-minute window and protect it absolutely.
 
-**4. Passive Engagement.** Flow requires active response, not passive reception. Reading, watching, and listening are relaxation — not flow. The activity must demand something from you continuously.
+**4. Passive Engagement.** Reading, watching, and listening are relaxation — not flow. Flow requires active response and continuous demand on your attention.
 
-### Flow Triggers in Daily Life — Beyond the Formal Protocol
+→ Full content: [Flow Autotelic Training](references/flow-autotelic-training.md)
 
-Beyond the three-layer protocol, research identifies conditions that reliably trigger flow across contexts:
+### Flow Triggers in Daily Life
 
-**1. Novelty within familiarity.** New challenges within a known skill domain produce flow more readily than entirely novel activities. The skill provides competence; the novelty provides stretch. A chess player exploring a new opening variant. A writer trying a genre for the first time.
+Four conditions reliably trigger flow across contexts:
 
-**2. Deep embodiment.** Activities that engage the body fully — rock climbing, surgery, musical performance — produce flow more readily than purely cognitive tasks. For cognitive workers, add a physical component: take notes by hand, work standing, let the body be a processing partner.
+**1. Novelty within familiarity.** New challenges within a known skill domain produce flow more readily than entirely novel activities. A chess player exploring a new opening variant. A writer trying a genre for the first time.
 
-**3. Clear consequence.** When the work matters to someone else, or when failure has a visible cost, the challenge-skill balance shifts into flow territory more readily. Volunteer work, mentorship, and collaborative projects trigger flow at higher rates than solitary projects.
+**2. Deep embodiment.** Activities that engage the body fully produce flow more readily than purely cognitive tasks. For cognitive workers: take notes by hand, work standing, let the body be a processing partner.
 
-**4. The flow-before-flow paradox.** People most likely to enter flow have developed the habit of entering flow — not the skill of forcing it. Each flow episode makes the next one more accessible. Enter an imperfect approximation and let the engagement self-reinforce.
+**3. Clear consequence.** When the work matters to someone else, or when failure has a visible cost, the challenge-skill balance shifts into flow territory. Collaborative projects and mentorship trigger flow at higher rates than solitary work.
+
+**4. The flow-before-flow paradox.** Each flow episode makes the next one more accessible. Enter an imperfect approximation and let the engagement self-reinforce — the habit of entering flow matters more than the skill of forcing it.
 
 → Full content: [Flow Autotelic Training](references/flow-autotelic-training.md)
 
@@ -604,36 +604,22 @@ When you change identity, outcomes and processes follow naturally. When you focu
 
 The "who you are" at the start determines what actions seem available to you. The reframe: **you act your way into a new identity.** The action precedes the self-conception.
 
+### Identity Friction — When You Know Who You Want to Be but Act Against It
+
+The gap between desired identity and current behavior is usually a **context design problem**, not a motivation problem. The old identity is supported by environmental cues, social contexts, and habitual time slots. Most purpose-seekers in this pattern have a context mismatch, not a motivation deficit.
+
+**The Friction Audit (one week):** Track moments when you intended to act from your emerging purpose identity but didn't. Record the trigger, context, and what you did instead. The patterns are data about environmental design — not personal failures.
+
+**Three Friction Types:** 1. **Physical** — tools for the desired behavior are not visible or accessible. 2. **Social** — the people around you reinforce the old identity. 3. **Temporal** — the time of day when the old habit runs. Schedule identity-congruent behavior into the same time slot.
+
+**The Override Protocol:** When friction fires and the old behavior wins, treat it as data — the old context had more votes accumulated. Add one vote to the new context tomorrow.
+
 → Full content: [Identity Habits Purpose](references/identity-habits-purpose.md)
 
 
 ## Framework: Family-of-Origin Patterns and Purpose Formation
 
-For some purpose-seekers, the question "what should I do with my life?" cannot be answered until the prior question is addressed: **do I have enough of a self yet to want anything?** Standard purpose frameworks fail when the underlying issue is identity formation — the person has been so shaped by their family system that their own wants are invisible to them.
-
-The core pattern: **the person who cannot locate a purpose may actually be unable to locate a self.** Differentiation — the capacity to have your own wants separate from what your family system installed — is the developmental prerequisite for purpose. Without it, every "what do I want?" question produces silence or the wants of others.
-
-### The Good Child Pattern
-
-The most common family-of-origin block: the child who learned that love was conditional on being helpful, compliant, and small. They can identify what others need but not what they themselves want. They feel guilty pursuing their own direction, are drawn to helping professions as caretaking, and struggle to say no or claim space without feeling selfish.
-
-The reframe: genuine helping leaves you energized. Caretaking leaves you depleted. The question is not "how can I find purpose?" but "why am I using helping to avoid developing my own self?"
-
-### Key Scripts
-
-**"I know what I should do but I can't seem to want it":** The "should" is a signal — it often means what you should do is what someone else needed you to do. If you cannot locate any wanting separate from obligation, the problem may be differentiation, not motivation.
-
-**"I feel selfish when I pursue my own direction":** Selfish is the feeling installed when you first tried to have your own needs. It is not a valid signal about direction — it is a defense response from a family system that needed you to stay small.
-
-**"I help people but feel empty afterward":** That is a caretaking pattern, not a purpose. Genuine helping energizes. Caretaking depletes.
-
-**"I don't have passion — nothing feels like it":** Some people lack passion because their passion capacity was consumed by the family system. Rebuild the capacity to have desires before expecting passion.
-
-If someone has worked through the purpose frameworks and still cannot locate a self separate from their family adaptation → refer to family systems therapy, Codependents Anonymous, or individual therapy focused on differentiation.
-
 → Full content: [Family Purpose Formation](references/family-purpose-formation.md)
-
----
 
 ## Framework: Experimentation — Finding Direction Through Doing
 
@@ -732,6 +718,22 @@ The "imposter" feeling is not a signal that you shouldn't charge — it is the t
 - Saying yes to things that pay but actively make you worse at the thing you care about
 
 If any of these are true, pause and redefine your "what I will not do for money" line before continuing.
+### The Platform Problem — Where to Build When You're Starting
+
+"Build it and they will come" is the graveyard of good intentions. The hard part is not the work — it is where to put it so people can find it.
+
+**Four platform types and when to use each:**
+
+1. **Existing communities** (Reddit, Discord, Slack): Best for validating demand before building anything. Join conversations around the problem you solve. Contribute value and let people discover you organically.
+
+2. **Newsletter** (Substack, Beehiiv, Buttondown): Best for building a direct relationship with people who care about your thinking. Email is the only channel you truly own. Requires weekly minimum output.
+
+3. **Short-form content** (TikTok, Reels, YouTube Shorts): Best for reaching new people at scale and discovering whether your message resonates. Use it to find the people who respond to your work, then move them to your email list.
+
+4. **Long-form** (YouTube, podcast, blog): Best for deep thinking and building expertise visibility. Smaller audience but more committed.
+
+**Consistency beats presence.** Pick one discovery channel and be consistent there for 90 days before adding another.
+
 
 → Full content: [Monetizing Purpose](references/monetizing-purpose.md)
 
@@ -882,7 +884,31 @@ SDT identifies three **universal psychological needs** that must all be met for 
 | **Competence** | Mastery and growth | Challenge at edge of skill | Boredom, stagnation |
 | **Relatedness** | Genuine human connection | Intimate + communal bonds | Isolation, loneliness |
 
-> **High autonomy + high relatedness + low competence = talented people who feel empty.** Autonomy without competence is drift.
+### The Three Needs and How They Interact
+
+The three needs don't operate in isolation — they interact in specific, predictable ways:
+
+**Autonomy without Competence = Drift.** The person who "does their own thing" but has no mastery produces nothing durable. Affectation, not purpose.
+
+**Competence without Autonomy = Burnout.** The talented performer with no ownership — executing other people's vision — eventually burns out. The competence was real, but it served someone else's purpose.
+
+**Autonomy + Competence without Relatedness = The Brilliant Hermit.** Skills developed, choices made, no genuine human connection. The work floats without anchor. Purpose requires witnesses.
+
+### Competence as the Primary Purpose Signal
+
+Of the three needs, **competence is the most diagnostically useful** for purpose discovery. When you are doing something that genuinely interests you, you improve rapidly — the learning curve is steep, you seek feedback, you return voluntarily. This is the hallmark of the competence-interest intersection.
+
+> **The zone where skill and engagement converge is where purpose is most likely to live.** Look for the thing where improvement feels natural and where "good enough" doesn't exist because you can't stop getting better.
+
+### The Causality Orientations
+
+SDT's **Causality Orientations Theory** distinguishes three dominant approaches to action:
+
+**Autonomy Orientation:** Act from genuine interest. Less influenced by external rewards or punishments. Setbacks are informational, not identity-defining.
+
+**Control Orientation:** Act to achieve rewards or avoid punishments. Motivation is external — you do things because of consequences, not the activity itself.
+
+**Impersonal Orientation:** Act from helplessness and low confidence. Actions are not expected to lead to outcomes. Associated with purpose collapse.
 
 > **SDT is the scaffold; the other frameworks fill in the practice.** Craftsman (competence), Identity (autonomy), Flow (real-time competence), Attitudinal values (autonomy within constraint).
 
@@ -895,16 +921,6 @@ Purpose without contribution to others is half-formed. SDT's relatedness need �
 → Full content: [Service Contribution Purpose](references/service-contribution-purpose.md)
 
 ## Framework: Philosophy, Religion, and Major Wisdom Traditions
-
-Major religious and philosophical traditions converge: **purpose is cultivated through disciplined practice and service to something larger than the self.**
-
-Key threads:
-- **Stoicism:** Purpose = accepting what you cannot control, acting with virtue in what you can
-- **Buddhism:** Clinging to a fixed self causes suffering; purpose arises through engagement that releases the self
-- **Christianity:** Purpose is vocation — a calling that precedes and transcends the individual
-- **Existentialism:** No predetermined purpose exists; you create one through authentic commitment
-
-The traditions disagree on metaphysics but converge on practice: engage, serve, show up, persist.
 
 → Full content: [Philosophy Traditions Purpose](references/philosophy-traditions-purpose.md)
 
@@ -1142,14 +1158,6 @@ Your top five **signature strengths** are the most actionable entry point. Take 
 
 ## Framework: Values Clarification (ACT-Inspired)
 
-Values differ from goals: a **goal** is achieved and done (motivation fades on arrival); a **value** is a direction you keep moving in — never completed, always alive. People pursuing goals arrive and find emptiness. People moving in a valued direction never run out of road.
-
-**The Values Sort (60 seconds):** Write "What I care about most, in roughly this order" — 5–10 qualities of engagement (genuine connection, growth, beauty, service), not achievements or people. Cross out anything performed. What's left is closer to your actual values.
-
-**"Used to Love" Inventory** (for disrupted direction): Answer from *before* the disruption — what did you used to lose track of time doing? Think in the shower before your thoughts became worry? The disruption blocked access, not erased your values.
-
-> Values are not meant to be understood. They are meant to be enacted. Acting imperfectly in the direction of your values moves you forward.
-
 → Full content: [Values Clarification](references/values-clarification.md)
 
 ## Framework: The Body and Movement — Purpose Through Physical Engagement
@@ -1255,12 +1263,10 @@ Suggest therapy, a career coach, or a support group when:
 - [ ] **Orphan audit:** after creating a references/ file, verify the `→ Full content:` link appears in SKILL.md immediately
 
 
-## Run History (Run 5 — Flow Expansion)
+## Run History (Run 8 — SDT Deep Dive + Three Migrations)
 
-- **Run 5 (current):** Flow States section expanded with two new subsections:
-  - *Flow Access Obstacles* — four specific blockers (comparison loop, difficulty calibration, time expectations, passive engagement) with precise fixes
-  - *Flow Triggers in Daily Life* — four evidence-based triggers: novelty within familiarity, deep embodiment, clear consequence, and the flow-before-flow paradox
-  - The Layer 1-3 inline summary condensed from 1,348 chars to a 6-line reference note pointing to flow-autotelic-training.md
+- **Run 8 (current):** SDT section deeply expanded (+1,721 chars): Three Needs Interaction framework, Competence as Primary Purpose Signal, Causality Orientations subtheory. Migrated Family-of-Origin (1,263→147), Philosophy (837→159), and Values (1,068→127) to references/. File now at 98,553 chars with 1,447 headroom. Bump 4.78.0 → 4.79.0
+- **Run 7:** Monetizing section: condensed Flow States subsections, new Platform Problem subsection; bump 4.77.0 → 4.78.0
 - **Run 1:** Ikigai three-question inventory + daily reframe added under Ikigai framework
 - **Run 2:** Frankl logotherapy deepened — existential vacuum, three pillars, Socratic method, dereflection
 - **Run 3:** Career capital + deliberate practice tactics
@@ -1268,4 +1274,3 @@ Suggest therapy, a career coach, or a support group when:
 
 ---
 
----
