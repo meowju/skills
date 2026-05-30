@@ -1,7 +1,7 @@
 ---
 name: purpose-finder
 description: "Use when someone feels lost, lacks direction, or is searching for meaning and motivation. Guide them through purpose discovery with honest, practical inquiry."
-version: 4.75.0
+version: 4.76.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -512,13 +512,31 @@ Csikszentmihalyi found some people enter flow far more readily than others. He c
 
 ### Self-Directed Flow Training — The Autotelic Path
 
-Csikszentmihalyi's research found that flow can be trained systematically through three progressive layers:
+ Csikszentmihalyi's research found that flow can be trained through three layers: attention renovation (Weeks 1–4), challenge-skill rebalancing (Weeks 5–12), and purpose integration (Months 3–12). The full protocol — including the Calibration Protocol, Competence Journal, and Autotelic Self-Test — is in the reference file.
 
-**Layer 1: Attention Training (Weeks 1–4)** — Build voluntary attention through 90-minute focus blocks with no devices. Each redirection of attention back to the task is a rep that strengthens the attention muscle. The Attention Renovation habit: 15 minutes of single-pointed focus each morning before opening any communication app.
+### Flow Access Obstacles — Why Flow Won't Arrive and What to Do About It
 
-**Layer 2: Challenge-Skill Rebalancing (Weeks 5–12)** — Flow sits between anxiety (task too hard) and boredom (task too easy). The Calibration Protocol: rate skill (1–10) and challenge (1–10) weekly. If bored, raise difficulty. If anxious, raise skill first. Keep challenge slightly above skill. The Competence Journal: log one moment of deep engagement per week, noting the challenge level and conditions.
+Csikszentmihalyi's research identified four obstacles that prevent people from accessing flow even when they have the skills and motivation. Each has a precise fix.
 
-**Layer 3: Purpose Integration (Months 3–12)** — Connect flow training to deeper purpose. The Meaningful Difficulty Audit distinguishes between flow activities with **purposeful extension** (connected outward to people, problems, contributions) vs. **pure engagement** (reward is the activity itself). Prioritize purposeful extension activities — these sustain meaning beyond the activity's death. The Autotelic Self-Test: *Am I doing this for the experience itself, or for what it will get me?*
+**1. The Comparison Loop.** Most people cannot enter flow because they are monitoring their performance from the outside — constantly comparing what they're doing to some external standard or other people's results. The monitoring produces self-consciousness, which is the primary flow-blocker. The fix: redirect attention back to the activity itself. Csikszentmihalyi called this "merging action and awareness" — when you stop watching yourself from the outside and just do the thing, flow arrives.
+
+**2. The False Difficulty Calibration.** People stuck in boredom assume the problem is the activity itself. Usually the problem is that the challenge has been held constant while skills grew. The task that was challenging at level 2 is boring at level 10. The fix is not to quit — it is to add constraints, deadlines, or scope that raise the challenge back to the edge. Boredom is a signal: your skill has outpaced the challenge. Raise it.
+
+**3. Unrealistic Time Expectations.** Flow requires sustained, uninterrupted time blocks — typically 60–90 minutes minimum. Most people schedule work in 20-minute fragments between meetings and obligations. With that setup, flow is structurally impossible. Fix: identify one daily 90-minute window and protect it absolutely.
+
+**4. Passive Engagement.** Flow requires active response, not passive reception. Reading, watching, and listening are relaxation — not flow. The activity must demand something from you continuously.
+
+### Flow Triggers in Daily Life — Beyond the Formal Protocol
+
+Beyond the three-layer protocol, research identifies conditions that reliably trigger flow across contexts:
+
+**1. Novelty within familiarity.** New challenges within a known skill domain produce flow more readily than entirely novel activities. The skill provides competence; the novelty provides stretch. A chess player exploring a new opening variant. A writer trying a genre for the first time.
+
+**2. Deep embodiment.** Activities that engage the body fully — rock climbing, surgery, musical performance — produce flow more readily than purely cognitive tasks. For cognitive workers, add a physical component: take notes by hand, work standing, let the body be a processing partner.
+
+**3. Clear consequence.** When the work matters to someone else, or when failure has a visible cost, the challenge-skill balance shifts into flow territory more readily. Volunteer work, mentorship, and collaborative projects trigger flow at higher rates than solitary projects.
+
+**4. The flow-before-flow paradox.** People most likely to enter flow have developed the habit of entering flow — not the skill of forcing it. Each flow episode makes the next one more accessible. Enter an imperfect approximation and let the engagement self-reinforce.
 
 → Full content: [flow-autotelic-training.md](references/flow-autotelic-training.md)
 
@@ -1235,4 +1253,19 @@ Suggest therapy, a career coach, or a support group when:
 - [ ] **Pre-patch size gate:** file > 80k chars → compute combined delta before writing; sequential patches accumulate invisible byte drift near the limit
 - [ ] **WSL size rule:** use Python `pathlib.read_text()` for size (terminal `wc -c` can be 2x stale); Python is authoritative
 - [ ] **Orphan audit:** after creating a references/ file, verify the `→ Full content:` link appears in SKILL.md immediately
+
+
+## Run History (Run 5 — Flow Expansion)
+
+- **Run 5 (current):** Flow States section expanded with two new subsections:
+  - *Flow Access Obstacles* — four specific blockers (comparison loop, difficulty calibration, time expectations, passive engagement) with precise fixes
+  - *Flow Triggers in Daily Life* — four evidence-based triggers: novelty within familiarity, deep embodiment, clear consequence, and the flow-before-flow paradox
+  - The Layer 1-3 inline summary condensed from 1,348 chars to a 6-line reference note pointing to flow-autotelic-training.md
+- **Run 1:** Ikigai three-question inventory + daily reframe added under Ikigai framework
+- **Run 2:** Frankl logotherapy deepened — existential vacuum, three pillars, Socratic method, dereflection
+- **Run 3:** Career capital + deliberate practice tactics
+- **Run 4:** Decision frameworks expanded — Motivation Stack, Two-Minute Rule, Rest Deficit
+
+---
+
 ---
