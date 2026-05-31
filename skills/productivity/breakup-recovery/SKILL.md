@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.80.0
+version: 4.98.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -925,30 +925,17 @@ Your brain processes romantic rejection through four overlapping neurochemical s
 
 Anger is the most misunderstood phase of breakup recovery. Most people try to skip it — suppressing it or trying to "move past it" before it has run its course. Anger is not the opposite of healing. It is part of it.
 
-**Healthy vs. unhealthy anger:** Healthy anger is temporary and act-specific — it rises, delivers its message, and makes room for grief. Unhealthy anger is persistent, diffuse, and self-directed — it depletes energy and blocks grief from arriving.
+**Healthy vs. unhealthy anger:** Healthy anger is temporary and act-specific — it rises, delivers its message, and makes room for grief. Unhealthy anger is persistent, diffuse, and self-directed — it depletes energy and blocks processing.
 
-**Anger as protector:** Most anger after breakup is secondary — a defense against deeper pain (hurt, fear, shame). Let it speak before you move through it.
+Anger that spirals into obsessive replay of wrongdoings is rumination, not healthy anger. The distinction: anger *mobilizes* you toward boundary repair; rumination *paralyzes* you in the story. Healthy anger asks "what do I need?" Rumination asks "why did they do this to me?"
 
-**The anger-to-grief transition:** Anger peaks in weeks 1–3, appears to vanish around week 4–5, then grief breaks through in weeks 6–12. This looks like regression but is actually the correct sequence — grief cannot arrive until anger has cleared the way.
+Many people turn anger inward — blaming themselves, feeling shame instead of grief. This is the self-anger trap. Signs: "I should have seen this coming," "I was stupid for trusting them." The fix: redirect from self-blame to boundary clarity.
 
-→ Full content: [anger-therapeutic-value.md](references/anger-therapeutic-value.md) — the clinical case for anger: why suppressing it delays grief, how anger precedes sadness, and what "anger completion" looks like neurologically
-→ Full content: [anger-processing-research.md](references/anger-processing-research.md) — anger expression research: writing vs. physical discharge, what the evidence shows works, and who benefits most from each method
-→ Full content: [male-anger-patterns.md](references/male-anger-patterns.md) — male-identifying people and anger: why anger suppression is culturally reinforced, the risks of self-directed anger, and how to create permission for full emotional expression
-→ Full content: [anger-completion-cycles.md](references/anger-completion-cycles.md) — anger cycles: how the first wave differs from the tenth, why anger returns around anniversaries, and how to recognize completion
-→ Full content: [anger-deep-condensed.md](references/anger-deep-condensed.md) — anger journaling prompts, when anger turns self-directed vs. appropriately outward, somatic discharge practices, and how to know when anger has run its course
-→ Full content: [anger-phase.md](references/anger-phase.md) — full anger phase breakdown: healthy vs. unhealthy anger, anger as protector of grief, the secondary anger mechanism, anger journaling, somatic discharge, and when anger turns self-directed
-→ Full content: [anger-first-cycle.md](references/anger-first-cycle.md) — the first anger cycle: why week 1–3 are the most dangerous, nervous system activation patterns, and how anger protects grief from arriving
-→ Full content: [social-anger.md](references/social-anger.md) — social anger: when your friends hate your ex, how to let them, why mutual friends are complicated, and when to let others feel it for you
-→ Full content: [somatic-anger-compendium.md](references/somatic-anger-compendium.md) — somatic anger practices: bilateral stimulation, breathwork, movement-based discharge, micro-adjustments in the nervous system for managing acute anger activation
-→ Full content: [anger-neuroscience.md](references/anger-neuroscience.md) — the threat-response cascade, autonomic anger signatures, rumination vs. repetition, grief-anger sequencing, and physical anchoring during acute activation.
-→ Full content: [polyvagal-breakup.md](references/polyvagal-breakup.md) — Porges' three-tier autonomic model, dorsal vagal vs. depression distinction, co-regulation as grief intervention, body scan protocol, and the window of tolerance framework.
+Anger is stored in the body. Effective release: vigorous exercise, long walks, breathwork that increases heart rate variability, hitting a pillow, speaking anger out loud in private. Avoid: suppressing to "be calm," excessive alcohol, lashing out at others.
 
-**The key principle:** Anger is neurologically consuming because the amygdala fires faster than the prefrontal cortex can regulate. **Discharge first, then meaning-make.** Trying to cognitively process during peak sympathetic activation is ineffective — the order matters.
+Anger needs to *complete* — not be bypassed. A healthy anger cycle: feel it → acknowledge it → express it (in a way that doesn't harm others or property) → let it move through. Journaling: write the angry letter you won't send, then destroy it.
 
-**The chronic anger trap:** When anger persists past week 6, the question is not *should I still be angry?* but *what is the anger doing for me?* If it has become a lifestyle, it may be protecting you from grief you haven't finished feeling, or confirming an identity that feels safer than the uncertainty of rebuilding. Both are information, not weakness. The exit is the same door you entered: feeling the thing underneath it.
-
-
-→ Full content: [helping-friend-anger-phase.md](references/helping-friend-anger-phase.md) — extracted: anger completion research, Goldman 2006, the wave timeline, somatic discharge methods, self-directed anger reframe, when anger turns harmful, and completion markers.
+→ Full content: [anger-phase.md](references/anger-phase.md) — anger-neuroscience, anger-shame research, somatic anger release, when anger hides deeper grief, attachment injury dimension
 
 ## Body-Based Recovery: Processing Grief Through the Nervous System
 
@@ -1023,101 +1010,88 @@ The answers become the architecture for what comes next.
 → Full content: [dating-after-breakup.md](references/dating-after-breakup.md) — rebound science, readiness benchmarks, and green flags for new relationship readiness.
 
 ## Helping a Friend Through a Breakup
+> *"When a person is being heard — and heard non-judgmentally — they can begin to listen to themselves, to understand what they are feeling and experiencing."* — Carl Rogers
 
-> *"The single most helpful thing someone did for me was simply not leaving me alone with my thoughts. The second most helpful was not trying to fix anything."*
-
-Research (Sbarra, 2022; Williams, 2017) shows perceived social support predicts recovery speed better than the severity of the breakup itself. But quality of support matters — well-intentioned help can accidentally make things worse.
+The research on social support and breakup recovery is clear: *how* you show up matters as much as *that* you show up. One deeply attuned friend outperforms a circle of semi-engaged contacts (Sbarra & Emery, 2005).
 
 ### What Actually Helps vs. What Makes It Worse
 
-| Helps | Hurts |
+Research consistently finds emotional validation outperforms advice-giving in the immediate aftermath of loss (Fralsey & Shaver, 1999; Kellas et al., 2010). A table of evidence-based comparisons:
+
+| Research-Supported Phrase | Why It Works |
 |---|---|
-| Showing up without agenda | "I knew this would happen" |
-| Validating feelings without fixing | Pushing them to "move on" quickly |
-| Distraction when requested | Forcing conversation about it |
-| Practical help (meals, rides) | Overselling your own similar experience |
-| Checking in consistently over weeks | Grand gestures then disappearing |
-| Sitting with silence | Filling every pause with advice |
+| "Of course you're devastated — this was real and it mattered." | Validates the reality of the loss |
+| "I'm here. I'm not going anywhere." | Provides consistent relational presence |
+| "What you're feeling makes complete sense given what you've been through." | Normalizes without minimizing |
+| "You seem to feel really [betrayed / abandoned / heartbroken] — is that right?" | Empathic reflection (Rogers' core condition) |
+| "We don't have to talk. I can just sit here with you." | Space without pressure |
+| "This doesn't change who you are or what you're worth." | Counteracts identity collapse |
 
-**The frequency error:** Intense support in week one, then vanishing in week three — exactly when the friend hits the hardest part. Commit to lower-intensity consistent check-ins rather than high-intensity then nothing.
-
-### Active Listening Techniques
-
-Your job is to *witness*, not to solve. Frame: "I'm not going to try to fix this. I'm just going to be here while you feel it."
-
-- **Label the emotion without over-identifying:** "You're in a lot of pain right now" (good) vs. "I know exactly how you feel" (blocks them from being heard)
-- **Ask one open question per conversation:** "What's today been like?" rather than rapid-fire questions
-- **Sit with silence:** When they go quiet, don't fill the gap — the pause is them processing
-- **Don't problem-solve:** "Have you thought about..." blocks the grieving process. If they want advice, they'll ask
-- **Reflect back what you hear:** "It sounds like today was especially hard because..." makes them feel witnessed, not analyzed
+| Research-Documented Harmful Phrase | Why It's Harmful |
+|---|---|
+| "There are plenty of fish in the sea" | Minimizes the loss; signals pain is unwarranted |
+| "You'll find someone better / Time heals all wounds" | Imposes recovery timeline; invalidates present pain |
+| "Everything happens for a reason" | Premature silver lining; dismisses gravity of loss |
+| "I always knew they were wrong for you" | Ex-bashing increases rumination; may contradict ambivalence |
+| "Here's what you should do..." | Premature problem-solving; removes agency |
+| "I can't imagine how hard this is for me to watch..." | Ring Theory violation — dumps emotional burden back onto the grieving person |
 
 ### The Ring Theory — Comfort In, Dump Out
 
-**The Ring Theory** (Dr. Susan Silk): the person in crisis sits at the center. Support flows **inward** (comfort toward center). Venting flows **outward** (dump outside your circle). Your job as a friend is one ring out — comfort inward, dump outward.
+**Origin**: Dr. Philip Slade and Dr. Susan Margolies — grief and trauma support.
 
-If you find yourself wanting to say *"Honestly, I never liked them anyway"* — that's your experience, not theirs. Save it for another friend or a journal.
+Imagine the crisis as concentric rings radiating outward from the person at the center:
+- **Center ring**: The heartbroken person — receives support
+- **Second ring**: Their closest supporters (you) — comfort inward, dump outward
+- **Third ring**: Extended friends, coworkers
+- **Outer rings**: Acquaintances
 
-**Listen first, advise second — the sequence:**
+**The rule**: Comfort inward. Dump outward. The person at the center is not responsible for managing anyone else's emotional response to their pain.
 
-| Phase | What to do | Example |
-|---|---|---|
-| Acute pain (crying, shock) | Validate, don't solve | *"That's completely reasonable to feel this way"* |
-| Processing (asking "what do I do") | Advice welcome | *"Have you considered...?"* |
-| Rumination (same story, no new detail) | Redirect gently | *"What's one small thing that might help today?"* |
+A common Ring Theory violation: a supportive friend vents to the heartbroken person about "how hard it is to watch them suffer." If you feel that urge, talk to someone in an outer ring or write it in a journal.
 
-Signs a friend is ready for advice: they ask directly, describe the same problem without new detail, start considering next steps unprompted. Signs they need you to hold space: acute tears or shock, recounting without processing yet.
+### Co-Rumination — When Processing Becomes Entrapment
 
-**Phrases that land:**
-- ✅ *"You didn't deserve that."* / *"That's a lot to carry."* / *"I'm not going anywhere."*
-- ❌ *"There are plenty of fish in the sea."* / *"Just focus on you."* / *"You're better off."*
+**Definition** (Rose et al., 2014): Repeatedly discussing the same problem, focusing on negative feelings, speculating about causes and consequences. In moderation, it reduces isolation and increases perceived intimacy. In excess, it predicts *increased rumination* and *higher depressive symptoms* over time.
 
-→ Full content: [helping-friend-research.md](references/helping-friend-research.md) — Ring Theory breakdown, active listening transcripts, Gottman check-in scripts, and phrases that help vs. hurt
+**The balancing act**: Allow your friend to process, but gently introduce forward-looking elements when conversations become exclusively循环al. A useful redirect: *"We've talked about this particular moment a lot — do you want to just sit with how hard this is, or shall we think about something else for a bit?"*
+
+### Active Listening Techniques (Rogers-Based)
+
+- **Paraphrasing**: reflect back the essential content of what was said — not your interpretation
+- **Emotional labeling**: "It sounds like you're feeling..." — put their feelings into words
+- **Silence with presence**: allow space without rushing to fill it
+- **No interrupting**: resist the urge to redirect, advise, or share your own story
+- **Witnessing**: "Thank you for telling me this. I'm honored to be the person you can say this to." — research shows this alone reduces shame
 
 ### How to Check In Without Being Pushy
 
-Instead of "How are you feeling?" (demands emotional labor):
-- "I was thinking about you today. No need to reply, just know I'm here."
-- "Want to go for a walk? Or grab coffee? Your call."
-- "Not asking for a response — sending you this song because it reminded me of you."
+- "No need to reply — just wanted you to know I'm thinking of you."
+- "I have some time tomorrow if you want to talk, or not talk."
+- "I'm not asking how you're doing. I'm just here."
+- "You don't owe anyone a performance of being okay."
 
-**Avoid:** "How are you doing? ❤️" (demands performance) or "At least you can move on now" (dismissive). The text they don't respond to? Don't take it personally — send another in a few days. The signal that matters is: you're still there.
-
-**The frequency error:** Weeks two through four are highest-risk for social withdrawal. Commit to lower-intensity consistent check-ins — once a week for two months beats flooding them for two days then disappearing.
+Avoid: "How are you doing?" in a tone that signals expectation of a positive answer; any timeline implication like "You should be over this by now."
 
 ### When to Escalate — Recognizing When You Need Backup
 
-**Recommend professional help when:**
-- Self-harm thoughts or statements → **call/text 988 immediately; stay until help arrives**
-- Complete social withdrawal lasting more than 2 weeks
-- Dissociation ("I feel unreal / disconnected from everything")
-- Grief not reducing after 8+ weeks
-- History of trauma that this breakup has reactivated
-- Not eating/sleeping/basic functioning after 6+ weeks
-- Using substances to cope increasingly
-- **You're feeling overwhelmed** — your capacity to help is finite; this is not failure
+Warning signs requiring professional support:
+- Expressions of worthlessness, hopelessness, or being a burden
+- Self-harm references (even in jest)
+- Complete social withdrawal lasting more than 2-3 weeks
+- Sudden calm after intense grief (possible disengagement signal)
+- Substance use escalation
 
-**How to suggest therapy without stigmatizing:** "A therapist might be really helpful here — not because you're broken, but because grief this heavy is worth having real support for. Want me to help you find someone?" — not "You need professional help" (othering) or "Have you tried yoga?" (dismissive).
+Script: *"I'm really concerned about you. I'm going to help you find someone to talk to."* Follow through — don't leave it as an abstract suggestion.
 
-**Friends who refuse help:** Don't force it. Keep showing up with lower-intensity asks — a walk, a meal, a movie is still presence.
+### The Anniversary Dip — Supporting Through Memory Triggers
 
+Anniversaries and emotionally significant dates are high-risk for grief reactivation. Proactive support:
+- Ahead of the date: "I know [month/year] is hard. I'm not expecting you to be okay. I'm just here."
+- Don't assume they'll want to be alone OR want to be surrounded — ask specifically
+- After the date: "How was it for you?" not "Did you survive it?"
 
-### When Your Friend Is in the Anger Phase
-
-> *"You cannot carry a friend through their anger. But you can let them feel it without judgment — and that is the most valuable thing anyone can offer."*
-
-Anger is the most misunderstood phase of breakup recovery — by the person going through it *and* by the people trying to support them. Your instinct to help them move through it or calm down is usually counterproductive. Anger being felt does not need to be solved. It needs to be witnessed.
-
-**Key what-to-dos:**
-- **Let them be angry without trying to calm them down.** "Calm down" implies the anger is excessive. Anger needs to run its course.
-- **Name the anger as valid.** "You're right to be furious about what they did." "What they did was unfair and you have every right to be angry about it."
-- **Ask specific questions about what happened** — not "how are you feeling?" but "what happened? What did they do specifically?"
-- **Offer physical outlets** — movement metabolizes the cortisol and adrenaline that anger mobilizes.
-- **Let them repeat the story** — the story needs to be told until it is done. This is completion, not rumination.
-
-**Signs anger is completing vs. getting stuck:** Completing: same story told with less charge; person becoming tired rather than activated; grief surfacing. Stuck: charge not reducing despite multiple tellings; worsening physical symptoms without relief.
-
-→ Full content: [friend-support-anger-phase.md](references/friend-support-anger-phase.md) — full section: name the anger scripts, physical outlet suggestions, what makes it worse (forbidden responses), and completion vs. stuck signs.
-
+→ Full content: [helping-friend-research.md](references/helping-friend-research.md) — co-rumination research, Sbarra & Emery longitudinal study, Kellas support quality research, Ring Theory source materials, and additional phrase scripts
 
 ## Secondary Grief — When You're Grieving More Than the Relationship
 
