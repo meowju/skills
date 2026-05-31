@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.76.0
+version: 4.80.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -102,6 +102,12 @@ If every relationship ends the same way, the variable is not them — it's the p
 **The growth paradox:** Growth requires the pain to be fully felt. Suppressing grief to "move forward" prevents post-traumatic growth. You have to go *through* to get *beyond*.
 
 **Active growth indicators:** "I learned I'm stronger than I thought" + genuine evidence; "I know what I need in a relationship now" (specific, behavioral); "I understand my own patterns in a way I didn't before" (self-awareness, not self-blame).
+
+**PTG timeline:** Growth typically begins 6–18 months after the event (Tedeschi & Calhoun, 2004). The first months are for survival — if you're 6 weeks out, you're in the right phase.
+
+**Real vs. false growth:** Real PTG: "I know what I need now" (specific, behavioral) vs. "I don't need anyone" (armor as generalization). Real PTG: "I'm more resilient than I knew" (evidenced) vs. "I can handle anything" (intellectual bypass). Real PTG: "My priorities are clearer" (values) vs. "I don't waste time" (emotional constriction).
+
+**The meaning-making practice:** 20 minutes of structured narrative writing, 3x/week — most evidence-backed PTG intervention for romantic loss (Stroebe et al., 2017).
 
 → Full content: [ptg-breakup.md](references/ptg-breakup.md) — Tedeschi & Calhoun's PTG framework, five domains of post-trauma growth, meaning-making, and what predicts who grows after romantic loss.
 
