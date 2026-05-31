@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.99.0
+version: 5.5.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -173,6 +173,7 @@ Not all heartbreak is equal. Some activate what therapists call an **attachment 
 **What helps specifically:** Bottom-up somatic approaches (EMDR, somatic experiencing, AEDP) work on the limbic-level threat response that talk therapy cannot reach. If you suspect attachment injury, seek a therapist trained in attachment-based trauma work, not just grief support.
 
 → Full content: [attachment-injury.md](references/attachment-injury.md)
+→ Full content: [earned-secure-pathways-injury.md](references/earned-secure-pathways-injury.md) — earned secure pathways for attachment injury, four evidence-based correction pathways
 
 
 ## Why Breakups Are Hardest at Night: Sleep Disruption, 3AM Spiraling & the Insomnia-Grief Cycle
@@ -925,17 +926,41 @@ Your brain processes romantic rejection through four overlapping neurochemical s
 
 Anger is the most misunderstood phase of breakup recovery. Most people try to skip it — suppressing it or trying to "move past it" before it has run its course. Anger is not the opposite of healing. It is part of it.
 
-**Healthy vs. unhealthy anger:** Healthy anger is temporary and act-specific — it rises, delivers its message, and makes room for grief. Unhealthy anger is persistent, diffuse, and self-directed — it depletes energy and blocks processing.
+**Healthy vs. unhealthy anger:** Healthy anger is temporary and act-specific — it rises, delivers its message, and makes room for grief. Unhealthy anger is persistent, diffuse, and self-directed — it depletes energy and blocks processing. Anger that spirals into obsessive replay is rumination, not healthy anger. The distinction: anger *mobilizes* you toward boundary repair; rumination *paralyzes* you in the story.
 
-Anger that spirals into obsessive replay of wrongdoings is rumination, not healthy anger. The distinction: anger *mobilizes* you toward boundary repair; rumination *paralyzes* you in the story. Healthy anger asks "what do I need?" Rumination asks "why did they do this to me?"
+**The self-anger trap.** Many turn anger inward — blaming themselves, feeling shame instead of grief. Signs: "I should have seen this coming," "I was stupid for trusting them." The reframe: you made the best decision you could with the information you had. That is not stupidity — that is learning.
 
-Many people turn anger inward — blaming themselves, feeling shame instead of grief. This is the self-anger trap. Signs: "I should have seen this coming," "I was stupid for trusting them." The fix: redirect from self-blame to boundary clarity.
+**Anger is stored in the body.** Effective release: vigorous exercise, long walks, breathwork, hitting a pillow, speaking anger out loud in private. The destruction ritual: write the angry letter you won't send, then destroy it. Anger needs to *complete* — not be bypassed.
 
-Anger is stored in the body. Effective release: vigorous exercise, long walks, breathwork that increases heart rate variability, hitting a pillow, speaking anger out loud in private. Avoid: suppressing to "be calm," excessive alcohol, lashing out at others.
+**Anger and grief are partners.** Anger is the protest response to separation (Bowlby, 1969). When anger won't resolve, it's often because the grief underneath hasn't been fully felt. The sequence: anger → grief → grief → integration. You can't skip steps.
 
-Anger needs to *complete* — not be bypassed. A healthy anger cycle: feel it → acknowledge it → express it (in a way that doesn't harm others or property) → let it move through. Journaling: write the angry letter you won't send, then destroy it.
+**The anger journaling protocol:**
+1. **Name it** (2 min): "I am angry because…" — specific. "They chose to leave without explanation" is anger; "they left me" is not.
+2. **Locate it in the body** (2 min): Jaw? Chest? Hands? Describe it precisely.
+3. **Express it safely** (5–10 min): Speak out loud in private. Hit a pillow. Write the letter you won't send — then destroy it.
+4. **Move it through**: Vigorous exercise, brisk walking, fast-exhale breathwork (2:1 ratio).
+5. **Turn toward grief** (when ready): Ask "what am I actually grieving?" beneath the anger — usually the future you imagined, the person you thought they were.
 
-→ Full content: [anger-phase.md](references/anger-phase.md) — anger-neuroscience, anger-shame research, somatic anger release, when anger hides deeper grief, attachment injury dimension
+**Protracted anger trap.** When every story about the ex starts with "they" as villain, and you can't mention them without visible anger — this is rumination with a narrative, not healing. Anger has served its purpose when it delivers boundary clarity ("I deserved better"). Prolonged diffuse anger without grief is a stall.
+
+**What anger is trying to tell you.** Anger = boundary signal ("this boundary was crossed"). The question it asks: "What do I need going forward?" Rumination asks: "Why did they do this to me?" One points forward; the other loops backward.
+
+→ Full content: [somatic-anger-compendium.md](references/somatic-anger-compendium.md) — where anger lives in the body, somatic discharge protocols
+→ Full content: [anger-phase.md](references/anger-phase.md) — anger-neuroscience, anger-shame research, when anger hides deeper grief
+→ Full content: [anger-neuroscience.md](references/anger-neuroscience.md) — limbic threat, prefrontal conflict, why anger feels consuming
+→ Full content: [anger-shame-research.md](references/anger-shame-research.md) — why anger and shame get mixed up, the boundary signal
+→ Full content: [anger-support.md](references/anger-support.md) — how to help a friend through anger, what not to do
+
+### Self-Compassion — War Against Yourself
+
+Cruelest battles after a breakup are not with your ex — they are with yourself. Kristin Neff's self-compassion framework (2003): **self-kindness** (talk to yourself as you'd talk to a good friend), **common humanity** (*"pain is part of human experience"* not *"I am uniquely broken"*), and **mindfulness** (hold pain without over-identifying).
+
+**The reframe:** *"I was doing my best with what I knew. Now I know more."*
+
+**Self-trust repair:** Breakup shakes felt self-trust. Rebuild it through small kept promises — showing up, following through, honoring boundaries. Each self-witnessed commitment rebuilds what the rejection damaged.
+
+→ Full content: [self-compassion.md](references/self-compassion.md)
+
 
 ## Body-Based Recovery: Processing Grief Through the Nervous System
 
@@ -1011,6 +1036,8 @@ The answers become the architecture for what comes next.
 
 ## Helping a Friend Through a Breakup
 > *"When a person is being heard — and heard non-judgmentally — they can begin to listen to themselves, to understand what they are feeling and experiencing."* — Carl Rogers
+
+→ Full content: [friend-support-anger-phase.md](references/friend-support-anger-phase.md) — how to help a friend through the anger phase, witnessing without fixing
 
 The research on social support and breakup recovery is clear: *how* you show up matters as much as *that* you show up. One deeply attuned friend outperforms a circle of semi-engaged contacts (Sbarra & Emery, 2005).
 
