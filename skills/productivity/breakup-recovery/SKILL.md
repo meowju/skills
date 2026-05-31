@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.68.0
+version: 4.70.1
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -38,10 +38,14 @@ Breakup grief is not metaphorically painful. It is *neurologically* identical to
 
 **The neurochemistry of heartbreak** (Fisher et al., 2005; Sbarra & Hazan, 2017):
 
-- **Dopamine withdrawal:** Romantic love is literally addictive. Being with your partner triggered dopamine release. When that person is gone, your dopamine system crashes. The craving you feel is not love — it is withdrawal. It will pass, but it will feel unbearable.
-- **Oxytocin withdrawal:** Oxytocin (the "bonding hormone") drops post-breakup, causing the physical sensations of longing, aches, and the sense that something is missing from your chest. It is hormonal, not emotional weakness.
-- **Cortisol spike:** Breakups elevate the stress hormone, making sleep impossible, appetite disappear, and the nervous system stay in threat mode.
-- **Serotonin drop:** Post-breakup serotonin reduction produces obsessive thinking and compulsive behaviors — the same pattern seen in OCD. This is why you can't stop checking their social media. It is a neurochemical loop, not a character flaw.
+- **Dopamine withdrawal:** Romantic love activates the same reward circuitry as addiction. When your partner is gone, dopamine crashes — the craving you feel is withdrawal, not love. It will pass; it will feel unbearable.
+- **Oxytocin withdrawal:** The "bonding hormone" drops post-breakup, causing chest aching and physical longing. It is hormonal, not weakness.
+- **Cortisol spike:** Stress hormone elevates, disrupting sleep, appetite, and keeping the nervous system in threat mode.
+- **Serotonin drop:** Produces OCD-pattern obsessive thinking and compulsive checking — why you can't stop scrolling their profile. A neurochemical loop, not a character flaw.
+
+### Why Breakups Feel Like Physical Pain
+
+Your brain does not distinguish between social rejection and physical injury. Eisenberger et al. (2003) used fMRI to show that social rejection activates the **anterior cingulate cortex (ACC)** — the same region that processes physical pain. A 2011 study by DeWall et al. extended this: taking acetaminophen (Tylenol) daily for three weeks reduced reported social pain intensity compared to placebo. The implication: the heartbreak you feel is processed on the same neural hardware as a physical wound. You are not overreacting. Your brain is treating rejection as injury.
 
 → Full content: [brain-chemistry-breakup.md](references/brain-chemistry-breakup.md) — Fisher's fMRI findings, dopamine-oxytocin interaction, cortisol dynamics, and the 30-day acute grief window.
 
@@ -80,7 +84,6 @@ If every relationship ends the same way, the variable is not them — it's the p
 → Full content: [research-ground-truth.md](references/research-ground-truth.md) — Sbarra & Hazan (2017), Fisher's dopamine findings, Field et al. (2009), the Dual-Process Model (Stroebe & Schut, 1999), and what longitudinal studies show about who recovers and why.
 
 → Full content: [somatic-practices.md](references/somatic-practices.md) — complete protocols for vagus-nerve breathing, bilateral tapping, cold-water immersion, 5-4-3-2-1 grounding, progressive muscle relaxation, and high-intensity movement for hypoarousal.
-
 
 ## Building Resilience Through Post-Traumatic Growth
 
@@ -339,8 +342,6 @@ Not every breakup is a lesson. Some are just losses. But almost everyone who has
 
 **What not to do:** Don't make permanent decisions about the relationship during acute phase. Don't catastrophize — your brain is catastrophizing enough. Don't compare your grief to others' — grief has no standardized timeline.
 
-
-
 ## Building Resilience Through Breakup Recovery
 
 > *"The wound is the place where the Light enters you."* — Rumi
@@ -592,8 +593,6 @@ You cannot control what your ex says to mutual friends, or what mutual friends d
 > "I know you're trying to help, but right now I can't hear about them without it setting me back. Let's talk about something else."
 
 **If the ex is badmouthing you:** Do not correct the record. People who spread misinformation reveal themselves; people who hear it draw their own conclusions.
-
----
 
 ---
 
@@ -921,8 +920,6 @@ Your brain processes romantic rejection through four overlapping neurochemical s
 → Full content: [neurobiology-breakup.md](references/neurobiology-breakup.md) — full neurochemical breakdown, prediction error problem, memory encoding disruption, and attachment system chemistry.
 
 
-
-
 ## The Anger Phase — Why It's Necessary and How to Work With It
 
 Anger is the most misunderstood phase of breakup recovery. Most people try to skip it — suppressing it or trying to "move past it" before it has run its course. Anger is not the opposite of healing. It is part of it.
@@ -1030,11 +1027,27 @@ Your job is to *witness*, not to solve. Frame: "I'm not going to try to fix this
 - **Don't problem-solve:** "Have you thought about..." blocks the grieving process. If they want advice, they'll ask
 - **Reflect back what you hear:** "It sounds like today was especially hard because..." makes them feel witnessed, not analyzed
 
-### When to Give Advice vs. Just Listen
+### The Ring Theory — Comfort In, Dump Out
 
-**Emotional validation first, advice second.** Lead with "that's really hard" before "have you considered..."
+**The Ring Theory** (Dr. Susan Silk): the person in crisis sits at the center. Support flows **inward** (comfort toward center). Venting flows **outward** (dump outside your circle). Your job as a friend is one ring out — comfort inward, dump outward.
 
-Signs a friend is ready for advice: they ask directly, they describe the same problem without new detail, they start considering next steps unprompted. Signs they need you to just hold space: acute tears or shock, recounting the event without processing it yet, oscillating between states.
+If you find yourself wanting to say *"Honestly, I never liked them anyway"* — that's your experience, not theirs. Save it for another friend or a journal.
+
+**Listen first, advise second — the sequence:**
+
+| Phase | What to do | Example |
+|---|---|---|
+| Acute pain (crying, shock) | Validate, don't solve | *"That's completely reasonable to feel this way"* |
+| Processing (asking "what do I do") | Advice welcome | *"Have you considered...?"* |
+| Rumination (same story, no new detail) | Redirect gently | *"What's one small thing that might help today?"* |
+
+Signs a friend is ready for advice: they ask directly, describe the same problem without new detail, start considering next steps unprompted. Signs they need you to hold space: acute tears or shock, recounting without processing yet.
+
+**Phrases that land:**
+- ✅ *"You didn't deserve that."* / *"That's a lot to carry."* / *"I'm not going anywhere."*
+- ❌ *"There are plenty of fish in the sea."* / *"Just focus on you."* / *"You're better off."*
+
+→ Full content: [helping-friend-research.md](references/helping-friend-research.md) — Ring Theory breakdown, active listening transcripts, Gottman check-in scripts, and phrases that help vs. hurt
 
 ### How to Check In Without Being Pushy
 
@@ -1176,6 +1189,9 @@ Forgiveness is commonly mistaken for condoning, reconciling, or deciding the rel
 **Self-forgiveness paradox:** Most forgive an ex more easily than themselves. Self-blame keeps the wound open. Self-forgiveness doesn't mean you were right — it means you're willing to stop punishing yourself for being human.
 
 → Full content: [forgiveness-phase.md](references/forgiveness-phase.md) — self-forgiveness vs. other-forgiveness, the physiological cost of unforgiveness, and the Hoelterhof reframing exercise
+
+---
+
 ## Quick Scripts
 
 
