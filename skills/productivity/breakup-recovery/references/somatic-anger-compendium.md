@@ -18,8 +18,8 @@ Anger needs to complete its arc: mobilization (body prepares for action), expres
 
 5. **Grounding after discharge** — After physical exertion or expressive release, sit and notice what remains. The body is often more tired, more open. Check: is there grief underneath? If so, let it complete. Anger that has been fully felt makes room for sadness. That is the sequence. Do not rush through it.
 
-→ Full content: [references/somatic-practices.md](references/somatic-practices.md) — vagus nerve breathing, bilateral stimulation, progressive muscle release, and full protocols for each somatic technique.
-→ Full content: [references/anger-support.md](references/anger-support.md) — how to help a friend through the anger phase, what to say and what not to say.
+→ Full content: [somatic-practices.md](references/somatic-practices.md) — vagus nerve breathing, bilateral stimulation, progressive muscle release, and full protocols for each somatic technique.
+→ Full content: [anger-support.md](references/anger-support.md) — how to help a friend through the anger phase, what to say and what not to say.
 
 ---
 

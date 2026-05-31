@@ -34,6 +34,19 @@ Not all anger is the same. The skill is in distinguishing between anger that is 
 
 Healthy anger has a trajectory. It comes, it delivers its message, and it makes room for what comes next. Unhealthy anger — or unexpressed anger — gets stuck in the body and the mind, replaying the same violations on loop without ever completing.
 
+### The Wave Timeline — Anger's Actual Schedule
+
+Anger doesn't arrive and leave on command. It follows a recognizable sequence across weeks and months:
+
+| Phase | Timing | What happens |
+|---|---|---|
+| **Peak anger** | Weeks 1–3 | Loudest, most diffuse. Physical discharge is primary tool — prefrontal cortex is offline for complex meaning-making. |
+| **Nervous system conservation** | Weeks 4–6 | Appears to subside. Is not completion — it's the system recovering from peak activation. Grief has not arrived yet. |
+| **Grief breakthrough** | Weeks 6–12 | Sudden crying, vulnerability, sadness surfacing. This is not regression — it's anger completing its protective work. |
+| **Integrated anger** | Months 3–6+ | Anger returns in smaller waves, more specific targets. Each wave carries information (*what exactly was violated*). This is insight, not dysfunction. |
+
+The critical error is interpreting the weeks 4-6 apparent subsiding as "I'm over it." The grief hasn't arrived yet — the anger is resting. Real completion: grief has arrived, anger has been fully felt, and the anger-to-grief sequence has run its course.
+
 ### Why Suppressing Anger Doesn't Work
 
 The common advice to "just let it go" or "don't be angry" backfires because anger that is not expressed does not disappear. It goes underground. And once anger is underground, it works in three damaging ways:
@@ -148,5 +161,7 @@ Forgiveness after breakup is only genuine when the anger has completed its cycle
 When this sequence has run, forgiveness becomes possible — not as a performance or obligation, but as a genuine inner choice to stop paying the tax on your own nervous system.
 
 > You do not have to forgive to be healed. But you may find that when the anger has completed and the grief has been felt, forgiveness arrives on its own — not as a technique, but as a natural consequence of having been fully honest about what happened.
+
+→ Full content: [anger-support.md](references/anger-support.md) — how to help a friend through the anger phase, what to say and what not to say.
 
 ---

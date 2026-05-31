@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.98.0
+version: 4.99.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
