@@ -1,7 +1,7 @@
 ---
 name: breakup-recovery
 description: "Use when someone is going through a breakup or romantic grief. Guide them through emotional processing, healthy coping, rebuilding self-worth, and surviving the comparison spiral when exes progress faster than you."
-version: 4.70.1
+version: 4.76.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -30,7 +30,7 @@ The comparison spiral hits hardest when an ex reaches a milestone you expected t
 → Full content: [comparison-spiral.md](references/comparison-spiral.md) — the layered hit protocol, three-layer model, and the time-zone reframe.
 → Full content: [comparison-spiral-deep.md](references/comparison-spiral-deep.md) — algorithm mechanics, rosy retrospection, and the full comparison protocol.
 
-## The Science of Heartbreak
+### 一、心碎的科学
 
 > *"You don't get over a breakup — you go through one. Understanding why it hurts so much is the first step to surviving it."*
 
@@ -85,6 +85,7 @@ If every relationship ends the same way, the variable is not them — it's the p
 
 → Full content: [somatic-practices.md](references/somatic-practices.md) — complete protocols for vagus-nerve breathing, bilateral tapping, cold-water immersion, 5-4-3-2-1 grounding, progressive muscle relaxation, and high-intensity movement for hypoarousal.
 
+
 ## Building Resilience Through Post-Traumatic Growth
 
 > *"Post-traumatic growth doesn't mean you're glad it happened. It means the event changed you in ways you wouldn't have chosen — and you found parts of yourself you didn't know existed."* — Tedeschi & Calhoun, 1996
@@ -102,36 +103,27 @@ If every relationship ends the same way, the variable is not them — it's the p
 
 **Active growth indicators:** "I learned I'm stronger than I thought" + genuine evidence; "I know what I need in a relationship now" (specific, behavioral); "I understand my own patterns in a way I didn't before" (self-awareness, not self-blame).
 
+→ Full content: [ptg-breakup.md](references/ptg-breakup.md) — Tedeschi & Calhoun's PTG framework, five domains of post-trauma growth, meaning-making, and what predicts who grows after romantic loss.
+
 → Full content: [resilience-research.md](references/resilience-research.md) — Kübler-Ross stage-by-stage breakdown, PTG five domains (Tedeschi & Calhoun, 1996), protective factor research, what longitudinal studies show predicts who recovers well, and the complicated grief criteria.
 
 ## The Internal Working Model — Your Brain's Invisible Map
 
-Your internal working model — the mental template for how relationships work — was shaped by your earliest attachments and gets updated by every relationship you enter. A breakup doesn't just hurt; it destabilizes the model itself.
+Your internal working model — the mental template for how relationships work — was shaped by your earliest attachments and gets updated by every significant relationship. A breakup doesn't just hurt; it stress-tests the model itself.
 
-Bowlby's internal working model has two components operating below conscious awareness:
+Two components operate below conscious awareness: **model of self** (*am I worth loving?*) and **model of other** (*are people reliable?*). Both fire under breakup stress — rejection registers as evidence that other is untrustworthy, which triggers self-doubt: *maybe I'm not worth staying for.* The oscillation (never trusting again ↔ maybe I was the problem) is both components firing simultaneously.
 
-**Model of self:** *Am I worth loving? Worth staying for? Worth fighting for?* This determines whether you speak up in conflict, whether you believe your needs are legitimate.
-
-**Model of other:** *Are people generally reliable? Will they come when called?* This determines whether you expect relationships to be safe or dangerous, available or withdrawing.
-
-Both components get stress-tested by a breakup. The attachment system registers rejection as evidence that the model of other is untrustworthy — which activates the model of self to adjust: *maybe I'm not worth staying for.* The oscillation you feel (never trusting again ↔ maybe I was the problem) is the two components firing under stress.
-
-→ Full content: [internal-working-model.md](references/internal-working-model.md) — the full internal working model framework, how it's formed, and why it's updated by corrective relational experiences.
+→ Full content: [internal-working-model.md](references/internal-working-model.md) — the full IWM framework and how corrective relational experiences update it over time.
 
 ### The Four Pathways to Earned Security
 
 Attachment patterns formed in childhood are not permanent. The brain retains neuroplasticity throughout life, and corrective relational experiences can update the internal working model at any age.
 
-→ Full content: [earned-secure-pathways.md](references/earned-secure-pathways.md) — four evidence-based pathways (corrective experiences, MBT, AEDP, somatic), the neuroscience of amygdala-prefrontal connectivity, and the three mentalization failure modes by attachment style.
+**Four pathways to earned security:** See the full reference for the complete breakdown — corrective experiences, MBT, AEDP, and somatic approaches — plus the three mentalization failure modes by attachment style.
+
+→ Full content: [earned-secure-pathways.md](references/earned-secure-pathways.md) — four evidence-based pathways, amygdala-prefrontal connectivity neuroscience, and mentalization failure modes by attachment style.
 
 → Full content: [mentalization.md](references/mentalization.md) — Fonagy & Bateman's research, psychic equivalence / teleological / pretend modes, and how mentalization capacity predicts grief processing speed.
-
-1. **Corrective emotional experiences** — A new relationship where attachment needs are met *consistently* enough to overwrite the old template. Not perfection — *consistency* over time.
-2. **Mentalization-based therapy (MBT)** — Learning to understand your own and others' minds under stress. Develops the capacity to pause before acting on attachment panic. Particularly effective for anxious and disorganized styles.
-3. **Accelerated experiential dynamic psychotherapy (AEDP)** — Works through the body and emotion directly, not just cognition. Transforms the *felt sense* of relationships.
-4. **Somatic/bottom-up approaches** — The body holds the injury. Breathwork, EMDR, polyvagal-informed therapy, and somatic experiencing help complete the nervous system's threat response that talk therapy alone cannot reach.
-
-
 ## Breaking the Attachment Pattern — Earned Security as the Goal
 
 Your attachment style — formed in early childhood but updated by every significant relationship — is the invisible architecture behind how you love, how you grieve, and how you recover. A breakup doesn't just break a relationship; it reveals your attachment pattern. And patterns can be changed.
@@ -151,13 +143,11 @@ Your attachment style — formed in early childhood but updated by every signifi
 
 **Earned secure attachment (Siegel, 1999; Wallin, 2015)** is the name for the documented phenomenon where people develop a secure attachment style through therapy, sustained healthy relationships, or deliberate inner work — even after insecure early attachments. It is not a return to the original style; it is a genuine new baseline.
 
-**Four pathways to earned security:**
-1. **Corrective emotional experiences** in a sustained safe relationship (friendship, therapy, partnership)
-2. **Mentalization-based therapy** — learning to reflect on your own and others' mental states without anxiety
-3. **Accelerated experiential psychotherapy** — using the felt sense to update early attachment memories
-4. **Secure-base exposure** — gradually practicing behaviors of secure attachment in low-risk relationships
+**Four pathways to earned security:** See the full reference for the complete breakdown — corrective experiences, MBT, AEDP, and somatic approaches — plus the three mentalization failure modes by attachment style.
 
-**Self-diagnosis check:** Ask yourself three questions — (1) what attachment style did my primary caregiver have? (2) what attachment style do my romantic partners tend to have? (3) where does my nervous system go when connection feels uncertain? Your answers map to your pattern.
+→ Full content: [earned-secure-pathways.md](references/earned-secure-pathways.md) — four evidence-based pathways, amygdala-prefrontal connectivity neuroscience, and mentalization failure modes by attachment style.
+
+→ Full content: [mentalization.md](references/mentalization.md) — Fonagy & Bateman's research, psychic equivalence / teleological / pretend modes, and how mentalization capacity predicts grief processing speed.
 
 ### Attachment Injury — Why Some Breakups Feel Existentially Dangerous
 
@@ -178,6 +168,7 @@ Not all heartbreak is equal. Some activate what therapists call an **attachment 
 
 → Full content: [attachment-injury.md](references/attachment-injury.md)
 
+
 ## Why Breakups Are Hardest at Night: Sleep Disruption, 3AM Spiraling & the Insomnia-Grief Cycle
 
 > *The 3am hour after a breakup is a unique kind of torture. Not because the pain is worse at night — but because the absence of distraction makes it impossible to ignore. This section exists because no one tells you that the worst hour of your day will be 2 to 4 in the morning, and that this is neurologically normal, not a sign that you're falling apart.*
@@ -187,6 +178,8 @@ Nighttime is when the grief that was suppressed by daylight surfaces without com
 The cruelest part of the 3AM problem is that the more you worry about not sleeping, the more alert you become, the less you sleep, the worse you feel the next day. The cycle self-reinforces. Standard sleep hygiene is the foundation; for breakup-specific strategies — including the sleep pressure method, the middle-of-the-night intrusive thought protocol, and the daytime/nighttime cycle — see the full reference.
 
 → Full content: [nighttime-grief.md](references/nighttime-grief.md)
+
+→ Full content: [memory-dreams-predictive-processing.md](references/memory-dreams-predictive-processing.md)
 
 ---
 
@@ -341,6 +334,8 @@ Not every breakup is a lesson. Some are just losses. But almost everyone who has
 **What to do:** Keep one routine that anchors you (shower, walk, same meal time). Avoid major life decisions. Tell trusted people what you need. Mark the date: "I'm in week two of acute grief. This is the hardest part."
 
 **What not to do:** Don't make permanent decisions about the relationship during acute phase. Don't catastrophize — your brain is catastrophizing enough. Don't compare your grief to others' — grief has no standardized timeline.
+
+→ Full content: [first-30-days-grief.md](references/first-30-days-grief.md) — Dual-Process Model, oscillation between loss-oriented and restoration-oriented coping, neurobiological window, week-by-week trajectories.
 
 ## Building Resilience Through Breakup Recovery
 
@@ -857,7 +852,7 @@ Shared playlists, saved conversations, and photo albums are not just data. They 
 
 → Full content: [digital-memory-grief.md](references/digital-memory-grief.md)
 
-
+→ Full content: [digital-detox-framework.md](references/digital-detox-framework.md) — muting vs. blocking, 48-hour rule, shared photo handling.
 
 ---
 
@@ -928,58 +923,67 @@ Anger is the most misunderstood phase of breakup recovery. Most people try to sk
 
 **Anger as protector:** Most anger after breakup is secondary — a defense against deeper pain (hurt, fear, shame). Let it speak before you move through it.
 
-**The anger-to-grief transition:** Anger peaks in weeks 1–3, appears to vanish around week 4–5, then grief breaks through in weeks 6–12. This looks like regression but is actually the correct sequence — grief cannot arrive until anger has cleared the way. If you find yourself crying unexpectedly in weeks 6–10, that is not getting worse. That is the anger finishing its work.
+**The anger-to-grief transition:** Anger peaks in weeks 1–3, appears to vanish around week 4–5, then grief breaks through in weeks 6–12. This looks like regression but is actually the correct sequence — grief cannot arrive until anger has cleared the way.
 
-**What to do with it:** If the anger has disappeared before you've processed anything, ask: *Am I numbing this?* Find a somatic way to discharge it — exercise, punching a pillow, long walks with loud music. Write for 10 minutes without editing: *What happened that was not okay? What am I furious about that I haven't said out loud?* Don't stop. The anger doesn't need resolution — it needs expression.
-
-**When anger turns self-directed:** Inward anger ("I should have seen it coming," "I was stupid") is a grief block — it keeps vulnerable pain inaccessible. Anger at your ex for harm caused is valid — you did the best you could.
-
-**Anger journaling:** Write without editing, without trying to find meaning. The purpose is discharge, not understanding. Set a timer for 10 minutes and don't stop.
-
+→ Full content: [anger-therapeutic-value.md](references/anger-therapeutic-value.md) — the clinical case for anger: why suppressing it delays grief, how anger precedes sadness, and what "anger completion" looks like neurologically
+→ Full content: [anger-processing-research.md](references/anger-processing-research.md) — anger expression research: writing vs. physical discharge, what the evidence shows works, and who benefits most from each method
+→ Full content: [male-anger-patterns.md](references/male-anger-patterns.md) — male-identifying people and anger: why anger suppression is culturally reinforced, the risks of self-directed anger, and how to create permission for full emotional expression
+→ Full content: [anger-completion-cycles.md](references/anger-completion-cycles.md) — anger cycles: how the first wave differs from the tenth, why anger returns around anniversaries, and how to recognize completion
+→ Full content: [anger-deep-condensed.md](references/anger-deep-condensed.md) — anger journaling prompts, when anger turns self-directed vs. appropriately outward, somatic discharge practices, and how to know when anger has run its course
 → Full content: [anger-phase.md](references/anger-phase.md) — full anger phase breakdown: healthy vs. unhealthy anger, anger as protector of grief, the secondary anger mechanism, anger journaling, somatic discharge, and when anger turns self-directed
 → Full content: [anger-first-cycle.md](references/anger-first-cycle.md) — the first anger cycle: why week 1–3 are the most dangerous, nervous system activation patterns, and how anger protects grief from arriving
 → Full content: [social-anger.md](references/social-anger.md) — social anger: when your friends hate your ex, how to let them, why mutual friends are complicated, and when to let others feel it for you
 → Full content: [somatic-anger-compendium.md](references/somatic-anger-compendium.md) — somatic anger practices: bilateral stimulation, breathwork, movement-based discharge, micro-adjustments in the nervous system for managing acute anger activation
-
-### The Neuroscience of Anger — Why It Consumes You
-
-Anger after breakup is a neurological event. The threat cascade (Fisher 2005; Gortmaker 2021): amygdala fires within seconds → ACC adds the moral dimension → PFC attempts regulation but is functionally overpowered in acute grief. Telling yourself to "calm down" is asking your PFC to override your amygdala — neurologically near-impossible during acute grief.
-
-The critical mistake: trying to do cognitive processing during peak sympathetic activation. **Discharge first, then meaning-make.** The order matters.
-
-→ Full content: [anger-neuroscience.md](references/anger-neuroscience.md)
-
- — the threat-response cascade, autonomic anger signatures (sympathetic/dorsal/ventral), rumination vs. repetition, grief-anger sequencing, and physical anchoring during acute activation.
-
-### The Chronic Anger Trap — When Anger Stays Past Its Welcome
-
-Anger is legitimate and necessary in weeks 1–6. But at some point, anger can become its own prison — a long-running soundtrack that defines you more than the grief underneath it ever did. Chronic anger keeps the nervous system in sympathetic activation. You stay ready to fight, unable to rest, to feel, to be curious about anything new.
-
-The question is not *should I still be angry?* but *what is the anger doing for me, and is it still working?* If the anger has become a lifestyle, it may be protecting you from grief you haven't finished feeling, or confirming an identity (*I am someone who was wronged*) that feels safer than the uncertainty of rebuilding. Neither is weakness — both are information.
-
-The exit from chronic anger is the same door you entered: feeling the thing underneath it.
-
-### The Polyvagal Ladder — Why You Oscillate Between Rage and Numbness
-
-After a significant romantic loss, most people cycle between two states with no apparent logic: days of reactive anger, hypervigilance, obsessive checking — followed by days of flat numbness, disconnection, and exhaustion that sleep doesn't fix. This is not inconsistency. This is your autonomic nervous system oscillating between its own regulatory tiers.
-
-Stephen Porges' Polyvagal Theory (1994, 2011) describes three hierarchical autonomic tiers:
-
-**Tier 1 — Ventral Vagal (Social Engagement):** The newest tier. Supports calm connection and clear thinking under stress. When intact, you can feel grief fully without collapsing. After romantic loss, this tier destabilizes — leaving you either over-seeking connection (desperate) or under-social (withdrawn).
-
-**Tier 2 — Sympathetic (Fight-or-Flight):** Mobilizes protest energy. In breakup grief: anger, anxiety, hypervigilance, obsessive checking, insomnia with racing thoughts. The anger phase lives here. This system's protest energy is appropriate — the goal is completion, not suppression.
-
-**Tier 3 — Dorsal Vagal (Shutdown/Freeze):** The oldest tier. Produces numbness, flat affect, anhedonia, exhaustion that sleep doesn't fix. When the sympathetic system has been activated too long without resolution, the nervous system switches to freeze — often misdiagnosed as depression. The distinction: dorsal shutdown is sudden and triggered by overwhelm; depression is gradual and often spontaneous.
-
-**The oscillation is the pattern.** You are not broken because you feel fine one day and terrible the next. You are cycling between tiers because your system is trying to regulate through whatever mechanism is available. This is the nervous system's attempt at self-regulation — not regression.
-
-**Building ventral vagal capacity:** The target is not elimination of activation or shutdown — it is building enough ventral vagal tone to stay socially engaged while grieving. What builds it: co-regulation (one calm person who sees you without agenda), rhythmic movement (walking, singing), facial warming (intentional softening around the eyes and jaw), and vagus nerve breathing (exhale twice as long as inhale).
-
-**The window of tolerance connection:** Siegel's Window of Tolerance and Porges' Polyvagal Theory describe the same phenomenon from different angles. When ventral vagal tone is low, small triggers throw you into either hyperarousal (sympathetic) or collapse (dorsal). Grief work requires the window to be open enough to sit with sadness. When anger completes and discharges, the parasympathetic system comes online, the window widens, and grief finally arrives.
-
+→ Full content: [anger-neuroscience.md](references/anger-neuroscience.md) — the threat-response cascade, autonomic anger signatures, rumination vs. repetition, grief-anger sequencing, and physical anchoring during acute activation.
 → Full content: [polyvagal-breakup.md](references/polyvagal-breakup.md) — Porges' three-tier autonomic model, dorsal vagal vs. depression distinction, co-regulation as grief intervention, body scan protocol, and the window of tolerance framework.
 
----
+**The key principle:** Anger is neurologically consuming because the amygdala fires faster than the prefrontal cortex can regulate. **Discharge first, then meaning-make.** Trying to cognitively process during peak sympathetic activation is ineffective — the order matters.
+
+**The chronic anger trap:** When anger persists past week 6, the question is not *should I still be angry?* but *what is the anger doing for me?* If it has become a lifestyle, it may be protecting you from grief you haven't finished feeling, or confirming an identity that feels safer than the uncertainty of rebuilding. Both are information, not weakness. The exit is the same door you entered: feeling the thing underneath it.
+
+
+→ Full content: [helping-friend-anger-phase.md](references/helping-friend-anger-phase.md) — extracted: anger completion research, Goldman 2006, the wave timeline, somatic discharge methods, self-directed anger reframe, when anger turns harmful, and completion markers.
+
+## Body-Based Recovery: Processing Grief Through the Nervous System
+
+Grief is not only psychological — it is physiological. The body holds emotional pain in measurable ways. Somatic (body-based) approaches to heartbreak recovery are supported by research in trauma treatment, polyvagal theory, and interoception science.
+
+**Why talk therapy is not always enough:**
+
+Cognitive processing (understanding what happened, reframing) engages the prefrontal cortex — but grief is stored in the *body*. The ventromedial prefrontal cortex can narrate the loss, but the autonomic nervous system does not respond to narrative. It responds to *felt safety*. Somatic approaches work directly on the nervous system, creating biological conditions for emotional processing to happen.
+
+**How grief lives in the body — the polyvagal view (Porges, 2011):**
+
+The autonomic nervous system oscillates between:
+- **Ventral vagal (regulated):** You can feel grief without being overwhelmed — this is where healing happens
+- **Sympathetic (mobilized):** Anger, anxiety, obsessive checking, rumination — the nervous system is still mobilized
+- **Dorsal vagal (collapsed):** Numbness, dissociation, flatness — the system has shut down to protect against overwhelm
+
+The oscillation between sympathetic and dorsal states explains why early recovery feels like a rollercoaster. What looks like "I'm fine now" in dorsal state can mask as acceptance when it is actually dissociation.
+
+→ Full content: [polyvagal-breakup.md](references/polyvagal-breakup.md) — Porges' three-tier autonomic model, ventral vs. dorsal vagal distinction, co-regulation as grief intervention, body scan protocol, and window of tolerance framework.
+
+**Somatic practices for breakup recovery:**
+
+**1. Orient to present safety.** Deliberately returning to present-moment sensory experience signals safety to an anxious nervous system. Try: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste. The act of noticing interrupts the ruminative loop.
+
+**2. Bilateral stimulation.** Alternating left-right brain activation helps process amygdala-stored emotional material (Shapiro, 2001; Christman et al., 2003). Practical forms: butterfly hugging (cross arms, alternate tapping shoulders), EMDR-style eye movements (follow your thumb left-right), or alternating foot taps.
+
+**3. Extended exhale breathing.** Inhale for 4 counts, exhale for 8. The extended exhale activates the parasympathetic nervous system via the vagus nerve. The ratio matters — 4:8 is more regulating than equal 4:4. Do 5–10 cycles when you notice racing heart, tight chest, or the urge to check their feed.
+
+**4. Complete the stress response through movement.** If you notice the urge to cry or scream building, don't suppress it — move it. Running, dancing, punching a pillow, or a brisk walk gives sympathetic activation something to *do*. Undone activation compounds into chronic tension.
+
+**5. Body scan for held grief.** Lie down. Starting at the feet, slowly move attention upward through each body part, noticing what you find without judging. Areas commonly holding grief: chest (tightness, heaviness), throat (constriction, need to cry), abdomen (knots, nausea). The body scan builds interoceptive awareness — the foundation of nervous system regulation.
+
+→ Full content: [somatic-practices.md](references/somatic-practices.md) — body scan protocol, bilateral stimulation instructions, extended exhale variations, progressive muscle relaxation, and somatic experiencing techniques for acute grief.
+
+**Why this matters for breakup grief specifically:**
+
+Functional MRI studies (Eisenberger et al., 2003) show social rejection activates the *anterior cingulate cortex* — the same region activated by physical pain. Heartbreak feels physical because the pain signal is not metaphorical. Somatic practices address the physiological substrate of heartbreak, not just the cognitive narrative.
+
+The processing order: *regulate the body first, then feel the grief*. You cannot think your way through grief if your nervous system does not believe you are safe enough to feel it.
+
+→ Full content: [helping-friend-anger-phase.md](references/helping-friend-anger-phase.md) — extracted: anger completion research, Goldman 2006, the wave timeline, somatic discharge methods, self-directed anger reframe, when anger turns harmful, and completion markers.
 
 ## Rebuilding Identity After a Breakup
 
@@ -994,6 +998,20 @@ When you're in a relationship, the "we" slowly starts to replace the "I." When i
 **Phase 2: Disentangling (Weeks 4–12)** — Notice where your ex's preferences, language, and social habits entered your life. Which were performance? Which do you actually want? Deliberate choice, not reaction.
 
 **Phase 3: Reconstruction (Months 3–9)** — Develop your own preferences, take one new identity experiment (something the relationship didn't have space for), and build a self that doesn't depend on a partner.
+
+**Develop a relationship with your own preferences.** Not what you should want, not what would make a partner happy — what do *you* actually want? What music do you listen to when no one is watching? What do you find interesting, full stop, with no performance? Write these down in a preferences journal. It sounds trivial. It isn't.
+
+**Take one identity experiment.** Something the relationship didn't have space for — a version of yourself suppressed or deferred. Not a rebound (rebound is reaction, not choice), but a genuine experiment: a skill, a social connection, a way of spending time. One experiment, three months, full commitment. Evaluate after, not before.
+
+**The reconstruction-vs-reaction distinction.** Doing the opposite of what your ex wanted still means their preferences govern you. Real reconstruction: choose based on what *you* actually want, independent of its relationship to them. If you'd genuinely love something — that's yours. If you're doing it *because* they wouldn't — that's still their gravity holding you.
+
+**Self-concept inventory (30 minutes, four questions, no editing):**
+1. What did I stop doing in this relationship that I actually miss?
+2. What parts of myself did I perform that I now feel were fake?
+3. What did I learn about myself *through* this relationship that I want to keep?
+4. What do I now know about what I need that I didn't know before?
+
+The answers become the architecture for what comes next.
 
 → Full content: [identity-reconstruction.md](references/identity-reconstruction.md) — excavation framework, long-term relationship disentangling, PTG-identity bridge, and the self-concept inventory exercise.
 → Full content: [dating-after-breakup.md](references/dating-after-breakup.md) — rebound science, readiness benchmarks, and green flags for new relationship readiness.
@@ -1083,42 +1101,16 @@ Instead of "How are you feeling?" (demands emotional labor):
 
 Anger is the most misunderstood phase of breakup recovery — by the person going through it *and* by the people trying to support them. Your instinct to help them move through it or calm down is usually counterproductive. Anger being felt does not need to be solved. It needs to be witnessed.
 
-**Let them be angry without trying to calm them down.**
-"Calm down" implies the anger is excessive and needs to be reduced before something else can happen. But anger needs to run its course — it cannot be rushed. The most helpful thing: let it be what it is, for as long as it needs to be.
+**Key what-to-dos:**
+- **Let them be angry without trying to calm them down.** "Calm down" implies the anger is excessive. Anger needs to run its course.
+- **Name the anger as valid.** "You're right to be furious about what they did." "What they did was unfair and you have every right to be angry about it."
+- **Ask specific questions about what happened** — not "how are you feeling?" but "what happened? What did they do specifically?"
+- **Offer physical outlets** — movement metabolizes the cortisol and adrenaline that anger mobilizes.
+- **Let them repeat the story** — the story needs to be told until it is done. This is completion, not rumination.
 
-**Name the anger as valid.**
-- "You're right to be furious about what they did."
-- "That sounds like something that would make anyone feel rage — you're not overreacting."
-- "What they did was unfair and you have every right to be angry about it."
+**Signs anger is completing vs. getting stuck:** Completing: same story told with less charge; person becoming tired rather than activated; grief surfacing. Stuck: charge not reducing despite multiple tellings; worsening physical symptoms without relief.
 
-Most people in anger have had it minimized or pathologized. Being told the anger is correct — a rational response to what happened — is deeply validating.
-
-**Ask specific questions about what happened.**
-Not "how are you feeling?" but "what happened? What did they do specifically?"
-Not "are you okay?" but "what's the part that makes you most angry when you think about it?"
-
-Specific questions help process the concrete reality of what happened rather than staying in vague, undirected rumination.
-
-**Offer physical outlets.**
-Movement metabolizes the stress hormones (cortisol, adrenaline) that anger mobilizes. Suggest a walk, a run, a boxing class. Physical activity provides the neurological exit route that anger requires. Say: "Do you want to move your body together, or do you need some time alone for that?"
-
-**Let them repeat the story.**
-People in the anger phase often need to tell the story of what happened — multiple times, in full, with all the details. This is not pathological rumination. It is completion. The story needs to be told until it is done. You don't need to add commentary. Just listen again.
-
-**What makes it worse:**
-- "At least you can move on now" — dismisses the legitimacy of the anger
-- Telling them to forgive or let it go — forgiveness cannot be rushed; this is spiritual bypassing
-- Trying to fix the situation — anger is not a problem to solve, it is an emotion to feel
-- Sharing your own anger at their ex — activates co-rumination; reinforces anger without completing it
-- "I told you so" — vindication can come later; the now is for feeling, not evidence
-
-**Signs anger is completing vs. getting stuck:**
-Completing: same story told with less charge; person becoming tired rather than activated; grief surfacing (sadness, not just rage); asking "what do I do now?"
-Stuck: charge not reducing despite multiple tellings; story returning to same point with no new material; worsening physical symptoms (insomnia, chronic tension) without relief. If anger isn't completing after several weeks, suggest professional support.
-
-→ Full content: [anger-support.md](references/anger-support.md) — full active listening transcripts and signs your support is making things worse.
-
-→ Full content: [helping-friend.md](references/helping-friend.md) — full active listening transcripts, first-week/second-week scripts, how to handle friends who refuse help, and signs your support is making things worse.
+→ Full content: [friend-support-anger-phase.md](references/friend-support-anger-phase.md) — full section: name the anger scripts, physical outlet suggestions, what makes it worse (forbidden responses), and completion vs. stuck signs.
 
 
 ## Secondary Grief — When You're Grieving More Than the Relationship
@@ -1144,36 +1136,26 @@ This is called **anticipatory loss** layered with **secondary loss** — you los
 ---
 
 
-
 ## Letting Go — The Phase That Completes Recovery
 
 > *"You will never be ready to let go. You simply get tired of holding on."*
 
-Letting go is not a single decision — it is a gradual withdrawal of energy from the relationship's residue. The energy that once went toward them (thinking, planning, hoping, protecting) slowly redirects toward you. When the withdrawal is complete, something shifts: the relationship stops being an open question in your nervous system.
+Letting go is not a single decision — it is a gradual withdrawal of energy from the relationship's residue. The energy that once went toward them slowly redirects toward you. When the withdrawal is complete, something shifts: the relationship stops being an open question in your nervous system.
 
-**Two types of letting go:**
+**Two types:** *Emotional letting go* — accepting the relationship is over in the nervous system, not just intellectually. *Identity letting go* — releasing the version of yourself built around being their partner.
 
-1. **Emotional letting go:** accepting the relationship is over and will not return. Not intellectually (you already know that) — in the nervous system. The nervous system doesn't reason; it patterns. It holds onto hope until it has enough evidence that hope is no longer warranted.
+**Completion signals — three observable markers:**
+- You can hear their name or see their new relationship mentioned without any physiological stress response (chest tightness, brief spike in anxiety)
+- The story you tell about the relationship is stable — not the curated good version, not the dramatic bad version, just accurate
+- You no longer treat your current life as a waiting room for a future where you're back together
 
-2. **Identity letting go:** releasing the version of yourself that existed in relation to them. The self you built around being their partner, being part of their life, being someone's "someone." This letting go is quieter and often harder — it's the grief of who you were, not who you had.
+**Red flags of incomplete letting go:** Still rehearsing arguments you'll never have; keeping their belongings in visible places as emotional props; asking mutual friends for updates as a surveillance habit; defining new social connections by whether they could be a rival for the ex's attention. These are the nervous system still treating the relationship as open.
 
-**The completion question:** Not "have I forgiven?" but "have I stopped investing?" You can still think about someone and no longer be invested in the answer. The test: if you learned they were with someone else, or had moved on entirely, would it reactivate grief or just confirm what you already knew?
+**Completion signal:** Not "have I forgiven?" but "have I stopped investing?" If you learned they were with someone else, would it reactivate grief or just confirm what you already knew?
 
-**The difference between acceptance and resignation:** Acceptance says *I know what happened and I am choosing to stop fighting it.* Resignation says *this is all there is.* Resignation is flat; acceptance has warmth in it — the warmth of someone who has been through something real and is choosing peace over continuation.
-
-**The letting-go practices that actually work:**
-
-- **Ritual release:** writing a letter you never send, then burning it. The physical act signals to your nervous system that something is complete.
-- **Identity experiments:** doing one thing this week that is purely yours — something the relationship didn't have space for, something you chose without considering them.
-- **Future planning:** allowing yourself to imagine a future that does not include them. Not optimism — just permission. The absence of permission keeps the door open in your nervous system.
-- **Gratitude for what was:** not romanticizing, but acknowledging what you learned, who you became, what was real about it. You don't have to want it back to honor it.
-
-**The readiness signal:** You're ready to let go when the thought of them generates not pain but just recognition — a person you knew, a chapter that closed. Not indifference (that sometimes means you're still protected) but平静 — the quiet that comes after the storm has moved through and the air has cleared.
+→ Full content: [letting-go.md](references/letting-go.md) — energy withdrawal model, why readiness isn't a prerequisite, letting go vs. forgiveness.
 
 → Full content: [forgiveness.md](references/forgiveness.md) — what forgiveness actually is and isn't, and the practice of releasing resentment.
-→ Full content: [letting-go.md](references/letting-go.md) — the two types of letting go, the readiness signal, and how to recognize completion.
-
-
 ## Forgiveness — What It Actually Is and Isn't
 
 Forgiveness is commonly mistaken for condoning, reconciling, or deciding the relationship was worth the pain. None of these are it.
