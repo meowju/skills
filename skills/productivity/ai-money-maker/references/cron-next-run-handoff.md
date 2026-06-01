@@ -1,57 +1,63 @@
-# Cron Next-Run Handoff
+# Cron Next Run Handoff
 
-> Session state captured at Run 3.7.5. Next cron invocation reads this before touching SKILL.md.
+> Session state captured at Run 217 (v4.2.5). Next cron invocation reads this before touching SKILL.md.
 
 ## Current State
+- **File:** `skills/productivity/ai-money-maker/SKILL.md`
+- **Version:** 4.2.5
+- **Size:** 96,575 chars
+- **Headroom:** 3,425 chars — TIGHT (next migration may be required)
+- **Sections:** 87 numbered sections (一 through 一百零二)
+- **Reference files:** 120 total (+1 new: ai-knowledge-product-2-0.md)
 
-- **File:** `/opt/data/skills/productivity/ai-money-maker/SKILL.md`
-- **Version:** 3.7.5
-- **Size:** 95,177 chars (headroom: 4,823)
-- **Sections:** 47 (no missing numbers — gaps are by design)
-- **Reference files:** 55 total, 29 linked, 26 orphaned
+## Run 217 Changes (v4.2.5)
 
-## Last Run Summary (3.7.5)
+**New section added:** 一百零二、AI 知识产品化 2.0：newsletter · 课程 · ebook 矩阵的复利路径
 
-Version bump: 3.7.4 → 3.7.5
+**Content summary:**
+- 核心反直觉：AI 不让知识产品贬值，让头部资产升值（Substack 付费 newsletter 总收入 +47%）
+- 5 个真实高收入知识产品运营商案例（具体数字）：
+  - Lenny Rachitsky: Substack 5万+ 订阅, ARR $1.5-2M, 1+2 团队
+  - Gergely Orosz (Pragmatic Engineer): 8,000+ 订阅, ARR $800k-1.2M, 1 人
+  - 邵恒: 小报童+知识星球 7,500+ 付费, 年入 ¥150 万+
+  - AI 论文降重站: 月 25 万 UV, 月广告+联盟 $12,000
+  - 半佛仙人: 全网 1500 万粉, 年入千万级
+- 3 条非共识结论（100 True Fans 测试 / AI 是乘子非起点 / 知识产品是身份生意）
+- 4 阶段 6-12 个月可复制行动路径（身份定位 → 付费验证 → 矩阵扩展 → 规模化复利）
+- 5 个可立即测量的健康指标（转化率 / 续费率 / ARPU / 生产时间 / 真粉占比）
 
-**Changes applied atomically:**
-1. Removed duplicate `ai-info-arbitrage-deep.md` link in section 25 (outro copy at ~48,319)
-2. Removed duplicate `ai-buyer-decision-deep.md` link in section 36 (~52,165)
-3. Removed duplicate `ai-buyer-decision-deep.md` + `ai-b2b-closing.md` links in section 60 (~90,346)
-4. Removed orphaned bare `[references/ai-old-masters-cases.md]` link in section 37 (~52,635)
-5. Fixed malformed `→ 完整内容：---` in section 37 (Fix 4 left orphaned prefix)
-6. Added `### 变现路径四象限（补充）` subsection to section 3 with `ai-monetization-frameworks.md` reference link (435 chars inline)
-7. Bumped version: 3.7.4 → 3.7.5
+**Reference file:** `references/ai-knowledge-product-2-0.md` (3,761 chars) — full 5 case details, 3 non-consensus deep, 6-12 month action path, 5 failure modes, 5 health metrics
 
-**Net delta:** -398 (duplicates) +37 (addition) = -361 chars
+**Net delta:** +2,047 chars (94,528 → 96,575)
+**Headroom:** 5,472 → 3,425 chars
 
-## Known Structural Issues (NOT fixed this run)
+## Structural Status
+- ✓ Sequential section order confirmed (一百零二 after 一百零一, no duplicates)
+- ✓ 87 sections total
+- ✓ No embedded subsections
+- ✓ All gaps <3000 chars (no disorder signals)
+- ✓ V2 links: 109 (pre-existing, not introduced by this change)
+- ✓ Ref file properly linked in SKILL.md (not orphan)
+- ✓ Version bumped 4.2.4 → 4.2.5
+- ✓ git commit 60e3605 on master
 
-1. **26 orphan reference files remain** — these are legitimate deep-dive files that should be wired into appropriate sections when headroom allows
-2. **Section numbers 27-35, 47, 49, 51, 56, 59, 63, 64**: intentionally absent (sparse numbering from multi-session development)
+## Research Strategy (Next Run)
 
-## Next Run Priorities
+**Headroom is TIGHT at 3,425 chars.** Next run should:
+- Condense an existing large section if headroom needed
+- OR mine existing references instead of adding new inline content
+- OR pick a vertical that has a small, tight addition
 
-### High-value orphan reference files to wire up:
-| Reference file | Target section | File size |
-|---|---|---|
-| `ai-compliance-moat-v2.md` | Section 十九 (合规即护城河) | 4,294 chars |
-| `ai-new-tools-2025-deep.md` | Section 十二/十五 (新工具) | 4,267 chars |
-| `ai-freelance-advanced.md` | Section 二十一 (自由职业) | 5,736 chars |
-| `ai-compound-asset-deep.md` | Section 十三 (复利型AI资产) | 5,598 chars |
-| `ai-中国下沉市场.md` | Section 四十 (下沉市场) | 9,138 chars |
+**Recommended verticals (cycle continues):**
+- Run 218: AI + 退休规划 / 50+ 专业人士退休后用 AI 重启收入 (light vertical)
+- Run 219: AI + 公益 / 影响力投资 (niche but high-trust)
+- Run 220: 县域 B2B 业主 / 家族企业 AI 改造 (compile from existing county-blue-collar refs)
 
-### Research cycle (from skill instructions):
-- Run 1: Deep Research on Real AI Money Methods (真实案例库)
-- Run 2: AI Side Hustle Income Reports (收入 benchmarks)
-- Run 3: Latest AI Tools for Making Money (新工具)
-- Run 4: Specific Prompts for Making Money (提示词)
-- Run 5: AI + Chinese Platform Strategies (中国平台)
-- Run 6: Building AI Micro-SaaS (Micro-SaaS)
-- Run 7: The AI Freelance Playbook (自由职业)
-- Run 8: AI Passive Income Systems (被动收入)
+**Next section number:** 一百零三 (if adding new section)
 
-### Cyclical job note:
-- If all topics exist and headroom < 1,500: migrate a section to references/ first, then deepen
-- Web research failure → mine existing references/ instead of shipping thin content
-- Never conclude with `[SILENT]` when condensation is available
+## Key Cases Added (Run 217)
+- Lenny Rachitsky: Substack newsletter $1.5-2M ARR, 5万付费订阅
+- Gergely Orosz: Pragmatic Engineer $800k-1.2M ARR, 8,000+ 订阅
+- 邵恒: 央广前记者转型, 双平台年入 ¥150 万+
+- AI 论文降重站: SEO 工具站月入 $12k
+- 半佛仙人: 多平台矩阵年入千万级
