@@ -87,7 +87,7 @@ When the family system installed patterns that make it structurally difficult to
 
 **The diagnostic question:** If you do the identity exercise ("who do you want to become?") and your answer sounds like what someone else needed you to be — you may be building identity around the family adaptation, not around your own direction.
 
-**Practical implication:** Identity work in these populations requires an additional step — differentiation (see [references/family-purpose-formation.md](references/family-purpose-formation.md)) — before it produces genuine direction rather than sophisticated reenactments of the family role.
+**Practical implication:** Identity work in these populations requires an additional step — differentiation (see [Family-of-Origin Patterns](references/family-purpose-formation.md)) — before it produces genuine direction rather than sophisticated reenactments of the family role.
 
 ---
 

@@ -1,0 +1,9 @@
+{
+  "last_report_path": "/opt/data/logs/curator/20260602-072912",
+  "last_run_at": "2026-06-02T07:29:12.623696+00:00",
+  "last_run_duration_seconds": 968.68718,
+  "last_run_summary": "auto: no changes; llm: # Skill Consolidation Pass — Summary\n\n## Clusters Processed\n\n### Cluster A — Portfolio research + cron (3 candidates, 1 umbrella)\n\n- **`portfolio-research`** (activity 382) — the dominant class-level umbrella. Already had cron workflow, Dis…\narchived 2 skill(s):\n  • hermes-cron-jobs → portfolio-research\n  • portfolio-research-cron → portfolio-research\nfull report: hermes curator status\nkeep an umbrella stable: hermes curator pin portfolio-research",
+  "last_run_summary_shown_at": null,
+  "paused": false,
+  "run_count": 2
+}

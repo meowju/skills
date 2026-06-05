@@ -1,0 +1,47 @@
+{
+  "jobs": [
+    {
+      "id": "f2f177230acb",
+      "name": "Portfolio Research + AgenticTendies + QuantDinger",
+      "prompt": "## Role: Portfolio Research Agent with AgenticTendies + QuantDinger\n\nYou are running every 15 minutes. Your job is to research AI/infrastructure stock signals and deliver a concise report to Discord DM.\n\n## QuantDinger API \u2014 use Python requests (NOT curl)\nEnvironment variables are available:\n- QUANTDINGER_TOKEN  = Bearer token\n- QUANTDINGER_BASE  = http://localhost:8888\n\nUse Python `urllib.request` to call QuantDinger. Example:\n```python\nimport urllib.request, json\nTOKEN = \"qd_agent_TWSkB8spR49Kuccw_WMEaVl0L18YyVQG6PaVt6OJ7nM\"\nBASE = \"http://localhost:8888\"\nreq = urllib.request.Request(f\"{BASE}/api/agent/v1/price?market=USStock&symbol=VRT\")\nreq.add_header(\"Authorization\", f\"Bearer {TOKEN}\")\nwith urllib.request.urlopen(req, timeout=10) as r:\n    data = json.loads(r.read())\n```\n\nKey endpoints:\n- GET /api/agent/v1/price?market=USStock&symbol=VRT \u2192 current price\n- GET /api/agent/v1/klines?market=USStock&symbol=VRT&timeframe=1d&limit=60 \u2192 60 days candles\n- GET /api/agent/v1/markets \u2192 available markets\n\n## Local Framework: AgenticTendies\nPath: /opt/data/agentictendies/\n- Indicators: RSI, SMA, EMA, ATR, MACD, Bollinger Bands\n- Strategies: RSIReversion, MACDCrossover, SMACrossover, BollingerReversion, DualMomentum\n\n---\n\n## Research Stocks (AI/Infrastructure theme)\nVRT, SMCI, PLTR, AMD, NVDA, COIN, DELL\n\nFor each: get 60-day klines, calculate RSI(14), SMA(20), stochastic, volume ratio.\nSignal logic:\n- RSI < 40 \u2192 BUY (oversold)\n- RSI > 70 \u2192 SELL (overbought)\n- RSI 40-55 + price above SMA20 \u2192 BUY\n- SMA20 above SMA50 \u2192 golden cross signal\n\n---\n\n## Current Portfolio (TD Direct \u2014 41HHH9A)\n| Ticker | Shares | Avg Cost |\n|--------|-------:|---------:|\n| GLD | 4 | $588.79 |\n| TSM | 5 | $563.93 |\n\n---\n\n## Output Instructions\n1. Calculate technicals for all 7 stocks\n2. Rank by confidence score (RSI distance from 50 + trend strength)\n3. Save to ~/./cron/output/f2f177230acb/portfolio-research-YYYYMMDD-HHMM.md\n4. Send via send_message to discord:stancsz\n5. Language: Chinese commentary + English for data\n6. Keep concise \u2014 this runs every 15 minutes\n7. Use Python venv: /opt/data/agentictendies/.venv/bin/python if running local scripts\n\n## Response",
+      "skills": [],
+      "skill": null,
+      "model": "MiniMax-M2-7",
+      "provider": "anthropic",
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0,15,30,45 9-16 * * 1-5",
+        "display": "0,15,30,45 9-16 * * 1-5"
+      },
+      "schedule_display": "0,15,30,45 9-16 * * 1-5",
+      "repeat": {
+        "times": 1000,
+        "completed": 148
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-27T14:44:55.082485+00:00",
+      "next_run_at": "2026-06-02T09:00:00+00:00",
+      "last_run_at": "2026-06-01T16:47:11.820861+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord:1454707447402070026:1510466904450666507",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-06-01T16:47:11.825322+00:00"
+}

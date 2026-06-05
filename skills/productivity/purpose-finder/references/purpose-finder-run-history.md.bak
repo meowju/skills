@@ -1,0 +1,274 @@
+# Purpose Finder — Run History
+
+*Started: purpose-finder skill creation. Cyclical research-and-expand protocol.*
+
+---
+
+#
+
+---
+
+
+---
+
+## Run 14 — Duplicate Section Fix + Flow Autotelic Deepen
+
+**What changed:** Duplicate Family-of-Origin section header removed; three new Flow subsections added. Version 4.90.1 → 4.91.0.
+**Net delta:** +5,567 chars.
+
+### 3–5 bullets of new content:
+
+- **Duplicate section header fixed:** Two consecutive `## Framework: Family-of-Origin Patterns and Purpose Formation` headers collapsed into one (−62 chars); the reference link preserved
+- **Autotelic Self subsection added:** Csikszentmihalyi's autotelic personality (goal-seeking, immediate feedback, curiosity, personal initiative); the autotelic self is developed not discovered; the Autotelic Self-Test for daily use
+- **Three Flow Traps added:** Compulsive Flow (escape vs. engagement), Skill Plateau (challenge outgrown), Identity Fusion (I Am What I Do cage); each with diagnostic signal and fix
+- **Flow Curiosity subsection added:** Three-root framework for people who cannot recall losing track of time — skill calibration, fragmented attention (smartphone erosion), wrong activity structure; the 90-minute focus block prescription
+- **Using Flow in Conversation added:** Three new script patterns for "never been in flow," "lost flow," and "flow feels selfish" — converting flow deficit from a passion problem into an attention and calibration problem
+
+## Run 13 — Orphan Reference File Reclamation (Deepening)
+
+**What changed:** Four orphaned reference files with thematic relevance to existing sections were linked and their content surfaced inline. Net delta: +3,930 chars; version 4.83.0 → 4.84.0.
+
+### 3–5 bullets of new content:
+
+- **ikigai-neuroscience.md linked** in Ikigai section after the neuroscience subsection — Katameya's prefrontal cortex/DMN findings, Hayashi's longitudinal research on compounding health effects; adds the mechanistic explanation for why daily practice compounds
+- **legacy-and-mortality.md linked** in Mortality section — expanded inline content with the活过 (Huóguò) frame (Chinese "truly lived" concept), Kintsugi reframe (breakage as part of purpose history), and Terror Management Theory conversation anchors; section expanded from 353 → 2,233 chars
+- **body-movement-purpose.md linked** in Purpose Paradox after the final "practice while you search" line — adds the Body Loop: how sustained rumination activates DMN and why bilateral rhythmic movement (walking, swimming) breaks the thinking loop neurologically, not philosophically; breath anchor protocol added
+- **existential-anxiety.md linked** in Purpose Paradox after the Surrender Trap section — adds the Existential Anxiety Layer: Yalom's four flavors (death, freedom, isolation, meaninglessness), when purpose frameworks apply vs. when professional support is needed, and the reframe that existential anxiety is a sign of being awake rather than a sign something is wrong
+- **Remaining orphans identified** (6 files still orphaned): ikigai-framework-complete.md, legacy-architecture-purpose.md, mortality-purpose.md, purpose-lifespan-stages.md, service-contribution-purpose.md, values-clarification.md — these require content review before linking, not added this pass
+
+## Run 12 — Purpose Across the Lifespan and Temporal Depth (this session)
+
+**What changed:** New "Purpose Across the Lifespan" framework section added between Mortality and Character Strengths.
+**Net delta:** +4,509 chars (new section) + reference file 9,765 chars; version 4.80.0 → 4.81.0.
+
+### 3–5 bullets of new content:
+
+- **New section: "Purpose Across the Lifespan"** — temporal depth as a purpose clarifier; the fear of "too late" and "too early" reframed as time-horizon errors
+- **U-Curve of Purpose** — Blanchflower & Oswald well-being research; the midlife trough as data not verdict; post-trough generativity shift
+- **Mono no Aware** — Japanese concept of impermanence as the foundation of meaning; reframes "not enough time" as the condition that makes purpose possible
+- **Temporal Depth Test** — purpose planning framework by decade (20s identity trajectory, 30s-50s deepening, 50s-65s transmission, 65+ integrity)
+- **Reference file created:** `references/purpose-lifespan-stages.md` (9,765 chars) — full content on Erikson's integrity stage, midlife reinvention patterns, conversation scripts for each life phase
+
+---
+
+# Run 11 — Drive Tools Migration to Ikigai Section
+
+**What changed:** Ten embedded practical tool subsections migrated from Ikigai section to `references/ikigai-drive-tools.md`; Ikigai section condensed; Family-of-Origin section expanded inline.
+**Net delta:** +1,284 chars.
+### 3–5 bullets of new content:
+
+- **Drive Tools migrated:** Consolidated 10 embedded subsections (~3,133 chars) into `references/ikigai-drive-tools.md`: The Two-Minute Rule, Drive Dichotomy, Autonomy Paradox, Procrastination, Zeigarnik Effect, Rest as Motivation, Environment Design, plus motivation spectrum and Quick Scripts entries
+- **Ikigai section condensed** (~10,860 → ~7,728 chars): Replaced tool sub-blocks with concise summary + `→ Full content:` link; retained framework structure and all existing reference links
+- **Family-of-Origin expanded** (2,554 → 4,273 chars): Added The Disowned Self Pattern (fantasy systems, compulsive helping, golden child shadow) and The Adult Child Dynamic; updated Key Scripts including the "potential" fear and "becoming like my parents" fear
+- **Reference link added:** `ikigai-drive-tools.md` linked as Ikigai section's consolidated practical tools reference
+- **Version 4.79.0 → 4.80.0**
+
+## Run 9 — Character Strengths & Legacy Deepen (this session)
+
+**What changed:** Run History migrated to reference file; Character Strengths + Legacy sections expanded inline; Quick Scripts added 3 new entries.
+**Net delta:** −731 chars (Run History moved to reference), +1,020 chars net expansion.
+
+### 3–5 bullets of new content:
+
+- **Character Strengths expanded:** Added "The Shadow of Every Virtue" — how each VIA virtue has a defensive ego-dressed form (wisdom→sophistry, courage→recklessness, etc.); added "Using VIA in Conversation" with scenario scripts for common purpose-finder questions
+- **Legacy Architecture reflinked:** Added `→ Full content: [legacy-architecture-purpose.md]` inline link (file existed but wasn't linked in SKILL.md)
+- **Quick Scripts expanded:** 3 new entries covering impostor syndrome when charging ("the tax on doing anything worth doing"), the autonomy-first trap, and "numbness as protection mechanism" with somatic grounding
+- **Run History condensed:** Former 938-char inline section → 107-char reference link; complete history preserved in this file
+- **Verification Checklist added:** New items for V2 malformed link scan and WSL size-gate rule
+
+---
+
+
+## Run 10 — Orphan Reference File Reclamation
+
+**What changed:** Two orphaned reference files reclaimed and linked in SKILL.md; no remaining orphan files.
+**Net delta:** +342 chars (two reference link insertions); version bump 4.78.0 → 4.79.0.
+
+### 3–5 bullets of new content:
+
+- **ikigai-framework-complete.md reclaimed:** Linked after "Ignore it." paragraph in Ikigai section (full annotated version of Ikigai framework)
+- **ikigai-practical-anchors.md reclaimed:** Linked near the motivation section end of Ikigai (practical tools: Two-Minute Rule, Zeigarnik Effect, environment design, autonomy paradox)
+- **Orphan audit fixed:** Audit was using `→ Full content:` pattern only; universal pattern `\[([^\]]+)\]\(([^()]+)\)` correctly shows 0 orphans (42/42 files linked)
+- **ikigai-practical-anchors.md placement:** Contains the environment design friction list that was already inline; adding the link makes the full superset reference discoverable
+- **File size:** 99,489 chars with 511 chars headroom to 100k limit
+
+---
+
+## Run 8 — Flow States Expansion
+
+**What changed:** Flow States section given two new subsections.
+**Net delta:** +2,847 chars.
+
+### Bullets:
+- *Flow Access Obstacles* — four specific blockers (comparison loop, difficulty calibration, time expectations, passive engagement) with precise fixes
+- *Flow Triggers in Daily Life* — four evidence-based triggers: novelty within familiarity, deep embodiment, clear consequence, and the flow-before-flow paradox
+- The Layer 1-3 inline summary condensed from 1,348 chars to a 6-line reference note pointing to flow-autotelic-training.md
+
+---
+
+## Run 7 — Monetizing Purpose
+
+**What changed:** Full Monetizing Your Purpose framework section added.
+**Net delta:** net +4,500 chars.
+
+### Bullets:
+- Three models: Craftsman (deep skill → premium pricing), Audience (public expertise → teaching/consulting), Creator (community → subscriptions/events)
+- Sequencing problem: audience-first, not build-and-hope
+- The 1000 True Fans Threshold — Kevin Kelly's framework, true fan definition, specificity requirement
+- Imposter syndrome scripts: "not claiming to be the world's best — one step ahead of someone stuck where you were"
+- Warning signs that monetization is distorting purpose
+
+---
+
+## Run 6 — Identity-Based Habits
+
+**What changed:** Identity framework section added.
+**Net delta:** +4,877 chars.
+
+### Bullets:
+- James Clear's Identity Architecture: three layers (outcomes→processes→identity), identity-first then evidence
+- The Three Masks Exercise — performed self, craved self, surviving self; gaps are direction data
+- Evidence Ledger — weekly log converting behavior into votes for emerging identity
+- The 100-Vote Threshold: Clear's research shows ~100 votes before brain accepts new identity
+- Builder identity vs. Finder identity — builder puts purpose in the present
+
+---
+
+## Run 5 — Flow States Starter
+
+**What changed:** Flow States section added (initial version).
+**Net delta:** +10,975 chars.
+
+### Bullets:
+- Flow ≠ Passion: enter flow first, passion develops after; key inverts popular advice
+- The Flow Channel: anxiety (task too hard) ↔ boredom (task too easy); flow sits in the narrow space between
+- Three Conditions: Clear Goals, Immediate Feedback, Challenge/Skill Balance
+- Flow-Based Purpose Discovery Method: two-week Flow Log → Difficulty Test → schedule audit
+- Autotelic Personality: four characteristics (goal-seeking, immediate feedback, curiosity, personal initiative)
+
+---
+
+## Run 4 — Decision Frameworks
+
+**What changed:** Decision frameworks expanded; Motivation Stack, Two-Minute Rule, Rest Deficit added.
+**Net delta:** +5,726 chars.
+
+### Bullets:
+- The Regret Minimization Framework (Jeff Bezos): "will I regret not having tried at age 80?"
+- The "Die With Zero" Perspective (Bill Perkins): what would you start doing if you knew you had 10 years?
+- Nine Decision Tests: Reversal Test, Two-Cardinal-Virtues Test, Compound Effect, Mortality Shift, Values Friction Test, Person-in-Need Test, OODA Loop, Eisenhower Matrix, 10-10-10 Rule
+- The Motivation Stack: how layered motivators (survival→social→meaning) interact
+- Rest as a Motivation Strategy: deliberate rest rebuilds dopamine sensitivity
+
+---
+
+## Run 3 — Career Capital (Cal Newport)
+
+**What changed:** Career Capital Theory section added.
+**Net delta:** +3,627 chars.
+
+### Bullets:
+- The Passion Hypothesis Is Backwards: passion follows competence; two structural flaws
+- Career Capital Defined: rare and valuable skills, two types (deep vs. creative)
+- Deliberate Practice: the ~20-hour threshold, five hallmarks (specific goal, immediate feedback, concentration, stretching, repetition with variation)
+- Career Capital → Autonomy: build first, then claim freedom
+- Four Rules: don't follow passion; become a craftsman; track your capital; cash in strategically
+
+---
+
+## Run 2 — Frankl Logotherapy
+
+**What changed:** Frankl logotherapy section deepened.
+**Net delta:** +4,323 chars.
+
+### Bullets:
+- The Three Pillars of Meaning: Creative values (what you give), Experiential values (what you receive), Attitudinal values (your stance toward unavoidable suffering)
+- The Existential Vacuum: distinct from depression; three compensations (conformism, totalitarianism, abulia)
+- Socratic Method and Dereflection: Frankl's conversation techniques — asking about the questioner's life situation rather than symptoms
+- Meaning vs. Happiness: purpose ≠ comfortable; engaged life, not comfortable life
+- Post-Traumatic Growth: crisis reorganizes time perception; seismic shift effect; why adversity can deepen purpose
+
+---
+
+## Run 1 — Ikigai Framework
+
+**What changed:** Ikigai framework section added; "Used to Love" inventory introduced.
+**Net delta:** +10,804 chars.
+
+### Bullets:
+- The Ikigai Misconception: popular Venn diagram is a Western invention; real ikigai is subtler — three dimensions (Inoue): social, non-social, anti-social
+- Daily and modest: ikigai is often small and daily — tending a garden, being present for a child, doing your work with care; relational, not just internal; can be momentary
+- Three-Domain Ikigai Inventory: social (what people lean on you for), non-social (private practice/ritual), anti-social (resentment/revenge-based purpose — name it and re-aim it)
+- The Eudaimonic Flip: "if no one ever knew and I never got paid, would I still do it?"
+- Cross-Cultural Distortion: Western culture frames purpose as something you find; Japanese ikigai is sustained through attention and practice; antidote is treat purpose as practice, not revelation
+- *Natsukashii*: bittersweet longing as purpose signal; the longing test ("what would you genuinely miss being present for")
+- Small-Purpose Practice: one moment of genuine usefulness at end of each day, patterns compound over weeks
+
+
+
+## Run 14 — V2 Link Correction
+
+**What changed:** All 36 `→ Full content:` reference links had V2-malformed link text (bare filename instead of path-prefixed). Fixed to proper `[references/filename.md]` format.
+**Net delta:** +396 chars; version 4.82.1 → 4.82.2.
+
+### 3–5 bullets of new content:
+
+- **36 V2 links fixed:** All `→ Full content: [filename.md](references/filename.md)` → `→ Full content: [references/filename.md](references/filename.md)`. V2 pattern (bare filename as link text) is the most insidious malformed link variant — prefix is present so appears correct, but link text lacks `references/` path.
+- **No content changed** — purely structural correction. All reference files already existed and were correctly linked; only the link text format was wrong.
+- **File size:** 99,324 → 99,720 chars; headroom 280 chars.
+- **Descriptive links preserved:** 10 links that had `—` description text were already correct and unchanged.
+- **V2 detection:** `\[([^\]]+\.md)\]\(references/([^)]+\.md)\)` — link text bare filename (no `references/` prefix), URL correct.
+
+---
+
+## Run 15 — Orphan Reference File Reclamation (Complete) (this session)
+
+**What changed:** All 6 remaining orphaned reference files from Run 13 were linked in appropriate SKILL.md sections. Zero orphans remaining.
+**Net delta:** +2,988 chars; version 4.84.0 → 4.85.0.
+
+### 3–5 bullets of new content:
+
+- **values-clarification.md linked** at end of Cross-Cultural Purpose section — ACT values vs. goals distinction, 60-second values sort, Used to Love inventory for disrupted purpose
+- **service-contribution-purpose.md reclaimed:** New "Service and Contribution" framework section inserted before Monetizing — generativity research (Erikson/McAdams), Helper's High (neurological), 30-Day Contribution Log practice
+- **mortality-purpose.md linked** at start of Mortality section — Bronnie Ware's five deathbed regrets framework introduced inline before memento mori practice; full analysis at reference link
+- **legacy-architecture-purpose.md linked** after legacy-and-mortality.md link — generativity spiral, leaving something specific vs. vague "a legacy," being remembered vs. being needed
+- **ikigai-framework-complete.md linked** after ikigai-deep-dive.md link — full annotated version combining Eudaimonic Well-Being, Small-Purpose Practice, Natsukashii Longing test in one reference
+- **purpose-lifespan-stages.md linked** at Character Strengths section start — Erikson's integrity vs. despair, U-Curve of Well-Being, midlife reinvention, mono no aware temporal depth
+- **Orphan audit: 0 remaining** — all 39 reference files now properly linked in SKILL.md
+
+
+---
+
+
+---
+
+## Run 16 — Ikigai Modern Work Deepening (this session)
+
+**What changed:** New reference file `references/ikigai-modern-work.md` created and linked in Ikigai section. Deepens the Ikigai lens for modern workplace contexts — remote work, AI/automation obsolescence, gig economy fragmentation, portfolio careers, sabbatical clarity, retirement, work-life boundary blur, competitive workplace anti-social distortion.
+
+**Net delta:** +295 chars (values-clarification link restored + ikigai-modern-work reference link added); new reference file 7,477 chars; version 4.87.0 → 4.88.0.
+
+### 3–5 bullets of new content:
+
+- **ikigai-modern-work.md created** (7,477 chars): 9 sub-sections on modern work applications of ikigai — portfolio careers, remote work social ikigai loss, AI/automation obsolescence, gig economy fragmentation, retirement, work-life boundary blur, competitive workplace anti-social distortion
+- **Remote Work and Social Ikigai:** Remote work structurally undermines social ikigai (contribution invisible without physical presence). Three compensations: make contributions visible via weekly narration, deepen small interactions intentionally, build contribution rituals to see impact
+- **AI and Automation Obsolescence:** Craftsman mindset faces specific threat when skills depreciate. Reframe: ikigai is in the relationship between skill and what it serves, not the skill itself. "If primary skill were automated, what would remain that still matters?" reveals actual ikigai
+- **Gig Economy Fragmentation:** Platform work fragments all four ikigai dimensions simultaneously. Correct model: use gig work as financial scaffolding while building ikigai sources outside it — compartmentalize correctly
+- **Competitive Workplace Anti-Social Distortion:** Detection: purpose statements containing "prove," "beat," "show," "despite," "not." Re-aiming question: "What would you do with same energy if not trying to prove anything?"
+- **File health:** 62,764 chars; 37,236 headroom; 0 V2 malformed links; 39/39 reference files properly linked
+
+
+---
+
+## Run 17 — Life Design Deepening: Designing Your Life (Burnett & Evans) — this session
+
+**What changed:** Added four practical life design tools to the Decision Frameworks section under "Designing Your Life (Burnett & Evans)." These tools address the gap between knowing you need to make a decision and having a concrete method to generate options.
+**Net delta:** +1,720 chars; version 4.89.0 → 4.90.0.
+
+### 3–5 bullets of new content:
+
+- **Life Design Interview (Infovore approach):** Study three people's actual daily work via structured interviews — not inspirational figures but people whose *choices* intrigue you. Ask: typical Tuesday, cost of this path, would you do it again? Extract data, not inspiration. Specific unglamorized data beats aspirational biography.
+- **Odyssey Plan 5-year template:** Three plans (current trajectory, one lever pulled, scary option with no safety nets). Rate each on daily enjoyment, world improvement, realism. Most people's "scary" option scores higher on enjoyment and meaning — they just haven't written it down.
+- **Mindmapper Exercise:** 5 minutes, problem in center, 5 rays: what you'd do if no one judged you, if money didn't matter, if you had one year left, what a favorite fictional character would advise, what you'd do if you couldn't fail. Cross-domain associations surface directions pure analysis misses.
+- **Prototype Walk:** 2 hours of physical doing before committing — shadow, assist, or volunteer in the actual work. Most people discover within 90 minutes whether the day-to-day reality fits. "The body knows before the mind does."
+

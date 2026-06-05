@@ -1,0 +1,225 @@
+{
+  "jobs": [
+    {
+      "id": "c7fd2be29e71",
+      "name": "Wealth Skill Evolution",
+      "prompt": "Continuously improve and expand the wealth-building agent skills. Focus on the skill at: /opt/data/skills/productivity/wealth-mindset/SKILL.md\n\nResearch strategy: Each run, pick ONE aspect to deeply improve based on what's already there. Cycle through:\n\n**Run 1: Elon Musk's Methodology**\nResearch Elon Musk's specific decision-making frameworks, first principles thinking, work ethic, and mental models. Use web search and Wikipedia API to gather facts. Add a \"Musk-Style Wealth Building\" section to the skill with his specific frameworks, quotes, and tactical approaches.\n\n**Run 2: Jeff Bezos / Long-Term Thinking**\nResearch Bezos's \"regret minimization framework,\" \"day one\" mentality, customer obsession, and long-term compounding strategies. Add a section on building companies and compounding personal wealth.\n\n**Run 3: Naval Ravikant's Wealth Philosophy**\nResearch Naval's specific frameworks: \"Seek wealth, not money or status,\" \"Play long-term games,\" \"Pick one: specific knowledge, accountability, or leverage,\" the specific tactics from his Almanack. Add his frameworks and scripts.\n\n**Run 4: Warren Buffett / Investment Mastery**\nResearch Buffett's specific mental models: circle of competence, moat concept, Mr. Market, the insurance float strategy, specific investment criteria. Add investment wisdom and frameworks.\n\n**Run 5: Power and Unstoppable Execution**\nResearch what makes certain people unstoppable \u2014 Elon Musk's 120-hour work weeks, Jeff Bezos's \"disagree and commit,\" the psychology of extreme ownership, building unbreakable habits, dealing with failure. Add an \"Unstoppable Execution\" section.\n\n**Run 6: Income Acceleration**\nResearch specific income acceleration tactics: negotiation frameworks, building specific skills that command premium pay, creating leverage through products/business/investing. Expand the income section.\n\n**Run 7: Risk and Probability Thinking**\nResearch how Musk/Buffett/Bezos think about risk. The Musk \"first principles\" risk analysis, Buffett's margin of safety, Bezos's \"disagreeable\" decision-making. Add a risk framework section.\n\n**Run 8: Tax Optimization and Asset Protection**\nResearch legal tax optimization strategies for high earners, asset protection, entity structures (LLC, trust, etc.), tax-advantaged accounts. Add practical tax strategies.\n\n**Then repeat cycle**, each time deepening and expanding existing sections while adding new ones.\n\n**Rules:**\n1. Always use web search or Wikipedia API for research before updating\n2. Keep existing content \u2014 add new sections, don't overwrite unless improving\n3. Update version number (e.g. 1.0.0 -> 1.1.0) each run\n4. Keep SKILL.md under 100,000 chars \u2014 if it gets too large, move content to references/ subdirectory\n5. Preserve the existing frontmatter and structure\n6. Always keep the \"When to Use\", \"Common Pitfalls\", \"Quick Scripts\", and \"Verification Checklist\" sections\n7. Link related skills: breakup-recovery, purpose-finder where relevant\n\n**Research commands available:**\n```bash\n# Wikipedia API for factual content\ncurl -sA \"Mozilla/5.0\" \"https://en.wikipedia.org/w/api.php?action=query&titles=Elon_Musk&prop=extracts&explaintext=1&format=json&redirects=1\"\n\n# Web search if available\n# Use terminal tool for web research\n```\n\n**Output at end of each run:**\n- What section was added/updated\n- What specific content was added (3-5 bullet points)\n- New version number\n- Any interesting discoveries from research",
+      "skills": [
+        "hermes-agent-skill-authoring"
+      ],
+      "skill": "hermes-agent-skill-authoring",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": 1000,
+        "completed": 69
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-24T02:31:46.399140+00:00",
+      "next_run_at": "2026-05-26T02:41:30.351949+00:00",
+      "last_run_at": "2026-05-26T02:31:30.351949+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "dd7f53e0bdd5",
+      "name": "Breakup Recovery Skill Evolution",
+      "prompt": "Continuously improve and expand the breakup-recovery agent skill. Focus on the skill at: /opt/data/skills/productivity/breakup-recovery/SKILL.md\n\nResearch strategy: Each run, pick ONE aspect to deeply improve. Cycle through:\n\n**Run 1: Attachment Theory & The Psychology of Breakups**\nResearch: attachment styles (secure, anxious, avoidant), how they affect breakup recovery, the neurochemistry of heartbreak (dopamine, oxytocin withdrawal), why breakups physically hurt. Add a \"The Science of Heartbreak\" section.\n\n**Run 2: Resilience Research**\nResearch: psychological resilience research, post-traumatic growth, the stages of grief model (K\u00fcbler-Ross), what actually predicts who recovers well from heartbreak. Add evidence-based resilience tactics.\n\n**Run 3: Communication Scripts for Breakups**\nResearch: what to say when ending a relationship, how to handle no-contact conversations, how to deal with mutual friends, how to respond when an ex reaches out. Expand the scripts section.\n\n**Run 4: Digital Cleanup & Practical Steps**\nResearch: the psychology of social media stalking, how to actually do a digital detox after breakup, how to handle shared photos/memories, muting vs blocking vs unfriending. Add a practical \"digital cleanup\" guide.\n\n**Run 5: When to Walk Away (Red Flags)**\nResearch: gaslighting patterns, intermittent reinforcement, trauma bonding, why staying with someone \"because you love them\" can be harmful. Add a \"should you actually stay or go?\" decision framework.\n\n**Run 6: Rebuilding Identity Post-Breakup**\nResearch: identity reconstruction theory, how relationships change who we are, how to figure out who you are separate from your ex. Add an identity rebuilding section.\n\n**Run 7: Helping a Friend Through a Breakup**\nResearch: what actually helps vs what makes things worse, active listening techniques, when to give advice vs just listen, how to check in without being pushy. Add a \"how to help someone else\" section.\n\n**Run 8: The Anger Phase \u2014 Embracing It**\nResearch: the therapeutic value of anger, healthy vs unhealthy anger expression, how journaling and rage can actually process grief. Add an anger management section for breakups.\n\n**Then repeat**, deepening sections with more specifics, quotes, research, and examples.\n\n**Rules:**\n1. Use web search or Wikipedia API for research before updating\n2. Add new sections \u2014 don't overwrite existing content unless improving it\n3. Update version number each run (e.g. 1.0.0 -> 1.1.0)\n4. Keep SKILL.md under 100,000 chars; if too large move content to references/\n5. Always keep: When to Use, Common Pitfalls, Quick Scripts, Verification Checklist\n6. Link related skills: purpose-finder, wealth-mindset\n\n**Output at end of each run:**\n- What section was added/updated\n- 3-5 specific bullets of new content added\n- New version number",
+      "skills": [
+        "hermes-agent-skill-authoring"
+      ],
+      "skill": "hermes-agent-skill-authoring",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": 1000,
+        "completed": 60
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-24T02:32:06.901288+00:00",
+      "next_run_at": "2026-05-26T02:42:30.563753+00:00",
+      "last_run_at": "2026-05-26T01:13:06.803215+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "a7b7d866a7bb",
+      "name": "Purpose Finder Skill Evolution",
+      "prompt": "Continuously improve and expand the purpose-finder agent skill. Focus on the skill at: /opt/data/skills/productivity/purpose-finder/SKILL.md\n\nResearch strategy: Each run, pick ONE aspect to deeply improve. Cycle through:\n\n**Run 1: Ikigai Framework**\nResearch: the Japanese ikigai concept (purpose/longing/desire), how it differs from Western \"passion\" frameworks, the four-part model (what you love, what you're good at, what the world needs, what you can be paid for). Add a comprehensive ikigai section.\n\n**Run 2: The Psychology of Meaning (Viktor Frankl)**\nResearch: Frankl's logotherapy, \"meaning\" vs \"happiness,\" his three sources of meaning (work, love, courage in suffering), how people find purpose after tragedy. Add a Frankl-inspired section.\n\n**Run 3: Career Capital Theory (Cal Newport)**\nResearch: Cal Newport's \"career capital\" framework, deliberate practice, the importance of rare and valuable skills, how to build career capital step by step. Add career-building tactics.\n\n**Run 4: Decision Frameworks for Direction**\nResearch: how to make big life decisions without certainty, Jeff Bezos's \"regret minimization framework,\" the \"die with zero\" concept, how to design your life (Bill Burnett frameworks). Add decision-making tools.\n\n**Run 5: Flow States and Purpose**\nResearch: Csikszentmihalyi's flow research, what activities put people in flow, how flow is different from passion, the role of challenge-skill balance. Add a flow-based purpose discovery method.\n\n**Run 6: Identity-Based Habits for Finding Purpose**\nResearch: James Clear's atomic habits identity framework, how \"who do I want to become\" shapes daily choices, how to build identity around emerging purpose. Add identity-building tactics.\n\n**Run 7: Monetizing Your Purpose**\nResearch: how to actually turn a purpose or passion into income, the \"audience first\" approach, building a platform, the \"1000 true fans\" concept. Add a section on earning from your calling.\n\n**Run 8: Failure and Uncertainty as Part of Purpose**\nResearch: how failure often redirects people toward what actually matters, the concept of \"founder mode\" in finding direction, what people who found purpose late in life have in common. Add a section on embracing uncertainty.\n\n**Then repeat**, deepening each section over multiple cycles.\n\n**Rules:**\n1. Use web search or Wikipedia API for research before updating\n2. Add new sections \u2014 don't overwrite existing content unless improving it\n3. Update version number each run (e.g. 1.0.0 -> 1.1.0)\n4. Keep SKILL.md under 100,000 chars; if too large move content to references/\n5. Always keep: When to Use, Common Pitfalls, Quick Scripts, Verification Checklist\n6. Link related skills: breakup-recovery, wealth-mindset\n\n**Output at end of each run:**\n- What section was added/updated\n- 3-5 specific bullets of new content added\n- New version number",
+      "skills": [
+        "hermes-agent-skill-authoring"
+      ],
+      "skill": "hermes-agent-skill-authoring",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": 1000,
+        "completed": 60
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-24T02:32:07.918587+00:00",
+      "next_run_at": "2026-05-26T02:42:30.563753+00:00",
+      "last_run_at": "2026-05-26T00:55:07.771244+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "0ec241b535e3",
+      "name": "AI Money Maker Skill Evolution",
+      "prompt": "Continuously improve and expand the ai-money-maker agent skill. Focus on the skill at: /opt/data/skills/productivity/ai-money-maker/SKILL.md\n\nResearch strategy: Each run, pick ONE aspect to deeply improve. Cycle through:\n\n**Run 1: Deep Research on Real AI Money Methods**\nResearch: real stories of ordinary people making money with AI in 2024-2025. Find specific examples with numbers (how much they earned, what tools they used, how long it took). Add a \"\u771f\u5b9e\u6848\u4f8b\u5e93\" section with specific stories.\n\n**Run 2: AI Side Hustle Income Reports**\nResearch: latest data on AI side hustle earnings. What are the top earning categories? Which platforms pay most? What does the income distribution look like? Add income benchmarks.\n\n**Run 3: Latest AI Tools for Making Money**\nResearch: newest AI tools released in 2024-2025 that enable new money-making methods. Cover: Claude extensions, Cursor AI, AI agents (Manus, ChatGPT agent), new image/video generators. How can each be monetized?\n\n**Run 4: Specific Prompts for Making Money**\nCollect the BEST prompts for: writing viral posts, generating product listings, creating sales copy, building landing pages, writing email sequences. Add a \"\u641e\u94b1\u63d0\u793a\u8bcd\" reference section.\n\n**Run 5: AI + Chinese Platform Strategies**\nResearch: how to monetize AI on Chinese platforms specifically: WeChat video account, Xiaohongshu (RED), Zhihu, Bilibili, Douyin. What works in 2025 vs what died. Add platform-specific strategies.\n\n**Run 6: Building AI Micro-SaaS (No Code)**\nResearch: how to build AI products without coding using: Cursor, Replit, Bubble + AI APIs, n8n workflows, Zapier. What micro-SaaS are making money? How to launch with $0 budget?\n\n**Run 7: The AI Freelance Playbook**\nResearch: how to get AI-related freelance clients. What are clients actually buying? How to position yourself? What proposals work? How to handle scope creep. Add templates and scripts.\n\n**Run 8: AI Passive Income Systems**\nResearch: what's actually working for passive AI income. AI-generated content sites, faceless YouTube channels, AI ebook publishing, AI course creation. What requires ongoing work vs what is truly passive?\n\n**Then repeat**, deepening each section with more specifics, real examples, and updated tactics.\n\n**Rules:**\n1. Use web search or Wikipedia API for research before updating\n2. Add new sections \u2014 don't overwrite existing content unless improving it\n3. Update version number each run (e.g. 1.0.0 -> 1.1.0)\n4. Keep SKILL.md under 100,000 chars; if too large move content to references/\n5. Always keep: When to Use, Common Pitfalls, Quick Scripts, Verification Checklist\n6. Link related skills: purpose-finder, wealth-mindset\n\n**Output at end of each run:**\n- What section was added/updated\n- 3-5 specific bullets of new content added\n- New version number",
+      "skills": [
+        "hermes-agent-skill-authoring"
+      ],
+      "skill": "hermes-agent-skill-authoring",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": 1000,
+        "completed": 62
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-24T02:36:01.946130+00:00",
+      "next_run_at": "2026-05-26T02:42:30.563753+00:00",
+      "last_run_at": "2026-05-26T01:17:54.267735+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "38b39af93eaf",
+      "name": "AI Money Maker Deep Evolution",
+      "prompt": "Continuously improve and expand the ai-money-maker agent skill with DEEP, NON-CONSENSUS insights. Focus on: /opt/data/skills/productivity/ai-money-maker/SKILL.md\n\nResearch strategy: Each run, pick ONE deep vertical to deeply research and add. Cycle through:\n\n**Run 1: Deep Research on Traditional Industry \"Old Masters\" + AI**\nResearch: specific examples of doctors, lawyers, architects, factory owners using AI to 10x their income. How do they think about AI? What did they try first? What's their actual ROI? Find 3-5 real cases with numbers. Add a \"\u884c\u4e1a\u8001\u6cd5\u5e08 AI \u589e\u503c\" section.\n\n**Run 2: B2B AI Sales Psychology**\nResearch: how to actually sell AI solutions to enterprises. What's the decision chain? Who is the buyer vs user? What objections come up and how do you overcome them? What proposals work vs fail? Add a \"B2B \u9500\u552e\u5b9e\u6218\" section.\n\n**Run 3: Vertical AI Application Case Studies**\nResearch: specific vertical AI products making $100k+/yr. What are they? How did they start? What's the moat? Focus on: legal AI, medical AI, manufacturing AI, financial AI. These are where real money flows. Add a deep case study section.\n\n**Run 4: Building AI Assets That Compound**\nResearch: what separates AI assets from AI services. How to build something that generates passive income vs trading time for money. Examples of people who built AI assets and what those assets look like. Add \"\u590d\u5229\u578b AI \u8d44\u4ea7\" section.\n\n**Run 5: AI + High-Trust Relationships (Not Just Tools)**\nResearch: why selling AI to enterprises is about trust, not technology. How to build relationships with decision makers. How to position yourself as a trusted advisor vs a vendor. Add \"\u4fe1\u4efb\u578b\u9500\u552e\" section.\n\n**Run 6: Information Asymmetry in AI Markets**\nResearch: real examples of information gaps between markets (China vs West, industry to industry). What specific AI capabilities/strategies are known in one market but not another? How can someone exploit this? Add \"\u4fe1\u606f\u5dee\u5957\u5229\" section.\n\n**Run 7: Regulatory & Compliance as Moat**\nResearch: how AI regulations create opportunities for people who understand them. Compliance consulting, audit tools, policy expertise. How to build a business around AI compliance. Add \"\u5408\u89c4\u5373\u62a4\u57ce\u6cb3\" section.\n\n**Run 8: The Psychology of AI Buyers**\nResearch: what makes enterprise buyers actually pay for AI. Fear of missing out? Fear of competition? Pressure from board? Real motivation behind AI purchases. How to frame AI value propositions that trigger buying decisions. Add \"AI \u4e70\u5bb6\u5fc3\u7406\u5b66\" section.\n\n**Then repeat**, each time going deeper, adding real examples with numbers and specifics.\n\n**Rules:**\n1. Use web search and research tools for real information before updating\n2. Focus on HIGH VALUE content: real cases with real numbers, not generic advice\n3. Add new sections \u2014 don't overwrite existing content\n4. Update version number each run (1.0.0 -> 1.1.0 -> 1.2.0 etc.)\n5. Keep SKILL.md under 100,000 chars; if too large move content to references/\n6. Always keep: When to Use, Decision Framework, Action Plan, Verification Checklist\n\n**Output at end of each run:**\n- What section was added/updated\n- 3-5 specific bullets of new deep content\n- Real examples with numbers (revenue, growth, etc.)\n- New version number",
+      "skills": [
+        "hermes-agent-skill-authoring"
+      ],
+      "skill": "hermes-agent-skill-authoring",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "context_from": null,
+      "schedule": {
+        "kind": "interval",
+        "minutes": 10,
+        "display": "every 10m"
+      },
+      "schedule_display": "every 10m",
+      "repeat": {
+        "times": 1000,
+        "completed": 77
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-05-24T03:38:18.690771+00:00",
+      "next_run_at": "2026-05-26T02:42:30.563753+00:00",
+      "last_run_at": "2026-05-26T02:11:03.392233+00:00",
+      "last_status": "ok",
+      "last_error": null,
+      "last_delivery_error": null,
+      "deliver": "discord",
+      "origin": {
+        "platform": "discord",
+        "chat_id": "1481712480391528559",
+        "chat_name": "stancsz",
+        "thread_id": null
+      },
+      "enabled_toolsets": null,
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-05-26T02:32:30.571706+00:00"
+}

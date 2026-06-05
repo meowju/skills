@@ -90,3 +90,20 @@
 > Thank you for saying that directly. That takes honesty and courage. I'd like to suggest talking to a professional — a therapist can help you understand what's happening and give you tools that make a real difference. Would you like help finding one, or do you already have someone you're working with?
 
 > The purpose frameworks in this skill are not designed for clinical depression. They work best when the person has enough stability to engage with them. The first and most important step is getting support — everything else can follow.
+
+---
+
+## Additional Core Scripts
+
+**"I tried that and it didn't work":**
+> What specifically didn't work? Not "it" — the specific element. Understanding what failed is not the same as knowing what will succeed. It's closer than you think.
+
+**"I can't afford to follow my purpose":**
+> Most purpose-driven paths don't require quitting your job. They require 5 hours a week of serious engagement with something different.
+
+**"I'm afraid of failing publicly":**
+> The person who fails publicly and iterates is always more advanced than the person who never tries.
+
+**"What if I choose wrong?":**
+> There is no wrong choice — only choices you understand better afterward. Every direction teaches you something about yourself.
+

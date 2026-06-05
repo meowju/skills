@@ -16,7 +16,7 @@ The popular four-circle ikigai diagram is a Western invention. The more useful f
 
 **6. Longing (Natsukashii, 懐かしい):** The Japanese concept of *natsukashii* — a bittersweet longing for something that has passed or is passing. This is the dimension most Western frameworks miss entirely. Purpose is not only about what energizes you forward; it is also about what you would miss if it disappeared. The things you would miss are a purpose vector more reliable than the things that currently excite you. Ask: what would I miss? What am I already attached to that I didn't choose but now choose anyway? The answer to that question is often a form of longing — and longing, not passion, is the more accurate signal.
 
-→ Related: [references/ikigai-blue-zones.md](references/ikigai-blue-zones.md)
+→ Related: [Blue Zones ikigai research](references/ikigai-blue-zones.md)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: wealth-mindset
 description: "Use when someone feels stuck in a scarcity mindset, is afraid of money, avoids financial decisions, or wants practical tools for building wealth and financial independence."
-version: 1.145.0
+version: 1.148.0
 author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
@@ -33,7 +33,7 @@ Money is not happiness. But financial stress is a happiness killer, and financia
 **Don't use for:** Acute financial crisis (homelessness, food insecurity) — navigate sensitively and point to emergency resources. This skill is for people with some baseline stability who want to build.
 ## The Money Mindset Problem
 
-→ Full content: [money-mindset-problem.md](references/money-mindset-problem.md)
+→ Full content: [金钱心态问题深度解析](references/money-mindset-problem.md)
 
 ## Framework: Building Wealth From Here
 
@@ -47,7 +47,7 @@ The foundational framework for building real wealth: face your financial truth f
 
 The framework's key insight: the order of operations matters. You cannot invest your way out of insufficient income, and you cannot save your way to wealth without investment. Both are necessary; sequence determines results.
 
-→ Full content: [framework-building-wealth.md](references/framework-building-wealth.md)
+→ Full content: [财富框架构建指南](references/framework-building-wealth.md)
 
 
 ## The Abundance Mindset Shift
@@ -62,7 +62,7 @@ The deepest financial limitation is not income or information — it is the ment
 
 The abundance mindset is not positive thinking — it is a rigorous framework for seeing opportunity where others see threat.
 
-→ Full content: [abundance-mindset.md](references/abundance-mindset.md)
+→ Full content: [富足心态转变](references/abundance-mindset.md)
 
 
 ## Musk-Style Wealth Building
@@ -70,7 +70,7 @@ The abundance mindset is not positive thinking — it is a rigorous framework fo
 Elon Musk went from $10M after the Zip2 sale in 1999 to an estimated $828 billion in 2026 (Forbes). His approach to wealth building is not about budgeting or cutting costs — it is about solving hard problems with leverage and compounding the results over decades. He identifies massive problems most people think unsolvable, builds toward them across decades, and accepts the turbulence as part of the process.
 
 → Full content: [Musk tactics](references/musk-tactical-deep-dive.md) — first principles, 120-hour weeks, capital tactics, recruitment, crisis decision-making.
-→ Full content: [musk-2025-2026-update.md](references/musk-2025-2026-update.md) — $828B net worth, $1T Tesla package, xAI/SpaceX integration, DOGE, what it means for wealth building.
+→ Full content: [Musk 2025-2026财富更新](references/musk-2025-2026-update.md) — $828B net worth, $1T Tesla package, xAI/SpaceX integration, DOGE, what it means for wealth building.
 
 ### First Principles Thinking: The Core Framework
 
@@ -116,7 +116,7 @@ Musk famously worked 120-hour weeks during Tesla's production hell and SpaceX's 
 
 **The applications:** The "almost gave up" moment is the real wealth inflection point. Most people quit the month before their breakthrough. **The 1% test:** Ask "Is this right, or just comfortable?"
 
-→ Full content: [musk-frameworks.md](references/musk-frameworks.md)
+→ Full content: [Musk思维框架与决策模型](references/musk-frameworks.md)
 
 ### Musk's Capital Structure: Borrow, Don't Sell
 
@@ -131,7 +131,7 @@ Musk's most powerful tax strategy: **never sell appreciated stock**. He borrowed
 4. **Negotiate financing structure proactively** — lenders offer better terms to known customers
 5. **Plan for tax events before they arrive** — options/RSU vesting windows need提前规划
 
-→ Full content: [musk-tax-strategy-deep-dive.md](references/musk-tax-strategy-deep-dive.md)
+→ Full content: [Musk税务策略深度分析](references/musk-tax-strategy-deep-dive.md)
 
 ### Musk on Money (Direct Quotes)
 
@@ -319,8 +319,8 @@ Bezos has said the biggest misunderstanding about Amazon is that it's a retail b
 
 Warren Buffett's wealth model is the simplest and most powerful: **compound interest over extraordinary time horizons.** He turned a $10,000 investment in 1950 into ~$149 billion by 2026. At Berkshire Hathaway's May 2025 investor conference, Buffett formally requested the board appoint **Greg Abel** as CEO by year-end, transitioning to chairman emeritus.
 
-→ Full content: [buffett-frameworks.md](references/buffett-frameworks.md)
-→ Full content: [buffett-concentration-tax.md](references/buffett-concentration-tax.md)
+→ Full content: [巴菲特投资框架与心理模型](references/buffett-frameworks.md)
+→ Full content: [巴菲特集中投资与税务优化](references/buffett-concentration-tax.md)
 
 **Core principles (inline summary):**
 - **Circle of Competence** — invest only in businesses you deeply understand; acknowledge what you don't know
@@ -334,7 +334,7 @@ Warren Buffett's wealth model is the simplest and most powerful: **compound inte
 
 
 
-→ Full content: [buffett-decision-engine.md](references/buffett-decision-engine.md)
+→ Full content: [巴菲特决策引擎解析](references/buffett-decision-engine.md)
 
 ### Buffett-Specific Wealth Building Tactics
 
@@ -381,9 +381,21 @@ The single most important mental model for building lasting wealth is understand
 - How will this decision matter in **10 months**? (moderately relevant)
 - How will this decision matter in **10 years**? (the only thing that matters)
 
-→ Full content: [exponential-wealth-math.md](references/exponential-wealth-math.md)
+→ Full content: [指数财富数学原理](references/exponential-wealth-math.md)
 
-**The Patience Premium:** Every major wealth builder in history has said the same thing — the market's short-term volatility is noise. The S&P 500 has never had a negative 20-year rolling return. Never. In 20-year windows, equities have always outperformed bonds, cash, and gold. The person who stayed invested through 2008, 2020, and every other "crash" ended up far wealthier than the person who sold and waited.
+**The Three Phases of Compound Wealth (the only mental model that matters):**
+- **Phase 1 (Years 1-15): The Slow Grind** — Contributions > returns. Discipline and avoiding lifestyle inflation dominate.
+- **Phase 2 (Years 15-30): Returns Take Over** — Market returns exceed contributions. Patience matters.
+- **Phase 3 (Years 30+): The Acceleration** — Compounding dominant. 10x-50x original principal.
+- *Why this matters:* Most people quit in Phase 1, not realizing the first $1M is hardest; doubling to $2M takes only ~10 years at 7%.
+
+**The Four Wealth Destroyers (in order of damage):**
+1. **High fees** — 1% annual fee on $500K over 30 years costs ~$280K. Never pay >0.5% for index investing (Vanguard/Schwab/Fidelity at 0.03-0.10%).
+2. **Performance chasing** — Buying last year's winner locks the high. S&P 500 beats 80% of active funds over 15 years.
+3. **Lifestyle inflation** — Same $100K income produces $0 vs $30K/year compounding depending on spend.
+4. **Tax drag** — Tax-inefficient assets in taxable accounts, unmaxed 401k/IRA/HSA, panic selling instead of tax-loss harvesting.
+
+**The Behavioral Edge — 20-year rolling returns:** S&P 500 1-year range −37% to +37%; 5-year −2% to +28%; 10-year −1% to +19%; **20-year: never negative in history**. Commit to 20+ years and equities are mathematically near-certain to outperform bonds, cash, and gold. The challenge is behavioral, not analytical.
 
 
 ## Naval Ravikant: How to Get Rich Without Getting Lucky
@@ -447,7 +459,7 @@ Naval builds wealth as an angel investor (Uber, Twitter, Yammer, Postmates) — 
 
 **For individual investors:** Naval's personal portfolio strategy — hold high-conviction positions for long periods, don't over-diversify, accept that most investments will fail. The goal is asymmetric upside, not eliminating all downside.
 
-→ Full content: [naval-framework.md](references/naval-framework.md) — the most complete reference, covering: full tweet storm, judgment framework, specific knowledge formula, earn more than you bill, the Naval 10-step wealth path, emotional mastery, and reading as wealth-building tool.
+→ Full content: [Naval财富哲学框架](references/naval-framework.md) — the most complete reference, covering: full tweet storm, judgment framework, specific knowledge formula, earn more than you bill, the Naval 10-step wealth path, emotional mastery, and reading as wealth-building tool.
 
 ### The Almanack Framework: Living the Wealth Building Life
 
@@ -488,7 +500,7 @@ Charlie Munger (1924–2023) was Buffett's partner at Berkshire Hathaway for 45 
 
 **Key quote:** *"The best way to get what you want is to make yourself worthy of it."* — Reject shortcuts; genuine value is the only durable foundation.
 
-→ Full content: [munger-frameworks.md](references/munger-frameworks.md)
+→ Full content: [芒格心智模型与智慧](references/munger-frameworks.md)
 
 ## Tax Optimization and Asset Protection
 
@@ -541,7 +553,7 @@ The key requirements: the investment must be in a QOZ, you must invest gains wit
 
 **Application:** If you're selling a business or crypto position with $500,000+ in gains, consult a QOZ-specialist attorney before the sale closes. The deferral alone — keeping $500,000 compounding for 7 years instead of paying taxes immediately — is worth hundreds of thousands at typical return rates.
 
-→ Full content: [trust-wealth-planning.md](references/trust-wealth-planning.md)
+→ Full content: [信托与财富保全规划](references/trust-wealth-planning.md)
 ## Real Estate: Leverage, Cash Flow, Tax Benefits, Appreciation
 
 Real estate builds wealth through four simultaneous mechanisms: **leverage** (borrow 70-80% at 5-7% over 15-30 years), **cash flow** (rent covering all expenses and the mortgage), **tax benefits** (depreciation, 1031 Exchange to defer capital gains), and **appreciation** (3-5%/year). All four compound together over 10-20 years — that's where real wealth is built.
@@ -557,7 +569,7 @@ Real estate builds wealth through four simultaneous mechanisms: **leverage** (bo
 
 **Five beginner wipeouts:** (1) Emotional decisions over math. (2) Underestimating repairs — budget 1-1.5%/yr of property value. (3) Not screening tenants — $3K-10K eviction cost. (4) Over-leveraging — keep 6 months reserves. (5) Ignoring the 1031 Exchange — leaving 15-20% of profit with the IRS.
 
-→ Full content: [realestate-wealth-building.md](references/realestate-wealth-building.md)
+→ Full content: [房地产财富建设体系](references/realestate-wealth-building.md)
 
 
 ## Arnold Schwarzenegger: The Visionary's Path to Wealth and Power
@@ -657,34 +669,19 @@ The wealthy don't avoid risk — they price it. Every investment, career, and bu
 
 **The 10x/10% Rule:** Before any major decision: (1) What's the 10x scenario? (2) What's the 10% scenario — can I recover in under 2 years? (3) Is this my area of competence? All three align → act. Otherwise, pass.
 
-→ Full content: [risk-probability-thinking.md](references/risk-probability-thinking.md)
+**Howard Marks' second-level thinking:** The money is in the gap between what you see and what others see. First-level: *"Is this a good investment?"* (everyone asks). Second-level: *"Is this a good investment because everyone thinks it's a bad investment?"* (nearly no one asks). If you see what others see and they're correct, you get average returns. If you see what others miss, you get above-average returns. Second-level thinking requires (1) thinking about what others think, (2) thinking about whether the consensus is right, (3) acting on the gap with conviction.
+
+**The math of ruin:** If you lose 50%, you need a 100% gain just to get back to even. If you lose 75%, you need 300% to recover. Position sizing rule: never put so much into one bet that a failure destroys your ability to continue. The wealthy stay in the game; gamblers blow up. *"The first rule is don't lose money. The second rule is don't forget rule number one."* — Buffett.
+
+**Skin in the game (Taleb):** *"No skin in the game, no wisdom."* Never take risks with other people's money if you don't have your own capital at stake. Managers who risk OPM without personal consequences make dangerous bets. Apply this to your own decisions: any financial move that affects your future self without putting today's capital at risk is a decision you're not pricing correctly.
+
+**Build-mode vs. protect-mode:** When you're building wealth (under ~$1M net worth), maximum upside matters more than avoiding losses. Take asymmetric bets, develop skills, accept some volatility. When you're protecting wealth (over ~$5M), avoiding catastrophic loss matters more than chasing upside. Shift to barbell (90% safety / 10% speculation), reduce concentration, prioritize optionality. The mistake: staying in build-mode after you've won. The wealthy who blow up almost always forgot to switch games.
+
+→ Full content: [风险与概率思维模型](references/risk-probability-thinking.md)
 ## Negotiating Under Leverage: Scripts That Actually Work
 
-# Negotiating Under Leverage: Scripts That Actually Work
+→ Full content: [谈判杠杆脚本全解](references/negotiating-under-leverage.md)
 
-One successful salary negotiation can equal 1–3 years of raises. The frame: you're not asking — you're presenting market data showing your compensation is misaligned with your value.
-
----
-
-**When you have leverage — offer, track record, competing opportunity:**
-
-- *"Market data shows the 50th percentile for this role is $[X]; the 75th is $[Y]. My results exceed median. I'd like to discuss reaching the top of range."*
-- *"What would I need to demonstrate to reach [target] by [timeframe]? Can we document that?"*
-- *"I'm committed here but also evaluating options. I'd like a conversation about a path forward before deciding."*
-
-**Counteroffer leverage (even without intending to leave):** A genuine competing offer creates 10–30% counteroffer leverage. You must actually have the option — a bluff detected destroys more leverage than it creates.
-
----
-
-**When leverage is asymmetric (they hold it):** Script: *"I understand we're not in a position to revisit now. Can we schedule a conversation for [timeframe]?"* Don't negotiate from weakness — negotiate from strength by building alternatives first.
-
----
-
-**The income ceiling:** Most people earn 2–5% annual raises — linear, never compound. Breaking through requires the income stack by leverage: specific knowledge (5–10 year build, nearly impossible to replicate) → negotiation (one negotiation can equal years of raises) → side business (validate with $1,000/month test) → strategic career hops (20–40% increases with title advancement).
-
----
-
-**Geographic arbitrage:** Same skill, different market. A developer earning $80K earning $180K in another market isn't 2x smarter — market pricing differs. Location arbitrage is an immediate leverage move available before any credential build.
 
 ## Advanced Income Acceleration: The Middle-Class Wealth Multiplier
 
@@ -736,7 +733,7 @@ Wealth without lifestyle design produces two failures: either you accumulate end
 
 The counterintuitive finding from research on wealthy retirees: the happiest spent less than their peers on status consumption and more on experiences and giving.
 
-→ Full content: [lifestyle-design-wealth.md](references/lifestyle-design-wealth.md)
+→ Full content: [生活方式设计与财富可持续](references/lifestyle-design-wealth.md)
 
 
 ## Greenblatt, Howard Marks, Morgan Housel, and Charlie Carlson: Systematic and Psychological Investing
@@ -758,7 +755,7 @@ Four modern voices who bridge systematic investing frameworks and behavioral psy
 
 ## The Real Wealth Builders
 
-→ Full content: [real-wealth-builders.md](references/real-wealth-builders.md)
+→ Full content: [真实财富建设者案例](references/real-wealth-builders.md)
 
 The people who accumulate lasting wealth share learnable behavioral patterns — not talent or intelligence, but consistent execution over decades.
 
@@ -768,7 +765,7 @@ The people who accumulate lasting wealth share learnable behavioral patterns —
 
 **The behavioral non-negotiables:** Automate savings before they hit checking. Simple investments. Protect income. Live below your means.
 
-→ Full content: [profiles-in-execution.md](references/profiles-in-execution.md)
+→ Full content: [执行者典范研究](references/profiles-in-execution.md)
 
 
 ### Sara Blakely: $5,000 to Billionaire
@@ -937,7 +934,7 @@ When you feel defensive about an investment, ask: *"What is the most accurate ve
 
 
 
-→ Full content: [dalio-principles-deep-dive.md](references/dalio-principles-deep-dive.md)
+→ Full content: [Dalio原则深度解析](references/dalio-principles-deep-dive.md)
 
 ## Behavioral Finance: How Your Brain Works Against Your Wealth
 
@@ -971,7 +968,7 @@ Anchoring: past prices or purchase points create false reference points. A stock
 
 Loss aversion test: Would you accept a 50/50 gamble that pays $150 if you win but loses $100 if you lose? Most say no — revealing loss aversion bias. Recency bias test: When you think about the stock market, do you assume the last year's trend continues? Confirmation bias scan: What's your current investment thesis? Now ask: what evidence would prove it wrong?
 
-→ Full content: [behavioral-finance.md](references/behavioral-finance.md)
+→ Full content: [行为金融学与心理偏差](references/behavioral-finance.md)
 
 
 ## Financial History: What the Big Crashes Actually Taught
@@ -992,7 +989,7 @@ Markets crash. People who understand why make better decisions when fear takes o
 
 **The universal crash script:** The question is never "will the market recover?" — it always does. The question is: do you still own the assets when it does? If your timeline is 10+ years and fundamentals haven't changed, holding beats selling at the bottom.
 
-→ Full content: [financial-history.md](references/financial-history.md)
+→ Full content: [金融历史与危机启示](references/financial-history.md)
 
 
 ## Common Pitfalls
@@ -1006,12 +1003,12 @@ Markets crash. People who understand why make better decisions when fear takes o
 7. **Isolating financial decisions** — Money management is a team sport; isolation is the path to blind spots and bad decisions.
 8. **Overcomplicating the financial plan** — Simple index investing + high savings rate beats sophisticated financial engineering in most cases.
 
-→ Full content: [common-pitfalls.md](references/common-pitfalls.md)
+→ Full content: [财富建设常见陷阱](references/common-pitfalls.md)
 
 
 ## Quick Scripts
 
-→ Full content: [financial-frameworks.md](references/financial-frameworks.md) — net worth benchmarks by age, income ceiling analysis, salary negotiation scripts, tax-advantaged account priority, compound growth tables, and extended quick scripts.
+→ Full content: [财务框架体系](references/financial-frameworks.md) — net worth benchmarks by age, income ceiling analysis, salary negotiation scripts, tax-advantaged account priority, compound growth tables, and extended quick scripts.
 
 **When they say "I'm not good with money":**
 > "Not good with money" is usually "never learned how." That's not a character flaw — it's a gap. And gaps are fixable. Want to start with one number: what's your current net worth? We'll work from there.
@@ -1040,15 +1037,8 @@ Markets crash. People who understand why make better decisions when fear takes o
 ---
 ## When to Recommend Professional Support
 
-# When to Recommend Professional Support
+→ Full content: [何时寻求专业支持](references/when-recommend-professional-support.md)
 
-Suggest seeing a financial advisor or planner when:
-- Complex finances (multiple income streams, business ownership, significant assets)
-- Close to retirement with limited savings
-- Can't create a debt repayment plan
-- History of financial decisions that consistently backfire
-
-**Free resources:** r/personalfinance, r/financialindependence, *The Simple Path to Wealth* by JL Collins.
 
 ## The Activist Wealth Model: How Icahn and Ackman Build Power Through Ownership
 
@@ -1060,12 +1050,12 @@ Most investors buy stock and wait. Activist investors buy stock and *change the 
 
 **Personal finance application:** (1) Read your proxy statements — you vote on executive compensation and board composition. (2) Concentrate before you diversify — 3–5 deeply researched positions beats 30 random ones. (3) Identify the ownership gap: management compensated on revenue growth while shareholders benefit from margin improvement = the activist's target. The thinking model — treating yourself as an owner with agency, not a passive holder — applies to every investment decision.
 
-→ Full content: [activist-wealth-icahn.md](references/activist-wealth-icahn.md)
+→ Full content: [ activist维权投资与Icahn策略](references/activist-wealth-icahn.md)
 ## Unstoppable Execution: The Psychology of People Who Can't Be Stopped
 
 Some people build wealth faster than others — not because they have better ideas, but because they execute with a different quality of intensity. The difference is almost never talent or intelligence. It is the willingness to do what others refuse to do, repeatedly, for decades.
 
-→ Full content: [references/power-execution-unstoppable.md](references/power-execution-unstoppable.md)
+→ Full content: [不可阻挡执行心理学](references/power-execution-unstoppable.md)
 
 ## Time as a Lever: How the Wealthy Think About Time
 
@@ -1109,7 +1099,7 @@ Grit — passion and perseverance for long-term goals — predicts achievement b
 - *On failure:* "That's tuition. What's the lesson?"
 - *On wanting to quit:* "What would it cost me to quit? Is this a temporary setback or permanent problem?"
 
-→ Full content: [grit-framework.md](references/grit-framework.md) — Angela Duckworth's Grit Scale, Carol Dweck's growth mindset, Walter Mischel's delayed gratification research, and the "Four Ps" framework for building unshakeable perseverance.
+→ Full content: [Grit毅力框架与长期坚持](references/grit-framework.md) — Angela Duckworth's Grit Scale, Carol Dweck's growth mindset, Walter Mischel's delayed gratification research, and the "Four Ps" framework for building unshakeable perseverance.
 ## The Psychology of Wealth-Building: Identity, Beliefs, and Behavioral Economics
 
 Money decisions are identity decisions first. The wealthiest minds work on who they're being — not just what they're doing.
@@ -1120,7 +1110,7 @@ Money decisions are identity decisions first. The wealthiest minds work on who t
 
 **Internal locus of control** predicts financial success better than income or education. People who believe they control outcomes negotiate salaries, invest earlier, and recover faster.
 
-→ Full content: [psychology-wealth-building.md](references/psychology-wealth-building.md)
+→ Full content: [财富建设心理学](references/psychology-wealth-building.md)
 ## Verification Checklist
 
 
@@ -1155,5 +1145,5 @@ Housel's core insight: the way to understand the future is to study the past —
 
 **Decision filter:** Before any major financial move, ask: *"Will this feel the same in 10 years as it does today?"* If you're buying because "this time is different," it almost never is.
 
-→ Full content: [psychology-of-money.md](references/psychology-of-money.md) — Morgan Housel's complete Psychology of Money (20 lessons).
-→ Full content: [same-as-ever.md](references/same-as-ever.md) — all 23 lessons from Same as Ever with Housel's decision filter and key quotes.
+→ Full content: [金钱心理学完整版](references/psychology-of-money.md) — Morgan Housel's complete Psychology of Money (20 lessons).
+→ Full content: [永远不变：永恒财富教训](references/same-as-ever.md) — all 23 lessons from Same as Ever with Housel's decision filter and key quotes.
